@@ -1,0 +1,162 @@
+GAME roguelike philosophy
+VAL philosophy gem=2 played=1994 year=1993 xp=5 ea=1980 ext pc free 7drl tolkien medieval topdown turnbased roguelike exp combat randomized procgen ghosts grid diagrid oneofthree rpgequip rpgconsume rpgstats rpgclasses ascii destructible idminigame traps broughlike simulationism seq connections openworld overworld secrets
+BY Jeff Lait
+BY Darren Grey
+BY ChaosForge
+BY Thomas Biskup
+BY Chunsoft
+
+Roguelike started in 1993 to mean the specific way of controlling the character in an
+RPG game, invented in Rogue and cloned in other free games. This specific way of controlling
+the character is indeed very special, and as such, it features in this database as the
+{tag:roguelike} tag, actually a {group:timeflow} supergenre.
+
+Nevertheless, this genre has evolved separately from the mainstream gaming, and as such,
+it has evolved its own philosophy, or more precisely, multiple philosophies that are at
+times conflicting. Some people refer to games partially sharing these philosophies as
+"roguelike".
+
+The most well-known philosophy is of course the idea of "procgen + permadeath": playing the
+game repeatedly until you master them, and using randomization to make sure that playing
+games that way is actually fun. This database does not feature permadeath as a tag, because
+it is essentially meaningless as a method of categorizing games -- mostly anything can be
+played permadeath or not, as a player's choice; and furthermore, this philosophy is more
+generic to many {strategy} games, and even solitaires from XIXth century. (In early roguelike
+definitions it was not mentioned or more of  quality measure.)
+This philosophy
+has inspired the {roguelite philosophy}.
+
+There is also the philosophy of open-source community development -- people making fun
+games for themselves, and letting others to build on them -- that is otherwise
+very rare in video games (although lots of great software has been created that way), 
+and the {tag:simulationism} philosophy that lead to actually the biggest games such as
+{Dwarf Fortress} and {Minecraft}. And of course {Diablo} and other ARPGs are very similar
+to early roguelikes.
+
+GAME roguelite philosophy
+VAL philosophy pc notheme year=2008 ea=1986 xp=4 gambletheme combat randomized unlocks itemlock metapower seq modalbattle deckbuilder enginebuilder rpgstats rpgclasses roguelite ddlike spireview trail
+
+The roguelite philosophy started as a combination of the mastery {roguelike philosophy} and the
+{arcade philosophy}: procedural generation of roguelikes, short runs of arcade games.
+While early roguelites such as {Spelunky} were philosophically similar to hardcore roguelikes,
+further on roguelites started encompassing more and more {dark} patterns: {tag:metapower},
+flashy gambling themes, gambling-style randomness, and so on. Procedural generation was replaced
+with {tag:enginebuilder} mechanics, which feels a bit similar in the way it makes every run
+different, but is technically a very different thing.
+
+GAME metroidvania philosophy
+AKA metroidvania
+VAL philosophy console gothic year=? ea=1986 xp=4 notheme exp combat platformer fixed nonlinear return ability bossfights
+BY Koji Igarashi
+
+As far as I know, the term "metroidvania" has started as a way to refer to the part of
+Castlevania series that is like {Metroid}, and later was adapted to refer to the whole genre.
+It is mostly used this way today, although I sometimes people who are more strict and say it
+is only a "metroidvania" and it includes Castlevania elements, such as the greater focus on RPG stuff like actual items, too.
+
+I feel the name is not really appropriate. You want a game to explore a world and a story. You make it a platformer
+because platformers are cool. You make the character gain new abilities because bigger games get boring otherwise. 
+You use these abilities as a way to gate content. This is all a very natural design philosophy that maybe should not
+really be credited to those particular console games -- I have played lots of early 8bit computer games that follow
+a similar philosophy. {Antiriad} has all of that, other games mostly miss the idea of "character growth", but then,
+"character growth" was quite rare in games then. Is the {tag:ability} gating really that important for how these games
+feel, or is it more about exploration?
+
+Nevertheless, the term is very useful.
+
+GAME soulslike philosophy
+AKA soulslike
+VAL philosophy pc tpp soulcombat fixed ghosts soulcheck camscroll nonlinear rpgequip rpgstats photorealistic models bossfights xp=1 year=2009
+BY Fromsoft
+
+I do not know what soulslike is supposed to mean. I have played games that are sometimes referred
+to as soulslikes, but not the games these games were supposedly "like".
+It seems to be a collection of mostly unrelated mechanics. Which are quite fun.
+
+GAME immersive sim philosophy
+VAL philosophy pc moderntheme notheme fpp exp stealth fixed camscroll rpgstats photorealistic models simulationism xp=1 ea=1990 year=2000
+
+Yet another puzzling philosophy. The definitions I read are about how you are supposed
+to solve challenges the way you want, for example, you can fight the guard,
+but you can also use traps, stealth, or bribe them. All that because of the game
+simulating lots of things. When I read that, it looks very much like the {tag:simulationism}
+part of the {roguelike philosophy}, and roguelikes do it better. Apparently "immersive"
+is supposed to refer to the first-person perspective and photorealistic graphics,
+contrary to the "use your own imagination" style of immersion used by roguelikes.
+But apparently some people do not find this important.
+
+GAME boomer shooter philosophy
+VAL philosophy pc medieval scifi fpp exp shooter camscroll twistpixel models multiweapon multiplayer xp=2 year=1993 secrets
+BY John Romero
+
+Some people like the design of classic {tag:fpp} {tag:shooter} games such as Doom
+and not the design of more modern first-person shooters. I read a definition of
+boomer shooter, it had the vibes of Berlin Interpretation: a collection of not
+strictly related properties and not mentioning the basic stuff like being
+shooters or being first person. Might become a name of a new genre that
+focuses on some of these properties without being shooters anymore.
+
+TAGCMT rulediscovery
+Apparently map "secrets" are a part of this philososophy.
+
+GAME western RPG philosophy
+VAL philosophy pc medieval exp fixed rpgequip rpgconsume rpgstats rpgquests rpgclasses xp=2 year=1980
+
+GAME strategy philosophy
+AKA strategy
+VAL nonvideo philosophy pc notheme history military topdown turnbased pauseable squad army xxxx nonlogic cardgame economy randomized procgen grid deckbuilder deckconstruction year=-2400 xp=3
+
+GAME arcade philosophy
+VAL philosophy arcade oldpc notheme fixed flick endless lores realtime seq xp=3 year=1980
+
+GAME dark philosophy
+AKA dark
+VAL philosophy android paytowin notheme timegate incremental metapower picklevel minigames endless hires multiplayer xp=1 year=2006
+
+The dark philosophy is named after the website "dark patterns" which informs potential
+players about psychologically manipulative patterns found in video games. These games
+generally attempt not to provide a meaningful experience to the player, but rather
+manipulate them into spending time and money with the game. They are usually marketed
+towards casual players ({tag:android} and {tag:web} users) using misleading ads.
+They are marketed as free games, but eventually hope that the player will want to buy
+something to skip the boring gameplay (I have never bought anything, but I assume that
+the only result would be eventually persuading the player to buy even more to skip the
+even more boring gameplay).
+
+(Somehow the dark patterns website lists many dark patterns in {HyperRogue}... the reviewer
+must have been very at interpreting even slight hints as darkness. Generally the
+{roguelike philosophy} is about making fun games for themselves, which is the opposite
+of darkness.)
+
+GAME thinky philosophy
+VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982
+Games about solving problems. Mostly puzzle games (the handcrafted ones, 75% of which
+are {tag:grid}-based), but {strategy} and {tag:rulediscovery} games are welcome too.
+
+The name refers to the "thinky games" website, which is in turn an offshoot of
+Alan Hazelden's thinky puzzle discord started in 2018. This discord was somewhat difficult
+to find and yet apparently most of the names (big or small) I know working on such games
+are there.
+
+GAME adventure philosophy
+VAL philosophy itemuse timeless riddles fixed ascii xp=1 year=1975
+
+GAME indie philosophy
+AKA indie
+VAL philosophy pc free=? lores xp=3 year=2010 ea=1990
+Yet another puzzling philosophy. The name suggests independence from big publishers,
+both financial and creative; the philosophy is about games created by small teams,
+avoiding for-profit techniques such as lootboxes, creativity, experimental nature, and cheap graphical styles such as {tag:lores} pixel art.
+There is also the related philosophy of "solodev" games, which, as the name suggests,
+are games made by a single person. Both tags are used as keywords to find good games
+that would be hard to find otherwise in the sea of AAA games.
+
+Sometimes big (or small) publishers market games as indie or solodev while not really
+having the indie spirit or made by a solo dev. But that seems more of a problem with these terms.
+
+Technically 
+There is a
+narration of 
+
+GAME Japanese RPG philosophy
+VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982

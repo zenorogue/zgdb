@@ -1,0 +1,88 @@
+# pre-steam PC games
+
+GAME DopeWars
+VAL palmos year=1998 played=1999 xp=5 moderntheme nonspatial turnbased economy randomized tiny ascii free mono
+
+A game where you travel to various metro stations in New York to buy and sell drugs. The economy is rather simple -- drug prices are decided randomly (from some interval) when you reach a
+station, so you just buy them when they are cheap, and hope that they will be more expensive on the next station. With some cops, guns, and trenchcoats with more pockets. My friends (who
+were more into drugs) loved it.
+
+GAME Space Trader
+VAL palmos year=2000 played=2000 xp=3 scifi spaceopera nonspatial turnbased exp combat fixed=? procgen=? connections=? ascii=? free mono
+
+A game similar in style to {Elite}, but with only trading (and a turn-based battle system, I think). It was quite cool, but I do not remember much.
+
+GAME Giraffe
+VAL palmos year=1998 played=1998 xp=4 abstract quickkey sideview realtime randomized tiny ascii free mono
+A PalmOS game to learn the Graffiti text input system, basically an analog of a typing game.
+
+GAME SubHunt
+VAL palmos year=1998 played=1998 xp=2 aquatic lores shooter sideview realtime randomized tiny free mono
+One of the example games on PalmOS. You shoot torpedos at submarines (and later big submarines, whales, some weird stuff). Quite fun.
+
+GAME Mulg
+VAL palmos year=1998 played=2001 xp=2 abstract topdown realtime physics fixed seq lores free mono
+A physics game a bit similar to {Neverball}, you roll a ball on a level and you have to reach some target, but it is easy to reach wrong places.
+
+GAME Dungeoneers
+VAL palmos roguelike scifi xp=2 year=1998 played=1999 turnbased grid rpgequip topdown hscroll vscroll procgen rpgclasses vehicles orthogrid lores mono shareware shooter
+A PalmOS roguelike. I have only played the demo version, featuring only 3 levels. Unfortunately the full version seems
+to have disappeared (I have contacted the author and some other people who did have it at one point, with no success).
+You are playing as a vehicle rather than an adventurer, a cool theme that was later popularized in {Cogmind}.
+
+GAME Kyle's Quest
+VAL palmos year=1998 played=2000 gem=1 xp=3 medieval topdown exp combat rpgequip rpgconsume rpgstats turnbased fixed hscroll vscroll nonlinear anime lores free mono leveleditor secrets
+An RPG game for PalmOS, with a big of JRPG feel. You normally explore a (grid-based) map, but sometimes randomly found enemies when moving; in 1-on-1 combat, you can attack, cast spells, or
+use healing items; the items available were weapons, spellbooks, healing items, and buffs, if I recall correctly. One special feature was that a level editor (on a PC) was available,
+so you could create adventures yourself -- so you would mostly play user-made levels (there was lots of them, and I played the ones I could find; and one sample level included by default
+I think). It was a shareware game, in the paid version you could save the game -- but I just finished the adventures in one sitting and observed permadeath.
+TAGCMT free
+Pay for saving is free enough.
+
+GAME Big Two
+VAL palmos year=1998 played=2000 xp=3 abstract nonspatial turnbased cardgame randomized tiny ascii free mono
+A videogame adaptation of a card game. Each player is dealt 13 cards, and you get rid of them by playing Poker combinations, the opponents can play a higher one to steal the move from you.
+(As opposed to the usual Poker, 2 is the biggest, not the Ace -- the Ace is second biggest.)
+
+GAME Tablut
+VAL palmos year=1998 played=1999 xp=3 abstract shapegfx topdown turnbased nonlogic fixed tiny free mono
+A computer adaptation of an ancient Viking boardgame. This game is interesting because it was asymmetric (Black have to capture the White King, while the White King has to escape).
+It seems various versions of Tablut have slightly different rules; this one was quite easy to win as White, but you had to find a good strategy to win as Black.
+
+GAME SFCave
+VAL palmos year=1998 played=1999 xp=2 abstract sideview realtime endless platformer randomized hscroll autoscroll shapegfx free mono
+A very simple game that was an inspiration for {Flappy Bird}, I believe: you just need to go as far through a cave as possible, the only thing you can do is to press a key which makes you
+fly upwards, instead of fall downwards. Quite cool.
+
+GAME Hitchhiker's Guide to the Galaxy
+VAL palmos riddles year=1984 played=2001 xp=3 scifi ascii connections nonspatial timeless fixed mono
+A famous interactive fiction game, based on a book that was popular in my circles (and not only there). I think it is a good suggestion for fans of the HGTTG book and interactive fiction games.
+
+GAME Magic Toyshop
+VAL palmos riddles year=1995 played=2001 xp=3 abstract ascii tiny minigames nonlogic riddles nonspatial turnbased fixed free mono rulediscovery
+An interactive fiction game that I found randomly (it was available on the PalmOS port of the z-engine). Based mostly on some puzzles of math kind. I liked it, although the reviews on an IF site
+complain about having unsolvable puzzles (if you do not know other IF games that were referenced in some puzzles).
+
+GAME Awele
+VAL palmos year=? played=2001 abstract xp=2 topdown nonlogic turnbased fixed tiny ascii free mono
+A PalmOS version of an ancient African board game. The game is rather abstract, I did not really care to understand the strategy.
+
+GAME FreeCell
+VAL palmos year=? played=2001 abstract xp=1 cardgame topdown turnbased tiny randomized ascii free mono
+A PalmOS version of a popular solitaire. Nothing special.
+
+GAME Arbitrage
+VAL palmos year=? played=2001 abstract xp=1 turnbased nonlogic=? topdown=? randomized=? tiny=? ascii=? free mono
+A PalmOS version of a boardgame. I think it was quite cool.
+
+GAME ThreePeaks
+VAL palmos played=2001 abstract year=? xp=1 cardgame topdown turnbased tiny randomized ascii free mono
+A PalmOS version of a yet another popular solitaire.
+
+GAME Spades
+VAL palmos played=2001 abstract year=? xp=1 cardgame topdown turnbased tiny randomized ascii free mono
+A PalmOS version of a popular card game.
+
+GAME Ackwire
+VAL palmos year=? played=2001 abstract xp=1 turnbased nonlogic grid orthogrid topdown randomized tiny ascii=? free mono
+A PalmOS version of the game Acquire about developing hotel chains. I do not remember much.

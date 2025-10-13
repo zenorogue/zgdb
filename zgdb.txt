@@ -1,0 +1,51 @@
+ABOUT
+
+This is Zeno Rogue's personal game review site / database.
+
+It started from a idea of creating a better review site.  I do review the games I play on Steam, but I realized that this is not really enough, since
+not every game I play is on Steam (or I play it on Steam).
+
+And my Steam collection of games is biased. This is important, because the perceived history of games is largely shaped by various people trying to influence
+the perception in ways that profit them.
+Some examples of that would be the erasure of 8-bit computer (in favor of consoles) and the related American tale of how Nintendo "saves the game industry"
+(while around here Nintendo mostly did not exist and we had lots of fun playing on 8-bit computers), pushing 'indie' as a revolution happening around 2010
+(while small, independent games always existed, such as Flash or shareware games), and the erasure of {tag:roguelike}s (until the 'indie revolution' started using
+the word for something competely different). This site attempts to present an exhaustive list of the games I have played -- if I remember playing it,
+and something about it, it is probably included.
+
+Since I have been always more interested in these more niche games, it is biased towards them, so you use it to find lots of forgotten games.
+
+I am also very interested in the categorization of games, and especially games that feature uncommon combinations of features. As such, the site also includes
+an extensive collection of detailed tags and an advanced search feature where you can define any formula. Various game design {tag:philosophies} do not appear
+as tags but are split into their individual components, so you can find, for example, turn-based platformers, non-randomized roguelikes, or metroidvania-ish
+games with a bit different features.
+
+My reviews gives facts about the games that I consider interesting. The {tag:gem} tag can be used to find games that I think are less popular or well-known than they should. 
+
+Have fun!
+
+<h2>The search system</h2>
+The search system is able to parse formulae. Here are some examples of things you could enter in the search:
+<ul>
+<li> <tt>title:Rogue</tt> in "filter" for games with <tt>Rogue</tt> in title
+<li> <tt>text:permadeath</tt> in "filter" for games with <tt>permadeath</tt> in text
+<li> <tt>roguelike and not turnbased</tt> in "filter" to list games tagged with <tt>roguelike</tt> but not with <tt>turnbased</tt>
+<li> <tt>played-year</tt> in "sorting", to sort games by the approximate amount of time between release and when I tried them (if entered in "filter", it will list games for which this difference is positive)
+<li> <tt>linked(1)</tt> in "sorting" to sort games by the number of times they are linked to
+<li> <tt>links(turnbased)</tt> in "sorting" to sort games by the number of links to turn-based games
+<li> <tt>like(title:metroidvania)</tt> in "sorting" to find games similar to the {metroidvania philosophy}
+(what you put inside "like" is in general a filter, here it matches only "metroidvania philosophy"; 
+the way it works: for every game <i>h</i>, we sum the similarity score between the evaluated game and <i>h</i>, multiplied by the value of the given filter for <i>h</i>; the similarity score is the sum of products of the values of every tag for both games, except "meta" and "subjective" tags)
+<li> <tt>unknown:tag</tt> to check if the tag is unknown, <tt>def:tag</tt> to check if the tag is defined, <tt>by:community</tt> to list games by community
+<li> <tt>roguelike and red or roguelite and blue or white</tt> in "coloring", to color roguelikes red and roguelites blue
+</ul>
+
+INCLUDE tagdef.txt
+INCLUDE philosophy.txt
+INCLUDE cpc.txt
+INCLUDE presteam.txt
+INCLUDE other.txt
+INCLUDE palmos.txt
+INCLUDE stores.txt
+INCLUDE roguelike.txt
+INCLUDE mygames.txt

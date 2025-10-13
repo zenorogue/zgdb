@@ -1,0 +1,811 @@
+GAME Rogue
+VAL roguelike year=1980 played=2000 gem=2 palmos pc xp=2 medieval turnbased grid rpgequip rpgconsume topdown procgen traps idminigame diagrid mainframe exp combat ascii lores seq free randomized ammolimit manualsave secrets traps
+
+I have played the PalmOS version of Rogue.
+
+This is a game famous for starting or influencing multiple genres, but most people have not actually played it. 
+I think that every roguelike fan should try, just to see whether it matches their idea of what Rogue is!
+The DOS version can be played here: <a href="https://playclassic.games/games/role-playing-dos-games-online/play-rogue-online/">online DOS emulator</a>.
+PNG rogue-epyx-dos-1984 Epyx Rogue for DOS (1984)
+
+GAME Linley's Dungeon Crawl
+VAL pc roguelike tolkien xp=4 gem=2 year=1995 played=2001 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear hscroll vscroll economy free randomized bossfights manualsave ammolimit secrets traps
+AKA LDC
+BY Linley Henzell
+This is one of the best roguelikes. It has evolved into {Dungeon Crawl Stone Soup}. Some changes that DCSS developers did are 
+criticized by the fans of the original. For example, LDC has a very good food system, which connects to other systems of the game
+(magic costs food, god powers cost food, some races need no food or different kinds of food, amulets may change your food needs, 
+some food has magical effects, some gods require sacrifices of corpses so you won't be able to eat them, butchering corpses for
+food needs a blade so you cannot do that if you wield a cursed non-blade weapon, etc.) while DCSS has recently removed this whole
+system. LDC had lots of flavor that did not affect the gameplay that much but made the game feel more like an adventure, like 
+mimics or the standard fantasy races -- these have been removed in favor of a higher focus on gameplay. They also did lots of
+great improvements, so it is probably better to play DCSS, but LDC has lots of flavor of its own.
+
+GAME Dungeon Crawl Stone Soup
+VAL pc roguelike tolkien xp=4 gem=2 year=2006 played=2007 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii midres multiweapon nonlinear connections hscroll vscroll economy ext free randomized bossfights manualsave
+AKA DCSS
+BY community
+This is one of the best roguelikes, that clearly sits in the top of the "best" rankings in the roguelike community for the last 20 years.
+It is great at not wasting the player's time due to its design: anti-grind philosophy (which means that the optimal way to play the game
+should be also the most fun), anti-spoiler philosophy (you do not need to refer to knowledge found in wikis or obtained by experimentation
+in earlier games), automation features (if you do not feel like exploring personally or fighting easy monsters you can automatize that).
+It has very good procedural generation, with various levels feeling different. It has very good, strategical permadeath: there are lots
+of consumables that you can apply before the fight to make yourself stronger, so you need to know whether to use a consumable, and which
+one. 
+It is a variant of {Linley's Dungeon Crawl}, some changes have been heavily criticized by the community, although it is probably
+better to play DCSS.
+
+GAME NetHack
+BY community
+VAL pc roguelike tolkien abstract xp=3 year=1987 played=2000 turnbased grid rpgequip rpgstats rpgconsume topdown nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii lores nonlinear connections ext free randomized rulediscovery manualsave secrets traps
+I do not like NetHack that much -- I finished it without observing permadeath and I did not want to go for an actual victority. 
+The interface and design seems very dated (I have played it afer {ADOM}).
+On the other hand, "hacklikes", or games heavily inspired by NetHack, are among the best early roguelikes in my
+opinion. These include {ADOM}, {Valhalla}, {IVAN}, and {PRIME}. Nevertheless, there are lots of great things about NetHack that other
+hacklikes did not replicate, like its approach to unexpected interactions (aka "The Dev Team Thought Of Everything").
+
+GAME Ancient Domains of Mystery
+BY Thomas Biskup
+BY zenorogue
+VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps
+AKA ADOM
+In the {GSNband} readme I have found some references to another roguelike called {ADOM}, and it looked interesting. {Valhalla} and
+{GSNband} had graphical tiles, while ADOM had only the ASCII display; it took me some time to bring myself to play that, and then
+to appreciate it, but it was definitely worth the effort. A very complex, hacklike RPG, with a detailed world and lots of mysteries.
+I got a savescumming victory at first, with a Wizard, then played necromancers, mindcrafters and archers permadeath.
+As far as I know, I was the first person to legally obtain the Platinum Girdle (legally, as in, without savescumming or other
+form of in-game cheating -- I had to "code dive" to discover what the actual rules were).
+
+Later I became a member of the ADOM DevTeam, responsible for programming the graphics interface. So you no longer need to bring
+yourself to appreciate ASCII to play ADOM, or mostly any other good roguelike.
+
+GAME Angband
+BY community
+VAL pc xp=0 roguelike tolkien year=1990 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres seq vscroll hscroll connections ext free randomized bossfights manualsave secrets traps
+I have not played {Angband} itself (except running the game), but I have played a {ZAngband} variant named {GSNband}.
+
+GAME ZAngband
+BY community
+VAL pc xp=0 roguelike tolkien year=1994 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld ext free randomized bossfights manualsave secrets traps
+I have not played Zelazny Angband itself, but I have played a variant named {GSNband}.
+
+GAME GSNband
+BY community
+VAL pc roguelike tolkien year=1998 played=1998 xp=3 turnbased grid rpgequip rpgconsume rpgquests rpgstats topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld ext free randomized bossfights manualsave secrets traps
+This is the first game I played that was called roguelike. (I played {Ragnarok} before but I did not know it was a roguelike.)
+One of my classmates has found it on a CD attached to some magazine, containing many free games, and quite a lot of us got obsessed with it.
+
+It is a variant of {ZAngband}, that was itself a variant of {Angband}.
+However, while ZAngband is based on the works of Roger Zelazny, GSNband returns to the Tolkien world. It also includes some features
+from other Angband variants. Contrary to the base Angband, GSNband features a simple overworld (basically not only the town "level"
+but also wilderness levels and with multiple towns to visit), and some predesigned quests available in towns and wilderness.
+Overall, a very complex and very good game, although after playing more games with more hacklike design (zones persistent and fitting
+on the screen or infinite, complex interactions, etc.), I preferred those. I do not remember whether I have won it without
+savescumming.
+
+GAME Doom, the Roguelike
+BY ChaosForge
+VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=2 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized
+AKA DRL
+AKA DoomRL
+This game takes Doom and changes its genre to roguelike. I consider it a very important contribution to the history of video gaming,
+being one of the first "coffeebreak roguelikes", the games that did show that it was possible to make a short roguelike, in the
+times when most roguelike developers were trying to create {ADOM} but bigger. (As we all know, today, the overwhelming majority of
+games in the family started by Rogue are short -- although the biggest ones are still big.) It also introduced an amazing system of
+turn-based dodging. A great game that I highly recommend. See also {Jupiter Hell} and {Jupiter Hell Classic}.
+
+GAME POWDER
+BY Jeff Lait
+VAL pc roguelike medieval xp=4 year=2003 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll return procgen rpgclasses traps idminigame exp combat ascii lores connections=? hscroll vscroll orthogrid free randomized
+This is the biggest roguelike by Jeff Lait, a famous figure in the roguelike circles. Other than creating
+POWDER, Jeff Lait regularly created very good entries in the 7DRL challenge, and he was also an Oscar winner. 
+POWDER is a roguelike designed for GameBoy. I have won it, and it was very good, although I prefer roguelikes designed for
+a computer.
+
+GAME Brogue
+BY community
+VAL pc roguelike medieval xp=4 year=2009 played=2009 turnbased grid rpgequip rpgconsume rpgstats topdown return procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii blackboard multiweapon connections ext free randomized traps
+Brogue is one of the most popular games in the roguelike community, and it is considered one of the most similar to Rogue.
+However, I think that this similarity is a bit overrated: there are still substantial improvements and differences. In Rogue
+you only descend, in Brogue you can go up and down; Brogue is highly focused on using enchantment scrolls to create your
+"build". Brogue has procedurally generated "puzzles". And so on. Brogue is an influential game by itself, having inspired {Unexplored} and {Pixel Dungeon}.
+
+GAME Iter Vehemens ad Necem
+BY community
+VAL pc roguelike medieval moderntheme xp=5 year=2001 played=2001 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll nonlinear procgen return destructible traps diagrid exp combat lores hscroll vscroll connections overworld nonlinear free randomized manualsave
+AKA IVAN
+A Finnish hacklike with some innovative features, such as a system of fluids which could cover equipment and gases,
+and showing equipment on the characters. Lots of humor that I actually found funny (as opposed to the kitchensink
+humor of NetHack). I was very active in the IVAN forums at some point, created "IVAN3D" which was a mod featuring
+first-person perspective graphics, took part in the IVANcon (a real-world meeting of IVAN fans in Finland), and got the major victory. 
+
+GAME Dungeons of Dredmor
+BY Gaslamp Games
+VAL pc roguelike medieval xp=3 year=2011 played=2012 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll return procgen rpgclasses exp combat midres seq vscroll hscroll connections orthogrid randomized manualsave
+AKA Dredmore
+Some people think that the reason why roguelikes are not popular is their poor graphics -- Dungeons of Dredmor got nice
+graphics (for its time) and I think it actually was one of the most popular indie games at the time, so it seems to
+support this hypothesis, although I feel it was like the only example. ({Caves of Qud} got very popular recently
+although that happened despite rather simple graphics.)
+
+It is solid and quite good, with an interesting class system -- I think you select 7 classes at the start (possibly
+randomly) and then you can learn more and more advanced skills from these classes. I think it is worth playing,
+although it did not feel that special to me to win it with permadeath. Unfortunately the devs' next game was
+too ambitious and went broke, although I think there was some attempt at revival recently?
+
+For some weird reason the title is often misspelled as Dredmore.
+
+GAME Legerdemain
+VAL pc roguelike medieval xp=3 year=2007 played=2023 turnbased grid rpgequip rpgconsume rpgstats topdown return hscroll vscroll return nonlinear rpgclasses traps idminigame diagrid nopersist exp combat ascii seq vscroll hscroll connections nonlinear manualsave free=? secrets traps
+
+This game combines the roguelike gameplay (and many other inspirations from roguelikes, mostly the {Angband} branch)
+with a fixed map, which is a rather rare combination. It focuses a lot on playing a handcrafted story, you can even
+buy the story in a book form. Instead of permadeath, when you die, you "wake up from a nightmare" in the last inn
+where you saved the game.
+
+Despite the lack of permadeath, this is a very hardcore game. The distances between checkpoints tend to be rather large.
+The enemies are very dangerous. The inventory space is small, and the equipment is often destructible, so it is hard
+to carry stuff to protect against all possible dangers. In lots of places you need to do unobvious things to proceed,
+so you will probably need to buy the story to get some hints. While, in my opinion, a roguelike does not need to be
+procedurally generated, Legerdemain shows that it is definitely much harder to create one with fixed maps. After dying,
+you are likely to explore the same maps again. While the monsters are different, exploring the same maps again is boring.
+I have finished it, but with some cheats. It is a very interesting game, but I think a less hardcore version would
+attract more fans.
+
+TAGCMT free
+It is a free game but the hint book is paid, and it is unlikely to be able to go far without it.
+
+GAME Alphaman
+VAL pc roguelike moderntheme xp=4 year=1995 played=2000 turnbased grid rpgequip rpgconsume rpgstats topdown overworld procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear openworld free randomized manualsave
+PNG alphaman Fighting Donald Trump
+A roguelike based on American pop culture. You are in post-apocalyptic New York City, that is a huge map constructed
+out of many screens, you have multiple castles to visit. 
+One interesting thing about it is that it contains
+Donald Trump as a boss whom you have to fight to obtain the "presidential ID card". So it basicaly predicted Trump's
+presidency in 1995. 
+
+You randomly get two mutations, one physical and one mental,
+although I have been start scumming to get the <i>Scientific Genius</i> mutation which allows to construct devices
+out of scrap. There are lots of cool tech devices to find.
+It appears that {Caves of Qud} took some inspiration from it -- regarding the devices that you have
+to identify, that are also easy to create with the right skill, and many of which are grenades. One more interesting
+thing is the berries -- they are the analog of the usual roguelike potions with shuffled names, but they go through 6
+levels of ripeness and 3 levels of concentration. I think I have won it with permadeath (although not sure -- the
+game does not even enforce permadeath itself). Overall, an old roguelike with a unique theme.
+
+GAME Frozen Depths
+VAL pc roguelike uniquetheme xp=5 year=2009 played=2010 turnbased grid rpgequip rpgconsume rpgstats topdown return procgen diagrid exp combat ascii connections free randomized traps=? idminigame=? manualsave=?
+A roguelike heavily focused on its theme of coldness. Food provides heat rather than nutrition, you have special wearables
+that make you lose less heat, powers drain heat, and so on. I have won one of the versions using a trick.
+As usual, nice to play a roguelike with a different theme. The coldness theme was an inspiration for the first land in {HyperRogue}.
+
+GAME Infra Arcana
+VAL pc roguelike lovecraftian xp=1 year=2011 played=2013 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp shooter ascii blackboard seq=? free randomized manualsave=?
+A roguelike with a Lovecraftian theme. It seems very difficult, I have not progressed far, so I have not much to say about it.
+
+GAME Diablo, the Roguelike
+AKA DiabloRL
+BY ChaosForge
+VAL pc roguelike helltheme xp=2 year=2005 played=2005 7drl turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii connections=? free randomized
+Diablo moved closed towards its roguelike roots: ASCII graphics, turn-based, and so on. Interestingly, if I recall
+correctly, the mechanics are taken directly from Diablo. At the time when I played it it
+was mostly a demo ending on the Butcher. I see that it has been expanded since then, but we are still waiting for a full release.
+
+GAME GearHead
+VAL pc roguelike scifi xp=3 year=2002 played=2006 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen diagrid vehicles exp combat ascii midres overworld=? connections=? vscroll=? hscroll=? free randomized manualsave=?
+A roguelike with giant robots. You do some things as a human, and some as a mecha. Mecha can get weird bodyparts. 
+The quests are not fixed. I do not remember much.
+
+GAME Lost Labyrinth
+VAL pc xp=1 roguelike medieval year=2001 played=2006 turnbased grid rpgequip rpgconsume rpgstats topdown procgen exp combat lores=? seq=? orthogrid=? free randomized idminigame=? traps=? manualsave=?
+I do not remember mostly anything about that.
+
+GAME Smart Kobold
+BY Jeff Lait
+VAL year=2010 played=2010 pc roguelike medieval xp=4 7drl turnbased grid rpgequip topdown hscroll vscroll procgen diagrid exp combat ascii hscroll vscroll spacebending free randomized
+A 7DRL based on the idea of kobolds being weak, but using advanced tactics to defeat the stronger player (coming from some RPG sources).
+I was able to defeat the kobolds.
+
+GAME The Slimy Lichmummy
+VAL pc roguelike uniquetheme xp=1 year=2012 played=2012 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat lores blackboard hscroll vscroll seq=? free randomized idminigame=?
+A roguelike with a distinctive graphical style, I have tried it, but I do not remember much.
+
+GAME You Only Live Once
+VAL pc roguelike medieval xp=5 year=2005 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii hscroll vscroll seq=? free 7drl randomized
+BY Jeff Lait
+A 7DRL where, after you die, you play again as a stronger character. I was able to win as the starting character, who is a child.
+
+GAME ZapM
+VAL pc roguelike scifi xp=4 year=2003 played=2003 turnbased grid rpgequip rpgconsume rpgstats topdown nonlinear procgen return rpgclasses idminigame diagrid exp combat ascii connections free randomized traps=? manualsave
+A hacklike, basically {NetHack} in space. Probably better to play its extended variant, {PRIME}, although I have played the original too.
+
+GAME PRIME
+BY community
+VAL pc roguelike scifi gem=1 xp=4 year=2011 played=2011 turnbased grid rpgequip rpgconsume rpgstats topdown nonlinear procgen return rpgclasses idminigame diagrid exp combat ascii midres nonlinear connections free randomized traps=? manualsave
+Basically {NetHack} in space. As all hacklikes, this is a very fun game. Floppy disks replace scrolls, canisters replace potions,
+mutations, and so on.
+
+GAME Avanor
+VAL pc roguelike tolkien xp=1 year=2001 played=2005 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown nonlinear overworld procgen return rpgclasses idminigame diagrid exp combat ascii hscroll=? vscroll=? openworld=? connections free randomized traps=? manualsave
+This is a game in the style of {ADOM}. Abandoned in a rather early state, with not much to do in it.
+
+GAME Bone to be Wild: Summoning Gone Wrong
+VAL pc roguelike medieval year=2006 played=2006 7drl turnbased grid topdown procgen diagrid exp combat ascii seq xp=2 free randomized
+BY DarkGod
+A 7DRL about collecting souls. I tried to win it, but the later levels seemed hard, I was not powerful enough.
+I remember a reference to {Metroid}, and disliking the use of a custom window instead of an actual DOS terminal.
+
+GAME Decker
+VAL pc scifi cyberspace xp=3 year=2002 played=2004 turnbased rpgequip rpgstats topdown procgen exp combat midres seq vscroll hscroll free randomized manualsave=?
+This game is quite similar to roguelikes, but it has a room-based structure, and while the rooms are displayed in a grid-based way,
+their geometry does not matter. A hacking game, nice how you can create your own software and hardware. (Not as fun as it sounds,
+software is mostly "attack of strength 20" and the hardware mostly provides bonuses.) I think I reached something similar to a
+victory, but I was save scumming.
+
+GAME Larn
+AKA iLarn
+VAL pc roguelike medieval xp=4 year=1986 played=2004 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return idminigame diagrid exp combat ascii connections unlocks difflevels free randomized traps=? manualsave=?
+One of the earliest roguelikes. Has two dungeons, a quest to find a potion to save a child, and gets harder after winning, although
+I have only played it to win once so I cannot comment on that. I have played the PalmOS version, {iLarn}.
+
+GAME Letter Hunt
+VAL pc roguelike abstract xp=1 year=2006 played=2006 7drl turnbased grid topdown wordgame procgen diagrid exp combat ascii seq=? free randomized
+BY Jeff Lait
+Yet another interesting 7DRL by Jeff Lait, where you are supposed to defeat the enemies in the correct order to spell words.
+
+GAME Mage Guild
+VAL pc roguelike medieval xp=3 year=2008 played=2010 turnbased grid rpgconsume topdown procgen diagrid exp combat ascii=? seq=? free randomized
+I do not remember much about this roguelike.
+
+GAME MetroidRL
+BY Slashie
+VAL pc roguelike 7drl scifi xp=1 year=2006 played=2006 turnbased grid topdown procgen diagrid exp combat ascii hscroll vscroll free randomized
+I have played this before {Metroid} and did not find it interesting.
+
+GAME PrincessRL
+BY flend
+VAL pc roguelike medieval xp=4 year=2010 played=2010 turnbased grid topdown procgen diagrid exp combat ascii seq free randomized
+A 7DRL inspired by {Princess Maker}. During the week you learn stats in a school, during the weekend you go out to explore dungeons,
+with some nice combat maneuvers. Well received.
+
+GAME Valhalla
+AKA Ragnarok
+VAL pc roguelike norse xp=5 year=1992 played=1993 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return rpgclasses destructible traps idminigame diagrid exp combat midres nonlinear openworld free randomized rulediscovery manualsave secrets traps
+This was the first roguelike I have played, although I did not know that it was a roguelike then. As the saying goes, "the first
+roguelike you play defines what you think a roguelike is", and well, Valhalla had graphical GUI, it was not restricted to 
+dungeons, and its permadeath was optional. From the point of view of a more experienced roguelike player, all these elements
+were an improvement. The starting area, the forest, was very cool -- it was not just randomly placed trees, I think it generated
+a typical roguelike dungeon and changed rooms into clearings and walls into trees. Some later areas were nice too, like
+Slaeter's Sea or Niflheim. At the startup you pick between the "beginner" mode and the "expert" mode, only the expert mode has
+permadeath, but the "beginner" mode has potential to cause your next character find multiple ghosts of the current one, 
+which was a subtle nudge that you should rather play permadeath. (More because finding multiple inventories felt like an exploit
+than because the ghosts were challenging.) The graphics featured a small 7x7 zoomed-in area with detailed graphics and
+the symbolic map of the whole level (using ASCII for monsters). Speaking of ASCII, it was weird that, in some menu, you had to
+press '!' to pick up all potions -- this only got obvious after playing other roguelikes. A very good game, that unfortunately
+did not sell well.
+
+Valhalla is a commercial port of the roguelike originally named Ragnarok. It has sounds, but somehow, lycantrophy does not
+work correctly. There was also a newer version of Ragnarok, which no longer has sounds, and apparently no more beginner/expert
+choice (you do not have to observe permadeath).
+
+TAGCMT hscroll
+The zoom-in area scrolls, but the big map does not...
+TAGCMT free
+Ragnarok was free but Valhalla was not. Or something. Some versions are/were free at least, so it probably counts.
+
+GAME UNSTOPPABLE
+BY Darren Grey
+VAL pc roguelike scifi spacebending xp=4 year=2010 played=2010 turnbased grid topdown procgen destructible diagrid exp combat ascii seq free randomized 7drl
+An interesting 7DRL in which you have a very powerful weapon and a very powerful armor... the map is looped, the weapon shoots plasma (?)
+rays that go infinitely and cannot be stopped by anything, even by your own armor that stops everything else. Yeah, the only
+way to lose is to accidentally hit yourself. Instead of typical roguelike procgen it has "constructor" monsters which create
+maps.
+
+GAME A Quest Too Far
+VAL pc roguelike medieval xp=4 year=2010 played=2010 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii seq free randomized
+A 7DRL which reverses the typical RPG "character advancement" -- you start as a very powerful warrior and get weaker and weaker as the
+game progresses. From time to time someone has a similar idea and it is good to remember that it already exists. I do not think
+playing the game brings anything over reading about the main mechanics, but it won't hurt.
+
+GAME Berserk!
+BY ChaosForge
+VAL pc roguelike xp=1 7drl anime year=2006 played=2006 turnbased grid rpgconsume topdown procgen diagrid exp combat ascii multiweapon=? tiny=? eastern=? free randomized
+I remember it as an arena roguelike, I did not it particularly interesting. It is influenced by some manga that I have no experience with.
+
+GAME CastlevaniaRL: Prelude
+VAL pc roguelike gothic xp=1 year=2005 played=2005 turnbased grid topdown diagrid exp combat ascii multiweapon=? tiny=? randomized free
+BY Slashie
+A 7DRL influenced by the {Castlevania} series, which I did not play at the time. Not much to do, I remember it as an arena roguelike,
+you fought monsters until you died. Presumably {CastlevaniaRL} is a continuation of this.
+
+GAME CastlevaniaRL
+VAL pc roguelike gothic xp=0 year=2005 turnbased grid topdown procgen diagrid exp combat ascii lores multiweapon=? connections=? nonlinear=? free randomized idminigame=? bossfights=? traps=? manualsave=?
+BY Slashie
+I have never tried this, somehow it was not marketed much, even in the roguelike community. But it is fun how this obscure game was
+what the famous {Vampire Survivors} graphics were originally made for.
+
+GAME ChessRogue
+BY Chris Morris
+VAL pc roguelike abstract xp=4 7drl year=2005 played=2005 turnbased grid topdown procgen diagrid exp combat ascii seq free randomized
+It appears that basically every time the buzzord meaning of "roguelike" changes there is a new "chess roguelike" which is very different
+from the earlier iterations. ChessRogue is one that is actually like Rogue: procedurally generated chessboard, you play only as the
+King. Originally you can move in 4 directions but then you gain more power as you defeat stronger and stronger pieces. Very good,
+I consider it an inspiration for HyperRogue. One flaw was that you could lose by making a single move that puts you under attack --
+obviously that is contrary to Chess, where there is a "checkmate rule" which says that such rules are disallowed.
+HyperRogue fixes this flaw. I have won the original (3DRL?) version, I think it later added Unicode graphics and some fantasy pieces.
+
+GAME Decimation
+VAL pc roguelike abstract xp=1 year=2009 played=2009 7drl xp=3 turnbased grid topdown procgen diagrid exp combat ascii seq free randomized
+I have played this 7DRL but do not remember anything.
+
+GAME Elona
+BY community
+VAL pc roguelike medieval xp=1 year=2007 played=2024 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen return rpgclasses idminigame diagrid exp combat midres connections=? nonlinear free randomized
+An {ADOM}-like in Japanese style. Famous for the option of having a "little girl" as a pet. I have tried 
+<a href="https://github.com/Ruin0x11/ElonaPlusCustom-GX/releases/">ElonaPlusCustom-GX</a> but it turned out
+I was not really in a mood for a complex ADOM-like at that time. (As far as I understand, ElonaPlusCustom is a heavily modded
+version, so that counts as community development.)
+
+GAME Fatherhood
+BY Jeff Lait
+VAL pc roguelike xp=1 year=2008 played=2008 turnbased grid topdown procgen diagrid exp combat ascii vscroll=? hscroll=? procgen=? randomized=? moderntheme free 7drl
+A roguelike about trying to make your sons help you. Games by Jeff Lait are usually very good, but not this one, IMO.
+
+GAME Linerogue
+BY Chris Morris
+VAL pc roguelike abstract xp=1 7drl year=2006 played=2006 turnbased grid topdown procgen diagrid exp combat ascii seq=? free randomized
+Another roguelike by the developer of {ChessRogue}, inspired by Tron. Not as good as ChessRogue.
+
+GAME Mosaic
+BY Darren Grey
+VAL pc roguelike abstract 7drl year=2013 played=2013 turnbased grid topdown procgen diagrid exp combat ascii seq=? xp=1 free randomized
+I do not remember much about this game, but I think it had procedurally generated music.
+
+GAME Omega
+VAL pc roguelike medieval year=1987 played=2003 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll overworld procgen return rpgclasses traps idminigame diagrid exp combat ascii vscroll hscroll connections nonlinear overworld xp=3 free randomized manualsave
+This is usually considered the first open-world roguelike, a predecessor to {ADOM}. Good to play if you are interested in roguelike
+history, but probably better to try something newer otherwise. Has some interesting features like "play as yourself" (stats depending
+on how you answer some questions), a complex inventory system (with "in the air" slot or something), and a complex combat system
+(you can attack/lunge/riposte low/high or something like that).
+
+GAME Pixel Dungeon
+VAL pc android roguelike medieval xp=4 year=2012 played=2015 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen return rpgclasses idminigame diagrid exp combat lores vscroll hscroll connections free randomized traps=? manualsave=?
+This roguelike is similar to {Brogue}, so rather traditional. It is beautifully designed for mobiles, which is quite rare
+(and innovative, I would say) in roguelikes. I have seen it have over 5M downloads in Google Play, so apparently one
+of the most popular roguelikes. I have played the original but by now it seems to have been overshadowed by variants,
+{Shattered Pixel Dungeon} is the most popular. It is good, although it has a reputation of being somewhat luck-based.
+
+GAME Shattered Pixel Dungeon
+BY community
+VAL pc roguelike medieval xp=1 year=2015 played=2024 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen return rpgclasses idminigame diagrid exp combat lores connections free randomized traps manualsave
+I have played a few very short runs of Shattered Pixel Dungeon, but no chance to get into it more seriously yet.
+(I have won the original {Pixel Dungeon} though.)
+
+GAME Save Scummer
+BY Jeff Lait
+VAL pc roguelike medieval year=2007 played=2007 7drl turnbased grid topdown procgen diagrid autobattle exp combat ascii seq xp=1 economy free randomized
+An experimental roguelike (?) where the character plays themselves and you, as the player, only control the save scumming.
+
+GAME Scrap
+VAL pc roguelike scifi vehicles 7drl year=2005 played=2005 turnbased grid rpgequip topdown procgen diagrid exp combat ascii seq=? xp=4 free randomized
+An early 7DRL where you are more of a robot than a creature. A nice theme, later popularized by {Cogmind}, although I miss
+{Dungeoneers}.
+
+GAME Toby the Trapper
+VAL pc roguelike tolkien 7drl year=2010 played=2010 turnbased grid topdown procgen diagrid exp stealth ascii seq xp=2 free randomized
+BY Darren Grey
+A 7DRL where you fight by setting traps. Not much to talk about it.
+
+GAME Triangle Wizard
+VAL pc medieval xp=1 year=2008 played=2009 topdown rpgequip rpgconsume rpgstats hscroll vscroll procgen return rpgclasses exp combat ascii connections=? xp=1 realtime free randomized
+An early "action roguelike", that is, an ASCII game a bit like Diablo. Sounds like something that should be interesting,
+but somehow I did not find it so. Did not seem to get much following in general. 
+
+GAME Vicious Orcs
+BY Jeff Lait
+VAL pc roguelike medieval 7drl year=2011 played=2011 turnbased grid topdown hscroll vscroll spacebending procgen return diagrid exp combat ascii xp=4 free randomized
+A good 7DRL by Jeff Lait, with some narrative, and an interesting use of Jeff Lait's signature map system.
+
+GAME Ananias
+AKA Kramora's Shadow
+VAL pc roguelike medieval year=2014 played=2015 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii midres flick xp=1 free randomized
+BY Slashie
+I have tried it, but it did not capture me.
+
+GAME Broken Bottle
+VAL pc roguelike moderntheme 7drl year=2011 played=2011 turnbased grid topdown hscroll vscroll procgen diagrid exp combat ascii seq=? xp=3 free randomized
+BY Darren Grey
+A T-Engine 7DRL about an alcoholic, I do not remember much.
+
+GAME CalcRogue
+VAL palmos roguelike medieval year=2005 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen diagrid exp combat ascii connections xp=4 free randomized
+A roguelike designed for calculators, presumably, as the name suggests (I have played it on PalmOS). Nothing
+exceptional, but still a very good adventure.
+
+GAME Caves of Qud
+VAL pc roguelike scifi year=2010 played=2024 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen return rpgclasses destructible idminigame diagrid exp combat blackboard openworld nonlinear xp=3 ea=2008 ext=? randomized manualsave crafting ammolimit oneofthree
+BY Freehold Games
+This game should need no introduction -- in a recent "top 5 roguelikes" thread in r/roguelikes, Caves of Qud was mentioned most frequently.
+
+When I started being involved in roguelike development, around 2000, I remember lots of very ambitious projects about games which used the simple presentation
+and exploration/combat system of roguelikes to challenge the player's imagination and make very complex, simulationist gameplay possible. Like {ADOM}, but better.
+Most of these developers never released anything... instead, eventually a counter-movement happened to actually release something, so we got lots of shorter
+roguelikes, focused on balance, which are great in their own right, but something was missing.
+
+Caves of Qud is like these old dreams, but successful. Very complex. Very epic. Lots of similarities to roguelike classics (the general structure similar
+to ADOM, figuring out devices like in {Alphaman}). Amazing worldbuilding and writing. Hopefully it will inspire a new wave of great roguelikes.
+
+I have some criticisms (calling its non-permadeath mode "roleplay" -- generally it seems that some people think of that mode as some kind of innovation while
+most traditional roguelikes either have such modes or have traditionally been savescummed heavily --- and sometimes monsters on the level below just stop moving
+and you can easily defeat them from above) but it definitely deserves the prizes it got.
+
+TAGCMT oneofthree
+I have decided to include "one of three" tag because, if you choose to get a new mutation, you are given a selection of random mutations.
+However, this is a relatively minor aspect (you can pick anything you want for the "main" mutations of your build) and it is still somewhat controllable.
+
+GAME DataQueen
+VAL pc roguelike scifi 7drl cyberspace year=2014 played=2014 turnbased grid topdown procgen hexgrid exp combat ascii=? seq=? xp=2 free randomized
+BY Darren Grey
+A 7DRL inspired by the boardgame {Hive}. I do not remember much about it.
+
+GAME Drakefire Chasm
+VAL pc roguelike medieval 7drl year=2012 played=2012 turnbased grid topdown procgen rpgclasses diagrid exp combat ascii seq xp=3 free randomized
+A 7DRL where you are a dragon. Starting as a hatchling, and you end as a huge wyrm attacked by a 'raid' of adventurers. Cool theme and well remembered. I might have won, but I am not sure.
+
+GAME EmoSquid
+VAL pc roguelike aquatic 7drl year=2011 played=2011 turnbased grid topdown procgen diagrid exp combat ascii seq=? xp=1 free randomized
+A true 3D roguelike. A nice experimental game, although not very playable.
+
+GAME Epilogue
+VAL pc roguelike year=2012 played=2013 turnbased grid topdown procgen exp combat lores=? seq=? xp=1 orthogrid=? weirdtheme free randomized manualsave=?
+I do not remember much about this one except its unique graphical style.
+
+GAME Gruesome
+VAL pc roguelike medieval year=2009 played=2010 turnbased grid topdown procgen diagrid exp stealth ascii seq xp=2 free randomized
+BY Darren Grey
+An early roguelike by Darren Grey, inspired by the "grues" of {ADOM} -- here, YOU are the grue, attacking adventurers from the shadows. Nice theme.
+
+GAME Guild
+VAL pc roguelike medieval year=2008 played=2008 turnbased grid topdown squad procgen diagrid exp combat ascii seq=? xp=1 free randomized
+This was an attempt at a roguelike in which you control a party of characters. I do not remember much about it, though, it did not feel that good.
+
+GAME Inversion of Control
+VAL pc roguelike 7drl year=2011 played=2011 turnbased grid topdown procgen diagrid exp combat ascii seq=? xp=1 medieval free randomized
+In some roguelikes (such as {NetHack}) you have a pet, the idea of this game is that you control that pet. But I do not remember much about it.
+
+GAME Doomsday 2000
+VAL mainframe roguelike scifi xp=0 year=1986 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return destructible traps idminigame diagrid exp combat ascii nonlinear connections free=? randomized ammolimit
+If I understand correctly, Doomsday 2000 was originally supposed to have 4 parts, out of which 3 were ASCII roguelikes on DEC mainframes,
+2 were ported to Mac, and 1 was ported to Windows in 1992 as {JauntTrooper: Mission Thunderbolt}, which I played and was a great game.
+I have succeeded running the second mission on a Mac emulator, but the save did not seem to be compatible.
+
+GAME JauntTrooper: Mission Thunderbolt
+VAL pc roguelike scifi gem=2 xp=4 year=1992 played=2008 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return destructible traps idminigame diagrid exp combat midres nonlinear connections randomized ammolimit
+This is a quite amazing sci-fi roguelike -- especially amazing when you consider that it was originally created in 1986!
+Lots of interesting things to do. Similar to {Valhalla} it has nice tiled graphics.
+
+GAME MathRL
+VAL pc roguelike abstract 7drl year=2010 played=2010 turnbased grid topdown procgen diagrid exp combat ascii seq=? xp=4 randomized
+A 7DRL about composing math functions to get big numbers. Not that interesting, I think.
+
+GAME Reaping the Dungeon
+VAL pc roguelike scifi year=1994 played=2008 turnbased grid topdown procgen diagrid exp combat midres seq=? xp=4 shareware randomized
+Quite different from a typical roguelike. A sci-fi game where you collect resources such as energy and oxygen. I do not remember much. An inspiration for {Dungeoneers}.
+
+GAME Robotfindskitten
+VAL pc abstract year=1997 played=2003 timeless grid topdown procgen diagrid exp combat ascii tiny xp=4 free randomized
+A "game" where you move like in Rogue and bump into various colored ASCII characters until you find the "kitten".
+TAGCMT roguelike
+It is timeless so I have decided that the roguelike tag is not appropriate. It has some similarities to roguelikes, but they are IMO not strong enough to qualify as roguelike anyway.
+
+GAME Rook
+VAL pc roguelike abstract year=2011 played=2011 7drl turnbased grid topdown rpgequip procgen diagrid exp combat ascii tiny=? xp=2 free randomized
+A roguelike taking some inspiration from Chess, not very interesting.
+
+GAME The Tombs
+VAL web roguelike medieval year=2005 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen diagrid=? exp combat vectorart seq=? xp=3 free
+A roguelike in Flash. Apparently Flash is not a good platform for roguelikes since it was very slow. It had some cool stuff but I do not remember much.
+
+GAME Xenocide
+VAL pc roguelike scifi year=2002 played=2004 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return rpgclasses=? destructible=? traps=? idminigame=? diagrid exp combat ascii connections=? xp=2 free randomized
+I have played this, but I do not think there was anything especially notable about it.
+
+GAME Beneath Apple Manor
+VAL oldpc roguelike medieval year=1998 xp=3 played=2023 turnbased grid rpgstats topdown procgen diagrid exp combat ascii nopersist seq xp=3 randomized
+The notable thing about it is that it was actually a roguelike predating Rogue. With ASCII graphics (or optionally other graphics modes),
+rogue-like movement and combat, and procedural generation. (It replaces permadeath with "brain scans" which can revive you for a permanent cost.) Worth to play if you want to try very old games. 
+
+GAME Ruins of Calaworm
+VAL pc roguelike medieval lovecraftian xp=2 year=2023 played=2024 turnbased grid rpgequip topdown hscroll vscroll procgen return=? diagrid exp combat ascii=? connections=? xp=2
+A recent roguelike based on {Kalawaum}, which is said to be a German hit roguelike from the 90s (although it did not get known elsewhere). Hoping for a blogpost by the dev to learn more about it.
+I have played it a bit but not finished.
+
+GAME Kalawaum
+VAL pc roguelike medieval lovecraftian xp=0 year=1992 turnbased grid rpgequip topdown procgen return=? diagrid exp combat lores connections=?
+I have not played it, but {Ruins of Calaworm} was based on it. As far as I understand Kalawaum was not procedurally generated.
+
+GAME Jupiter Hell
+BY ChaosForge
+VAL pc roguelike scifi helltheme xp=1 year=2021 played=2022 isometric turnbased grid rpgequip rpgconsume rpgstats procgen rpgclasses=? destructible=? shooter exp photorealistic models seq orthogrid randomized
+A game based on {DoomRL}. I have played the demo. Unfortunately, instead of just moving DoomRL to a new universe
+and adding professional 3D graphics, it also replaced some mechanics that made DoomRL special (such as turn-based dodging
+and 8-directional movement), so I was not happy about it. I like the idea of "adaptative animation" and I think it is
+a great thing to do in roguelikes -- although my NotEye and {HyperRogue} although do very simple versions of it (and I think
+NotEye did it before Jupiter Hell). ({Jupiter Hell Classic} is more of a modern version of DoomRL.)
+
+GAME Jupiter Hell Classic
+BY ChaosForge
+VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized
+JHC is a greatly improved version of {DRL}. 
+A total conversion, so not just DoomRL reskinned -- but that is great.
+
+Would love to have an option of the mini-map using ASCII.
+
+GAME kusemono
+VAL pc roguelike xp=1 year=2011 played=2011 turnbased grid topdown procgen return=? diagrid stealth exp ascii=? seq=? eastern=? free randomized
+A stealth 7DRL, but I do not remember mostly anything else about it.
+
+GAME Malachite Dreams
+BY Jeff Lait
+VAL pc roguelike medieval year=2013 played=2013 turnbased grid topdown procgen=? return=? diagrid=? exp combat=? lores rulediscovery xp=3 free randomized=?
+I think it was a kind of knowledge-gated game with roguelike movement?
+
+GAME MidBoss
+VAL pc roguelike medieval year=2014 played=2022 turnbased grid rpgequip rpgstats topdown procgen return idminigame=? diagrid exp combat midres connections xp=4 randomized manualsave
+A queer roguelike based on the concept of possession: the enemies you kill can be possessed, basically, you can play as them.
+So, a small roguelike with lots of fun and original ideas, so worth to try.
+
+GAME Path of Achra
+VAL pc roguelike uniquetheme year=2024 played=2024 turnbased grid rpgequip rpgstats topdown procgen rpgclasses diagrid=? exp combat lores enginebuilder seq xp=4 randomized free=? oneofthree overworld
+A great game pushing the roguelike genre in new directions. While still remaining a true roguelike. Quite universally loved.
+The industry have tried to hide roguelikes by shadow-releasing {Hades} II on the same day, or something.
+TAGCMT free
+I believe the demo is just an older version of the game, so it might count as free enoguh.
+TAGCMT oneofthree
+In the overworld map you pick between one of three paths, and you are shown what items are there on every path, so this is essentially a choice between three upgrades and it technically
+counts as "one of three". However, as far as I understand, you should have a choice of eventually getting every item, and the main upgrades are awarded for experience points from a huge list,
+so I do not see it as much as a problem as usual.
+
+GAME Red Rogue
+BY st33d
+VAL pc roguelite year=2012 played=2013 rpgequip rpgconsume rpgstats topdown sideview procgen return rpgclasses=? idminigame=? exp combat midres connections xp=2 notheme=? pauseable=? free randomized
+A sidescroller game (platformer-ish, but I do not think it has jumping) inspired by roguelikes. I remember
+the idea of wearing enemies' faces to gain their powers (or something), and a "grinding stone" that you can use instead of grinding.
+
+GAME sick peter
+VAL pc roguelike moderntheme 7drl year=2011 played=2011 turnbased grid topdown procgen return=? diagrid exp combat=? ascii=? seq=? xp=2 free randomized
+BY Darren Grey
+I do not remember mostly anything about this game.
+
+GAME SpelunkyRL
+BY Slashie
+VAL pc roguelike pyramids xp=1 year=2022 played=2022 turnbased grid topdown procgen return rpgclasses=? destructible=? traps idminigame=? diagrid exp combat ascii seq=? free randomized
+A 7DRL based on turning SpelunkyRL back into a roguelike, with ASCII display, turn-based grid, and all. An interesting idea to explore,
+although I was not interested enough to actually play more seriously.
+
+GAME Tales of Maj'Eyal
+VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized
+BY DarkGod
+This is one of the most popular roguelikes, with a long history going back to a variant of {Angband}, called "Troubles of Middle Earth",
+later renamed to not annoy the Tolkien estate.
+Lots of races and classes. Some interaction between runs (some classes need unlocking,
+there is also a place where you could store stuff for a following character). It is one of the games with the biggest number
+of achievements on Steam. Contrary to typical roguelikes, it greatly reduces the impact of resource management:
+there are no (or almost no) consumables, as far as I recall. This removes one aspect of permadeath that makes it actually interesting
+in games such as {DCSS} ("risk management", as in, resource management where risk is considered one of the resources, and you trade
+other limited resources to reduce the risk). So it makes permadeath more of a "git gud" aspect. On the other hand, it gives more
+weight to cooldowns -- most of the game is about using various race/class powers instead, which are limited by cooldowns.
+
+The paid version allows to disable permadeath, but I have been playing the free version. My runs often ended because of attacks of
+randomized unique monsters. I have been able to reach the second continent (or something) after disabling them, and I was not interested
+enough to try playing anymore. So many other great roguelikes!
+TAGCMT free
+I believe it started as a free game, and it is how I played it. The paid version has non-permadeath options.
+
+GAME Magpie
+VAL pc roguelike animaltheme=2 7drl broughlike year=2023 played=2023 turnbased grid rpgequip topdown procgen exp combat hires multiweapon seq orthogrid xp=3 free randomized
+This broughlike 7DRL seems to have a rather big fandom, which is rare for newer 7DRLs.
+We enjoyed playing it very much as magpies are my wife's favorite birds, more than other broughlikes.
+
+GAME Balatrogue
+VAL pc roguelike 7drl year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll cardgame procgen diagrid exp combat ascii seq xp=3 notheme free randomized
+The developer was annoyed by {Balatro} being called roguelike and made a {poker} roguelike themselves.
+Other than that, it did not seem that interesting, and also quite buggy when I played it.
+
+GAME Earl Spork
+VAL pc roguelike 7drl year=2010 played=2010 sideview platformer turnbased grid hscroll procgen diagrid exp combat ascii notheme xp=3 free randomized
+An early platformer roguelike (as in, a roguelike with gravity).
+
+GAME Jacob's Matrix
+BY Jeff Lait
+VAL pc roguelike 7drl year=2013 played=2013 turnbased grid topdown hscroll vscroll nonlinear spacebending procgen diagrid exp combat ascii seq medieval xp=2 free randomized
+I think this game has introduced Jeff Lait's his signature 7DRL system of rooms being connected topologically without
+a global coordinate system, and portals (like in {Portal}). The game displays the titular "Jacobian" that, as far as I understand,
+was supposed to help the player find the exit, but I did not understand how it was supposed to work, so I did not find it
+that playable.
+
+GAME Zaga-33
+BY Michael Brough
+VAL pc roguelike scifi broughlike year=2012 played=2012 7drl turnbased grid topdown procgen exp combat lores seq xp=2 orthogrid free randomized
+AN early broughlike. I do not remember much, except finding a secret without looking for it and being confused.
+
+GAME Cinco Paus
+BY Michael Brough
+VAL pc roguelike weirdtheme year=2017 played=2017 turnbased grid idminigame topdown procgen exp combat hires seq xp=2 orthogrid randomized
+A broughlike heavily focused on the concept of identification. As far as I understand, the reason why the title and the
+whole game is in Portuguese is to make it even more mysterious. I have tried it but it seems I am not that into
+broughlikes.
+
+GAME Hoplite
+VAL pc roguelike greek helltheme xp=4 year=2013 played=2013 turnbased grid topdown hexgrid procgen hexgrid exp combat midres seq xp=4 randomized
+A simplified roguelike that is very much about positioning, making it feel like Chess (even more than a typical roguelike).
+A great mobile game. I wonder whether it was a hidden inspiration for {Hades} (Greek mythology theme, receiving boons from gods).
+
+GAME Bump!
+BY st33d
+VAL pc roguelike scifi 7drl year=2013 played=2019 turnbased grid platformer sideview hscroll procgen diagrid=? exp combat lores xp=1 free randomized
+A roguelike platformer (as in, a roguelike with gravity).
+
+GAME TraumaRL
+VAL pc roguelike scifi 7drl year=2014 played=2014 turnbased grid topdown hscroll vscroll nonlinear procgen rpgconsume=? return rpgclasses=? idminigame=? diagrid exp combat lores connections nonlinear xp=4 free randomized
+BY flend
+A sci-fi 7drl with nice graphics and a graph-based approach to quest generation (I assume something similar to what was later used
+in {Unexplored}). As a 7DRL, it is something that you would play only once and not for very long, but still worth playing.
+
+GAME Golden Krone Hotel
+BY Jeremiah Reid
+VAL pc roguelike gothic 7drl xp=4 year=2014 played=2015 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses idminigame diagrid exp combat lores connections nonlinear=? randomized manualsave=?
+I have played the original 7DRL version and liked it very much, the approach to vampire/human duality, and the whole vampire theme
+(such as, destroy stained glass to let the light in and kill vampires) were done very well. I have bought the Steam
+version too but somehow it does not feel that good to me (but maybe that's because I feel I have already won this game, also
+I have mostly limited myself to the tutorial). I think it has some interesting things such as a novel identification system. 
+
+GAME Seven Day Band
+VAL pc roguelike 7drl year=2015 played=2015 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen return=? traps=? diagrid exp combat ascii seq=? xp=2 notheme free randomized
+BY Jeff Lait
+An experimental roguelike where you create a roguelike as you play, by telling the game what the monsters are as you meet them for
+the first time.
+
+GAME Fire Tail
+VAL pc roguelike 7drl year=2015 played=2015 turnbased grid topdown procgen diagrid exp combat ascii seq=? xp=2 medieval free randomized
+BY Darren Grey
+Yet another hex 7drl by Darren Grey, I do not remember much about it.
+
+GAME Dicey Dungeons
+BY Terry Cavanagh
+VAL pc 7drl year=2018 played=2024 turnbased grid orthogrid ddlike topdown procgen exp combat ascii seq xp=3 medieval randomized
+I have tried the 7DRL version, it was quite similar in style to {Dream Quest} or {Desktop Dungeons} -- the roguelikeness was
+reduced to exploring a grid-based map, the tactics were replaced by puzzles, dicebuilding in this case. It seemed quite random.
+I notice that the commercial version replaces the grid-based map with a graph -- probably it makes the game better, but also
+means that the remaining similarity to roguelikes is lost.
+
+GAME Inner Life
+VAL pc roguelike 7drl year=2019 played=2019 turnbased grid topdown nonlinear procgen diagrid=? exp combat lores connections animaltheme xp=2 free randomized
+A very weird experimental 7DRL, it tends to come up in discussions, so it is good to remember how it was called. Every
+monster has a "dungeon" inside it, so you can come in, for example, to steal food to make it die from starvation.
+
+GAME Pawnbarian
+VAL pc roguelike 7drl year=2019 played=2022 turnbased grid deckbuilder topdown procgen rpgclasses diagrid exp combat hires seq xp=3 notheme randomized
+I have played the commercial version of Pawnbarian, it was originally a 7DRL.
+I qualify it as roguelike, although it could be argued it is not (you cannot just press a key to
+move like you do in a roguelike, you play a card which allows movement like a specific chess piece;
+and also the maps are too simple). As for being a deckbuilder, you only upgrade your cards, do not
+obtain/remove them. Worth trying but it did not capture me.
+
+GAME Force of Nature
+VAL web roguelike planttheme 7drl year=2016 played=2016 turnbased grid topdown hscroll vscroll procgen diagrid exp combat midres seq xp=4 free randomized
+A 7drl with a cool theme, of a tree fighting against trolls seeking to destroy the forest. Very fun.
+
+GAME Sword in Hand
+BY Jeff Lait
+VAL pc roguelike medieval 7drl year=2013 played=2013 turnbased grid topdown hscroll vscroll nonlinear procgen diagrid exp combat ascii seq xp=4 free randomized
+An experimental 7drl where you are technically a cursed sword that possesses its wielders.
+I do not feel that theme is realized well, though (it does not feel that it actually matters).
+There is some political simulation going on, which is interesting, although it is very simple
+and almost totally disconnected from the roguelike part.
+
+GAME The Smith's Hand
+BY Jeff Lait
+VAL pc roguelike medieval 7drl year=2017 played=2017 turnbased grid crafting topdown procgen diagrid exp combat lores tiny xp=4 free randomized
+An experimental 7drl where you are not an adventurer, but a blacksmith selling weapons
+and armor to them. It is interesting, although it does not feel too realistic (IIRC the
+adventurers will always accept your prices if they have enough money, so for example when
+they try to sell obsolete stuff back to you, you can just set the price to $1).
+
+GAME Lost in Player
+VAL pc roguelike helltheme year=2025 played=2025 turnbased grid arbi3 hscroll vscroll nonlinear procgen traps exp combat models photorealistic seq xp=1 orthogrid randomized
+An attempt at a roguelike with high production values, with a hell/heaven theme of being
+able to play as the creature who has killed you. I have tried it, and it seemed
+interesting, but I did not go far into it.
+
+GAME Rootin' Tootin' Lootin' Shootin'
+VAL pc roguelike western year=2025 played=2025 turnbased rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen destructible exp combat lores seq xp=4 randomized
+If you are wondering whether a roguelike really needs to be grid-based, this is a great
+game to try to challenge that assumption. It is still displayed as a grid, but you can
+click in an off-grid direction and the character will move 1 step exactly in that
+direction. It is small but fun.
+
+GAME One Way Heroics
+VAL pc roguelike medieval year=2014 played=2016 turnbased autoscroll hscroll grid rpgequip rpgstats rpgconsume topdown hscroll procgen rpgclasses idminigame=? diagrid=? exp combat lores anime xp=3 medieval randomized
+A roguelike with a bit of Japanese feel, in which the screen scrolls automatically
+as you explore, so you cannot stay in one place for long (similar to the turn-based
+mode of {Nightfall}. It is interesting, although I do like to explore dungeons and
+you don't really get to do that in OWH... It was also quite annoying to play on Linux when I tried it.
+
+GAME Nightfall
+VAL pc roguelike 7drl year=2012 played=2012 turnbased autoscroll hscroll grid rpgequip rpgstats rpgconsume topdown hscroll procgen diagrid exp combat lores xp=3 scifi=? free randomized
+A 7DRL where the screen scrolls automatically as you explore, so you cannot
+stay in one place for long. It has two modes (one where scrolling is based on
+the game time, and one where it is based on the real time). As a 7DRL, it is
+not very deep; {One Way Heroics} is a more extensive take on this idea.
+
+GAME Sproggiwood
+BY Freehold Games
+VAL pc roguelike medieval year=2014 played=2015 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen rpgclasses idminigame=? exp combat hires seq xp=4 orthogrid randomized
+A casual roguelike made by the developers of {Caves of Qud}. Apparently
+it is based on Finnish mythology? It is built around doing separate missions
+rather one single long "run", and also it has metaprogression, so
+I do not want to replay it because I would have to do the metaprogression
+again. It has some
+similarities, such as paired monsters which need to be killed both in the
+same turn. 
+
+GAME Sword of the Stars: the Pit
+VAL pc roguelike scifi year=2013 played=2016 crafting turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return=? rpgclasses=? idminigame=? diagrid=? exp combat midres=? connections xp=1 randomized rulediscovery
+A commercial roguelike that I do not find very fun, and it seems that
+many people in r/roguelikes agree with this opinion. As far as I understand,
+it is crafting-focused: you need crafting to be successful, but you
+first need to learn the crafting recipes as a form of metaprogression.
+
+GAME Hero Generations
+VAL pc roguelike medieval year=2015 played=2018 turnbased grid topdown procgen return rpgclasses=? diagrid=? exp combat midres=? tiny xp=1 randomized
+A borderline roguelike where every step represents a year of time passing.
+You should visit cities to find people to have children with, and these
+descendants would continue the story. It seemed interesting but it worked
+very badly on my computer, probably as a result of using Linux.
+
+GAME MAngband
+BY community
+VAL pc roguelike xp=0 tolkien year=1997 realtime grid rpgequip rpgstats rpgconsume topdown hscroll vscroll return procgen rpgclasses destructible traps idminigame diagrid exp combat ascii nopersist free randomized multiplayer
+Multiplayer Angband. I have not played this game.
+
+GAME Sil-Q
+BY community
+VAL pc roguelike tolkien year=2017 played=2025 xp=1 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen return=? rpgclasses destructible traps idminigame diagrid exp combat ascii midres free randomized
+This is an {Angband} variant that feels more like its own game than
+like an Angband variant, with many fans in the roguelike community.
+It is shorter, and has its own mechanics such as songs. I have played
+the tutorial -- I was quite annoyed by how it said that in every
+roguelike you restart when you die (in most popular roguelikes this 
+is the player's decision which IMO makes permadeath actually better
+and I prefer it that way), it did still have a bit of Angband feel
+(although hard to blame the game for that), and I was not that in
+the mood for playing a complex game, so I have not tried to go further yet.
+
+GAME Billiard Dungeon
+VAL pc roguelike 7drl medieval year=2016 played=2016 turnbased rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen exp combat midres seq=? xp=3 free randomized
+An experimental borderline roguelike which is not grid-based -- as the
+name suggests, you move like in billiards, by being a ball hit by a
+stick, bouncing off walls and enemies. An interesting experiment.
+
+GAME Untrusted
+VAL pc roguelike engineering cyberspace year=2013 played=2013 turnbased grid topdown procgen diagrid exp combat ascii seq xp=3 free randomized
+A free game with roguelike interface but that is more about Javascript
+hacking, you get access to edit the source code of the game, and you
+have to do things like change the dungeon generation to proceed in the
+story. Free and quite interesting.
+
+GAME The Life of a Government Clerk
+VAL pc roguelike year=2025 played=2025 uniquetheme turnbased grid topdown procgen exp combat ascii tiny xp=2 orthogrid free randomized
+A Kafkaesque non-combat roguelike. Quite hard to understand what is going on.
+
+GAME Cogmind
+VAL 7drl pc roguelike year=2017 scifi turnbased grid rpgequip topdown procgen destructible=? traps=? idminigame=? diagrid=? exp combat midres seq xp=0 randomized manualsave=?
+This is one of the most popular roguelikes, although I have not tried
+it myself. The focus on being a machine reminds me of {Dungeoneers}.
+
+GAME Crablike
+VAL pc roguelike year=2025 aquatic played=2025 turnbased grid rpgequip rpgstats rpgconsume topdown nonlinear return procgen return rpgclasses traps idminigame diagrid exp combat ascii overworld connections xp=3 economy free randomized oneofthree secrets traps
+A roguelike in the style of {ADOM} but with an underwater theme.
+Many enemies are based on actual aquatic creatures. Quite a fun
+adventure.

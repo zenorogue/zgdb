@@ -1,0 +1,559 @@
+## arcade classics, listed for reference
+
+GAME Pac-Man
+AKA Pacman
+BY Namco
+VAL year=1980 arcade realtime topdown spacebending abstract xp=0 collectathon fixed tiny lores endless
+I think I have played the arcade version somewhere, but I mostly played {Munch-It} (Amstrad CPC clone) and {CD-Man} (PC clone).
+
+GAME Asteroids
+BY Atari Games
+VAL year=1979 played=2000 arcade realtime topdown shooter spacebending palmos scifi xp=2 randomized seq endless vectorart mono blackboard
+I do not think I have played the original arcade version. I mostly played a PalmOS version that I do not remember the name of.
+
+GAME Space Invaders
+BY Taito
+VAL year=1978 played=1987 sideview realtime shooter arcade cpc xp=2 scifi lores fixed seq endless mono blackboard
+
+A famous game where you have to kill all alien invaders; the invader sprite is sometimes used as a gaming symbol.
+The aliens move all together as a group, far left to far right, descend, far right to far left, descend, and so on,
+until they captured you. One interesting thing was that how fast the invaders descended dependent on how much you have killed. Killing leftmost, rightmost, or bottommost
+invaders was a good idea, and they moved very fast if there were just a few of them -- apparently this was not intended but it was quite unique and fun.
+
+GAME Tetris
+BY Alexey Pajitnov
+VAL year=1988 played=1992 cpc pc realtime sideview grid xp=3 abstract endless orthogrid randomized tiny difflevels shapegfx shapepuzzle
+One of the most famous games from the 80s, and deservedly so. I have first played a CPC version that was not official, I think.
+I have also played a classic PC version.
+
+GAME Defender
+VAL shooter sideview realtime hscroll year=1981 played=1990 gem=1 scifi xp=2 arcade pc gem=1 randomized lores endless
+A quite interesting arcade game. You pilot a spaceship that could fly very fast if you wanted.
+There was a planet with some people on, you fly around that planet, on low altitude, so the planet looks flat.
+Aliens abducted these people, you could shoot aliens causing people to fall, you could catch them
+and deliver back to the planet safely. I remember playing (or watching?) the CPC clone called {Defend or Die}, but more a PC clone.
+
+GAME Donkey Kong
+BY Nintendo
+BY Shigeru Miyamoto
+VAL arcade year=1981 xp=0 sideview realtime platformer notheme fixed seq lores endless
+Famous for being one of the first games in the platformer genre, and also introducing the Mario character.
+I have not played the original, but I have played a CPC clone called {Killer Gorilla}.
+
+GAME Breakout
+BY Atari Games
+VAL arcade year=1976 xp=0 physics realtime abstract fpp tiny randomized shapegfx nonlogic shapepuzzle difflevels endless
+A well-known arcade game about destroying a wall of bricks with a ball. I have not played it, but I have played {Arkanoid} which was a cooler clone of it,
+and some other clones (mostly of Arkanoid).
+
+GAME Qix
+BY Taito
+VAL arcade year=1981 topdown realtime xp=0 abstract topdown realtime abstract pixelsim randomized seq endless shapegfx nonlogic
+The game that {Zolyx} and {Xonix} were clones of. (Although I see it had "slow draw" for double points, while Zolyx and Xonix did not, I think.)
+Very fun due to its unique rules.
+
+GAME Pong
+BY Atari Games
+VAL arcade year=1972 xp=0 abstract realtime xp=0 topdown realtime physics shapegfx sports fixed tiny mono
+Usually considered the first commercial video game. It was actually a piece of hardware, not software.
+I have played the 'Paddle War' clone in {Commander Keen IV}, I guess it is a clone, and various {Arkanoid} clones which are somewhat similar?
+
+GAME Centipede
+BY Atari Games
+VAL arcade year=1981 topdown realtime animaltheme shooter pc lores randomized tiny xp=0
+
+I have not played this arcade classic, but I have played its clone {Killapede} on CPC, and a PC version that was free on Epic at some point.
+
+## Atari ST
+
+GAME Yie Are Kung Fu
+BY Konami
+VAL year=1985 played=1986 cpc xp=1 realtime slasher eastern atarist sideview fixed seq=? lores
+A fighting game, I do not remember much.
+
+GAME Night Hunter
+VAL atarist gothic year=1988 played=1993 realtime slasher platformer fixed flick lores xp=1 sideview
+Some kind of metroidvania-ish game about a guy who could transform into a monkey (?) or a bat.
+
+# console classics
+GAME Battlestar
+VAL pc year=1979 played=2001 scifi riddles xp=2 nonspatial ascii timeless fixed connections free mono
+One of games included in the BSD games. A rather strange interactive fiction game with many sections (first on a spaceship, then on an island of some kind).
+
+GAME Moon Buggy
+VAL pc year=2004 played=2004 endless platformer scifi xp=2 sideview ascii realtime randomized
+A very simple ASCII game where you drive a moon car, jumping over obstacles. Very similar to {Dinosaur game}.
+I thought it was older. Not surprisingly, it seems to be a clone of an arcade game (Moon Patrol).
+
+GAME Dinosaur game
+VAL pc year=2014 played=2015 endless platformer scifi xp=2 sideview realtime randomized lores free mono
+A simple game built into the Google Chrome browser, where you are a dinosaur and you have to jump over obstacles. Similar to {Moon Buggy}.
+
+GAME Hunt the Wumpus
+VAL pc year=1973 xp=1 medieval medieval xp=1 nonspatial ascii connections timeless randomized exp combat free mono
+One of BSD game classics. Somewhere between an adventure and strategy game, you move between 20 caves (interestingly, vertices of a dodecahedron)
+and try to find out where the Wumpus, bats, and pits are. I have never tried to play it more seriously.
+
+GAME Bastard Tetris
+AKA Bastet
+VAL pc year=2005 abstract turnbased sideview grid xp=3 abstract endless orthogrid randomized tiny difflevels ascii shapepuzzle free
+A {Tetris} clone except that the pieces are not determined randomly, but it always picks the worst possible piece for the player.
+Interesting. It is very hard to actually get any lines here.
+
+GAME Thrust
+VAL pc year=? played=2002 scifi physics xp=3 sideview platformer realtime fixed seq vectorart free blackboard
+One of games included with some Linux distro. I think it was a clone of earlier games. You had to lead some kind of a lander to a destination, with limited fuel.
+
+# other
+
+GAME Chess
+VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased nonlogic fixed multiplayer tiny grid orthogrid diagrid
+I think Chess should be more talked about in video game circles. Sites such as chess.com have lots of members (100M). I meet lots of people in real life who
+are playing Chess on their mobile phones or computers. So it can be considered a video game.
+
+Sometimes people want to play Chess with me, assuming that I am very good at it -- which I am not (probably because I almost never play Chess). I find it quite funny.
+
+(The queen has received its modern movement style around 1475 in Spain, so I give this as the year.)
+
+GAME Poker
+AKA poker
+VAL nonvideo year=1800 played=1998 abstract cardgame multiplayer randomized turnbased xp=2 seq free
+A well-known card game about randomness and high-stakes permanent consequences. I remember when my friends convinced me to play Poker for money with theme,
+and I won, but the game was quite messy and they did not want to calculate how much I won. So apparently Poker does not have permanent consequences, compared to a game like {Balatro}.
+
+GAME Risk
+VAL nonvideo year=1957 xp=0 abstract army multiplayer randomized turnbased tiny
+I do not think I have ever played this classic boardgame, but I have played computer versions such as {Atlantis}.
+
+GAME Hive
+VAL nonvideo year=2001 played=2010 animaltheme xp=1 nonlogic grid hexgrid turnbased turnbased fixed=? tiny multiplayer
+I have played this once.
+
+GAME Magic: the Gathering
+VAL nonvideo year=1993 xp=2 played=1999 cardgame ext medieval deckconstruction turnbased randomized paytowin tiny multiplayer
+BY Richard Garfield
+
+This is of course originally a physical card game, but I believe lots of people are playing online versions too.
+
+There are lots of great things about this hugely influential game. I love how every card can change the rules in rather arbitrary ways (the first game I know
+to do this). A bit like how items in roguelikes (and other RPGs) change rules (I do not mean anything special, but things like Rings of Strength changing the
+wearer's strength). I consider MtG to be the inspiration for the system of item effects used in {Vapors of Insanity}. Richard Garfield appears to be a
+roguelike fan (in fact, he appears to be a fan of my games, which I am very happy about), I imagine he could have even been one when MtG was originally created,
+so I wonder whether there was some inspiration.
+
+I sometimes play the Pentagram format with my friends, and I also participated in a sealed deck tournament once (I did not like the experience though).
+However, I do not like the pay-to-win nature of the game. {Dominion} shares lots of great things without that pay-to-win aspect.
+The pay-to-win nature means it makes lots of money, which means it gets lots of advertising to make even more money, which means that it is overrepresented
+in the culture, relative to less pay-to-win designs such as Dominion (which of course has been heavily influenced by Magic: the Gathering).
+
+GAME Dominion
+VAL nonvideo year=2008 played=2011 xp=4 deckbuilder ext gem=2 medieval turnbased procgen randomized tiny cardgame multiplayer
+BY Donald X Vaccarino
+
+This is a physical card game, but when playing with many expansions, the rules are pretty complex, so it might be actually more feasible to play online.
+There are currently two online versions, one is on Steam, one is on dominion.games. Both have different monetization schemes, and both allow playing the
+base game for free. In the Steam version you need to "buy" cards to play with expansions (which is IIRC extremely expensive, and why should I buy the
+virtual versions when I own physical cards), while dominion.games is subscription based -- only one of the players needs to "own" the cards, so you can
+play everything for free, you just have to wait longer to match with an opponent who has cards. Not sure how practical this monetization scheme is --
+it seems buying the subscription would put me at a higher risk of playing against trolls.
+
+I like lots about Dominion design that is not apparent in other boardgames. In every run, 10 cards are chosen, and the players buy from stacks of 10 of each of
+these 10 cards. This causes the game to be different every time, while also letting the players plan their strategy in advance. Roguelikes should learn from
+this. (Deckbuilders such as {Slay the Spire} should learn from this, too.) Also there are attacks, but they do not attack a specific opponent, but all other
+players -- this avoids the typical boardgame problem where it is pointless to play too well as then the opponents would notice and attack you instead of
+each other. (Although Dominion is still better with less players because it is faster.)
+
+GAME Scrabble
+VAL nonvideo year=1948 abstract xp=3 turnbased wordgame cardgame grid orthogrid randomized tiny multiplayer
+A famous word game where you create a crossword. I remember playing Scrabble on a language camp, where the group was split into some teams, but my team
+was led by some guys who ignored my suggestions and I got annoyed and joined some other team (and won I think)... Anyway, I do not see it being popular
+anymore. Many video games claim to be similar to it, which can be true or not.
+
+GAME Contract Bridge
+AKA Bridge
+VAL nonvideo year=1886 abstract xp=2 turnbased cardgame randomized seq free multiplayer
+
+This is not played much as a video game (although I remember some version on Amstrad CPC), but I think I have enough to talk about to include it in this site.
+
+Bridge was quite big in my circles, with my school having lots of Bridge events that helped us to form lasting friendships. It was also very popular among
+older players (such as my parents), and in my other circles. I feel it is not as popular anymore, having been displaced by the modern boardgames. I do not
+find much information randomly about Bridge tournaments, for example.
+
+The most interesting part of Bridge is the bidding phase, where you need to tell your partner about how strong your hand is to estimate how powerful your
+combined hands are, using short messages consisting of a very limited set of symbols. So you should design a language to convey information efficiently.
+That is quite unique and fascinating, maybe some amazing video game could be built around this. But the problem is, you do not actually design a language
+yourself -- the common way to learn Bridge was to read books which describe some 'common language', and you use simply use that, unless you are so good
+that you are able to invent a language that would be able to compete with it. Learning existing strategies was not as fascinating to me as what I love
+about games, that is, inventing ones on my own. (That amazing video game could avoid that problem.)
+
+GAME Uno
+VAL nonvideo year=? xp=0 played=1988 turnbased cardgame randomized abstract tiny free multiplayer
+A simple card game, play {Warthog} instead. Uno refers to a commercial version, but I guess the same idea, played with a standard deck of cards
+(which was what I was playing), was played much earlier.
+
+GAME Warthog
+AKA Bartok
+VAL nonvideo year=? played=1996 xp=2 turnbased cardgame randomized seq engineering abstract endless free multiplayer
+One of my favorite card games. It is based on a simple card game {Uno}, but the winner of every run creates a new rule that will be used in the following
+game. If you play it with right people, it can become very interesting due to all the chaos that the added rules introduce. The same approach can
+be also applied to many other games!
+
+GAME Mao
+VAL nonvideo year=? played=2004 xp=1 turnbased cardgame randomized tiny rulediscovery abstract free multiplayer
+A game like {Warthog}, but while in Warthog the rules are written down and clear to everyone, in Mao they are typically kept between the games, and also
+known only to the author of the rule (the other players have to guess them by experimentation if they don't want to get penalty cards for breaking rules).
+I think Warthog is more logical and fun -- the rules can be more complex and chaotic.
+
+GAME Plants vs Zombies
+VAL android gothic planttheme year=2009 played=2015 realtime defense economy fixed seq topdown xp=3 lores
+I have played this famous game on a flight, it was installed on the on-flight entertainment system. Luckily it was exactly as long as the flight was;
+it would be quite annoying to almost reach the end and then have to stop playing.
+
+GAME Atic Atac
+BY Ultimate Play the Game
+VAL pc arcade medieval year=1983 played=2015 xp=1 topdown flick collectathon exp combat realtime randomized=? lores
+This was originally a game on ZX Spectrum; I have seen a claim of it being similar to {The Binding of Isaac}. It indeed has similar {Zelda}-style rooms, and some randomization, I think.
+
+GAME Angry Birds
+BY Rovio
+VAL android year=2009 played=2012 xp=1 sideview physics turnbased vectorart animaltheme fixed seq hscroll ammolimit picklevel
+Once a huge hit, but somehow it appears to be mostly forgotten... Of course I have played it too, but never very seriously.
+It was mostly a clone of {Crush the Castle}.
+
+GAME Crush the Castle
+VAL web year=2009 played=2010 xp=1 sideview platformer physics turnbased photorealistic medieval fixed hscroll
+A flash game that {Angry Birds} was a clone of. I remember playing it. The idea of crushing castles was fun, although it got boring quickly.
+
+GAME 2048
+VAL web grid orthogrid randomized turnbased abstract year=2014 played=2014 xp=2 topdown tiny ascii matching free
+Once a very popular free web game, with many clones replacing the original "powers of two" tiles with something else, and also games mixing 2048 with {Tetris}
+(you drop balls and two similar balls can combine into a larger ball). I have played it a bit, but mostly randomly, not trying to find a strategy to win. See also {Threes}.
+
+GAME Merlin's Revenge
+VAL web year=? played=? realtime rpgstats topdown exp combat fixed flick xp=3 medieval lores free
+A game that was somehow described as an "arcade roguelike" in the roguelike usenet, probably as a joke. I do not remember much about it.
+
+GAME Threes
+VAL android year=2014 played=2014 xp=1 abstract turnbased matching topdown randomized tiny ascii
+A mobile game that was an inspiration for much more popular (and somewhat simpler) {2048}. The developers did not seem happy about being ripped off. It did not feel that great to me,
+but then, 2048 is not that great either.
+
+GAME Bad Piggies
+BY Rovio
+VAL web year=2012 played=2013 xp=1 sideview physics turnbased vectorart animaltheme fixed seq hscroll
+A game where you play as the antagonists from {Angry Birds}. The pigs do not use a slingshot but construct vehicles that ride into something to destroy it. Just like Angry Birds,
+stops being interesting quickly.
+
+GAME Dungeon Keeper
+# BY Bullfrog Productions
+BY Peter Molyneux
+VAL pc year=1997 played=2007 xp=3 otherlinear medieval realtime exp combat army fixed seq lores destructible
+A well-known game where you dig out a dungeon, train monsters, and use them to do something bad (kill heroes, or something?). Quite fun.
+I think I played without sound which was somehow supposed to make the game better.
+
+GAME Hero Wars
+VAL android web paytowin year=2016 played=2017 xp=2 sideview medieval fixed metapower paytowin seq economy semiturnbased lores timegate
+This is one of these games that does lots of marketing using fake gameplay videos. The game is filled with dark patterns and extremely boring grinding (or paying real money to prevent that).
+A bit addictive, in the negative meaning (that is, addictive but hollow). I just wanted to experience a bad game.
+
+GAME Forge of Empires
+VAL web year=2012 paytowin xp=2 played=2019 isometric history fixed seq grid orthogrid timegate economy nonlogic army hscroll vscroll minigames modalbattle models
+Another game that did lots of fake marketing. According to Wikipedia it got some "best strategy" and "best browser" game awards, which shows that these awards must be very bad -- it is
+clearly not a good game or a strategy game: maybe your strategy does matter a bit, but what matters more is entering the website at the correct times, or possibly paying money to prevent
+the grind. I did advance my civilization quite far, but it was all very hollow.
+
+GAME Backpack Hero
+VAL pc year=2023 xp=1 played=2023 topdown spireview procgen randomized turnbased grid orthogrid enginebuilder animaltheme medieval lores roguelite exp combat seq=? trail modalbattle epicfree
+I have played the demo. Maybe a good game but not good enough to counter the bad taste left by the misleading classification. 
+It is a tableau builder, not a deckbuilder. And not a roguelike, of course, although its map layout feels a bit more roguelike than a typical spirelike.
+It made me realize that {Hydra Slayer} could be marketed as a "roguelike deckbuilder" (the focus on inventory and synergies between their contents that is similar in both games).
+
+GAME Final Fantasy
+BY Square
+VAL console year=1992 played=2025 xp=1 topdown modalbattle fixed rpgclasses rpgstats rpgequip=? rpgconsume=? medieval anime turnbased exp combat
+Why are the names of the games in this series so similar to each other (just numbered 1 to 16), should not the first one be "final"? I have tried one recently, but not very seriously,
+and I do not remember which one it was (I think it was Final Fantasy V).
+
+GAME Rogue Light
+BY Managore
+VAL pc roguelite xp=4 year=2014 played=2016 sideview platformer metapower realtime medieval hscroll vscroll procgen randomized lores free exp ammolimit
+Just like the name suggests, Rogue Light is a good, free, metaprogression-focused platformer, where you are an archer explore a dark place, your primary light source being flaming arrows.
+It is obviously impossible to win the game with the initial power, but you earn money that lets you make your arrows stronger and more plentiful.
+There is metaprogression but no intraprogression, which is better than having both at once.
+
+GAME Factorio
+VAL pc xp=0 engineering pauseable=? hscroll vscroll grid orthogrid year=2016 scifi aliens topdown fixed=? lores manualsave=? crafting=?
+I have not played Factorio, but I have played some games inspired by it, such as {Mindustry} and {Shapez}.
+
+GAME Stray
+VAL pc animaltheme=2 scifi xp=0 exp camscroll tpp year=2022 realtime fixed photorealistic models
+I found an opinion somewhere that there is not much actual gameplay and one may as well watch this game on YouTube, so this was exactly what we did.
+Nice to see a game attempting to portrait a somewhat realistic cat character, although while the game was praised for realistic cat movement, the movement did not appear that realistic.
+
+GAME Magic Survival
+VAL android xp=2 year=? played=2024 bulletheaven notheme topdown realtime metapower seq vscroll hscroll uniquegfx
+A very popular mobile game that inspired {Vampire Survivors}, and indeed, there is LOTS of similarity, with some VS spells being clear direct rip-offs.
+I have played it after VS. It is quite fun, although it has many of the typical annoyances
+of mobile game design (which Vampire Survivors did not copy and implemented a more PC-ish design instead). 
+The game itself is technically free but it has metaprogression and thus requires either boring grinding or paying real money; also 
+ads are displayed on death if you want to revive (I mostly play it on flights so the ads are not displayed and I simply revive). 
+It looks quite weird on the screenshots. What actually seems to be going on is that the gameplay area  is logically a square, but it it vertically stretched to match the size of a mobile screen.
+The mechanics are not clear, I have no idea what "ATK amplification" is supposed to mean.
+
+GAME Colonization
+BY Sid Meier
+BY MicroProse
+VAL pc year=1994 played=1996 xp=3 history topdown turnbased exp combat xxxx procgen randomized grid diagrid economy vscroll hscroll lores
+A sequel to {Civilization} of sorts. The gameplay is quite similar to Civilization, but you are only tasked with conquering the New World, originally as England, Spain, France
+or the Netherlands; the Old World exists only as a place you trade with. The game has a very strong American focus -- the goal is to become an independent nation
+(why not try being friendly with the old world instead?), instead of scientists, you have statesmen who provide bonuses by making the colonies politically stronger,
+and there are weird special units that can be used for your independence war.
+While in Civilization each "townsperson" was the same, in Colonization they all can leave their colonies (to travel to another
+colony, possibly using weapons or horses), and they all have specializations (soldiers, scouts, farming, industry...). In the game data I have found a "teacher" specialization
+that was not available in the actual game, which I found quite funny -- schools can be used to share a specialization with younger people, but obviously you want to teach them
+something useful, not "teaching". Quite a complex game, with many kinds of resources (rather than just three available in Civ), probably too complex to me.
+
+GAME Quadropus Rampage
+VAL pc year=2013 7drl aquatic played=2013 xp=1 topdown realtime exp combat slasher procgen randomized seq vectorart endless free
+A rather professional-looking game submitted to an early 7DRL competition, a kind of "action roguelike" with an aquatic theme, and not much complexity if I recall correctly.
+I see that its mobile version seems to have 1M+ downloads and over 60K reviews, but it does not seem to be talked about anywhere. I guess it is more complex than the 7DRL
+version, but I have not played it.
+TAGCMT free
+The 7DRL version was free, not sure how free the mobile one is, but it says "ridiculous amount of free content".
+
+GAME Princess Maker
+VAL year=1991 anime=? medieval=? xp=0 economy=? nonspatial=? turnbased=? randomized=? seq=?
+I have no idea what it is, but it has inspired {PrincessRL}.
+
+GAME Wordle
+VAL web year=2021 abstract wordgame played=2021 xp=3 timegate turnbased wordgame topdown randomized seq endless ascii free
+This is a well-known and influential web word game, with cool one-per-day design, and a cool system of sharing your story for the given day online, without giving the
+answer again. We have been playing Wordle daily for quite a long time, not only the original, but also the versions in various languages, whether we
+know these languages or not (consistent with the somewhat well-known phenomenon of {Scrabble} tournaments being won by people who do not actually speak the given language
+and just have learned the dictionary well).
+
+GAME Crawl
+VAL pc year=2017 xp=1 lores medieval topdown realtime multiplayer exp combat roguelite rpgclasses rpgstats rpgequip procgen randomized modalbattle seq traps
+A party game taking some inspiration from roguelike dungeon crawlers. One player takes the role of a "hero", and the others play as monsters trying to stop the hero's progress.
+The name Crawl was originally somewhat annoying to me because one of the most popular and best roguelikes was commonly referred to as Crawl then, but somehow the problem has solved itself
+and that other game is now referred to as {LDC} or {DCSS}. 
+
+# recent games
+
+GAME Tunic
+VAL pc year=2022 played=2025 xp=2 animaltheme isometric connections hscroll vscroll ability return nonlinear ghosts realtime exp combat models megaitch bossfights rulediscovery secrets riddles
+This is considered one of leading examples of the "metroidbrainia" genre. After playing it, I still do not feel that I understand the idea of this "genre". You still collect upgrades like in a
+typical metroidvania. You collect manual pages during the game, and these manual pages are filled with puzzles, and occassionally explain some combination of keys that is crucial to the
+progression. So, similar to {Animal Well}, to me, it is just a metroidvania with some secrets and riddles, rather than some new quality.
+
+It seems we did a sequence break when playing Tunic -- there were some bushes that one is supposed to remove with a sword; however, the swords used by the enemies work too! So we led
+the enemies to the bushes, gain access to rather hard areas; not having the sword, we played these areas like a stealth game, which was quite annoying. Then we actually did find the
+sword and the rest of the game was more fun.
+
+GAME Touhou Crawl
+VAL pc year=2025 played=2025 xp=1 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid roguelike anime uniquetheme free randomized manualsave exp combat
+This is very similar to {Dungeon Crawl Stone Soup}.
+It feels like a total conversion, although as far as I understand it is not one (i.e., it is independently programmed). The base design is very similar (the layout of the dungeon, race/class selection, god altars, skills, autoexplore) but the gods, items, monsters, spells are mostly all replaced with Touhou. (I see some DCSS spells such as Mephitic Cloud.)
+
+I think it is more cool if you know the Touhou universe (my only experience so far with Touhou is watching Bad Apple many times, and Touhou Crawl does not seem to explain this universe), but it is still very cool!
+
+GAME Path of Exile
+VAL pc year=2013 played=2025 xp=2 rpgequip rpgstats rpgconsume arbi3 hscroll vscroll nonlinear procgen return rpgclasses rpgquests free nopersist medieval realtime exp combat minigames models photorealistic ext randomized bossfights traps multiplayer engineering
+I have tried this to see how much of the {roguelike philosophy} remains in this game. And I think that, from games extremely popular today,
+Path of Exile is one of the those in which this philosophy is the most clearly visible. The non-persistent map instances still remind me of {Angband}.
+
+I like how everything is aligned to the three core attributes (Strength, Dexterity and Intelligence). Each core attribute is aligned to one way of avoiding damage.
+"Gem skills" are also aligned to attributes, so what skills you can use also depends on your build. Each item is aligned to one or two (or three?) attributes, so
+whether you focus on a single attribute or on many, you will find items that match your build.
+
+There is a system of skill gem sockets -- your skills are represented as gems that you socket in your equipment. Sockets in a given piece of equipment can be linked;
+in a single group of linked sockets you can put both "main" and "support" gems, and as a result, the spells (etc.) given by the "main" gems will be affected by the
+modifiers coming from the "support" gems. The main/support system is cool enough to give this game the {tag:engineering} tag due to programmable magic, although
+I do not like how it is linked to items -- if I could just replace my equipment when it has better stats, without taking into account that that new equipment has
+worse sockets, I would be more happy to change my equipment commonly.
+
+After Act I, the game seemed very boring; I decided to check what people online think, and they say that the campaign gets better, and anyway the campaign is just
+a huge, mandatory tutorial for the actual game that follows after the campaign is completed. I have played the campaign till the end, and it indeed got better, although
+I did not like the amount of weird minigames that got introduced on the way. In the end, monsters were likely to one-shot me, which was annoying -- from what I read,
+I should have had 3000 energy shield by then, but I had only about 1000; probably I underinvested in defense. I read that some players play permadeath -- cool for them,
+although I commonly died because of bad connection. (This is basically the only game in this database of this kind -- online only -- and I am not a fan of that:
+I do not care about playing with random people, and otherwise, it mostly introduces problems.)
+
+(I was also drawn due to comparisons to {Path of Achra} and {Tales of Maj'Eyal}. I think they said Path of Achra to be like Path of Exile but without such a long period
+of building and thus more fun. Yeah, I agree with that, altohough I prefer roguelikes less focused on builds.)
+
+GAME The Incredible Machine
+VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=1 lores abstract fixed seq simulationism
+A rather unique game.
+
+GAME E-Motion
+VAL pc year=1993 played=1995 realtime topdown nonlogic xp=4 gem=1 shapegfx abstract fixed seq
+
+GAME Loopz
+VAL pc year=1993 played=1995 realtime topdown shapepuzzle xp=2 shapegfx abstract randomized tiny
+
+GAME Maniac Mansion
+BY Lucasfilm
+BY Ron Gilbert
+VAL pc year=1987 played=1993 turnbased riddles itemuse sideview moderntheme xp=3 lores fixed connections
+
+GAME North and South
+BY Infogrames
+VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown sideview platformer xp=4 lores difflevels military fixed multiplayer
+
+GMAE Bubble Bobble
+BY Firebird
+VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer
+I mostly played the Amiga version, although I think I did play the Amstrad CPC one too. Very fun. Some powerups such as the "water" that could wash away 
+the enemies were interesting.
+
+GAME Wonder Boy in Monster Land
+VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq
+Quite a fun game! I played it a lot. A sequence of big levels, you could find cash to upgrade your equipment, including better swords and some limited-use stuff such as bombs.
+Unfortunately I have been unable to play it on a emulator.
+
+GAME Unfair Flips
+VAL pc year=2025 played=2025 gambletheme nonspatial timegate incremental twistpixel xp=3 randomized tiny
+A cheap Steam game that seems to be a parody of something... not sure what it is, roguelites, incremental games, or dark patterns.
+
+GAME Universal Paperclips
+BY Frank Lantz
+VAL web year=2017 played=2017 scifi nonspatial ascii timegate incremental xp=3 tiny fixed free
+An AI-themed incremental game.
+
+GAME Cookie Clicker
+VAL web year=2013 played=2019 notheme nonspatial ascii timegate incremental xp=1 tiny fixed free=?
+A famous incremental game, I tried it to see what it actually is.
+
+GAME A Dark Room
+VAL web year=2013 played=2014 notheme nonspatial ascii timegate incremental xp=1 tiny fixed free mono
+An incremental game with some more things to do, but I do not remember much.
+
+GAME Hades
+VAL pc year=2017 played=2025 gem=-1 xp=1 greek roguelite isometric realtime combat randomized unlocks itemlock metapower seq bossfights modalbattle hires traps oneofthree
+The developers of Hades did lot of damage by deciding to market this death loop as roguelike.
+A roguelike fan would fit nothing interesting here, there are basically no non-trivial similarities to roguelikes.
+Maybe it is a bit similar to {Hoplite} due to the theme of exploring the ancient Greek hell and getting boons from gods.
+It is supposed to have a great story built around death loop, but I did not see this while playing for 1.5 hours
+(of course actual roguelikes are not looped and may have great narratives like {Caves of Qud}, and {Baroque} did a death loop narrative in 1998).
+
+GAME Baroque
+VAL console year=1998 played=2025 scifi roguelite fpp realtime idminigame exp combat randomized procgen unlocks=? metapower=? seq camscroll twistpixel xp=1
+This is a game building a narrative around a death loop -- as in, you play the game repeatedly, if you die, you return to the beginning.
+So the idea is quite similar to what is commonly attributed to {Hades}, although done already in 1998! Also, contrary to Hades, it has obvious similarities
+to roguelikes -- in particular, it has procedural generation and identification system similar to {Rogue} and Mystery Dungeon games. Unfortunately it does
+not have the {tag:roguelike} system of controlling the flow of time, so I found it quite slow and boring, and played just a few runs.
+
+GAME The Binding of Isaac
+BY Edmund McMillen
+VAL pc year=2011 played=2012 gem=-1 xp=1 weirdtheme roguelite topdown realtime dodger combat randomized procgen idminigame unlocks itemlock seq bossfights modalbattle flick hires ext secrets
+I played this game expecting something similar to a roguelike, but I did not get it. No procedurally generated maps, no strategically picking whether or where you fight --
+instead, rooms which lock their doors in combat. No items like in a normal RPG -- instead, arcade-ish upgrades. And, to mention the obvious, the gameplay is more like
+{Zelda} than {Rogue}. So I found it a very bad game.
+
+Unfortunately, this game became very popular with people who have never played a roguelike, and created a new genre... Apparently people now think that roguelikes do not have procedural
+generation (but locked predesigned rooms and randomized upgrades) and that run-based gameplay is a defining feature of roguelikes. This sucks, basically.
+
+GAME Minecraft
+BY Notch
+VAL pc year=2009 xp=0 notheme survival crafting destructible true3 grid orthogrid realtime procgen randomized openworld fpp camscroll models simulationism ext manualsave secrets
+I have not played actual Minecraft, only the opensource clone {Minetest}. This is clearly the most popular game inspired by roguelikes, and also it was quite inspirational how a
+single developer made lots of money with a game with rather poor graphics. Although modern Minecraft is no longer owned by Notch.
+
+GAME Luanti
+AKA Minetest
+VAL pc year=2010 played=2024 xp=2 notheme survival crafting destructible true3 realtime procgen randomized openworld fpp camscroll models simulationism ext free manualsave secrets
+An opensource clone of {Minecraft}, formerly called Minetest.
+
+GAME Ultima
+BY Richard Garriott
+VAL oldpc year=1980 played=2023 xp=1 notheme exp combat topdown realtime grid orthogrid=? fixed multiperspective hscroll vscroll camscroll lores vectorart=?
+I have not played games in this famous series. Only {Ring of Darkness} which was supposedly very similar to Ultima, and {FTA2} which was supposedly similar to Ultima VIII.
+
+GAME UnReal World
+VAL pc year=1992 xp=0 prehistoric exp topdown turnbased grid diagrid procgen randomized roguelike hscroll vscroll openworld midres photorealistic
+I have not played games in this famous series. Only {Ring of Darkness} which was supposedly very similar to Ultima, and {FTA2} which was supposedly similar to Ultima VIII.
+
+GAME Oregon Trail
+VAL oldpc year=1974 played=2023 xp=1 western nonspatial trail randomized roguelite turnbased economy exp seq ascii
+An early adventure game. Apparently has very high sales, according to Wikipedia. I think it is used in US schools as an educational game?
+TAGCMT turnbased
+It has some real-time hunting, but this is not a big part of the game.
+
+GAME Flappy Bird
+VAL android year=2013 xp=0 western nonspatial trail randomized realtime platformer autoscroll hscroll lores
+I think I have played this famous game at some point. But I have played more {SFCave}.
+
+GAME Neverball
+VAL pc year=2003 xp=1 abstract realtime platformer physics tpp fixed seq models shapegfx free
+An opensource game about rolling a ball.
+
+GAME Flare
+VAL pc year=? xp=3 played=2015 free pc medieval realtime isometric hscroll vscroll xp=3 rpgequip rpgconsume rpgstats rpgquests photorealistic exp combat connections fixed
+A game/engine intending to be an open-source clone of {Diablo}, but as common with such open-source clones, I do not think there is much point to play that over the original.
+(Better to play opensource games that are much better than commercial games, such as roguelikes.) Contrary to Diablo the flagship campaign is fixed.
+
+GAME Dwarf Fortress
+AKA Slaves of Arnok Part II: Dwarf Fortess
+VAL pc year=2024 ea=2002 xp=0 free tolkien topdown army exp roguelike multigenre procgen randomized hscroll vscroll openworld ascii economy midres=?
+I have not played this game (more than a quick look). Seems like a game taking lots of time.
+TAGCMT multigenre
+This game has a "colony sim" mode (a city builder) and an "adventure" mode (which is roguelike), hence the multigenre status.
+
+GAME Fidel Dungeon Rescue
+VAL pc roguelike year=2017 xp=3 megaitch topdown combat turnbased grid orthogrid lores seq randomized logic animaltheme=2 played=2019
+This game is listed as "roguelite" in its Steam description, although it is a roguelike according to my definition -- although definitely a very non-standard one,
+and clearly one that would not fit some cultural expectations.
+As you move, you leave your "dog leash" behind you, and you are allowed to "go backwards" to undo your moves, which makes it closer to puzzle standards, but
+goes against the traditional roguelike focus on "permadeath". The puzzles are still procedurally generated, there is a linear campaign and there are also some
+sets of levels outside of this campaign -- which are, interestingly, also randomized, and sometimes it is not actually possibly to win. Anyway, a not so famous
+game that tests the boundaries of roguelikes.
+
+GAME Machinarium
+BY Amanita
+VAL pc itemuse year=2009 played=2012 itemuse scifi timeless fixed connections hires epicfree topdown xp=3
+A well-known point-and-click adventure game about robots, although I do not remember much, other than its rather cool graphical style.
+
+GAME Manifold Garden
+VAL pc fpp year=2019 played=2019 shapegfx spacebending exp logic seq timeless fixed true3 xp=1 abstract
+A game in a three-dimensional torus. The architecture looks very cool, I believe William Chyr is an architect.
+Unfortunately, based on the demo, I did not find the gameplay very interesting -- a spacebending walking simulator, the puzzles in the demo were not really interesting.
+
+GAME Monument Valley
+BY ustwo games
+VAL android isometric vectorart spacebending exp logic timeless seq fixed true3 year=2014 played=2018 xp=3 epicfree notheme
+A game based on impossible figures such as Penrose triangles (also commonly associated with Escher, although discovered earlier by Oscar Reutersvärd).
+The developers wanted to create a game in which every individual screenshot is beautiful, and it shows -- it is a beautiful exploration game.
+That is enough for my recommendation. However, do not expect good puzzles. The puzzles basically solve themselves.
+
+GAME Monument Valley 2
+BY ustwo games
+VAL android isometric vectorart spacebending exp logic timeless seq fixed true3 year=2017 played=2018 xp=3 epicfree notheme
+A sequel to {Monument Valley}. The puzzles are a bit harder, but not by much.
+
+GAME Patrick's Parabox
+VAL pc topdown shapegfx spacebending logic timeless seq fixed year=2023 played=2023 xp=1 abstract
+A game like Sokoban but without a bit of spacebending -- you can zoom inside the boxes! The demo was very nice, although I am not that into puzzle games to play the full version.
+
+GAME World of Goo
+VAL pc isometric hires nonlogic realtime seq fixed sciencegame year=2008 played=2010 xp=3 engineering weirdtheme
+One of early {indie} gems that is somehow not discussed much anymore. A very fun game, like {Bridge Builder} but more lighthearted.
+
+GAME Bridge Builder
+VAL pc isometric shapegfx nonlogic realtime seq fixed sciencegame year=2000 played=2006 xp=3 engineering free moderntheme
+A simple free game that was an inspiration for {World of Goo}. As the name suggests, you build bridges out of available components.
+The bridge should not break under the weight of cars trying to cross. There were some paid sequels but I have not played them.
+
+GAME Fragments of Euclid
+VAL pc spacebending exp logic timeless seq=? true3 fixed connections year=2018 played=2019 xp=3 shapegfx=? fpp abstract free
+Quite a nice exploration of Escheresque portal spaces. After going through a few portals, you may end up in the same place, but the gravity will affect you in a different way.
+
+GAME Superhot
+VAL pc year=2016 xp=1 played=2018 shooter dodger fpp pauseable moderntheme camscroll seq=? fixed=? uniquegfx epicfree
+I should probably comment on this game because the definition of {tag:roguelike} tag might remind people of Superhot.
+Unfortunately, we have tried playing Superhot but it did not work on our Linux computer. I managed to run it later, but I mostly only tested it to check that it works,
+so I cannot comment much on it. Anyway, I often see comparisons of roguelikes to Superhot, although to me, Superhot seems more "pauseable" than Rogue-style time control.
+
+GAME Socrates Jones: Pro Philosopher
+VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free
+An educational game about philosophy and debates, supposedly in the style of Ace Attorney, but I know nothing about that. A very fun, free game.

@@ -1,0 +1,794 @@
+# CPC games
+
+GAME Knight Lore
+BY Ultimate Play the Game
+VAL year=1985 played=1987 isometric realtime platformer cpc xp=2 gothic nonlinear lores fixed
+
+One of isometric adventure games. It was cool but I have not played it that much, I think my casette stopped working.
+
+GAME Roland in the Caves
+BY Amsoft
+VAL year=1984 played=1988 sideview realtime platformer cpc xp=2 hscroll vscroll medieval lores fixed seq
+
+One of games about Roland (the mascot of Amstrad CPC). You need to escape a cave from some dragon-like creature. Not a very notable game.
+
+GAME Roland in Space
+BY Amsoft
+VAL year=1985 played=1987 sideview realtime platformer cpc xp=3 scifi nonlinear hscroll vscroll lores fixed collectathon
+
+A platformer in which you explored large scrolling levels to collect all the stuff. These huge levels were quite interesting, I preferred it to {Roland in Time}, for example.
+Loved the Blue Danube music.
+
+GAME Roland in Time
+BY Amsoft
+VAL year=1985 played=1987 sideview realtime platformer cpc xp=1 scifi nonlinear lores fixed collectathon
+
+A platformer, a bit in the style of {Jet Set Willy}, but less cute, and with a time travel theme. I had not played it that much, I preferred {Roland in Space}, which had a more interesting world.
+
+GAME Roland on Ropes
+BY Amsoft
+VAL year=1984 played=1988 realtime sideview cpc xp=4 pyramids hscroll vscroll lores fixed collectathon
+
+A game where you explored a maze, finding treasures, fighting ghosts, and looking for the exit. I played it quite a lot, although today I do not think it was anything special.
+
+GAME Roland Ahoy
+BY Amsoft
+VAL year=1984 played=1987 multiperspective topdown sideview realtime platformer cpc xp=3 pirate multigenre lores fixed overworld minigames
+
+A game where you had a ship and had to collect gunpowder (while avoiding enemy fire), destroy a wall, collect treasure, and drop it off in your treasure cave. Rather repetitive.
+
+GAME Killer Gorilla
+VAL year=1984 played=1987 sideview realtime platformer cpc xp=2 lores fixed notheme seq
+A clone of {Donkey Kong}. You had four platformer levels where you had to climb upwards to meet a big gorilla.
+
+GAME Chuckie Egg
+VAL year=1985 played=1987 sideview realtime platformer cpc xp=4 animaltheme lores fixed seq
+A platformer with quite a few very interesting ideas. No fall damage, and you bounce off walls, so jumping from above to hit bottom platforms was quite unique.
+Ostriches moving randomly. After 8 levels, they repeated, but now, there were more ostriches, or a big duck chasing you that could fly everywhere.
+I played more {Chuckie Egg II}, but Chuckie Egg was interesting too.
+
+GAME Snake
+VAL year=1982 played=1987 sideview realtime grid cpc xp=2 abstract animaltheme=2 ascii randomized tiny orthogrid collectathon
+A CPC version of the classic game, I think it is the most known from Nokia mobile phones.
+
+GAME Planete Base
+BY Loriciel
+VAL year=1984 played=1986 cpc realtime xp=3 lores notheme multiperspective fixed minigames collectathon sciencegame
+The first educational game I have played. This one is about positional number systems, you could exchange 3 fruits to 1 fruit of a higher tier, and thus learn
+the ternary number system. I do not think it was very interesting, though.
+
+GAME Ghostbusters
+BY Activision
+VAL year=1984 played=1987 cpc multiperspective sideview topdown realtime xp=2 gothic lores randomized metapower minigames multigenre economy
+Great music (from the Ghostbusters movie). You had to supply your car, then find ghosts in the town and catch them (without crossing rays, or something). I think a bit too hard for me to understand back them.
+
+TAGCMT metapower
+I do not remember this from playing this game myself, but I read it has an option of starting with more money after "earning" them in previous runs.
+
+GAME Oh Mummy
+BY Amsoft
+VAL year=1984 played=1986 cpc topdown realtime xp=3 pyramids lores randomized seq collectathon
+A game a bit like {Pacman}, you had to surround rectangles with your footprints to 'explore' them, to find treasure, weapons, or extra mummies to chase you.
+Quite a memorable music (called "Arabian riff"), also known from many other games.
+
+GAME Weetabix versus the Titchies
+VAL year=1984 played=1987 sideview realtime shooter cpc xp=2 lores weirdtheme fixed seq
+A game in the style of {Space Invaders}, with a wide guy who promoted some Weetabix cereal. Quite fun.
+
+GAME Er*Bert
+VAL year=1984 played=1987 cpc xp=3 isometric realtime weirdtheme lores fixed seq collectathon
+A clone of Q-Bert. I liked the isometric graphics, but I do not remember playing it much.
+
+GAME Finders Keepers
+BY Mastertronic
+BY David Jones
+VAL year=1986 played=1988 cpc xp=3 gem=1 multiperspective sideview realtime platformer topdown medieval multigenre hscroll vscroll nonlinear female lores fixed return itemuse economy
+That was quite an interesting game, a proto-metroidvania of sorts. You explored some castles (like in a platformer) and also there was a top-down maze.
+You could find (or buy) items that could be combined (pile of mud + spark of life = mud monster), used (mostly to permit movement), or sold to buy more important items.
+(I list this as 'female protagonist' because that is apparently supposed to be the big reveal in the fifth game in the series, that is still in the works in 2025;
+although the game manual refers to the Magic Knight as 'she'.)
+
+GAME Pyjamarama
+BY Mikro-Gen
+VAL year=1984 played=1987 cpc xp=3 gem=1 sideview realtime platformer nonlinear moderntheme lores fixed itemuse flick
+A proto-metroidvania. The world was basically a big house, you could find items that could be used for specific purposes, lots of weird stuff like going to Moon, you had to wake up your boss or something.
+
+GAME Spellbound
+BY Mastertronic
+BY David Jones
+VAL year=1986 played=1989 cpc xp=3 sideview realtime platformer medieval female lores fixed flick nonlinear return itemuse
+A sequel to {Finders Keepers}. You explored a world with about 40 screens, found items, used them, talked to people. A bit too complex for me, I preferred {Finders Keepers}.
+
+GAME Bridge-It
+VAL year=1984 played=1987 cpc xp=2 realtime lores fixed=? otherlinear moderntheme tiny=? exp=?
+A not very interesting game about a maze with bridges. (This is Bridge-It on CPC, not a sequel to {Bridge Builder} which I have not played.)
+
+GAME Sultan's Maze
+BY Amsoft
+VAL year=1984 played=1990 cpc fpp xp=1 lores arabian=? slasher=? fixed=? camscroll realtime=?
+An early first-person perspective game, although I have not played it that much.
+
+GAME Gauntlet
+BY Atari Games
+VAL year=1984 played=1989 cpc xp=1 realtime topdown tolkien lores fixed seq multiplayer exp combat
+I think I have played this famous game just once, with my brother. I probably should play it again...
+Apparently it was a clone of much less well known Dandy Dungeon, and not procedurally generated only because the dev of Dandy Dungeon has not heard about Rogue.
+
+GAME Manic Miner
+BY Matthew Smith
+VAL year=1984 played=1986 cpc xp=2 gem=2 sideview realtime platformer lores weirdtheme fixed seq collectathon
+A classic 8-bit platformer, and a prequel to {Jet Set Willy}. A sequence of 20 levels. I had great fun playing {Manic Miner PC} around 1999.
+For me it is the most canonical platformer, basically the analog of {Mario} for 8-bit computers. It was meant to be similar to {Donkey Kong},
+but it became its own thing; still, some levels are clearly a reference.
+
+GAME Fruity Frank
+VAL year=1984 played=1986 cpc xp=1 topdown realtime lores animaltheme fixed seq collectathon
+One of the first games I remember playing. A bit like {Digger}. Unfortunately the casette did not work well, so I have not played it that much.
+
+GAME Alien 8
+BY Ultimate Play the Game
+VAL year=1985 played=1987 cpc xp=2 isometric realtime platformer scifi nonlinear lores fixed
+I have played this isometric adventure platformer quite a lot, although not without much success, and not as much as {Sweevo's World}. true3
+
+GAME Punchy
+VAL year=1984 played=1988 cpc xp=2 sideview realtime platformer lores notheme fixed seq
+A platformer with simple levels, you just had to go from left to right, avoiding holes.
+After 4 levels you played the same 4 levels again 3 times more, but with extra difficulty like missiles flying above you.
+
+GAME Macadam Bumper
+VAL year=1985 played=1988 cpc xp=3 gem=1 sideview realtime physics platformer lores gambletheme fixed tiny leveleditor endless
+A pinball game. The great thing about it was that you could design your own pinball tables (and save them). 
+
+GAME Frogger
+BY Konami
+VAL year=1981 played=1989 cpc xp=1 topdown realtime animaltheme=2 lores fixed=? tiny dodger endless
+A famous game, but I did not play it that much. (On CPC I think.)
+
+GAME Argo Navis
+VAL year=1985 played=1988 cpc xp=3 gem=1 sideview realtime platformer scifi multigenre nonlinear lores fixed collectathon exp
+A platformer with about 40 screens, you had to collect glowing things, store it in a special screen, and return.
+There were enemies to shoot and radar spots where the game became a simple flight simulator, for some weird reason.
+It was good (and simple?) enough for me to win it.
+
+GAME One Man and His Droid
+BY Mastertronic
+VAL year=1986 played=1989 cpc xp=3 gem=2 sideview realtime nonlogic scifi hscroll vscroll lores fixed passsave destructible
+One of my favorite games on CPC, Mastertronic did lots of great stuff. You controlled a robot with four powers, and
+had to lead creatures to their goal in the correct order. There were 20 levels, and on higher levels you could find passwords which you
+could enter to start from them.
+
+GAME Blagger
+VAL year=1984 played=1988 cpc xp=2 sideview realtime platformer lores notheme fixed seq collectathon
+A game similar to {Manic Miner}, but not as good.
+
+GAME Time Man One
+VAL year=1984 played=1986 cpc xp=3 abstract lores sideview minigames turnbased randomized difflevels=? nonlogic sciencegame
+An educational game for children, you could learn to read a clock, nothing special.
+
+GAME Jet Set Willy
+BY Matthew Smith
+VAL year=1985 played=1987 cpc sideview realtime platformer xp=1 nonlinear lores weirdtheme flick fixed collectathon
+A famous 8-bit game, a platformer where you explored a big mansion.
+
+GAME Spindizzy
+VAL year=1986 played=1988 cpc realtime isometric physics xp=3 nonlinear abstract lores fixed flick exp
+It was similar to Marble Madness (which seems to be remembered better).
+An isometric game where you travelled through a bit world (over 200 screens)
+and collected gems. A kind of a physics game.
+
+GAME Hard Hat Mack
+VAL year=1985 played=1987 cpc realtime sideview platformer xp=1 lores moderntheme fixed seq
+A platformer a bit in the style of {Donkey Kong}, not interesting.
+
+GAME Airwolf
+BY Amsoft
+VAL year=1985 played=1987 cpc realtime xp=2 military lores sideview fixed seq exp=?
+A game where you played as a helicopter flying through some dungeon-ish mazes.
+Hard and a bit weird, and not in the good way.
+{Airwolf II} was more fun, although it was a more typical horizontal shmup.
+
+GAME Sir Lancelot
+VAL year=1984 played=1986 cpc xp=2 realtime sideview platformer medieval nonlinear lores overworld fixed collectathon overworld
+A platformer with about 20 levels that you could play in any order. One of the first games I have played, but nothing special.
+TAGCMT overworld
+choice between rooms... I guess it is overworld enough
+
+GAME Super Pipeline II
+VAL year=1985 played=1987 cpc realtime gem=2 xp=3 moderntheme lores sideview fixed seq shooter
+A game where you played as a guy moving on a pipeline whose job was to fix holes (the job was actually done by your two helpers),
+there were various enemies who hurt you or damaged the pipes. After some levels there were cool animations.
+I liked it quite a lot.
+
+GAME Saboteur
+VAL year=1986 played=1988 cpc realtime sideview xp=3 platformer eastern nonlinear slasher lores flick fixed
+A platformer-ish where you played as a ninja, you had to set up a bomb or something. {Saboteur II} was cooler.
+
+GAME Bruce Lee
+BY Datasoft
+VAL year=1984 played=1987 cpc gem=2 xp=3 realtime sideview platformer eastern slasher lores fixed nonlinear flick exp traps
+Quite an interesting beat-em-up platformer. Quite a big world, with many screens with different challenges.
+There were two opponents (knight-like and sumo-like), with two players one player could control the sumo.
+I have won it.
+
+GAME Rock Hopper
+VAL year=1985 played=1986 cpc xp=3 logic turnbased sideview grid destructible abstract lores orthogrid fixed seq
+A puzzle game, a bit like {Boulder Dash} but turn-based.
+
+GAME Chuckie Egg II
+VAL year=1985 played=1988 cpc xp=4 realtime sideview platformer nonlinear lores animaltheme fixed flick itemuse collectathon exp manualsave
+A proto-metroidvania with a huge map (120 levels) with platforming exploration, you had to collect items,
+to create a chocolate egg, then carry that egg outside. There were also useful items such as ladder,
+baskets or locks. I have played this quite a lot.
+
+GAME View to a Kill
+VAL year=1985 played=1989 cpc xp=2 realtime sideview platformer nonlinear moderntheme lores flick fixed itemuse exp
+A weird proto-metroidvania game based on a James Bond movie.
+
+GAME Highway Encounter
+BY Vortex Software
+VAL year=1985 played=1988 cpc xp=4 realtime isometric scifi hscroll gem=1 lores return randomized=? shooter blackboard
+A yet another original isometric game from Mastertronic. You had to push a weapon through 30 levels,
+you control one robot while your extra "lives" work as pushers. There were some enemies, so it was
+a good idea to kill those first before letting your extra lives get exposed while pushing. 
+I had quite a lot of fun playing it on an emulator. (I count it as a diagonal scrolling game -- while
+the game skips from, say, zone 25 to zone 24 without continuous scrolling, the world is logically seamless.)
+
+GAME Sweevo's World
+BY Gargoyle Games
+VAL year=1986 played=1988 cpc xp=3 realtime isometric gem=2 weirdtheme nonlinear lores fixed flick itemuse
+An isometric almost-platformer with a rather large world. You could collect items and do fun things with them.
+I played it quite a lot.
+
+GAME Cauldron II
+BY Palace Software
+VAL year=1986 played=1988 cpc xp=3 realtime sideview platformer gem=2 nonlinear ability medieval lores fixed=? exp
+That game was essentially a metroidvania. One unique thing was that you were a jumping pumpkin
+that could shoot and also collect items (like axes or shields) which let you explore more of the castle,
+so the movement was quite unique. It was fun to draw the map of the world to see a nice Halloween-style castle.
+
+GAME Green Beret
+BY Konami
+VAL year=1986 played=1987 cpc xp=2 realtime sideview hscroll shooter military lores fixed bossfights=?
+A game where you fight Russians as a member of American special forces. My mother did not like the war theme so I have not played it that much.
+
+GAME Commando
+BY Capcom
+VAL year=1985 played=1989 cpc realtime shooter topdown xp=2 vscroll military lores fixed
+A rather well-known shoot-em-up. I have not played it that much.
+
+GAME Bomb Jack
+VAL year=1986 played=1988 cpc realtime sideview platformer xp=2 lores notheme fixed seq
+A platformer where you could jump quite high and had to collect all the bombs on the level. Nothing special.
+
+GAME Fairlight
+VAL year=1986 played=1988 cpc realtime isometric xp=2 medieval lores fixed flick nonlinear hscroll=? vscroll=? itemuse
+This adventure game was rather strange.
+
+GAME Cauldron
+BY Palace Software
+VAL year=1985 played=1988 cpc xp=3 realtime sideview platformer shooter multigenre hscroll female medieval lores overworld fixed overworld
+You play as a witch who flies on a broom and shoots, and enters caves which play like a platformer. 
+Did not play much, I preferred {Cauldron II}.
+
+GAME Ghosts'n'Goblins
+BY Capcom
+VAL year=1986 played=1988 cpc xp=3 realtime sideview platformer hscroll medieval lores fixed
+A game famous for being hard. Too hard to be fun.
+
+GAME Roland Goes Digging
+BY Amsoft
+VAL year=1984 played=1988 cpc xp=3 gem=1 realtime sideview lores notheme fixed seq platformer traps
+You are a guy with a spade who has to dig in the correct places to prevent enemies from catching him, and to make them die of falling.
+Quite unique, one of my favorite games on CPC.
+
+GAME Boulder Dash
+BY Peter Liepa
+VAL year=1985 played=1987 cpc xp=3 gem=2 grid orthogrid realtime sideview hscroll vscroll destructible lores notheme fixed nonlogic collectathon traps
+A rather well-remembered 8-bit game, a bit like a grid puzzle, but it was an action game where precise timing matters.
+Basically a genre that was perfected by the two games it had (Boulder Dash and {Supaplex}), so no more popular games were created in
+that genre. Quite fun to learn that Peter Liepa later got interested in hyperbolic tessellations.
+If you have not tried it, definetely recommended, although I have played more {Boulder Dash III} and {Boulder Dash Construction Kit}.
+
+GAME Boulder Dash III
+BY Peter Liepa
+VAL year=1986 played=1988 cpc xp=3 gem=2 realtime grid nonlogic sideview scifi hscroll vscroll destructible lores fixed orthogrid seq collectathon traps
+Just like Boulder Dash but with a more sci-fi theme (only graphics were changed, I think there were no new items). I preferred it to the original {Boulder Dash}.
+
+GAME Karl's Treasure Hunt
+VAL year=1984 played=1989 cpc xp=4 realtime sideview platformer nonlinear lores notheme fixed collectathon exp
+A Jet-Set-Willy-style platformer but easier, I have managed to collect all 40 keys from 40 screens and win, so it was more fun.
+
+GAME Starquake
+VAL year=1986 played=1990 cpc xp=2 gem=2 realtime sideview platformer scifi nonlinear shooter lores flick randomized exp blackboard
+A very fun proto-metroidvania, with a huge world (about 100 screens), and lots of items you could use (codes, keys, quest items, etc.).
+
+GAME Equinox
+BY Mikro-Gen
+VAL year=1986 played=1990 cpc xp=4 gem=1 realtime scifi lores sideview seq flick fixed collectathon
+I remember this game well, you are a robot flying through 8 large levels. Very fun, I have actually won it.
+
+GAME Batman
+BY Ocean Software
+VAL year=1986 played=1989 cpc xp=3 realtime isometric platformer superhero nonlinear lores fixed exp
+One of isometric adventure platformers in the style of later {Head over Heels}. I would rather recommend Head over Heels.
+
+GAME Caves of Doom
+BY Mastertronic
+VAL year=1985 played=1989 cpc xp=2 realtime sideview platformer scifi nonlinear lores leveleditor fixed exp
+A rather strange platformer where you explored a large world. You could edit the map, so that was quite cool.
+
+GAME Zorro
+BY Datasoft
+VAL year=1985 played=1988 cpc xp=4 gem=1 realtime sideview platformer superhero lores fixed flick nonlinear return itemuse exp
+A rather original adventure platformer. A bit similar to {Bruce Lee} but different theme.
+
+GAME Three Weeks in Paradise
+BY Mikro-Gen
+VAL year=1986 played=1988 cpc xp=2 gem=1 realtime sideview nonlinear lores weirdtheme fixed itemuse
+A sequel to {Pyjamarama} where you are stranded on an island, I remember Pyjamarama better.
+
+GAME Munch-It
+VAL year=1985 played=1987 cpc gem=1 xp=3 realtime topdown lores notheme fixed seq collectathon
+A {Pacman} clone.
+
+GAME Gunfright
+BY Ultimate Play the Game
+VAL year=1986 played=1987 cpc xp=3 isometric realtime shooter western hscroll vscroll lores seq randomized=? modalbattle
+A game where you walked in isometric perspective until you found an outlaw. Then the game changed into a shootout scene where you had to aim at the outlaw and shoot first. 
+A bit unique, although nothing special.
+
+GAME Tales of the Arabian Nights
+VAL year=1985 played=1987 cpc xp=1 realtime sideview platformer arabian lores fixed seq collectathon=?
+A not very notable platformer.
+
+GAME Killapede
+BY Activision
+VAL year=1986 played=19867 cpc xp=1 realtime animaltheme shooter lores topdown randomized tiny
+A clone of {Centipede}. Do not remember much about it, other than that there was a long centipede walking on the screen that you could shoot.
+
+GAME Ikari Warriors
+VAL year=1986 played=1987 cpc xp=2 realtime topdown shooter vscroll military lores fixed multiplayer
+A fun game in the style of {Commando}.
+
+GAME Saboteur II
+VAL year=1987 played=1992 cpc realtime sideview platformer xp=5 gem=2 nonlinear eastern slasher female lores fixed passsave difflevels exp
+This game should be more well known, many people remember {Metroid} for its female protagonist, but Saboteur II was IMO much more notable for that, because she was clearly a woman all the time.
+Quite a large world, about 100 screens, maybe more. A proto-metroidvania, although not much character progression.
+After winning you could enter the code to play again, but this time it was harder (you had to disable more security, collect more codes, etc.)
+I have played it until I have finished the late levels (although there was some cheat, I do not remember whether I have used it).
+Great SID music by Rob Hubbard that years later I have found and put on my music player. (I have seen some claims that the music was written but not actually used in the game,
+which was clearly false, so maybe non-CPC versions did not include it?)
+
+GAME Chimera
+BY Firebird
+VAL year=1985 played=1992 cpc realtime isometric xp=2 scifi lores fixed flick nonlinear itemuse
+An isometric adventure, nothing special.
+
+GAME Impossible Mission
+BY Epyx
+VAL year=1986 played=1990 cpc realtime sideview platformer nonlinear randomized xp=3 gem=1 moderntheme lores flick exp
+An example of an early non-roguelike game inspired by Rogue -- it randomized the layout of its rooms. Apparently very popular back then, but mostly forgotten.
+
+GAME Hero of the Golden Talisman
+BY Mastertronic
+VAL year=1986 played=1992 cpc realtime sideview platformer nonlinear=0 xp=4 gem=1 shooter lores notheme fixed itemuse exp
+Wikipedia describes this game as 'Metroidvania', I do not think I agree (it was mostly linear), but still a proto-metroidvania. 
+You explored a large complex of caves, shot monsters, collected items that let you proceed further (keys, candles, special weapons). Quite cool, I have won
+it many times. (Although the version I have played apparently had its map changed slightly, letting you skip like half of the game.)
+
+GAME Rebelstar
+BY Julian Gollop
+BY Firebird
+VAL year=1986 played=1992 cpc turnbased topdown grid xp=4 gem=3 scifi nonlinear hscroll vscroll shooter squad lores diagrid fixed difflevels multiweapon multiplayer shapegfx
+One of my favorite games on CPC. This later evolved into {XCOM} / UFO, made by the same developer, Julian Gollop. 
+While Rebelstar was quite primitive compared to XCOM, being a single mission with basic AI, it had lots of its charm, like
+the 'shooting mode' where the enemies were replaced with circles and you had to hit these circles with a straight line.
+Quite complex simulation, with stamina, items, and so on. See {Archrebel Tactics} for a modern take, it seems very good.
+
+GAME Arkanoid
+BY Taito
+VAL year=1987 played=1988 cpc realtime physics xp=3 gem=1 scifi lores seq sideview fixed
+A rather famous game, I think I wanted to play it more than I played it (I think the casette did not work well).
+You had to bounce a ball at a wall, you had to destroy the whole wall like that, sometimes you got special power-ups
+like glue or triple ball (as far as I know, this was a cool improvement over the original {Breakout}), 
+and some enemies that the ball could hit.
+I also remember playing (or watching) a variant with more interesting powers like more powerful "bomb" balls, but only once.
+(Not sure what it was -- I remember the name as Arkanoid II, so probably it was Arkanoid: Revenge of Doh.)
+
+GAME Prohibition
+VAL year=1986 played=1987 cpc realtime shooter xp=1 moderntheme lores sideview fixed hscroll
+A game where you could see gangsters in windows and you had to shoot them before they shot you, I do not think there was more to it.
+
+GAME Airwolf II
+VAL year=1987 played=1990 cpc realtime shooter xp=3 scifi hscroll autoscroll military lores sideview fixed multiweapon bossfights=?
+An early shmup I remember the best. I think it was more cool than {R-Type}.
+
+GAME 3DC
+VAL year=1987 played=1991 cpc isometric xp=2 realtime aquatic lores flick nonlinear fixed return itemuse blackboard secrets=?
+Yet another isometric adventure.
+
+GAME Deflektor
+BY Vortex Software
+VAL year=1987 played=1992 cpc gem=2 realtime physics nonlogic grid xp=3 abstract lores diagrid topdown fixed seq blackboard
+An action puzzle where you could control mirrors and you had to hit targets with a laser beam. Very fun.
+
+GAME Krakout
+BY Gremlin Graphics
+VAL year=1987 played=1988 cpc realtime physics xp=3 gem=1 abstract lores sideview fixed seq
+A clone of {Arkanoid}, but with a horizontal layout. 
+Quite fun, it had more interesting powers/creatures than Arkanoid. Lots of levels.
+So while Arkanoid is more classic, Krakout is more interesting.
+
+GAME Metro-Cross
+BY Namco
+VAL year=1987 played=1989 cpc realtime hscroll racing xp=3 sports lores autoscroll sideview platformer fixed seq
+A racing game where you skate. It was quite cool.
+
+GAME Amazing Shriking Man
+VAL year=1986 played=1989 cpc realtime sideview platformer xp=2 hscroll vscroll weirdtheme lores fixed itemuse exp traps rulediscovery=?
+A rather weird game where you were a tiny man in some trash and could collect items and do some things.
+
+GAME Venom Strikes Back
+VAL year=1988 played=1989 cpc realtime sideview platformer racing xp=3 scifi hscroll shooter lores fixed seq multiweapon exp secrets
+A platformer. I remember there was some huge rocket that we did not know how to go through.
+
+GAME Cybernoid
+VAL year=1988 played=1989 cpc realtime sideview xp=1 scifi lores flick fixed shooter=?
+A game where you guided a flying robot through a maze. Not remember much.
+
+GAME Boulder Dash Construction Kit
+BY Peter Liepa
+VAL year=1986 played=1990 cpc realtime grid nonlogic sideview xp=3 gem=2 hscroll vscroll destructible lores leveleditor orthogrid notheme fixed traps
+A game where you could create your own {Boulder Dash} levels! How cool is that?!
+
+GAME Head over Heels
+BY Ocean Software
+VAL year=1987 played=1992 cpc realtime isometric platformer nonlinear xp=3 gem=2 lores weirdtheme fixed flick squad exp
+An isometric adventure. This one was especially notable because you controlled two characters
+with distinct powers; that was quite unique. You could also put Head over Heels to make them go
+together as a single entity.
+
+GAME Alien Highway
+BY Vortex Software
+VAL year=1986 played=1992 cpc realtime isometric xp=3 scifi hscroll randomized gem=1 shooter lores blackboard
+A sequel to {Highway Encounter}. One unique thing about Highway Encounter (your spare lives pushing the thing automatically)
+is no longer true here, you just push yourself. On the other hand, this game was made more interesting by ordering the zones randomly.
+
+GAME Ramparts
+BY Atari Games
+VAL year=1988 played=1989 cpc realtime sideview xp=2 medieval lores fixed seq dodger multiplayer=?
+I think it was a clone of an arcade game. You were a giant punching walls to bring towers down.
+Was definitely fun, but I could not play it that much.
+
+GAME Pac-land
+BY Namco
+VAL year=1989 played=1989 cpc realtime xp=2 gothic hscroll lores platformer sideview seq fixed
+I do not remember much about this one, there was some huge lake and I did not know how to proceed.
+
+GAME Mange Cailloux
+BY Loriciel
+VAL year=1987 played=1988 cpc realtime grid nonlogic xp=2 lores diagrid=? notheme topdown randomized=? seq
+I think it was a clone of an arcade game called Pango. Levels are filled with blocks that you could push to attack monsters.
+
+GAME Zub
+BY Mastertronic
+VAL year=1986 played=1988 cpc realtime sideview platformer xp=4 scifi hscroll vscroll lores fixed blackboard
+An original game that I have played quite a lot. You had to use platforms to climb the sky, you had to move the platforms if they were not aligned correctly with the higher ones.
+Featured lots of weird text on the intro screen (and in other places). Cool music by David Whittaker.
+
+GAME Ranarama
+VAL year=1987 played=1992 cpc realtime topdown shooter xp=4 gem=3 medieval nonlinear lores fixed secrets
+A very cool and original game that I still play from time to time. You are a frog (or rather a wizard turned into a frog). You could cast spells, to do that you had to collect runes
+by battling wizards in a mental battle (in which you had to order the 'ranarama' letters to win), and then you need to use a collection of runes to cast a spell which gave
+you better offense/defense/special ability/power. I still play that from time to time. There is a remake from 2008 but I prefer the original.
+
+GAME R-Type
+VAL year=1988 played=1989 cpc realtime shooter xp=2 scifi hscroll autoscroll lores sideview fixed multiweapon=?
+A well known shmup that I do not remember much, I preferred {Airwolf II} in the same style.
+
+GAME Defend or Die
+VAL shooter sideview hscroll year=1981 played=1990 gem=1 scifi xp=1 realtime lores fixed
+A {Defender} clone.
+
+GAME Antiriad
+AKA Sacred Armor of Antiriad
+VAL year=1986 played=2024 cpc realtime platformer xp=1 gem=1 scifi nonlinear ability return lores fixed flick sideview exp
+An example of a metroidvania from before {Metroid}; it was notable for that reason.
+I remember watching my brother play it; I have also tried a PC remake, but it was not that great,  the control was not very nice.
+
+GAME Splat!
+BY Amsoft
+VAL year=1985 played=1993 cpc realtime nonlogic xp=4 gem=1 topdown grid weirdtheme hscroll vscroll autoscroll lores orthogrid fixed traps
+A game where you controlled some spider-like creature. A rather large map, the view scrolls in two dimensions, so you could only see a small window.
+However, that scrolling was automatic, and you had to keep your spider-like creature inside the view, avoiding the maze-like obstacles.
+As far as I recall, the first seven levels progressed through the map in steps, while the eighth level was about going back to the start in a straight line.
+There were some weird stuff like some things sometimes being of wrong color and thus acting differently (for example, green grass normally increased your score and black walls 
+blocked your movement but black grass blocked and green squares increased score), or things changing color on their own (you get the idea, you had to hit the right color).
+PNG Splat Splat map, from https://maps.speccy.cz/map.php?id=Splat
+
+GAME Grand Prix Simulator
+BY Software Projects
+VAL year=1987 played=1988 racing fpp xp=2 moderntheme lores seq fixed turnbased=?
+The first first-person racing game I have played.
+
+GAME Eden Blues
+BY Loriciel
+VAL year=1987 played=1990 cpc xp=2 realtime moderntheme lores arbi3 fixed flick=? nonlinear economy
+A game about escaping a prison, I do not remember much about it.
+
+## low information CPC games
+
+GAME Sorcery
+VAL year=1985 played=1987 cpc fpp xp=1 realtime nonlinear medieval lores fixed flick itemuse=?
+A proto-metroidvania-ish game. I do not remember much about it.
+
+GAME Galaxia
+VAL year=1984 played=1989 cpc xp=1 shooter realtime scifi hscroll autoscroll lores sideview fixed
+I think it was a side-scrolling shmup game. I do not remember much.
+
+GAME Space Eggs
+VAL year=1985 played=1990 cpc xp=1 shooter topdown realtime scifi lores randomized=? tiny=? blackboard
+It was some {Asteroids} clone, but I do not remember much.
+
+GAME Juggernaut
+VAL year=1985 played=1987 cpc xp=2 realtime topdown moderntheme lores fixed=? flick economy=?
+A game about driving a truck, I do not remember much.
+
+GAME Xanagrams
+VAL year=1984 played=1987 cpc wordgame xp=1 topdown turnbased abstract ascii randomized=? tiny=?
+Some {Scrabble}-like game. I do not remember mostly anything.
+
+GAME Gilligan's Gold
+BY Ocean Software
+VAL year=1984 played=1990 cpc realtime sideview platformer xp=2 medieval lores flick=? fixed collectathon=?
+A platformer where you were in a mine and had to collect gold. I remember playing it, but not much.
+
+GAME Mutant Monty
+VAL year=1984 played=1989 cpc realtime xp=1 lores notheme topdown seq=? fixed collectathon
+I do not remember much about this game.
+
+GAME Sabre Wulf
+BY Ultimate Play the Game
+VAL year=1985 played=1987 cpc xp=4 realtime medieval lores topdown fixed flick=? collectathon=?
+I do not remember much about this.
+
+GAME Fantastic Voyage
+VAL year=1984 played=1997 cpc xp=2 realtime scifi bacteria lores flick nonlinear sideview fixed collectathon=? sciencegame=?
+A game based on a book (or movie?) by Asimov, where you got miniaturized and travelled through a body, I do not remember much.
+
+GAME Rocky Horror Show
+VAL year=1985 played=1988 cpc gem=1 realtime weirdtheme lores xp=1 sideview fixed=? flick=? itemuse=?
+I do not remember much about it...
+
+GAME Wriggler
+VAL year=1985 played=1988 cpc xp=1 realtime topdown animaltheme lores racing fixed flick
+A game where worms race. I do not remember much.
+
+GAME Willow Pattern
+VAL year=1986 played=1987 cpc xp=1 realtime lores notheme=? topdown=? fixed flick=? collectathon=?
+I do not remember much.
+
+GAME Miami Vice
+BY Ocean Software
+VAL year=1986 played=1988 cpc realtime xp=2 gem=1 moderntheme lores flick=? fixed topdown shooter=? vehicles
+A game about driving a car, I do not remember much about it. 
+
+GAME International Karate 1
+VAL year=1986 played=1987 cpc realtime slasher xp=1 eastern lores sideview fixed seq multiplayer=?
+A fighting game, I do not remember much about it.
+
+GAME Split Personalities
+VAL year=1986 played=1988 cpc xp=1 realtime nonlogic grid abstract lores orthogrid topdown randomized=? seq
+I do not remember much about this game.
+
+GAME Don't Panic
+BY Firebird
+VAL year=1985 played=1988 cpc realtime xp=1 lores notheme sideview fixed tiny=? platformer=?
+I do not remember much about this game.
+
+GAME Ballblazer
+BY Lucasfilm
+BY Activision
+VAL year=1987 realtime fpp sports scifi lores played=1990 xp=1 fixed camscroll shooter=?
+Something sport-like.
+
+GAME Barbarian: The Ultimate Warrior
+BY Palace Software
+VAL year=1987 realtime fpp slasher medieval lores seq xp=0 fixed multiplayer=?
+A fighting game, I do not remember much, possibly I have only watched.
+
+GAME Batman: The Caped Crusader
+VAL year=1989 superhero lores realtime played=1991 sideview itemuse=? exp xp=1 fixed flick=? nonlinear
+Was interesting, but too complex for me.
+
+GAME Batty
+VAL year=1987 xp=1 physics realtime abstract lores played=1989 sideview seq fixed
+Yet another clone of {Arkanoid}. I do not think there was much interesting about it.
+
+GAME Muri
+VAL year=1987 xp=1 played=1989 physics realtime leveleditor abstract lores fixed seq sideview
+Yet another clone of {Arkanoid}/{Breakout}. I do not remember much about it, but it had a level editor.
+
+GAME Bobby Bearing
+VAL year=1986 xp=1 played=1988 abstract lores nonlinear flick isometric physics fixed realtime
+A bit like {Spindizzy} but I preferred Spindizzy.
+
+GAME Bomb Jack II
+VAL year=1987 xp=1 played=1988 lores notheme sideview platformer fixed seq realtime
+I remember the original {Bomb Jack} better.
+
+GAME Booty
+VAL year=1986 xp=1 played=1988 pirate lores sideview collectathon=? connections=? flick realtime fixed
+I do not remember much about it.
+
+GAME Everyone's a Wally
+BY Mikro-Gen
+VAL year=1985 played=1987 xp=1 moderntheme lores sideview itemuse fixed flick realtime
+A sequel to {Pyjamarama} where you play as many people doing their jobs. I do not remember much about it.
+
+GAME Exolon
+VAL year=1987 played=1990 xp=1 lores sideview platformer scifi fixed flick=? realtime
+I do not remember much about it.
+
+GAME Feud
+VAL year=1987 played=1988 xp=1 medieval lores topdown=? exp=? crafting=? fixed flick=? realtime multiplayer=?
+I do not remember much about it.
+
+GAME Spion
+VAL cpc notheme xp=2 played=1989 topdown multigenre lores year=? fixed seq realtime=?
+I cannot find information about this game online. You had to open an eye. Some time later, I have found out that you could actually open your eye, and (presumably after waking up)
+continue with your mission.
+
+GAME Kong Strikes Back
+BY Ocean Software
+VAL cpc year=1984 played=1988 xp=3 realtime lores seq notheme sideview fixed collectathon
+You have to collect items on a rollercoaster track, avoiding hazards by climbing ladders. Quite fun.
+
+GAME Alex Higgings World Pool
+BY Amsoft
+VAL cpc year=1985 xp=3 played=1988 cpc physics topdown turnbased gambletheme shooter moderntheme lores randomized tiny multiplayer
+Just a simple simulation of 8-ball Pool. Nice music.
+
+GAME The Scout Steps Out
+VAL cpc year=1985 xp=1 played=1990 cpc topdown weirdtheme moderntheme lores exp=? fixed flick nonlinear realtime
+Some weird game about scouts. I did not know what "scout" means (it was about boy scouts, not reconaissance soldiers).
+
+GAME Arnhem
+VAL cpc year=1985 xp=0 cpc pc topdown turnbased military lores fixed hscroll vscroll army multiplayer=? nonlogic
+An early strategy game for CPC. I mostly looked at my brother or father playing it, and liked how the units were represented by small or large squares.
+
+GAME Spy vs Spy
+VAL cpc year=1984 xp=1 played=1986 cpc notheme lores sideview realtime exp itemuse=? fixed connections=? multiplayer traps
+A split-screen multiplayer video game. I am not sure whether I played it or just watched, it was not much anyway.
+
+GAME Zolyx
+VAL cpc year=1987 gem=1 xp=2 played=1988 cpc topdown realtime abstract pixelsim randomized seq endless shapegfx nonlogic
+A game with a large open area with some enemies, you had to go through that area without an enemy hitting you or your path, after crossing the line would become "solid"
+and any area without enemies would become a part of your score. Later such games got referred to as Xonix, so I thought Xonix was an original, but apparently the
+original was {Qix} and Zolyx and {Xonix} were clones of it.
+
+GAME Diamond Digger
+VAL pc year=1986 played=1987 sideview cpc xp=1 realtime logic destructible lores notheme spacebending fixed seq collectathon
+A bit similar to {Boulder Dash} or {Rock Hopper}, in that you had to collect treasures and avoid falling rocks. In this game, the rocks would fall quite easily, so you would die
+if you were on the way of a rock falling downwards or rolling left or right (contrary to Boulder Dash where you could temporarily block such a rock with your character).
+However, one thing made it different: you had an ability to scroll a whole row left or right, and you had to use that to collect e.g. diamonds just below rocks. That made it a bit of
+a logic game (with limited time). Interesting, but I do not remember playing it much. My brother said that he has written it (or I misinterpreted, I found it fishy anyway -- I see it
+was a type-in game, so I think he just typed it in).
+
+GAME Mission Elevator
+VAL cpc year=1986 played=1989 vscroll moderntheme lores sideview realtime exp xp=2 fixed secrets
+I have played this one quite a bit... climb a high building using elevators, searching the furniture for keys or something.
+TAGCMT exp
+You search furniture for stuff, so it counts as exploration I guess.
+
+GAME Train: Escape to Normandy
+VAL cpc year=1988 played=1993 vscroll multigenre shooter western military lores minigames xp=1 multiperspective fixed=? realtime
+There was a CPC on one of summer camps I attended, and this game was played there, but I do not remember much. It involved shooting and some train riding simulation.
+
+GAME Teenage Queen
+VAL cpc year=1989 played=1999 moderntheme gambletheme photorealistic randomized xp=3 cardgame seq nonspatial turnbased
+I have found this game in a collection of emulated CPC games, and the title looked weird, so I checked it out. A simulation of Poker against some lady who ultimately turns out to be a robot.
+Always funny to find people who thought that displaying this kind of graphics would be a good use of CPC's rather crude capabilities.
+
+GAME Obsidian
+VAL cpc year=1985 played=1989 lores xp=1 notheme=? sideview itemuse=? fixed flick realtime
+I do not remember it well... but I think it was a quite nice proto-metroidvania-ish adventure game.
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/o/index.html
+
+GAME Pacific
+VAL cpc year=1987 played=1989 aquatic xp=3 sideview realtime exp fixed flick lores
+I do not remember much more than the nice graphics, and that you had to pump oxygen.
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/p/index.html
+
+GAME Battle Ships
+VAL cpc year=1987 played=1988 military lores multiperspective topdown fpp grid orthogrid tiny randomized turnbased nonlogic xp=3 multiplayer=?
+Basically a computer adaptation of a popular pencil-and-paper game about placing your ships on a grid and then guessing where your enemy put their ships.
+With some cool graphics, you would see actual cannonballs flying at the enemy ships (but somehow you would actually see these skips in these graphics, so
+couldn't you just aim at them instead of guessing?...)
+
+GAME Ole' Toro
+VAL cpc year=1985 played=1988 lores xp=1 sideview moderntheme slasher=? fixed tiny=? realtime
+Some bullfighting game, not remember much about about it.
+
+GAME Dun Darach
+BY Gargoyle Games
+VAL cpc year=1985 played=1986 medieval lores xp=1 sideview realtime itemuse fixed connections
+A game with a rather odd graphical style, you could see only a 2D slice of a 3D world (the street you were walking on), with
+some adventure elements, although I mostly remember only that there was a character named Pita.
+
+GAME Homerunner
+VAL cpc year=1984 played=1986 platformer lores xp=1 notheme sideview fixed=? seq=? realtime
+Not a very interesting game, I think it was some kind of a demo.
+
+GAME Gameover
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/g/index2.html
+VAL cpc year=1986 played=1991 lores platformer sideview xp=1 scifi=? fixed flick=? realtime
+I do not remember much about this one.
+
+GAME Mermaid Madness
+BY Capcom
+VAL cpc year=1986 played=1988 female aquatic flick sideview lores itemuse xp=2 nonlinear return fixed realtime
+A game where you play a mermaid, collecting items that unlock new parts of the map, like a lamp that make otherwise black parts visible. I do not remember much.
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/m/index5.html
+
+GAME Molecule Man
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/m/index9.html
+VAL cpc lores year=1986 xp=0 isometric platformer weirdtheme fixed flick=? nonlinear=? realtime exp
+Do not remember anything.
+
+GAME Monty on the Run
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/m/index10.html
+VAL cpc lores year=1985 played=1988 xp=1 sideview platformer flick fixed notheme= realtime
+Do not remember anything.
+
+GAME Rambo III
+BY Ocean Software
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/m/index12.html
+VAL cpc military lores year=1988 played=1989 xp=1 topdown shooter multiweapon fixed flick realtime
+I have mostly watched my brother play it, we have reached somewhere and we did not know how to free the prisoner.
+
+GAME Scooby Doo
+BY Gargoyle Games
+# https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/s/index3.html
+VAL cpc weirdtheme lores year=1986 played=1990 xp=1 sideview exp fixed=? flick=? realtime
+I do not remember much.
+
+GAME Trivial Pursuit
+VAL cpc year=1985 played=2025 turnbased lores xp=2 gambletheme sideview seq randomized multiplayer nonlogic
+A trivia game, with a nice animated walking character, some questions playing music.
+
+GAME The Vera Cruz Affair
+VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed nonlogic seq
+Noticed this when checking out CPC games while making this review site. A murder mystery game made by an actual policeman, sounded interesting.
+But I have forgotten to read the instructions so I could not progress far. Seems it has some nasty pixel hunting at the beginning too.
+
+GAME Werewolves of London
+VAL cpc moderntheme gothic lores year=1987 xp=1 played=1990 sideview itemuse fixed flick=? realtime
+I do not remember much.
+
+GAME Wonder Boy
+VAL cpc year=1987 played=1989 platformer hscroll realtime medieval lores xp=2 sideview fixed
+When checking out CPC games while making this review site, I have noticed this and it looked familiar, with frogs and skateboard...
+I suppose I remembered this game but i could only play it a bit, and I remember the much better {Wonder Boy in Monster Land} on Amiga more
+(this one was not that great actually).
+
+GAME Ring of Darkness
+VAL cpc year=1985 played=1999 medieval lores xp=3 topdown slasher fixed overworld seq realtime exp
+I have not played it on Amstrad CPC originally, but somehow it was among the games I have played later on an emulator. Not sure why I have picked it, maybe 
+I wanted to play something similar to a roguelike? It feels quite similar to {Ultima} which I have not played then, and CRPG Addict confirms that, also saying
+that Ultima was not known in Europe, which also agrees with my experiences.
+
+GAME Sapiens
+VAL cpc year=1986 played=1989 multiperspective gem=1 prehistoric xp=1 lores openworld survival fixed procgen economy realtime sciencegame
+While making this site, I remembered playing/seeing a game on Amstrad CPC where you were some kind of a caveman, and one of the things you could do was to create
+stone tools by hitting a piece of flint in correct locations... did not remember the name at first...so yeah, Sapiens was that.
+
+From what I read now, it looks like a very ambitious and original game for its time:
+survival mechanics, multiple perspectives (both 3D and sideview), procedurally generated maps with fractal trees, manage your tribe. So basically a more
+historically accurate predecessor of {Minecraft}. Somehow the wikipedia article lists only {UnReal World} as a predecessor of the survival genre. I have not
+really played this, but it looks like something that should be more well known. The original Amstrad CPC version is probably too old and ugly to be enjoyable, 
+but apparently there is a remake for modern systems <a href="https://www.myriad-online.com/en/products/sapiens.htm">here</a>.
+
+GAME Technician Ted
+VAL cpc year=1984 played=1986 cpc fpp xp=2 gem=2 sideview realtime platformer lores moderntheme fixed flick collectathon=?
+I think I have tried it... basically a blatant clone of {Jet Set Willy}.

@@ -1,0 +1,155 @@
+GAME Rocket-eraser
+BY zenorogue
+VAL cpc scifi abstract played=1987 topdown turnbased collectathon fixed tiny ascii
+The first "game" I remember making. It was something like, you play as a rocket (why? because there was a rocket character in the default CPC font) and you had
+to erase the whole screen.
+
+GAME Go-to-the-end
+BY zenorogue
+VAL cpc abstract played=1989 seq topdown turnbased logic ascii fixed
+Yet another early game. Something like a block puzzle based on the
+concept of sliding floors. I doubt my puzzle design skills were
+adequate by then.
+
+GAME Faces
+BY zenorogue
+VAL cpc abstract played=1991 ascii fixed sideview nonlogic realtime seq
+Amstrad CPC had a nice character set that included two faces (one happy,
+one unhappy). You could also define your own characters by using binary, so
+I defined quite a lot of faces and made a game about that. I think it was 
+something in the style of {One Man and His Droid}.
+
+GAME Tokam
+BY zenorogue
+VAL pc abstract played=1992 sideview logic turnbased fixed seq midres
+I do not remember how this game was supposed to be called. It was
+a turn-based grid-based puzzle, with gravity and a bit of {Boulder Dash} influences,
+I think? In general, I liked to draw similar puzzle levels on a grid paper, too. 
+I doubt my puzzle design skills were adequate by then, though... 
+to be honest, I do not think they are adequate, but it does not matter,
+as I switching to roguelikes, also turn-based and grid-based, but procedurally
+generated.
+
+GAME blocking
+BY zenorogue
+VAL pc abstract played=1993 shapegfx topdown turnbased multiplayer shapepuzzle picklevel fixed
+A computer implementation of the paper-and-pencil game I have invented. I have 
+sent the rules of the paper-and-pencil game to the local newspaper column about
+paper-and-pencil games, and they actually printed it! It was quite fun to play
+against my schoolmates, too.
+
+GAME Keys-and-keylets
+BY zenorogue
+VAL pc played=1992 abstract sideview platformer seq fixed realtime vectorart
+An early game written by me in Turbo Pascal. Some kind of platformer, where you were playing as
+a walking key and also collecting keys to open doors.
+
+GAME some kind of Tetris?
+BY zenorogue
+VAL pc played=1994 abstract lores sideview shapepuzzle realtime randomized tiny
+I think it was some kind of Tetris, using 256-color VGA graphics, but I do not remember how
+it differed from the original.
+
+GAME Animals
+BY zenorogue
+VAL pc played=1989 animaltheme ascii nonspatial turnbased nonlogic randomized tiny
+A very basic game, sometimes used as a way to learn programming (I mean, it was not my idea):
+the player thinks about some
+animal X, the computer has to guess it (by asking yes/no questions). Its questions are based
+on a decision tree, and eventually the computer guesses an animal Y; if incorrect, the
+computer asks what animal it was, and asks the user to suggest a question which separates X
+from Y (thus making the decision tree larger). Around 1994 I have also made a more complex
+version, which was not based on a decision tree, but rather a matrix of questions / answers,
+for more variety.
+
+GAME Wheel of Fortune
+BY zenorogue
+VAL pc played=1994 abstract nonspatial wordgame turnbased randomized seq ascii
+Just a clone of the popular TV show.
+
+GAME Ball
+BY zenorogue
+VAL pc abstract lores realtime nonlogic sideview fixed seq played=1995
+A game inspired by {Bumpy} (which I have played once at my friend's place and liked but never
+played again), Rube Goldberg machines, and maybe {E-Motion} a bit. You have a number of
+balls, rolling around a level, with some Rube-goldberg-style contraptions (such as rotating
+fan-like shapes which caused every second ball to go forward or drop); the player had control over
+some of these. I believe the goal was to make the specific pairs of balls meet (without
+hitting other balls). The level was constructed from rectangular tiles, a ball could enter a tile
+in 8 ways (two halves of four edges), and I had to define how each tile affects each of 8 ways.
+Probably the most original of my games so far.
+
+GAME Firer
+BY zenorogue
+VAL pc scifi lores realtime shooter topdown fixed seq played=1996
+A bit like Space Invaders but you fight large ships (that is, of similar size as yours).
+
+GAME Bum
+BY zenorogue
+VAL pc played=1997 military realtime multiplayer fixed picklevel multiweapon sideview platformer lores destructible pixelsim
+This game was inspired by artillery games, such as {Scorched Earth} (also featuring tanks), 
+and {Worms} that my schoolmates liked to play; although it was in real time, so more like
+{Liero} (which did not exist yet then). It also included
+some falling sand elements, although it was difficult to make these run fast on the computers
+we had back then. I was very impressed by {Noita} much later, it was actually possible
+to do the stuff I wanted, and much better! It was my most
+serious game up to that point, that I played with my schoolmates (if they wanted to play
+that instead of Worms), however, at some point I lost the newest version of my source code,
+and I did not care to rewrite it.
+
+GAME Eiteme
+BY zenorogue
+VAL palmos played=1999 abstract nonlogic topdown turnbased multiplayer fixed picklevel lores
+My game for PalmOS, never released. Essentially Gomoku with some configurable variants (change the line length, change the 'line' shape, block tiles, add gravity, etc.).
+
+GAME Vapors of Insanity
+BY zenorogue
+VAL pc ea=2011 played=1999 tolkien midres blackboard ascii topdown turnbased exp combat engineering procgen randomized openworld free destructible manualsave roguelike
+My big roguelike project that unfortunately did not get much attention, so I did not work on it further after my first release.
+Originally started as a team project with some friends, but then, only I remained.
+Seamless open world. Complex simulation. Programmable magic. No working society (because I thought including that would be too much). Probably {Caves of Qud} would be
+the closest modern roguelike.
+
+GAME Untahris Playground
+BY zenorogue
+VAL pc abstract multigenre topdown sideview realtime shapepuzzle shooter platformer nonlogic fixed picklevel lores free xp=2 year=2006 played=2006
+Take a bunch of classic game designs ({Snake}, {Tetris}, {Xonix}, {Liero}, etc.) and let multiple players play on the same board. This game is available online, although
+nobody seems to 
+
+GAME Lasers'n'Engines
+BY zenorogue
+VAL pc scifi shooter realtime engineering fpp fixed camscroll models free ea=2005 played=2005
+I remember talking with some friends about someone adding 'strafe' hotkeys to {NetWars}; one of the friends wondered whether strafing would be practical for a spaceship.
+The idea of this game came from that. A game in which you build spaceships -- kind of inspired by {Stars!} probably, but here, you build the spaceships in 3D, and the
+way you place the components matter. So the engines would generate jet force according to the laws of physics, so a single engine placed centrally would cause acceleration,
+while two placed non-centrally could be used to rotate. I implemented this idea but never pushed it further.
+
+GAME Chromatic Dodger
+BY zenorogue
+VAL pc notheme sideview platformer flick blackboard realtime fixed played=2009
+A 2D platformer where the third 'dimension' is represented by color, so if you were 'green' you would treat other 'green' objects as obstacles, and ignore 'red' objects.
+Mostly an idea, I think I implemented a basic platformer, but did not care much about progressing with this project. I am not sure whether it would be seen as that original
+(similar dimension-shifting happens in {Guacamelee}, although with only two layers -- in my idea, it was the whole spectrum of colors). But I think it would be quite interesting
+when '2D platformer' is replaced with first-person shooter? Then we would get a cool 4D game!
+
+GAME Hydra Slayer
+BY zenorogue
+VAL pc greek year=2010 played=2010 turnbased exp nonlogic roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps
+My second biggest game, so everyone should play it!
+
+GAME HyperRogue
+BY zenorogue
+VAL pc medieval year=2011 played=2011 turnbased multigenre exp slasher roguelike xp=5 topdown hscroll vscroll procgen randomized openworld ascii vectorart spacebending free leveleditor traps multiplayer endless=0.5
+My biggest game, so everyone should play it! I have written lots about its inspirations.
+
+GAME HD
+BY zenorogue
+VAL pc played=1999 fpp notheme spacebending timeless exp fixed camscroll twistpixel
+A game influenced by some things I have heard about: portal engines for first-person perspective games, and hyperbolic geometry. 'HD' stands for Hyperbolic Doom.
+I did not really know how to do hyperbolic geometry then, though. I implemented a portal engine with scaling portals (that does not really work in hyperbolic geometry anyway...)
+and stopped at that.
+
+GAME Seuphorica
+BY zenorogue
+VAL pc year=2024 played=2024 xp=3 notheme wordgame grid orthogrid spacebending randomized hscroll vscroll picklevel turnbased ascii shapegfx topdown free
+A deckbuilder inspired by {Scrabble} and {Dominion}.
