@@ -1189,6 +1189,7 @@ A {Scrabble} deckbuilder. Before creating {Seuphorica} I was looking for existin
 for some reason. 
 
 GAME Braid
+BY Jonathan Blow
 VAL xp=3 played=2011 year=2008 moderntheme sideview platformer logic realtime seq vscroll hscroll lores fixed connections
 A good platformer/puzzle game based on time travel mechanics, that was one of the games that started the indie boom. I prefer {Deadly Rooms of Death} as early puzzle games go, but
 Braid is definitely also very good. Also a nice artistic take on a societal problem.
