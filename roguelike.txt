@@ -110,10 +110,10 @@ turn-based dodging. A great game that I highly recommend. See also {Jupiter Hell
 GAME POWDER
 BY Jeff Lait
 VAL pc roguelike medieval xp=4 year=2003 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll return procgen rpgclasses traps idminigame exp combat ascii lores connections=? hscroll vscroll orthogrid free randomized
-This is the biggest roguelike by Jeff Lait, a famous figure in the roguelike circles. Other than creating
-POWDER, Jeff Lait regularly created very good entries in the 7DRL challenge, and he was also an Oscar winner. 
-POWDER is a roguelike designed for GameBoy. I have won it, and it was very good, although I prefer roguelikes designed for
-a computer.
+This is the biggest roguelike by {by:Jeff Lait}. Designed for GameBoy. I have won it, and it was very good, although I prefer roguelikes designed for a computer.
+
+ABOUTBY Jeff Lait
+A famous figure in the roguelike circles. He created {POWDER}, regularly created very good entries in the 7DRL challenge, and he was also an Oscar winner.
 
 GAME Brogue
 BY community
