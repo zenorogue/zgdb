@@ -401,7 +401,7 @@ GAME North and South
 BY Infogrames
 VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown sideview platformer xp=4 lores difflevels military fixed multiplayer
 
-GMAE Bubble Bobble
+GAME Bubble Bobble
 BY Firebird
 VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer
 I mostly played the Amiga version, although I think I did play the Amstrad CPC one too. Very fun. Some powerups such as the "water" that could wash away 
