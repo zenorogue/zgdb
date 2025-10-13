@@ -7,6 +7,7 @@ This is a game famous for starting or influencing multiple genres, but most peop
 I think that every roguelike fan should try, just to see whether it matches their idea of what Rogue is!
 The DOS version can be played here: <a href="https://playclassic.games/games/role-playing-dos-games-online/play-rogue-online/">online DOS emulator</a>.
 PNG rogue-epyx-dos-1984 Epyx Rogue for DOS (1984)
+PNG rogue-atarist-1986 Rogue for Atari ST (1986)
 
 GAME Linley's Dungeon Crawl
 VAL pc roguelike tolkien xp=4 gem=2 year=1995 played=2001 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear hscroll vscroll economy free randomized bossfights manualsave ammolimit secrets traps
