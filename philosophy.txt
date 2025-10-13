@@ -22,7 +22,7 @@ games that way is actually fun. This database does not feature permadeath as a t
 it is essentially meaningless as a method of categorizing games -- mostly anything can be
 played permadeath or not, as a player's choice; and furthermore, this philosophy is more
 generic to many {strategy} games, and even solitaires from XIXth century. (In early roguelike
-definitions it was not mentioned or more of  quality measure.)
+definitions it was not mentioned or more of a quality measure.)
 This philosophy
 has inspired the {roguelite philosophy}.
 
@@ -34,6 +34,7 @@ and the {tag:simulationism} philosophy that lead to actually the biggest games s
 to early roguelikes.
 
 GAME roguelite philosophy
+AKA roguelite
 VAL philosophy pc notheme year=2008 ea=1986 xp=4 gambletheme combat randomized unlocks itemlock metapower seq modalbattle deckbuilder enginebuilder rpgstats rpgclasses roguelite ddlike spireview trail
 
 The roguelite philosophy started as a combination of the mastery {roguelike philosophy} and the
@@ -99,7 +100,7 @@ focuses on some of these properties without being shooters anymore.
 TAGCMT rulediscovery
 Apparently map "secrets" are a part of this philososophy.
 
-GAME western RPG philosophy
+GAME CRPG philosophy
 VAL philosophy pc medieval exp fixed rpgequip rpgconsume rpgstats rpgquests rpgclasses xp=2 year=1980
 
 GAME strategy philosophy
@@ -129,14 +130,32 @@ must have been very at interpreting even slight hints as darkness. Generally the
 of darkness.)
 
 GAME thinky philosophy
-VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982
-Games about solving problems. Mostly puzzle games (the handcrafted ones, 75% of which
-are {tag:grid}-based), but {strategy} and {tag:rulediscovery} games are welcome too.
+VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982 spacebending engineering
+Games about solving problems. The name refers to the "thinky games" website and community,
+which is in turn an offshoot of Alan Hazelden's thinky puzzle discord started in 2018.
+This discord was somewhat difficult to find and yet apparently most of the names (big
+or small) I know working on such games are there. I think this just means that these
+people are good at solving puzzles.
+The core is puzzle games (the handcrafted ones, 75% of which are {tag:grid}-based),
+although, among others, {strategy}, {tag:rulediscovery}, {tag:spacebending}, and {tag:engineering}
+games are welcome too.
 
-The name refers to the "thinky games" website, which is in turn an offshoot of
-Alan Hazelden's thinky puzzle discord started in 2018. This discord was somewhat difficult
-to find and yet apparently most of the names (big or small) I know working on such games
-are there.
+I find many aspects of this philosophy/community similar to their {roguelike} counterparts.
+In roguelikes you also solve problems. There are games regarded as gems in this community
+which have not been very popular elsewhere. There is a feel of a community of authors and
+players highlighting great experimental games (similar to roguelikes, but some other genre
+communities feel very focused on self-promotion). Their ThinkyCons are inspired by similar
+roguelike meetings.
+
+There are some differences too. The "core" part, thinky puzzle games, are considered
+elegant when have just one solution, and when the puzzle is small, containing just the
+thing you need to solve the puzzle. The puzzle should be handcrafted, and probably
+abstract.
+Roguelikes (and related genres such as RPG and strategy) are
+often the opposite in all these aspects, and I prefer the roguelike counterparts.
+Somehow there are currently not that many roguelikes in the database, other than
+more puzzly ones. (My favorite thinky puzzle game is the {DROD} series which, while
+handcrafted, puts lost of focus on the exploration of large levels and worldbuilding.)
 
 GAME adventure philosophy
 VAL philosophy itemuse timeless riddles fixed ascii xp=1 year=1975
@@ -151,12 +170,64 @@ There is also the related philosophy of "solodev" games, which, as the name sugg
 are games made by a single person. Both tags are used as keywords to find good games
 that would be hard to find otherwise in the sea of AAA games.
 
-Sometimes big (or small) publishers market games as indie or solodev while not really
-having the indie spirit or made by a solo dev. But that seems more of a problem with these terms.
+From my point of view, of a person who has played roguelikes and other underdogs
+since the 90s, there are a lot of problems with some indie narratives.
 
-Technically 
-There is a
-narration of 
+<b>Indie is yet another buzzword.</b>
+I have seen a claim that "indie" might be better used to refer to the specific movement from
+about 2010 when big companies such as Microsoft and Sony pushed for small developers to publish
+games on their platforms, and marketing such games as "indie".
+Sometimes big (or small) publishers market games as indie or solodev while not really
+having the indie spirit or made by a solo dev. But, that seems to be just the top of the
+iceberg. Having a publisher goes against the claimed spirit, in my opinion. Indie is used
+as a buzzword. So-called "indie" games hijacking {roguelike} as a meaningless buzzword
+is especially annoying.
+
+<b>Historical narration.</b>
+One popular narration associated with the above is that ~2010 was the beginning of "indie"
+video games. Which is false. If we go with "games made for fun", we had {roguelike}s
+in the 80s and 90s, and lots of other games. I was a big fan of the "Home of the Underdogs"
+website that featured lots of underrated free games in early 00s. (It was more of a museum
+of underrated video games, and also included abandonware titles.) There is a claim
+that what started in ~2010 was that indies were becoming financially successful,
+but that is weird too -- we had the {shareware} movement in the 90s that produced lots
+of famous games such as {Doom}, and it was also very much about distributing games
+without having access to big channels, why is that ignored?
+
+<b>Is financial success really the goal?</b> Indie developers such as {by:Notch} became
+billionaires from making a game they wanted to make, and indie developers think
+they can replicate this. But they fail. Commonly blaming the lack of marketing,
+although in most cases the game is probably simply bad, and becoming a huge
+success rather than a "hidden gem" is a matter of luck. Anyway, is it really
+worth to spend ages polishing games, work on marketing, abuse buzzwords,
+and be generally stressed, when nothing of this guarantees success anyway,
+instead of having a stable non-game job and making games for fun?
+
+<b>Avoiding darkness.</b> Indie is supposed to be about avoiding nasty stuff such
+as {dark} patterns -- lootbox gambling, etc. -- but technically, studios making big
+{dark} mobile games are independent too. More recently, many indie games marketing
+themselves as roguelike (while not even being {roguelite} by philosophy) use
+inspiration from gambling games to be more addictive without being actually
+fulfilling -- even though you lose only your time, these things are quite dim.
+
+<b>Experimental creativity.</b> Many people find the claim of experimental creativity
+puzzling when they see the flood of so-called "indie" games that just follow
+the latest design trends. I think the claim is partially true -- the label is a keyword
+to find creative games, which does not mean that all games using that label are creative
+(90% of indies are crap because 90% of everything is crap),
+but that it helps people to find games that could be hard to find if the label did
+not exist. Still, it is used as a buzzword to capitalize on these associations.
+What about experimental games made by scientists though? If they are funded with grants,
+they are probably not that independent.
+
+<b>The myth of a solo dev.</b> While the romantic idea of a developer making a game
+all by themselves is alluring, there is an issue that the secret to being a successful
+solo developers is to hide the contributions from other people. One never works alone.
+You need testers. If the game is to be popular, you need people to tell others about
+the game (=marketers). You need other games to take inspiration from, and tools.
+More focus should be on collaboration instead, like the {community} development
+philosophy common in the best {roguelike}s. Why make music yourself when you could
+hire a musician instead?
 
 GAME Japanese RPG philosophy
 VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982
