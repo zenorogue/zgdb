@@ -1052,7 +1052,6 @@ A platformer in which you play three characters with different abilities, who ne
 A very good, unique game, although I would like to highlight {Head over Heels} for the "play multiple characters with different abilities" style.
 
 GAME Spelunky
-AKA Spelunky HD
 BY Derek Yu
 VAL pyramids year=2008 played=2008 platformer roguelite unlocks xp=5 sideview realtime procgen randomized seq vscroll lores multiweapon free exp destructible traps
 Spelunky is the game that tried to capture the feeling of a roguelike
