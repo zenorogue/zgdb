@@ -97,13 +97,14 @@ savescumming.
 
 GAME Doom, the Roguelike
 BY ChaosForge
-VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=2 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized
+VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=3 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized
 AKA DRL
 AKA DoomRL
 This game takes Doom and changes its genre to roguelike. I consider it a very important contribution to the history of video gaming,
 being one of the first "coffeebreak roguelikes", the games that did show that it was possible to make a short roguelike, in the
 times when most roguelike developers were trying to create {ADOM} but bigger. (As we all know, today, the overwhelming majority of
-games in the family started by Rogue are short -- although the biggest ones are still big.) It also introduced an amazing system of
+games in the family started by Rogue are short -- although the biggest ones are still big, both in the traditional roguelike circles,
+and in mainstream, with e.g. {Minecraft}.) It also introduced an amazing system of
 turn-based dodging. A great game that I highly recommend. See also {Jupiter Hell} and {Jupiter Hell Classic}.
 
 GAME POWDER
