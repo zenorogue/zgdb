@@ -776,12 +776,19 @@ VALIDATE (played > 1984 and played < 2030) or (def:xp and not xp)
 VALIDATE def:xp or not def:year
 VALIDATE orthogrid or hexgrid or diagrid or arbigrid or philosophy or not grid
 VALIDATE theme or philosophy
+LISTGROUP theme
 VALIDATE perspective or nonvideo or nonspatial or philosophy
+LISTGROUP perspective
 VALIDATE timeflow or philosophy
+LISTGROUP timeflow
 VALIDATE focus or philosophy
+LISTGROUP focus
 VALIDATE structure or philosophy
+LISTGROUP structure
 VALIDATE worldstructure or philosophy
+LISTGROUP worldstructure
 VALIDATE graphics or nonvideo or philosophy
+LISTGROUP graphics
 
 SUGGEST ea 1
 SUGGEST ext 1

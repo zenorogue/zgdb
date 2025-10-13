@@ -41,6 +41,10 @@ map<string, game*> game_by_name;
 vector<string> validators;
 vector<pair<string, string>> suggestors;
 
+map<string, string> validator_groups;
+
+string last_validator;
+
 map<string, int> all_devs;
 
 map<string, string> about_dev;
@@ -119,6 +123,13 @@ void parse(const string& fname) {
 
     else if(cap == "VALIDATE") {
       validators.push_back(param);
+      last_validator = param;
+      if(*addto != "") addto = &junk;
+      }
+
+    else if(cap == "LISTGROUP") {
+      printf("group set for '%s'\n", last_validator.c_str());
+      validator_groups[last_validator] = param;
       if(*addto != "") addto = &junk;
       }
 
