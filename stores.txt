@@ -933,7 +933,7 @@ A very good game, but it seems its developers' decision of marketing the game as
 The term made more sense in {Dream Quest}.
 
 GAME Terraria
-VAL pc year=2011 xp=5 played=2017 notheme survival crafting destructible realtime procgen randomized openworld sideview platformer hscroll vscroll midres simulationism exp ext bossfights traps multiplayer
+VAL pc year=2011 xp=4 played=2017 notheme survival crafting destructible realtime procgen randomized openworld sideview platformer hscroll vscroll midres simulationism exp ext bossfights traps multiplayer
 I could not find what games inspired it, but seems to be a mix between {Minecraft} and some {Diablo}-like. Anyway, one of the most popular games inspired by the {roguelike philosophy}.
 Great procedural generation, Diablo-style item affixes, and so on. A bit grindy sometimes, but very fun anyway.
 
