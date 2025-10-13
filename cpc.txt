@@ -343,7 +343,7 @@ A not very notable platformer.
 
 GAME Killapede
 BY Activision
-VAL year=1986 played=19867 cpc xp=1 realtime animaltheme shooter lores topdown randomized tiny
+VAL year=1986 played=1987 cpc xp=1 realtime animaltheme shooter lores topdown randomized tiny
 A clone of {Centipede}. Do not remember much about it, other than that there was a long centipede walking on the screen that you could shoot.
 
 GAME Ikari Warriors

@@ -90,13 +90,13 @@ VAL pc year=2014 played=2015 endless platformer scifi xp=2 sideview realtime ran
 A simple game built into the Google Chrome browser, where you are a dinosaur and you have to jump over obstacles. Similar to {Moon Buggy}.
 
 GAME Hunt the Wumpus
-VAL pc year=1973 xp=1 medieval medieval xp=1 nonspatial ascii connections timeless randomized exp combat free mono
+VAL pc year=1973 played=2007 xp=1 medieval medieval xp=1 nonspatial ascii connections timeless randomized exp combat free mono
 One of BSD game classics. Somewhere between an adventure and strategy game, you move between 20 caves (interestingly, vertices of a dodecahedron)
 and try to find out where the Wumpus, bats, and pits are. I have never tried to play it more seriously.
 
 GAME Bastard Tetris
 AKA Bastet
-VAL pc year=2005 abstract turnbased sideview grid xp=3 abstract endless orthogrid randomized tiny difflevels ascii shapepuzzle free
+VAL pc year=2005 played=2007 abstract turnbased sideview grid xp=3 abstract endless orthogrid randomized tiny difflevels ascii shapepuzzle free
 A {Tetris} clone except that the pieces are not determined randomly, but it always picks the worst possible piece for the player.
 Interesting. It is very hard to actually get any lines here.
 
@@ -164,14 +164,14 @@ players -- this avoids the typical boardgame problem where it is pointless to pl
 each other. (Although Dominion is still better with less players because it is faster.)
 
 GAME Scrabble
-VAL nonvideo year=1948 abstract xp=3 turnbased wordgame cardgame grid orthogrid randomized tiny multiplayer
+VAL nonvideo year=1948 abstract played=1993 xp=3 turnbased wordgame cardgame grid orthogrid randomized tiny multiplayer
 A famous word game where you create a crossword. I remember playing Scrabble on a language camp, where the group was split into some teams, but my team
 was led by some guys who ignored my suggestions and I got annoyed and joined some other team (and won I think)... Anyway, I do not see it being popular
 anymore. Many video games claim to be similar to it, which can be true or not.
 
 GAME Contract Bridge
 AKA Bridge
-VAL nonvideo year=1886 abstract xp=2 turnbased cardgame randomized seq free multiplayer
+VAL nonvideo year=1886 played=1995 abstract xp=2 turnbased cardgame randomized seq free multiplayer
 
 This is not played much as a video game (although I remember some version on Amstrad CPC), but I think I have enough to talk about to include it in this site.
 
@@ -230,8 +230,8 @@ Once a very popular free web game, with many clones replacing the original "powe
 (you drop balls and two similar balls can combine into a larger ball). I have played it a bit, but mostly randomly, not trying to find a strategy to win. See also {Threes}.
 
 GAME Merlin's Revenge
-VAL web year=? played=? realtime rpgstats topdown exp combat fixed flick xp=3 medieval lores free
-A game that was somehow described as an "arcade roguelike" in the roguelike usenet, probably as a joke. I do not remember much about it.
+VAL web year=2004 played=2004 realtime rpgstats topdown exp combat fixed flick xp=3 medieval lores free
+A game that was somehow described as an "arcade roguelike" in the Polish roguelike usenet, probably as a joke. I do not remember much about it.
 
 GAME Threes
 VAL android year=2014 played=2014 xp=1 abstract turnbased matching topdown randomized tiny ascii
@@ -333,7 +333,7 @@ know these languages or not (consistent with the somewhat well-known phenomenon 
 and just have learned the dictionary well).
 
 GAME Crawl
-VAL pc year=2017 xp=1 lores medieval topdown realtime multiplayer exp combat roguelite rpgclasses rpgstats rpgequip procgen randomized modalbattle seq traps
+VAL pc year=2017 played=2019 xp=1 lores medieval topdown realtime multiplayer exp combat roguelite rpgclasses rpgstats rpgequip procgen randomized modalbattle seq traps
 A party game taking some inspiration from roguelike dungeon crawlers. One player takes the role of a "hero", and the others play as monsters trying to stop the hero's progress.
 The name Crawl was originally somewhat annoying to me because one of the most popular and best roguelikes was commonly referred to as Crawl then, but somehow the problem has solved itself
 and that other game is now referred to as {LDC} or {DCSS}. 
@@ -403,7 +403,7 @@ VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown 
 
 GAME Bubble Bobble
 BY Firebird
-VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer
+VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer weirdtheme realtime lores
 I mostly played the Amiga version, although I think I did play the Amstrad CPC one too. Very fun. Some powerups such as the "water" that could wash away 
 the enemies were interesting.
 
@@ -485,7 +485,7 @@ VAL android year=2013 xp=0 western nonspatial trail randomized realtime platform
 I think I have played this famous game at some point. But I have played more {SFCave}.
 
 GAME Neverball
-VAL pc year=2003 xp=1 abstract realtime platformer physics tpp fixed seq models shapegfx free
+VAL pc year=2003 xp=1 played=2007 abstract realtime platformer physics tpp fixed seq models shapegfx free
 An opensource game about rolling a ball.
 
 GAME Flare
