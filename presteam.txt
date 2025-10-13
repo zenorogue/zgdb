@@ -1243,8 +1243,9 @@ the main mechanics is basically copy-paste a prism-shaped region from one spot t
 
 GAME Warcraft III
 BY Blizzard
-VAL year=2002 played=2004 xp=3 realtime tolkien arbi3 exp combat army fixed seq models photorealistic multicampaign manualsave
-The 3D graphics made the game feel less fun than {Warcraft} or {Starcraft}.
+VAL year=2002 played=2004 xp=3 realtime tolkien arbi3 exp combat army fixed seq models photorealistic multicampaign manualsave gem=-1
+The 3D graphics made the game feel less fun than {Warcraft} or {Starcraft}. I guess it became a standard later in similar games,
+but Warcraft III was the first I tried. I did not like the story that much either.
 
 GAME Nox
 BY Westwood Studios
