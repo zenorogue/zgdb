@@ -122,6 +122,7 @@ Brogue is one of the most popular games in the roguelike community, and it is co
 However, I think that this similarity is a bit overrated: there are still substantial improvements and differences. In Rogue
 you only descend, in Brogue you can go up and down; Brogue is highly focused on using enchantment scrolls to create your
 "build". Brogue has procedurally generated "puzzles". And so on. Brogue is an influential game by itself, having inspired {Unexplored} and {Pixel Dungeon}.
+The version I have played was AFAIK solodev, but I think people play the community edition BrogueCE, so it counts as {by:community} development.
 
 GAME Iter Vehemens ad Necem
 BY community
