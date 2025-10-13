@@ -333,7 +333,7 @@ int init(bool _is_mobile) {
   srand(time(NULL));
 
   printf("Parsing...\n");
-  parse("revsite.txt");
+  parse("zgdb.txt");
   for(auto g: games) for(auto l: g->links_to) 
     game_by_name[l]->linked_by.insert(g->title);
 
