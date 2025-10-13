@@ -171,7 +171,7 @@ VAL year=1985 played=1987 cpc sideview realtime platformer xp=1 nonlinear lores 
 A famous 8-bit game, a platformer where you explored a big mansion.
 
 GAME Spindizzy
-VAL year=1986 played=1988 cpc realtime isometric physics xp=3 nonlinear abstract lores fixed flick exp
+VAL year=1986 played=1988 cpc realtime isometric physics xp=3 nonlinear abstract lores fixed flick exp gem=1
 It was similar to Marble Madness (which seems to be remembered better).
 An isometric game where you travelled through a bit world (over 200 screens)
 and collected gems. A kind of a physics game.
@@ -205,7 +205,7 @@ A platformer-ish where you played as a ninja, you had to set up a bomb or someth
 
 GAME Bruce Lee
 BY Datasoft
-VAL year=1984 played=1987 cpc gem=2 xp=3 realtime sideview platformer eastern slasher lores fixed nonlinear flick exp traps
+VAL year=1984 played=1987 cpc gem=1 xp=3 realtime sideview platformer eastern slasher lores fixed nonlinear flick exp traps
 Quite an interesting beat-em-up platformer. Quite a big world, with many screens with different challenges.
 There were two opponents (knight-like and sumo-like), with two players one player could control the sumo.
 I have won it.
@@ -215,7 +215,7 @@ VAL year=1985 played=1986 cpc xp=3 logic turnbased sideview grid destructible ab
 A puzzle game, a bit like {Boulder Dash} but turn-based.
 
 GAME Chuckie Egg II
-VAL year=1985 played=1988 cpc xp=4 realtime sideview platformer nonlinear lores animaltheme fixed flick itemuse collectathon exp manualsave
+VAL year=1985 played=1988 cpc xp=4 realtime sideview platformer nonlinear lores animaltheme fixed flick itemuse collectathon exp manualsave gem=2
 A proto-metroidvania with a huge map (120 levels) with platforming exploration, you had to collect items,
 to create a chocolate egg, then carry that egg outside. There were also useful items such as ladder,
 baskets or locks. I have played this quite a lot.
@@ -235,7 +235,7 @@ the game skips from, say, zone 25 to zone 24 without continuous scrolling, the w
 
 GAME Sweevo's World
 BY Gargoyle Games
-VAL year=1986 played=1988 cpc xp=3 realtime isometric gem=2 weirdtheme nonlinear lores fixed flick itemuse
+VAL year=1986 played=1988 cpc xp=3 realtime isometric gem=1 weirdtheme nonlinear lores fixed flick itemuse
 An isometric almost-platformer with a rather large world. You could collect items and do fun things with them.
 I played it quite a lot.
 
@@ -291,7 +291,7 @@ If you have not tried it, definetely recommended, although I have played more {B
 
 GAME Boulder Dash III
 BY Peter Liepa
-VAL year=1986 played=1988 cpc xp=3 gem=2 realtime grid nonlogic sideview scifi hscroll vscroll destructible lores fixed orthogrid seq collectathon traps
+VAL year=1986 played=1988 cpc xp=3 realtime grid nonlogic sideview scifi hscroll vscroll destructible lores fixed orthogrid seq collectathon traps
 Just like Boulder Dash but with a more sci-fi theme (only graphics were changed, I think there were no new items). I preferred it to the original {Boulder Dash}.
 
 GAME Karl's Treasure Hunt
@@ -319,16 +319,16 @@ A rather strange platformer where you explored a large world. You could edit the
 
 GAME Zorro
 BY Datasoft
-VAL year=1985 played=1988 cpc xp=4 gem=1 realtime sideview platformer superhero lores fixed flick nonlinear return itemuse exp
+VAL year=1985 played=1988 cpc xp=4 realtime sideview platformer superhero lores fixed flick nonlinear return itemuse exp
 A rather original adventure platformer. A bit similar to {Bruce Lee} but different theme.
 
 GAME Three Weeks in Paradise
 BY Mikro-Gen
-VAL year=1986 played=1988 cpc xp=2 gem=1 realtime sideview nonlinear lores weirdtheme fixed itemuse
+VAL year=1986 played=1988 cpc xp=2 realtime sideview nonlinear lores weirdtheme fixed itemuse
 A sequel to {Pyjamarama} where you are stranded on an island, I remember Pyjamarama better.
 
 GAME Munch-It
-VAL year=1985 played=1987 cpc gem=1 xp=3 realtime topdown lores notheme fixed seq collectathon
+VAL year=1985 played=1987 cpc xp=3 realtime topdown lores notheme fixed seq collectathon
 A {Pacman} clone.
 
 GAME Gunfright
@@ -400,7 +400,7 @@ VAL year=1986 played=1987 cpc realtime shooter xp=1 moderntheme lores sideview f
 A game where you could see gangsters in windows and you had to shoot them before they shot you, I do not think there was more to it.
 
 GAME Airwolf II
-VAL year=1987 played=1990 cpc realtime shooter xp=3 scifi hscroll autoscroll military lores sideview fixed multiweapon bossfights=?
+VAL year=1987 played=1990 cpc realtime shooter xp=3 scifi hscroll autoscroll military lores sideview fixed multiweapon bossfights=? gem=1
 An early shmup I remember the best. I think it was more cool than {R-Type}.
 
 GAME 3DC
@@ -472,7 +472,7 @@ I think it was a clone of an arcade game called Pango. Levels are filled with bl
 
 GAME Zub
 BY Mastertronic
-VAL year=1986 played=1988 cpc realtime sideview platformer xp=4 scifi hscroll vscroll lores fixed blackboard
+VAL year=1986 played=1988 cpc realtime sideview platformer xp=4 scifi weirdtheme hscroll vscroll lores fixed blackboard gem=2
 An original game that I have played quite a lot. You had to use platforms to climb the sky, you had to move the platforms if they were not aligned correctly with the higher ones.
 Featured lots of weird text on the intro screen (and in other places). Cool music by David Whittaker.
 
@@ -599,7 +599,7 @@ A fighting game, I do not remember much, possibly I have only watched.
 
 GAME Batman: The Caped Crusader
 VAL year=1989 superhero lores realtime played=1991 sideview itemuse=? exp xp=1 fixed flick=? nonlinear
-Was interesting, but too complex for me.
+Was an interesting action-adventure, but too complex for me.
 
 GAME Batty
 VAL year=1987 xp=1 physics realtime abstract lores played=1989 sideview seq fixed
@@ -779,7 +779,7 @@ I wanted to play something similar to a roguelike? It feels quite similar to {Ul
 that Ultima was not known in Europe, which also agrees with my experiences.
 
 GAME Sapiens
-VAL cpc year=1986 played=1989 multiperspective gem=1 prehistoric xp=1 lores openworld survival fixed procgen economy realtime sciencegame
+VAL cpc year=1986 played=1989 multiperspective gem=2 prehistoric xp=1 lores openworld survival fixed procgen economy realtime sciencegame
 While making this site, I remembered playing/seeing a game on Amstrad CPC where you were some kind of a caveman, and one of the things you could do was to create
 stone tools by hitting a piece of flint in correct locations... did not remember the name at first...so yeah, Sapiens was that.
 
@@ -790,5 +790,5 @@ really played this, but it looks like something that should be more well known. 
 but apparently there is a remake for modern systems <a href="https://www.myriad-online.com/en/products/sapiens.htm">here</a>.
 
 GAME Technician Ted
-VAL cpc year=1984 played=1986 cpc fpp xp=2 gem=2 sideview realtime platformer lores moderntheme fixed flick collectathon=?
+VAL cpc year=1984 played=1986 cpc fpp xp=2 sideview realtime platformer lores moderntheme fixed flick collectathon=?
 I think I have tried it... basically a blatant clone of {Jet Set Willy}.

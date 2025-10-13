@@ -5,8 +5,9 @@ NUMTAG gem
 "Hidden gem": positive value means that the game is not as popular as it should; the games I consider overrated have negative values.
 If I listed "my top 25 games", I would list 5 well-known games and 20 less known ones, and all the discussion would be about the
 well-known ones. (Not the actual numbers but you get the idea.) So for a personal review site I think it is better to rate the
-"hidden gem" perception. 
-In some cases gem values might indicate not strictly quality -- for example, if a game A popularized something that game B did before,
+"hidden gem" perception. The rough scale goes from -2 (a famous but overrated game) to 3 (one of my favorite games that is
+strangely not widely known). 1 means slightly underrated, -1 means slightly overrated.
+In some cases gem values might indicate not strictly quality but historicaly priority -- for example, if a game A popularized something that game B did before,
 B is likely to get good gem value (even if its quality was not that great) while A is likely to get a penalty.
 
 NUMTAG played

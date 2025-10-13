@@ -40,7 +40,7 @@ TAGCMT free
 Pay for saving is free enough.
 
 GAME Big Two
-VAL palmos year=1998 played=2000 xp=3 abstract nonspatial turnbased cardgame randomized tiny ascii free mono
+VAL palmos year=1998 played=2000 xp=3 abstract nonspatial turnbased cardgame randomized tiny ascii free mono gem=1
 A videogame adaptation of a card game. Each player is dealt 13 cards, and you get rid of them by playing Poker combinations, the opponents can play a higher one to steal the move from you.
 (As opposed to the usual Poker, 2 is the biggest, not the Ace -- the Ace is second biggest.)
 
@@ -50,7 +50,7 @@ A computer adaptation of an ancient Viking boardgame. This game is interesting b
 It seems various versions of Tablut have slightly different rules; this one was quite easy to win as White, but you had to find a good strategy to win as Black.
 
 GAME SFCave
-VAL palmos year=1998 played=1999 xp=2 abstract sideview realtime endless platformer randomized hscroll autoscroll shapegfx free mono
+VAL palmos year=1998 played=1999 xp=2 abstract sideview realtime endless platformer randomized hscroll autoscroll shapegfx free mono gem=1
 A very simple game that was an inspiration for {Flappy Bird}, I believe: you just need to go as far through a cave as possible, the only thing you can do is to press a key which makes you
 fly upwards, instead of fall downwards. Quite cool.
 

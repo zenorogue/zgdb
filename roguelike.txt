@@ -10,7 +10,7 @@ PNG rogue-epyx-dos-1984 Epyx Rogue for DOS (1984)
 PNG rogue-atarist-1986 Rogue for Atari ST (1986)
 
 GAME Linley's Dungeon Crawl
-VAL pc roguelike tolkien xp=4 gem=2 year=1995 played=2001 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear hscroll vscroll economy free randomized bossfights manualsave ammolimit secrets traps
+VAL pc roguelike tolkien xp=4 gem=3 year=1995 played=2001 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear hscroll vscroll economy free randomized bossfights manualsave ammolimit secrets traps
 AKA LDC
 BY Linley Henzell
 This is one of the best roguelikes. It has evolved into {Dungeon Crawl Stone Soup}. Some changes that DCSS developers did are 
@@ -23,11 +23,16 @@ mimics or the standard fantasy races -- these have been removed in favor of a hi
 great improvements, so it is probably better to play DCSS, but LDC has lots of flavor of its own.
 
 GAME Dungeon Crawl Stone Soup
-VAL pc roguelike tolkien xp=4 gem=2 year=2006 played=2007 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii midres multiweapon nonlinear connections hscroll vscroll economy ext free randomized bossfights manualsave
+VAL pc roguelike tolkien xp=4 gem=3 year=2006 played=2007 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii midres multiweapon nonlinear connections hscroll vscroll economy ext free randomized bossfights manualsave
 AKA DCSS
 BY community
 This is one of the best roguelikes, that clearly sits in the top of the "best" rankings in the roguelike community for the last 20 years.
-It is great at not wasting the player's time due to its design: anti-grind philosophy (which means that the optimal way to play the game
+Nevertheless, it appears to be basically unknown outside of the community, so I think it deserves 3 gem points. The only drawback
+is that apparently people who have started their roguelike adventure with DCSS consider it a model roguelike, including its 
+amazing run-based strategic risk management, and did not complain as strongly about other randomized permadeath games being called roguelike as
+more experience players who know older roguelikes such as {ADOM} were not really about permadeath...
+
+Anyway, it is great at not wasting the player's time due to its design: anti-grind philosophy (which means that the optimal way to play the game
 should be also the most fun), anti-spoiler philosophy (you do not need to refer to knowledge found in wikis or obtained by experimentation
 in earlier games), automation features (if you do not feel like exploring personally or fighting easy monsters you can automatize that).
 It has very good procedural generation, with various levels feeling different. It has very good, strategical permadeath: there are lots
@@ -48,7 +53,7 @@ hacklikes did not replicate, like its approach to unexpected interactions (aka "
 GAME Ancient Domains of Mystery
 BY Thomas Biskup
 BY zenorogue
-VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps
+VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps gem=2
 AKA ADOM
 In the {GSNband} readme I have found some references to another roguelike called {ADOM}, and it looked interesting. {Valhalla} and
 {GSNband} had graphical tiles, while ADOM had only the ASCII display; it took me some time to bring myself to play that, and then
@@ -59,6 +64,12 @@ form of in-game cheating -- I had to "code dive" to discover what the actual rul
 
 Later I became a member of the ADOM DevTeam, responsible for programming the graphics interface. So you no longer need to bring
 yourself to appreciate ASCII to play ADOM, or mostly any other good roguelike.
+
+It is a bit of conflict of interest, but I think ADOM deserves a positive gem score because it is one of the most influential classic roguelikes that seems to be rarely
+talked about nowadays. It also seems that modern players do not understand it. They try to play it as a permadeath game, while (from a glance at historical
+Usenet posts) in the past, most people savescummed, at least to learn the game. I would generally recommend the mindset "roguelikes are not about permadeath, play the game however you want".
+I think the most fun way is to play some non-permadeath runs to learn the game, then read the spoiler guides to learn the secrets you missed, and try permadeath after that. Maybe taste
+some permadeath first too.
 
 GAME Angband
 BY community
@@ -113,7 +124,7 @@ you only descend, in Brogue you can go up and down; Brogue is highly focused on 
 
 GAME Iter Vehemens ad Necem
 BY community
-VAL pc roguelike medieval moderntheme xp=5 year=2001 played=2001 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll nonlinear procgen return destructible traps diagrid exp combat lores hscroll vscroll connections overworld nonlinear free randomized manualsave
+VAL pc roguelike medieval moderntheme xp=5 year=2001 played=2001 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll nonlinear procgen return destructible traps diagrid exp combat lores hscroll vscroll connections overworld nonlinear free randomized manualsave gem=2
 AKA IVAN
 A Finnish hacklike with some innovative features, such as a system of fluids which could cover equipment and gases,
 and showing equipment on the characters. Lots of humor that I actually found funny (as opposed to the kitchensink
@@ -157,7 +168,7 @@ TAGCMT free
 It is a free game but the hint book is paid, and it is unlikely to be able to go far without it.
 
 GAME Alphaman
-VAL pc roguelike moderntheme xp=4 year=1995 played=2000 turnbased grid rpgequip rpgconsume rpgstats topdown overworld procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear openworld free randomized manualsave
+VAL pc roguelike moderntheme xp=4 year=1995 played=2000 turnbased grid rpgequip rpgconsume rpgstats topdown overworld procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear openworld free randomized manualsave gem=1
 PNG alphaman Fighting Donald Trump
 A roguelike based on American pop culture. You are in post-apocalyptic New York City, that is a huge map constructed
 out of many screens, you have multiple castles to visit. 
@@ -222,7 +233,7 @@ A hacklike, basically {NetHack} in space. Probably better to play its extended v
 
 GAME PRIME
 BY community
-VAL pc roguelike scifi gem=1 xp=4 year=2011 played=2011 turnbased grid rpgequip rpgconsume rpgstats topdown nonlinear procgen return rpgclasses idminigame diagrid exp combat ascii midres nonlinear connections free randomized traps=? manualsave
+VAL pc roguelike scifi gem=2 xp=4 year=2011 played=2011 turnbased grid rpgequip rpgconsume rpgstats topdown nonlinear procgen return rpgclasses idminigame diagrid exp combat ascii midres nonlinear connections free randomized traps=? manualsave
 Basically {NetHack} in space. As all hacklikes, this is a very fun game. Floppy disks replace scrolls, canisters replace potions,
 mutations, and so on.
 
@@ -271,7 +282,7 @@ with some nice combat maneuvers. Well received.
 
 GAME Valhalla
 AKA Ragnarok
-VAL pc roguelike norse xp=5 year=1992 played=1993 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return rpgclasses destructible traps idminigame diagrid exp combat midres nonlinear openworld free randomized rulediscovery manualsave secrets traps
+VAL pc roguelike norse xp=5 year=1992 played=1993 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return rpgclasses destructible traps idminigame diagrid exp combat midres nonlinear openworld free randomized rulediscovery manualsave secrets traps gem=1
 This was the first roguelike I have played, although I did not know that it was a roguelike then. As the saying goes, "the first
 roguelike you play defines what you think a roguelike is", and well, Valhalla had graphical GUI, it was not restricted to 
 dungeons, and its permadeath was optional. From the point of view of a more experienced roguelike player, all these elements
@@ -327,7 +338,7 @@ what the famous {Vampire Survivors} graphics were originally made for.
 
 GAME ChessRogue
 BY Chris Morris
-VAL pc roguelike abstract xp=4 7drl year=2005 played=2005 turnbased grid topdown procgen diagrid exp combat ascii seq free randomized
+VAL pc roguelike abstract xp=4 7drl year=2005 played=2005 turnbased grid topdown procgen diagrid exp combat ascii seq free randomized gem=2
 It appears that basically every time the buzzord meaning of "roguelike" changes there is a new "chess roguelike" which is very different
 from the earlier iterations. ChessRogue is one that is actually like Rogue: procedurally generated chessboard, you play only as the
 King. Originally you can move in 4 directions but then you gain more power as you defeat stronger and stronger pieces. Very good,
@@ -424,7 +435,7 @@ A roguelike designed for calculators, presumably, as the name suggests (I have p
 exceptional, but still a very good adventure.
 
 GAME Caves of Qud
-VAL pc roguelike scifi year=2010 played=2024 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen return rpgclasses destructible idminigame diagrid exp combat blackboard openworld nonlinear xp=3 ea=2008 ext=? randomized manualsave crafting ammolimit oneofthree
+VAL pc roguelike scifi year=2010 played=2024 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen return rpgclasses destructible idminigame diagrid exp combat blackboard openworld nonlinear xp=3 ea=2008 ext=? randomized manualsave crafting ammolimit oneofthree gem=1
 BY Freehold Games
 This game should need no introduction -- in a recent "top 5 roguelikes" thread in r/roguelikes, Caves of Qud was mentioned most frequently.
 
@@ -481,7 +492,7 @@ If I understand correctly, Doomsday 2000 was originally supposed to have 4 parts
 I have succeeded running the second mission on a Mac emulator, but the save did not seem to be compatible.
 
 GAME JauntTrooper: Mission Thunderbolt
-VAL pc roguelike scifi gem=2 xp=4 year=1992 played=2008 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return destructible traps idminigame diagrid exp combat midres nonlinear connections randomized ammolimit
+VAL pc roguelike scifi gem=3 xp=4 year=1992 played=2008 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return destructible traps idminigame diagrid exp combat midres nonlinear connections randomized ammolimit
 This is a quite amazing sci-fi roguelike -- especially amazing when you consider that it was originally created in 1986!
 Lots of interesting things to do. Similar to {Valhalla} it has nice tiled graphics.
 
@@ -536,7 +547,7 @@ NotEye did it before Jupiter Hell). ({Jupiter Hell Classic} is more of a modern 
 
 GAME Jupiter Hell Classic
 BY ChaosForge
-VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized
+VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized gem=1
 JHC is a greatly improved version of {DRL}. 
 A total conversion, so not just DoomRL reskinned -- but that is great.
 
@@ -557,7 +568,7 @@ A queer roguelike based on the concept of possession: the enemies you kill can b
 So, a small roguelike with lots of fun and original ideas, so worth to try.
 
 GAME Path of Achra
-VAL pc roguelike uniquetheme year=2024 played=2024 turnbased grid rpgequip rpgstats topdown procgen rpgclasses diagrid=? exp combat lores enginebuilder seq xp=4 randomized free=? oneofthree overworld
+VAL pc roguelike uniquetheme year=2024 played=2024 turnbased grid rpgequip rpgstats topdown procgen rpgclasses diagrid=? exp combat lores enginebuilder seq xp=4 randomized free=? oneofthree overworld gem=1
 A great game pushing the roguelike genre in new directions. While still remaining a true roguelike. Quite universally loved.
 The industry have tried to hide roguelikes by shadow-releasing {Hades} II on the same day, or something.
 TAGCMT free
@@ -604,7 +615,7 @@ TAGCMT free
 I believe it started as a free game, and it is how I played it. The paid version has non-permadeath options.
 
 GAME Magpie
-VAL pc roguelike animaltheme=2 7drl broughlike year=2023 played=2023 turnbased grid rpgequip topdown procgen exp combat hires multiweapon seq orthogrid xp=3 free randomized
+VAL pc roguelike animaltheme=2 7drl broughlike year=2023 played=2023 turnbased grid rpgequip topdown procgen exp combat hires multiweapon seq orthogrid xp=3 free randomized gem=1
 This broughlike 7DRL seems to have a rather big fandom, which is rare for newer 7DRLs.
 We enjoyed playing it very much as magpies are my wife's favorite birds, more than other broughlikes.
 
@@ -655,7 +666,7 @@ in {Unexplored}). As a 7DRL, it is something that you would play only once and n
 
 GAME Golden Krone Hotel
 BY Jeremiah Reid
-VAL pc roguelike gothic 7drl xp=4 year=2014 played=2015 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses idminigame diagrid exp combat lores connections nonlinear=? randomized manualsave=?
+VAL pc roguelike gothic 7drl xp=4 year=2014 played=2015 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses idminigame diagrid exp combat lores connections nonlinear=? randomized manualsave=? gem=1
 I have played the original 7DRL version and liked it very much, the approach to vampire/human duality, and the whole vampire theme
 (such as, destroy stained glass to let the light in and kill vampires) were done very well. I have bought the Steam
 version too but somehow it does not feel that good to me (but maybe that's because I feel I have already won this game, also
@@ -694,7 +705,7 @@ and also the maps are too simple). As for being a deckbuilder, you only upgrade 
 obtain/remove them. Worth trying but it did not capture me.
 
 GAME Force of Nature
-VAL web roguelike planttheme 7drl year=2016 played=2016 turnbased grid topdown hscroll vscroll procgen diagrid exp combat midres seq xp=4 free randomized
+VAL web roguelike planttheme 7drl year=2016 played=2016 turnbased grid topdown hscroll vscroll procgen diagrid exp combat midres seq xp=4 free randomized gem=1
 A 7drl with a cool theme, of a tree fighting against trolls seeking to destroy the forest. Very fun.
 
 GAME Sword in Hand
@@ -720,7 +731,7 @@ able to play as the creature who has killed you. I have tried it, and it seemed
 interesting, but I did not go far into it.
 
 GAME Rootin' Tootin' Lootin' Shootin'
-VAL pc roguelike western year=2025 played=2025 turnbased rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen destructible exp combat lores seq xp=4 randomized
+VAL pc roguelike western year=2025 played=2025 turnbased rpgequip rpgstats rpgconsume topdown hscroll vscroll procgen destructible exp combat lores seq xp=4 randomized gem=1
 If you are wondering whether a roguelike really needs to be grid-based, this is a great
 game to try to challenge that assumption. It is still displayed as a grid, but you can
 click in an off-grid direction and the character will move 1 step exactly in that

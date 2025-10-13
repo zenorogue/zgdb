@@ -107,9 +107,9 @@ One of games included with some Linux distro. I think it was a clone of earlier 
 # other
 
 GAME Chess
-VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased nonlogic fixed multiplayer tiny grid orthogrid diagrid
+VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased nonlogic fixed multiplayer tiny grid orthogrid diagrid gem=1
 I think Chess should be more talked about in video game circles. Sites such as chess.com have lots of members (100M). I meet lots of people in real life who
-are playing Chess on their mobile phones or computers. So it can be considered a video game.
+are playing Chess on their mobile phones or computers. So it can be considered a video game. (Thus a gem score.)
 
 Sometimes people want to play Chess with me, assuming that I am very good at it -- which I am not (probably because I almost never play Chess). I find it quite funny.
 
@@ -147,7 +147,7 @@ The pay-to-win nature means it makes lots of money, which means it gets lots of 
 in the culture, relative to less pay-to-win designs such as Dominion (which of course has been heavily influenced by Magic: the Gathering).
 
 GAME Dominion
-VAL nonvideo year=2008 played=2011 xp=4 deckbuilder ext gem=2 medieval turnbased procgen randomized tiny cardgame multiplayer
+VAL nonvideo year=2008 played=2011 xp=4 deckbuilder ext gem=3 medieval turnbased procgen randomized tiny cardgame multiplayer
 BY Donald X Vaccarino
 
 This is a physical card game, but when playing with many expansions, the rules are pretty complex, so it might be actually more feasible to play online.
@@ -193,7 +193,7 @@ A simple card game, play {Warthog} instead. Uno refers to a commercial version, 
 
 GAME Warthog
 AKA Bartok
-VAL nonvideo year=? played=1996 xp=2 turnbased cardgame randomized seq engineering abstract endless free multiplayer
+VAL nonvideo year=? played=1996 xp=2 turnbased cardgame randomized seq engineering abstract endless free multiplayer gem=3
 One of my favorite card games. It is based on a simple card game {Uno}, but the winner of every run creates a new rule that will be used in the following
 game. If you play it with right people, it can become very interesting due to all the chaos that the added rules introduce. The same approach can
 be also applied to many other games!
@@ -276,7 +276,7 @@ and I do not remember which one it was (I think it was Final Fantasy V).
 
 GAME Rogue Light
 BY Managore
-VAL pc roguelite xp=4 year=2014 played=2016 sideview platformer metapower realtime medieval hscroll vscroll procgen randomized lores free exp ammolimit
+VAL pc roguelite xp=4 year=2014 played=2016 sideview platformer metapower realtime medieval hscroll vscroll procgen randomized lores free exp ammolimit gem=1
 Just like the name suggests, Rogue Light is a good, free, metaprogression-focused platformer, where you are an archer explore a dark place, your primary light source being flaming arrows.
 It is obviously impossible to win the game with the initial power, but you earn money that lets you make your arrows stronger and more plentiful.
 There is metaprogression but no intraprogression, which is better than having both at once.
@@ -383,7 +383,7 @@ I do not care about playing with random people, and otherwise, it mostly introdu
 of building and thus more fun. Yeah, I agree with that, altohough I prefer roguelikes less focused on builds.)
 
 GAME The Incredible Machine
-VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=1 lores abstract fixed seq simulationism
+VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores abstract fixed seq simulationism
 A rather unique game.
 
 GAME E-Motion
@@ -399,16 +399,17 @@ VAL pc year=1987 played=1993 turnbased riddles itemuse sideview moderntheme xp=3
 
 GAME North and South
 BY Infogrames
-VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown sideview platformer xp=4 lores difflevels military fixed multiplayer
+VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown sideview platformer xp=4 lores difflevels military fixed multiplayer gem=2
+TODO describe
 
 GAME Bubble Bobble
 BY Firebird
-VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer weirdtheme realtime lores
+VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer weirdtheme realtime lores gem=2
 I mostly played the Amiga version, although I think I did play the Amstrad CPC one too. Very fun. Some powerups such as the "water" that could wash away 
 the enemies were interesting.
 
 GAME Wonder Boy in Monster Land
-VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq
+VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq gem=1
 Quite a fun game! I played it a lot. A sequence of big levels, you could find cash to upgrade your equipment, including better swords and some limited-use stuff such as bombs.
 Unfortunately I have been unable to play it on a emulator.
 
@@ -430,7 +431,7 @@ VAL web year=2013 played=2014 notheme nonspatial ascii timegate incremental xp=1
 An incremental game with some more things to do, but I do not remember much.
 
 GAME Hades
-VAL pc year=2017 played=2025 gem=-1 xp=1 greek roguelite isometric realtime combat randomized unlocks itemlock metapower seq bossfights modalbattle hires traps oneofthree
+VAL pc year=2017 played=2025 gem=-2 xp=1 greek roguelite isometric realtime combat randomized unlocks itemlock metapower seq bossfights modalbattle hires traps oneofthree
 The developers of Hades did lot of damage by deciding to market this death loop as roguelike.
 A roguelike fan would fit nothing interesting here, there are basically no non-trivial similarities to roguelikes.
 Maybe it is a bit similar to {Hoplite} due to the theme of exploring the ancient Greek hell and getting boons from gods.
@@ -446,7 +447,7 @@ not have the {tag:roguelike} system of controlling the flow of time, so I found 
 
 GAME The Binding of Isaac
 BY Edmund McMillen
-VAL pc year=2011 played=2012 gem=-1 xp=1 weirdtheme roguelite topdown realtime dodger combat randomized procgen idminigame unlocks itemlock seq bossfights modalbattle flick hires ext secrets
+VAL pc year=2011 played=2012 gem=-2 xp=1 weirdtheme roguelite topdown realtime dodger combat randomized procgen idminigame unlocks itemlock seq bossfights modalbattle flick hires ext secrets
 I played this game expecting something similar to a roguelike, but I did not get it. No procedurally generated maps, no strategically picking whether or where you fight --
 instead, rooms which lock their doors in combat. No items like in a normal RPG -- instead, arcade-ish upgrades. And, to mention the obvious, the gameplay is more like
 {Zelda} than {Rogue}. So I found it a very bad game.
@@ -555,5 +556,5 @@ Unfortunately, we have tried playing Superhot but it did not work on our Linux c
 so I cannot comment much on it. Anyway, I often see comparisons of roguelikes to Superhot, although to me, Superhot seems more "pauseable" than Rogue-style time control.
 
 GAME Socrates Jones: Pro Philosopher
-VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free
+VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free gem=1
 An educational game about philosophy and debates, supposedly in the style of Ace Attorney, but I know nothing about that. A very fun, free game.
