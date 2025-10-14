@@ -1,10 +1,8 @@
 // to do:
 // - fix todos
-// - fix gems
-// - info about by's?
-// - fix years for zuzel
-// - hint about search format
-// - provide permanent links and make 'back' work
+// - info about more by's?
+// - info about more philosophies
+// - provide permanent links for searches
 
 #include <iostream>
 #include <string>
@@ -175,7 +173,39 @@ void add_buttons(ostream& ss) {
   ss << "<br/><br/>";
   }
 
+string mainpart, param;
+char which;
+
+EM_JS(void, push_state, (const char *mp, const char* which, const char* param), {
+  history.pushState({}, null, UTF8ToString(mp) + "?" + UTF8ToString(which) + "=" + encodeURIComponent(UTF8ToString(param)));
+  });
+
+EM_JS(void, push_state_empty, (const char *mp), {
+  history.pushState({}, null, UTF8ToString(mp));
+  });
+
+EM_JS(const char*, decodeURI, (const char* uri), {
+  return stringToNewUTF8(decodeURIComponent(UTF8ToString(uri)));
+  });
+
+void push_state_if_changed(char _which, string _param) {
+  if(which != _which || param != _param) {
+    which = _which; param = _param;
+    string xwhich; xwhich += which;
+    push_state(mainpart.c_str(), xwhich.c_str(), param.c_str());
+    }
+  }
+
+void link_error() {
+  stringstream ss;
+  ss << "error";
+  ss << "<hr/>\n";
+  add_buttons(ss);
+  set_value("output", ss.str());
+  }
+
 void do_explain_group(const string& g) {
+  if(!groupdesc.count(g)) return link_error();
   stringstream ss;
   ss << "<div style=\"float:left;width:100%\">\n";
   ss << "<div style=\"float:left;width:10%\">&nbsp;</div>";
@@ -194,15 +224,19 @@ void do_explain_group(const string& g) {
   ss << "<hr/>\n";
   add_buttons(ss);
   set_value("output", ss.str());
+  push_state_if_changed('x', g);
   }
 
-void do_explain_tag(const string& s) {
-  if(s == "philosophies") { do_explain_tag("philosophy"); return; }
+
+void do_explain_tag(const string& s0) {
+  auto s = s0;
+  if(s == "philosophies") s = "philosophy";
+  if(!which_group.count(s)) return link_error();
   stringstream ss;
   ss << "<div style=\"float:left;width:100%\">\n";
   ss << "<div style=\"float:left;width:10%\">&nbsp;</div>";
   ss << "<div style=\"float:left;width:80%\">";
-  ss << "<h1>" << s << "</h1>";
+  ss << "<h1>" << s0 << "</h1>";
   string g = which_group[s];
   ss << "<h2>A tag from group " 
      << "<a onClick=\"explain_group('" << g << "')\">" << g << "</a></h2>"
@@ -230,9 +264,11 @@ void do_explain_tag(const string& s) {
   ss << "<hr/>\n";
   add_buttons(ss);
   set_value("output", ss.str());
+  push_state_if_changed('t', s);
   }
 
 void do_explain_by(const string& s) {
+  if(!all_devs.count(s)) return link_error();
   stringstream ss;
   ss << "<div style=\"float:left;width:100%\">\n";
   ss << "<div style=\"float:left;width:10%\">&nbsp;</div>";
@@ -252,9 +288,11 @@ void do_explain_by(const string& s) {
   ss << "</li><hr/>\n";
   add_buttons(ss);
   set_value("output", ss.str());
+  push_state_if_changed('b', s);
   }
 
 void do_explain_game(const string &s) {
+  if(!game_by_name.count(s)) return link_error();
   stringstream ss;
   ss << "<div style=\"float:left;width:100%\">\n";
   ss << "<div style=\"float:left;width:10%\">&nbsp;</div>";
@@ -263,6 +301,7 @@ void do_explain_game(const string &s) {
   ss << "<hr/>\n";
   add_buttons(ss);
   set_value("output", ss.str());
+  push_state_if_changed('g', s);
   }
 
 void do_main_page() {
@@ -293,6 +332,10 @@ void do_main_page() {
   for(auto z: parselog) ss << z << "<br/>";
   add_buttons(ss);
   set_value("output", ss.str());
+  if(which != 'z') {
+    which = 'z';
+    push_state_empty(mainpart.c_str());
+    }
   }
 
 vector<game*> found;
@@ -345,8 +388,27 @@ int init(bool _is_mobile) {
     return stringOnWasmHeap;
     });
 
-  printf("Doing main page...\n");
-  do_main_page();
+  which = 'z';
+  auto pos = href.find("?");
+
+  if(pos == string::npos) {
+    param = "";
+    mainpart = href;
+    }
+  else {
+    mainpart = href.substr(0, pos);
+    which = href[pos+1];
+    auto p = decodeURI(href.c_str()+pos+3);
+    param = p;
+    free((void*) p);
+    }
+
+  if(which == 'z') do_main_page();
+  else if(which == 'g') do_explain_game(param);
+  else if(which == 'b') do_explain_by(param);
+  else if(which == 't') do_explain_tag(param);
+  else if(which == 'x') do_explain_group(param);
+  else do_main_page();
 
   return 0;
   }

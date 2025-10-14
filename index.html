@@ -171,6 +171,9 @@
     </script>
     <script async type="text/javascript" src="zgdb.js"></script>
     <script> 
+
+      window.onpopstate = function(){ window.location.href = window.location.href; }
+
       function doit() { 
         window.mobileCheck = function() {
           let check = false;
