@@ -1,4 +1,5 @@
 GAME roguelike philosophy
+AKA roguelike
 VAL philosophy gem=2 played=1994 year=1993 xp=5 ea=1980 ext pc free 7drl tolkien medieval topdown turnbased roguelike exp combat randomized procgen ghosts grid diagrid oneofthree rpgequip rpgconsume rpgstats rpgclasses ascii destructible idminigame traps broughlike simulationism seq connections openworld overworld secrets
 BY Jeff Lait
 BY Darren Grey
@@ -230,4 +231,5 @@ philosophy common in the best {roguelike}s. Why make music yourself when you cou
 hire a musician instead?
 
 GAME Japanese RPG philosophy
+AKA jRPG
 VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982
