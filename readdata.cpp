@@ -128,7 +128,6 @@ void parse(const string& fname) {
       }
 
     else if(cap == "LISTGROUP") {
-      printf("group set for '%s'\n", last_validator.c_str());
       validator_groups[last_validator] = param;
       if(*addto != "") addto = &junk;
       }
