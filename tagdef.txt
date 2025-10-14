@@ -243,7 +243,10 @@ The game takes place on mostly flat areas, viewed from the above. Slight variati
 
 TAG sideview
 "Up/down" in the game world is mapped to "up/down" on the screen, and there is one other dimension, mapped to left/right.
-Both dimensions, and the distinction between them, need to be important for the gameplay.
+Both dimensions, and the distinction between them, need to be important for the gameplay (otherwise it might be {tag:nonspatial} or {tag:onedim}.
+
+TAG onedim
+An one-dimensional game has only one dimension that is important for the gameplay. It should be indeed important.
 
 TAG isometric
 "Up/down" in the game world is mapped to "up/down" on the screen, but the world is three-dimensional, and a cube looks like a (left-right) symmetric hexagon.

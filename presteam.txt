@@ -1322,3 +1322,13 @@ Zelda was the game that introduced saving, while it introducing saves on console
 GAME CD-Man
 VAL year=1993 played=1993 pc realtime topdown spacebending abstract xp=2 collectathon fixed tiny lores endless free=?
 Basically a clone of {Pacman}, with various levels having different graphics. I do not think I have progressed far, though.
+
+GAME The Spirit Engine II
+VAL year=2008 played=2015 pc onedim turnbased xp=3 fixed free combat medieval lovecraftian=? hscroll return=? midres
+A free RPG with {jRPG}-inspired combat. I have seen someone recommend this free RPG and it looked interesting.
+The gameplay is mostly one-dimensional, you explore levels from left to right, sometimes you fight. Contrary
+to a typical {jRPG} where you have predefined characters, in TSE you are free to pick your own character
+(from the list of 9), and the game builds the story about them (there are three "roles" in the story and you
+should pick a character for every role). Quite good, although I of course prefer more roguelike-ish combat.
+
+TAG onedim I think it deserves onedim because you explore levels from left to right, like in a sidescroller, and the order of placement of both parties in combat matters.

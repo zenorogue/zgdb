@@ -270,8 +270,10 @@ VAL pc scifi xp=1 year=2015 played=2021 physics sciencegame realtime tpp fixed=?
 Probably the most well-known science game. I have tried it, but am not actually that interested in rocket science.
 
 GAME Kingdom Two Crowns
-VAL pc medieval xp=3 year=2018 played=2022 sideview procgen defense army hscroll realtime lores multiplayer randomized
+VAL pc medieval xp=3 year=2018 played=2022 onedim procgen defense army hscroll realtime lores multiplayer randomized
 A game in the same style as {Kingdom New Lands}, but improved: more logical rules, can be played by two people.
+TAGCMT onedim
+The game feels very one-dimensional, so it deserves the onedim tag, although technically the archers shoot arrows upwards (to avoid walls) so the second dimension exists too.
 
 GAME Loria
 VAL pc medieval xp=3 year=2018 played=2019 grid topdown hscroll vscroll realtime army diagrid exp combat fixed lores=? free
@@ -616,7 +618,7 @@ VAL pc female played=2022 year=2018 sideview platformer flick xp=2 realtime fixe
 A well-known precision platformer with some psychological themes. I did not find it fun.
 
 GAME Darkest Dungeon
-VAL pc medieval gem=-2 roguelite year=2016 played=2023 sideview randomized flick squad xp=1 turnbased modalbattle exp combat hires uniquegfx epicfree traps=?
+VAL pc medieval gem=-2 roguelite year=2016 played=2023 onedim=? randomized flick squad xp=1 turnbased modalbattle exp combat hires uniquegfx epicfree traps=?
 Essentially a strategy game where you manage a band of heroes whom you sent to dungeons. Not sure why this game was marketed as roguelike, I have no idea what other game marketed as
 roguelike has inspired it -- it is both very different from Rogue and very different from typical run-based games such as Spelunky. There is no "permadeath of the player character"
 (although the heroes can die), and procedural generation, well, is a normal thing in strategy games. It has a very distinct graphical style, although it would feel more in place in
@@ -769,7 +771,7 @@ VAL pc norse year=2015 played=2023 hscroll vscroll xp=3 bossfights arbi3 realtim
 A game where you mostly explore large maps, and fight bosses at the end of every section.
 
 GAME Kingdom New Lands
-VAL pc medieval year=2016 played=2020 sideview hscroll defense army xp=4 realtime randomized procgen economy lores
+VAL pc medieval year=2016 played=2020 onedim hscroll defense army xp=4 realtime randomized procgen economy lores
 Beautiful pixel art, one-dimensional exploration, tower defense elements, and the system of make this game original, and very fun. The next entry in the series, {Kingdom Two Crowns},
 is even better.
 
