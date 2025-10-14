@@ -190,7 +190,7 @@ in the 80s and 90s, and lots of other games. I was a big fan of the "Home of the
 website that featured lots of underrated free games in early 00s. (It was more of a museum
 of underrated video games, and also included abandonware titles.) There is a claim
 that what started in ~2010 was that indies were becoming financially successful,
-but that is weird too -- we had the {shareware} movement in the 90s that produced lots
+but that is weird too -- we had the {tag:shareware} movement in the 90s that produced lots
 of famous games such as {Doom}, and it was also very much about distributing games
 without having access to big channels, why is that ignored?
 
@@ -225,7 +225,7 @@ all by themselves is alluring, there is an issue that the secret to being a succ
 solo developers is to hide the contributions from other people. One never works alone.
 You need testers. If the game is to be popular, you need people to tell others about
 the game (=marketers). You need other games to take inspiration from, and tools.
-More focus should be on collaboration instead, like the {community} development
+More focus should be on collaboration instead, like the {by:community} development
 philosophy common in the best {roguelike}s. Why make music yourself when you could
 hire a musician instead?
 
