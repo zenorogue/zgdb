@@ -36,7 +36,7 @@ to early roguelikes.
 
 GAME roguelite philosophy
 AKA roguelite
-VAL philosophy pc notheme year=2008 ea=1986 xp=4 gambletheme combat randomized unlocks itemlock metapower seq modalbattle deckbuilder enginebuilder rpgstats rpgclasses roguelite ddlike spireview trail
+VAL philosophy pc notheme year=2008 ea=1986 xp=4 played=2008 gambletheme combat randomized unlocks itemlock metapower seq modalbattle deckbuilder enginebuilder rpgstats rpgclasses roguelite ddlike spireview trail
 
 The roguelite philosophy started as a combination of the mastery {roguelike philosophy} and the
 {arcade philosophy}: procedural generation of roguelikes, short runs of arcade games.
@@ -48,13 +48,17 @@ different, but is technically a very different thing.
 
 GAME metroidvania philosophy
 AKA metroidvania
-VAL philosophy console gothic year=? ea=1986 xp=4 notheme exp combat platformer fixed nonlinear return ability bossfights
+VAL philosophy console gothic year=2001 ea=1986 xp=4 notheme exp combat platformer fixed nonlinear return ability bossfights played=2007
 BY Koji Igarashi
 
 As far as I know, the term "metroidvania" has started as a way to refer to the part of
 Castlevania series that is like {Metroid}, and later was adapted to refer to the whole genre.
+(<a href="https://groups.google.com/g/rec.games.video.nintendo/c/Iq7Q2fqdkIE/m/hOLAJKzHR8QJ">This</a> appeaars the first post
+on Usenet using the word "metroidvania", the next one is from 2005!)
 It is mostly used this way today, although I sometimes people who are more strict and say it
 is only a "metroidvania" and it includes Castlevania elements, such as the greater focus on RPG stuff like actual items, too.
+I consider my first interaction with modern metroidvania to be {Cave Story} and {La Mulana}, although I did not know then
+that such games were called metroidvania, this term has exploded much later.
 
 I feel the name is not really appropriate. You want a game to explore a world and a story. You make it a platformer
 because platformers are cool. You make the character gain new abilities because bigger games get boring otherwise. 
@@ -64,11 +68,13 @@ a similar philosophy. {Antiriad} has all of that, other games mostly miss the id
 "character growth" was quite rare in games then. Is the {tag:ability} gating really that important for how these games
 feel, or is it more about exploration?
 
-Nevertheless, the term is very useful.
+Nevertheless, the term is very useful. Looking through the Steam achievement stags for metroidvania games, it is quite
+sad that clearly most players do not progress very far in them. So they do not even experience the story and the
+character growth which is supposed to define the genre...
 
 GAME soulslike philosophy
 AKA soulslike
-VAL philosophy pc tpp soulcombat fixed ghosts soulcheck camscroll nonlinear rpgequip rpgstats photorealistic models bossfights xp=1 year=2009
+VAL philosophy pc tpp soulcombat fixed ghosts soulcheck camscroll nonlinear rpgequip rpgstats photorealistic models bossfights xp=1 year=2009 played=?
 BY Fromsoft
 
 I do not know what soulslike is supposed to mean. I have played games that are sometimes referred
@@ -76,7 +82,7 @@ to as soulslikes, but not the games these games were supposedly "like".
 It seems to be a collection of mostly unrelated mechanics. Which are quite fun.
 
 GAME immersive sim philosophy
-VAL philosophy pc moderntheme notheme fpp exp stealth fixed camscroll rpgstats photorealistic models simulationism xp=1 ea=1990 year=2000
+VAL philosophy pc moderntheme notheme fpp exp stealth fixed camscroll rpgstats photorealistic models simulationism xp=1 ea=1990 year=2000 played=2025
 
 Yet another puzzling philosophy. The definitions I read are about how you are supposed
 to solve challenges the way you want, for example, you can fight the guard,
@@ -88,32 +94,85 @@ contrary to the "use your own imagination" style of immersion used by roguelikes
 But apparently some people do not find this important.
 
 GAME boomer shooter philosophy
-VAL philosophy pc medieval scifi fpp exp shooter camscroll twistpixel models multiweapon multiplayer xp=2 year=1993 secrets
+VAL philosophy pc medieval scifi fpp exp shooter camscroll twistpixel models multiweapon multiplayer xp=2 year=1993 secrets ammolimit played=1997
 BY John Romero
 
 Some people like the design of classic {tag:fpp} {tag:shooter} games such as Doom
-and not the design of more modern first-person shooters. I read a definition of
-boomer shooter, it had the vibes of Berlin Interpretation: a collection of not
+and not the design of more modern first-person shooters. I read a <a href="https://www.reddit.com/r/boomershooters/comments/18jwesc/what_is_a_boomer_shooter/">definition</a> of
+boomer shooter, it includes things like: fast movement,
+more enemies, non-linear maps with {tag:secrets}, resource economy, fantasy themes,
+variety of weapons and enemies. 
+It had the vibes of Berlin Interpretation: a collection of not
 strictly related properties and not mentioning the basic stuff like being
 shooters or being first person. Might become a name of a new genre that
 focuses on some of these properties without being shooters anymore.
 
-TAGCMT rulediscovery
-Apparently map "secrets" are a part of this philososophy.
-
 GAME CRPG philosophy
-VAL philosophy pc medieval exp fixed rpgequip rpgconsume rpgstats rpgquests rpgclasses xp=2 year=1980
+AKA CRPG
+VAL philosophy pc medieval exp fixed rpgequip rpgconsume rpgstats rpgquests rpgclasses xp=2 year=1980 played=1996
+
+Taken literally, Computer Role-Playing Game and {adventure} should mean exactly the same thing
+-- something like a book, but where you play the main character. The reason for "C" prefix
+is not to gatekeep consoles and mobile devices, but to separate from pen-and-paper role-playing
+games -- CRPGs want to emulate the experience, although that is not really possible in
+a computer program. The first CRPGs I have played were {Valhalla} and {Son of the Empire},
+I noticed the similarities (characters described by stats), but I did not know where
+they come from.
+
+Most CRPG definitions also include "character growth" as a core part of the definition.
+It sounds quite funny today since most modern games have character growth of some kind,
+it is probably harder to find a game that does not have character growth. (It was
+definitely not so in the 80s, character growth was rare.)
+In the past, I found it funny when {HyperRogue} was classified as a role-playing game
+due to the (almost) lack of character growth, but I do not care anymore, it is still
+an adventure.
+
+At some point, I have filled a poll which included questions about kinds of games I like,
+and since it did not include "{roguelike}", I had to choose between "{strategy}" and RPG.
+I picked strategy, because I am typically annoyed playing non-roguelike RPGs -- the
+gameplay is not that good, unless you play one of the RPG subgenres defined by their
+good gameplay, such as {roguelike}. Nevertheless, RPG elements in all kinds of games are
+great.
 
 GAME strategy philosophy
 AKA strategy
-VAL nonvideo philosophy pc notheme history military topdown turnbased pauseable squad army xxxx nonlogic cardgame economy randomized procgen grid deckbuilder deckconstruction year=-2400 xp=3
+VAL nonvideo philosophy pc notheme history military topdown turnbased pauseable squad army xxxx nonlogic cardgame economy randomized procgen grid deckbuilder deckconstruction year=-2400 xp=3 played=1986
+
+Strategy video games, essentially, evolved from tabletop games.
+Mostly {Chess}, and thus, you control an army, but I do not consider this
+necessary for being a strategy game. They focus on making
+decisions. As such, strategy games were originally turn-based.
+Being video games, it is possible to make them more complex, using
+mechanics that would be too cumbersome for pen-and-paper play. Although there
+are still good reasons to keep things simple. Who likes +3% to all resistances?
+(More of a {CRPG} example but you get the idea.)
+
+We also no longer had to make them turn-based. But "real-time strategy" were
+controversial -- are they really still strategy games?
+It did not matter that much in the end, since RTS seem to be considered a separate
+genre, and you can always say "turn-based strategy" if you need this aspect.
+I like the decision-making aspect although I do not like micromanagement, so
+{roguelike} and roguelike-like games are better than army or economy games.
 
 GAME arcade philosophy
-VAL philosophy arcade oldpc notheme fixed flick endless lores realtime seq xp=3 year=1980
+VAL philosophy arcade oldpc notheme fixed flick endless lores realtime seq xp=3 year=1980 played=1985
+
+The arcade philosophy refers mostly to the fact that early video games tended to be
+very hard -- whether they were actual arcade games, or games of similar style created
+for computers and consoles.
+
+Some people claim that the only reason they were hard so that people dropped more coins
+in the arcade machines, and hard games do not make sense anymore -- but that is silly,
+given that this was the case not only in arcade games, and also given the ongoing popularity
+of various kinds of hard games, and of course there are lots of people who like hard games,
+and probably the designers of those early games were simply among these people.
+Also, I imagine them to consider that these kinds of games were a better application of the
+new technologies than {adventure} (better read a book or watch a movie) or {strategy}
+(better play tabletop games).
 
 GAME dark philosophy
 AKA dark
-VAL philosophy android paytowin notheme timegate incremental metapower picklevel minigames endless hires multiplayer xp=1 year=2006
+VAL philosophy android paytowin notheme timegate incremental metapower picklevel minigames endless hires multiplayer xp=1 year=2006 played=2017
 
 The dark philosophy is named after the website "dark patterns" which informs potential
 players about psychologically manipulative patterns found in video games. These games
@@ -131,7 +190,7 @@ must have been very at interpreting even slight hints as darkness. Generally the
 of darkness.)
 
 GAME thinky philosophy
-VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982 spacebending engineering
+VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982 spacebending engineering played=1986
 Games about solving problems. The name refers to the "thinky games" website and community,
 which is in turn an offshoot of Alan Hazelden's thinky puzzle discord started in 2018.
 This discord was somewhat difficult to find and yet apparently most of the names (big
@@ -159,11 +218,24 @@ more puzzly ones. (My favorite thinky puzzle game is the {DROD} series which, wh
 handcrafted, puts lost of focus on the exploration of large levels and worldbuilding.)
 
 GAME adventure philosophy
-VAL philosophy itemuse timeless riddles fixed ascii xp=1 year=1975
+AKA adventure
+VAL philosophy itemuse timeless riddles fixed ascii xp=3 year=1975 played=1990
+
+To me, an adventure game is simply a game that lets you take on a role of a character
+in some world, as in, if you wrote down your adventures, it would make a (somewhat)
+good book. It is a quite literal interpretation. Yes, this includes most games today,
+and that is fine. It was not that common in the 80s.
+
+In the past we had other views, for example, <i>The Book of Adventure Games</I> (Kim Shuette, 1984)
+divides adventures into two categories, "puzzle adventures" (text adventures of the
+time, and point-and-click adventures that evolved from them) and "fantasy adventures"
+(essentially what we call {CRPG} today). The name of the "text adventure" genre
+seems to come from {Colossal Cave Adventure}; it is good that they seem to be more
+commonly called Interactive Fiction today.
 
 GAME indie philosophy
 AKA indie
-VAL philosophy pc free=? lores xp=3 year=2010 ea=1990
+VAL philosophy pc free=? lores xp=3 year=2010 ea=1990 played=?
 Yet another puzzling philosophy. The name suggests independence from big publishers,
 both financial and creative; the philosophy is about games created by small teams,
 avoiding for-profit techniques such as lootboxes, creativity, experimental nature, and cheap graphical styles such as {tag:lores} pixel art.
@@ -232,4 +304,19 @@ hire a musician instead?
 
 GAME Japanese RPG philosophy
 AKA jRPG
-VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982
+VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982 played=2000
+
+I associate jRPGs mostly with their combat style: the party and the enemies are displayed
+on the screen but the geometry does not matter; you can use menus to give commands
+to your characters (attack, cast spell, etc.). This is a rather distinctive style
+that I call "jRPG-style combat", and should probably have its own name, especially that
+not all jRPGs use that (some are {tag:roguelike}s and some are tactical grid RPGs),
+and a similar style has been used in many non-Japanese games ({Slay the Spire} and likes,
+{Darkest Dungeon}, etc.). It is commonly called simply "turn-based RPG" but that is
+very imprecise when there are so many other kinds of turn-based RPGs! I know there are
+some more specific names, like ATB, but that seems to be something more specific.
+
+Anyway, I am not a fan of jRPG-style combat. I have played {Chrono Trigger} since it
+seemed to be the best jRPG and I did not like it, mostly because of the boring combat.
+(I consider {Kyle's Quest} to be the first jRPG-ish game that I played.)
+I think fans do not like the combat either, they play them for the story.
