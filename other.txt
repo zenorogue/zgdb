@@ -578,3 +578,7 @@ A puzzle game based on actual quantum mechanics. Very interesting. There was als
 GAME Velocity Raptor
 VAL web year=2011 played=2013 sciencegame logic realtime timebending picklevel fixed vectorart xp=2 free gem=2 topdown animaltheme
 A quite good puzzle game based on special relativity.
+
+GAME The Entropy Centre
+VAL pc year=2022 played=2022 logic timeless=? fixed fpp camscroll xp=1 timebending photorealistic models scifi
+A {Portal}-like game about some kind of time control, but I do not remember mostly anything from playing the demo.
