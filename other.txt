@@ -77,8 +77,13 @@ Some kind of metroidvania-ish game about a guy who could transform into a monkey
 
 # console classics
 GAME Battlestar
-VAL pc year=1979 played=2001 scifi riddles xp=2 nonspatial ascii timeless fixed connections free mono
+VAL pc year=1979 played=2001 scifi riddles xp=2 nonspatial ascii timeless fixed connections free mono itemuse
 One of games included in the BSD games. A rather strange interactive fiction game with many sections (first on a spaceship, then on an island of some kind).
+
+GAME Colossal Cave Adventure
+VAL pc year=1976 played=2001 medieval riddles xp=3 nonspatial ascii timeless fixed connections free mono itemuse
+A classic dungeon crawler text adventure, not only the {adventure} genre was named after it, but it was also an inspiration of {Rogue}, I believe?
+Lots of famous gaming quotes come from Colossal Cave Adventure. Do not miss out, definitely worth playing.
 
 GAME Moon Buggy
 VAL pc year=2004 played=2004 endless platformer scifi xp=2 sideview ascii realtime randomized
