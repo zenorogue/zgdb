@@ -809,7 +809,7 @@ A metroidvania where you are playing as a ball, that could become one of eight b
 
 GAME Chrono Trigger
 BY Square
-VAL console year=1995 played=2005 xp=3 gem=-2 medieval scifi prehistoric rpgstats squad rpgequip rpgconsume bossfights topdown turnbased exp combat fixed overworld lores unlocks
+VAL console year=1995 played=2005 xp=3 gem=-2 medieval scifi prehistoric rpgstats squad rpgequip rpgconsume bossfights topdown turnbased exp combat fixed overworld lores unlocks timebending
 As with most console games, this one was not popular around here; but I have noticed that lots of people enjoy RPGs, and particularly this one,
 supposedly the best. But I think it is overrated. Turn-based battles are boring compared to roguelikes. The story is good but if you want story,
 it is better to read a book. Since this was supposedly one of the best, I have not tried more JRPGs.
