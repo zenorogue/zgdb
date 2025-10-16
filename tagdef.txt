@@ -781,7 +781,7 @@ Games with limited ammo for your weapons. So you have to aim your weapons well, 
 This is technically a form of {tag:economy} and also similar to {tag:rpgconsume}, but specific enough to be a separate tag.
 
 VALIDATE (year > 1960 and year < 2030) or unknown:year or nonvideo or by:zenorogue
-VALIDATE (played > 1984 and played < 2030) or (def:xp and not xp)
+VALIDATE (played > 1984 and played < 2030) or (def:xp and not xp) or unknown:played
 VALIDATE def:xp or not def:year
 VALIDATE orthogrid or hexgrid or diagrid or arbigrid or philosophy or not grid
 VALIDATE theme or philosophy
