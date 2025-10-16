@@ -151,6 +151,17 @@ seem talked about: if you had two ships you could abuse the mechanics of 'unload
 far as you want in a single turn; and you could also do Settlers work in a single turn. (Somehow lots of people talk about the 'nuclear Gandhi'
 bug, which apparently is just an urban legend.)
 
+It uses a distinctive graphical style that makes the game look similar to board games: units have rectangles in the backgrounds which tell
+which player they belong to. It fell out of fashion, mostly all current games use a more "realistic" graphical style where units
+are just superimposed over the background terrain, and you need to look at the colors of their uniforms to tell the side. But I think it was cool.
+
+GAME Civilization III
+BY Sid Meier
+BY MicroProse
+VAL year=2001 played=2003 pc grid turnbased xxxx xp=4 hscroll vscroll history randomized nonlinear procgen hexgrid isometric midres economy army manualsave
+I think it is in general an improvement over the original {Civilization}, however,
+when I played this, I have been more of a roguelike fan, so controlling an army and micromanagement did not feel that fun.
+
 GAME Dangerous Dave
 BY John Romero
 VAL year=1988 played=1992 sideview platformer realtime xp=4 hscroll notheme fixed seq hscroll lores
