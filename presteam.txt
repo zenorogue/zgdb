@@ -115,7 +115,7 @@ Yet another example game written in BASIC and distributed with MS-DOS, in the st
 It was quite fun to play multiplayer.
 
 GAME Transcendence
-VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave
+VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave spaceopera
 A space-opera topdown shooter with clear {Rogue} inspirations, such as randomized star systems and various kind of equipment requiring identification.
 Should be more well-known as an early game putting such things in something very different than a literal roguelike.
 
@@ -875,7 +875,7 @@ I played it at my friend's place, but I do not remember on which platform. Was q
 
 GAME MegaTraveller
 AKA MegaTraveller 1: The Zhodani Conspiracy
-VAL year=1990 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp shooter fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave
+VAL year=1990 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp shooter fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera
 BY Paragon Software
 I got my hands on a collection of Paragon Software RPGs, not sure how. I have played them, but they were not very interesting.
 Mostly planetary exploration with a bit of space combat.
@@ -887,7 +887,7 @@ This one has nice retrofuturistic theme -- explore various civilizations in the 
 But it is not really that interesting otherwise.
 
 GAME MegaTraveller II
-VAL year=1991 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave
+VAL year=1991 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera
 BY Paragon Software
 Another game in the {MegaTraveller} universe. The world is huge -- lots of planets to explore -- but also very empty. For example, most of the cities on the planets
 look the same, they are quite huge, repetitive blocks of squares, you can find some people to talk to or occassionally buildings to enter. Look for the artifacts of
@@ -968,7 +968,7 @@ I have found it looking at the 'non-Euclidean' tag on itch.io. It is just a sphe
 Unfortunately the spherical geometry makes it a bit unintuitive -- tiles drop 'down', but it is not clear where the 'down' is. But still a nice free game.
 
 GAME Hydorah
-VAL played=2024 year=2012 scifi xp=2 sideview autoscroll hscroll realtime shooter fixed seq lores free
+VAL played=2024 year=2012 scifi xp=2 sideview autoscroll hscroll realtime shooter fixed seq lores free spaceopera
 BY Locomalito
 A horizontal shmup. As usual in Locomalito games, it plays similar to the arcade classics -- in this case, you do not have to do it all in one run, but saves are limited.
 Good, but I have not finished it yet.
@@ -1142,11 +1142,11 @@ VAL year=1999 played=2001 history turnbased modalbattle xp=3 topdown army exp co
 A strategy game about the European conquest of America. Good, but not much to talk about.
 
 GAME Star Control II
-VAL year=1992 xp=0 vehicles exp combat topdown modalbattle turnbased realtime fixed twistpixel
+VAL year=1992 xp=0 vehicles exp combat topdown modalbattle turnbased realtime fixed twistpixel spaceopera
 I have played {Ur-Quan Masters} which is mostly the same game, as far as I understand. 
 
 GAME Ur-Quan Masters
-VAL year=2002 played=2016 xp=3 vehicles exp shooter topdown modalbattle turnbased realtime fixed twistpixel
+VAL year=2002 played=2016 xp=3 vehicles exp shooter topdown modalbattle turnbased realtime fixed twistpixel spaceopera
 A open-source version of {Star Control II}. You fly an ancient spaceship in a galaxy that has been conquered by nasty aliens, and you are the only hope. 
 Fight enemy ships in real-time battles, as either your huge ship or one of the smaller ships you obtain from the other races that you successfully did diplomacy with.
 A very good, free game with lots of adventure.

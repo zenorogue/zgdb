@@ -8,7 +8,7 @@ station, so you just buy them when they are cheap, and hope that they will be mo
 were more into drugs) loved it.
 
 GAME Space Trader
-VAL palmos year=2000 played=2000 xp=3 scifi spaceopera nonspatial turnbased exp combat fixed=? procgen=? connections=? ascii=? free mono
+VAL palmos year=2000 played=2000 xp=3 scifi spaceopera nonspatial turnbased exp combat fixed=? procgen=? connections=? ascii=? free mono spaceopera
 
 A game similar in style to {Elite}, but with only trading (and a turn-based battle system, I think). It was quite cool, but I do not remember much.
 

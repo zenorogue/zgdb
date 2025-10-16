@@ -747,6 +747,13 @@ GAME For the King
 VAL pc medieval roguelite year=2018 played=2020 turnbased modalbattle randomized procgen=? xp=1 isometric=? combat squad hires=? modalbattle epicfree
 Some RPG with a somewhat Japanese-style combat. Boring.
 
+GAME Halcyon 6
+VAL year=2002 played=2016 xp=3 gem=2 vehicles exp shooter topdown modalbattle turnbased fixed twistpixel army squad economy spaceopera multigenre xxxx
+A game very much in the style of {Star Control II} -- a space opera style story -- but combining that with rather light 4X-style gameplay, a bit like {Stars}.
+Battles are {jRPG}-style, sometimes your people use their starships, sometimes they fight on their own, the planet surfaces. There is {XCOM}-like exploration of the base.
+From Wikipedia I read that it was originally considered too long and the devs have created the "lightspeed edition" in response to these criticisms -- this is probably
+what I have played. It was quite fun, I think it deserves more popularity.
+
 GAME Galactic Civilizations III
 VAL pc scifi aliens played=2021 year=2019 turnbased procgen grid xp=2 hexgrid topdown exp combat xxxx economy hscroll vscroll hires=? epicfree randomized
 It did not seem bad, but I am not really interested in 4X.
@@ -915,7 +922,7 @@ VAL pc moderntheme year=1995 played=2012 sideview riddles turnbased lores connec
 A rather well-known Polish point-and-click adventure game. I do not remember anything.
 
 GAME Tyrian 2000
-VAL pc scifi year=1995 played=2019 topdown vscroll autoscroll shooter xp=3 realtime fixed lores free=?
+VAL pc scifi year=1995 played=2019 topdown vscroll autoscroll shooter xp=3 realtime fixed lores free=? spaceopera
 I have played this euroshmup once, on Pandora gaming console. I thought it was quite good, although I do not remember much.
 
 GAME Super Geometry Dust
