@@ -383,24 +383,36 @@ I do not care about playing with random people, and otherwise, it mostly introdu
 of building and thus more fun. Yeah, I agree with that, altohough I prefer roguelikes less focused on builds.)
 
 GAME The Incredible Machine
-VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores abstract fixed seq simulationism
-A rather unique game.
+VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores fixed seq engineering weirdtheme
+A game about building a machine from available ingredients that will achieve some effect. Some of the available elements are common
+(balloons, balls, slopes, etc.), while some are rather strange (various animals, such as cats which move when they see a mouse).
+It seemed very popular in my circles at the time, and it had some sequels which I have not played, but somehow I do not see neither
+TIM nor newer games of its kind discussed anymore.
 
 GAME E-Motion
-VAL pc year=1993 played=1995 realtime topdown nonlogic xp=4 gem=1 shapegfx abstract fixed seq
+VAL pc year=1990 played=1993 realtime topdown nonlogic xp=4 gem=1 shapegfx abstract fixed seq
+A rather weird game, there are balls of three kinds, you can push them into other balls, two balls of the same color disappear,
+two balls of different colors create a 'baby' of different color that you can eat to restore some energy or let it grow into a big ball,
+balls explode when they live for too long time. You have to survive while balls need to disappear or explode. The time is very limited,
+so it is challenging (although I do not remember the challenge as very fun).
 
 GAME Loopz
-VAL pc year=1993 played=1995 realtime topdown shapepuzzle xp=2 shapegfx abstract randomized tiny
+VAL pc year=1993 played=1994 realtime topdown shapepuzzle xp=2 shapegfx abstract randomized tiny grid orthogrid
+A game about creating pipelines out of random grid-based pipes. I do not remember much.
 
 GAME Maniac Mansion
 BY Lucasfilm
 BY Ron Gilbert
 VAL pc year=1987 played=1993 turnbased riddles itemuse sideview moderntheme xp=3 lores fixed connections
+A predecessor to {Secret of Monkey Island}, fun for similar reasons, even if not as great. Contrary to most point-and-clicks it has some replayability,
+you can play various characters who can win in different ways.
 
 GAME North and South
 BY Infogrames
 VAL amiga pc year=1989 played=1991 modalbattle realtime army multigenre topdown sideview platformer xp=4 lores difflevels military fixed multiplayer gem=2
-TODO describe
+You could consider North and South a kind of "real-time strategy game" or not... there are some similarities, there are some differences.
+If you do, it is great because it did it much before the usual "classics" such as {Dune II}.
+If you do not, well, it belongs to an interesting genre that does not seem that popular anymore.
 
 GAME Bubble Bobble
 BY Firebird
