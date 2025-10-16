@@ -642,7 +642,7 @@ which I am not a fan of. Does not really go into the Western RPGs, not speaking 
 
 GAME Evoland II
 BY Shiro Games
-VAL pc medieval multigenre rpgstats squad return nonlinear year=2015 played=2023 xp=3 multiperspective lores midres hires fixed realtime turnbased stealth epicfree bossfights
+VAL pc medieval multigenre rpgstats squad return nonlinear year=2015 played=2023 xp=3 multiperspective lores midres hires fixed realtime turnbased stealth epicfree bossfights timebending
 This sequel is much better than {Evoland I}. While in E1 more modern features were introduced to match the player progress, E2 has a {Chrono Trigger}-style
 story based on time travel, and when you are in more modern times, the style of the game is more modern too. It is also a great example of a multi-genre
 game -- it includes parts that adhere to a wide choice of genres, all played by the same main characters and their special powers (platformer, fighting game,
@@ -664,6 +664,9 @@ VAL pc scifi aliens year=2018 played=2021 roguelite turnbased otherlinear grid u
 A puzzly turn-based tactics game where you control three units (usually). While it appears to be quite close to a roguelike, the focus on doing the best combination of moves with
 all your units makes it feel not like a roguelike, more like a randomized puzzle game. It does not feel like you control the flow of time, more like solving puzzles.
 I have played it a few times (until winning for the first time) but it did not pull me in.
+
+TAGCMT timebending
+I am not sure whether its time travel theme is anything more than a justification for the learning/metaprogression loop, but probably enough to be tagged.
 
 GAME Loop Hero
 VAL pc medieval roguelite year=2021 played=2021 metapower autobattle combat xp=2 topdown realtime seq deckconstruction lores epicfree
@@ -819,13 +822,15 @@ very annoyed by "roguelike elements" and disqualify the game altogether because 
 marketing. It has some replayability, there are two main paths of upgrades your character could choose.
 
 GAME The Talos Principle
-VAL pc scifi year=2014 played=2020 fpp logic xp=3 timeless fixed seq photorealistic models epicfree
+VAL pc scifi year=2014 played=2020 fpp logic xp=3 timeless fixed seq photorealistic models epicfree timebending
 A very good {The Witness}-like thinky puzzle game with one aspect that is rare in puzzle games -- somewhat photorealistic graphics. I think it was based on the engine of some other game
 of another genre. We found the early levels quite annoying -- they are mostly 2D puzzles, so all the first-person 3D graphics only make the game harder to understand. However, as you progress,
 the 3D aspect starts to be more pronounced. There are some philosophical recordings that you can listen to in the game. Quite an interesting and ambitious idea to include philosophy in a game.
 However, we wanted to solve the puzzles first and listen to the recordings later, but we have never got to actually do that.
 TAGCMT timeless
 There are some optional platforming challenges, so might not be pure timeless.
+TAGCMT timebending
+Some later puzzles are based on "recording" your moves and then replaying them, which can be considered a form of timebending.
 
 GAME TowerFall Ascension
 VAL pc medieval year=2014 played=2020 platformer sideview spacebending xp=3 realtime fixed=? picklevel lores epicfree

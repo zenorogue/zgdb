@@ -437,7 +437,7 @@ A roguelike designed for calculators, presumably, as the name suggests (I have p
 exceptional, but still a very good adventure.
 
 GAME Caves of Qud
-VAL pc roguelike scifi year=2010 played=2024 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen return rpgclasses destructible idminigame diagrid exp combat blackboard openworld nonlinear xp=3 ea=2008 ext=? randomized manualsave crafting ammolimit oneofthree gem=1
+VAL pc roguelike scifi year=2010 played=2024 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown overworld procgen return rpgclasses destructible idminigame diagrid exp combat blackboard openworld nonlinear xp=3 ea=2008 ext=? randomized manualsave crafting ammolimit oneofthree gem=1 timebending
 BY Freehold Games
 This game should need no introduction -- in a recent "top 5 roguelikes" thread in r/roguelikes, Caves of Qud was mentioned most frequently.
 
@@ -456,6 +456,9 @@ and you can easily defeat them from above) but it definitely deserves the prizes
 TAGCMT oneofthree
 I have decided to include "one of three" tag because, if you choose to get a new mutation, you are given a selection of random mutations.
 However, this is a relatively minor aspect (you can pick anything you want for the "main" mutations of your build) and it is still somewhat controllable.
+
+TAGCMT timebending
+There are "precognition" and "temporal fugue" powers.
 
 GAME DataQueen
 VAL pc roguelike scifi 7drl cyberspace year=2014 played=2014 turnbased grid topdown procgen hexgrid exp combat ascii=? seq=? xp=2 free randomized
@@ -615,6 +618,9 @@ randomized unique monsters. I have been able to reach the second continent (or s
 enough to try playing anymore. So many other great roguelikes!
 TAGCMT free
 I believe it started as a free game, and it is how I played it. The paid version has non-permadeath options.
+
+TAGCMT timebending
+There are classes based on time travel.
 
 GAME Magpie
 VAL pc roguelike animaltheme=2 7drl broughlike year=2023 played=2023 turnbased grid rpgequip topdown procgen exp combat hires multiweapon seq orthogrid xp=3 free randomized gem=1

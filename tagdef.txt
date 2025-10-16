@@ -669,6 +669,11 @@ These tags represent things that do not match the other categories.
 
 TAG spacebending
 This means that the space in the game does not work as usual, for example, by using portals, perspective tricks, or non-Euclidean geometry.
+Trivial cases such as grid-based games or "buildings bigger on the inside" do not count as spacebending.
+
+TAG timebending
+This means that the time in the game does not work as usual, for example, by using time loops, time travel, quantum mechanics, or something like that.
+portals, perspective tricks, or non-Euclidean geometry. Trivial cases such as games with save feature or undo feature do not count as timebending.
 
 TAG pixelsim
 Games where the world is meaningfully simulated up to precision of single pixels. In most of these games, the pixels would be {tag:destructible}. 

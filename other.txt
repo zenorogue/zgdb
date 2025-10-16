@@ -558,3 +558,11 @@ so I cannot comment much on it. Anyway, I often see comparisons of roguelikes to
 GAME Socrates Jones: Pro Philosopher
 VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free gem=1
 An educational game about philosophy and debates, supposedly in the style of Ace Attorney, but I know nothing about that. A very fun, free game.
+
+GAME Quantum Game with Photons
+VAL web year=2016 played=2017 sciencegame logic grid orthogrid timeless timebending picklevel fixed vectorart xp=2 free gem=2 topdown notheme
+A puzzle game based on actual quantum mechanics. Very interesting. There was also a newer version with a different graphical style, although I prefer the original.
+
+GAME Velocity Raptor
+VAL web year=2011 played=2013 sciencegame logic realtime timebending picklevel fixed vectorart xp=2 free gem=2 topdown animaltheme
+A quite good puzzle game based on special relativity.
