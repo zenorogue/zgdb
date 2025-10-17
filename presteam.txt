@@ -671,7 +671,7 @@ I have played only {Diablo} and {Diablo II}. The roguelike community was quite c
 
 GAME La Mulana
 AKA La-Mulana
-VAL pc year=2006 played=2009 pyramids xp=3 multiweapon sideview platformer multiweapon riddles fixed flick lores realtime free exp traps ammolimit secrets
+VAL pc year=2006 played=2009 pyramids xp=3 multiweapon sideview platformer multiweapon riddles fixed flick lores realtime free exp traps ammolimit secrets return nonlinear
 I have seen {Spelunky} described as a cross between La Mulana and {NetHack}, so I checked out what La Mulana was. It was a very fun game, although I felt that
 it was a game best played following a walkthrough closely -- some of the puzzles seemed impossible to solve (various parts would be spread over the whole
 game world, which was huge; or puzzles like approaching a certain skeleton in a specific way when there were tons of skeletons everywhere which were just
