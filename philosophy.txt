@@ -6,6 +6,8 @@ BY Darren Grey
 BY ChaosForge
 BY Thomas Biskup
 BY Chunsoft
+BY country: Poland
+BY country: Finland
 
 Roguelike started in 1993 to mean the specific way of controlling the character in an
 RPG game, invented in Rogue and cloned in other free games. This specific way of controlling
@@ -156,6 +158,7 @@ I like the decision-making aspect although I do not like micromanagement, so
 
 GAME arcade philosophy
 VAL philosophy arcade oldpc notheme fixed flick endless lores realtime seq xp=3 year=1980 played=1985
+BY country: Japan
 
 The arcade philosophy refers mostly to the fact that early video games tended to be
 very hard -- whether they were actual arcade games, or games of similar style created
@@ -305,6 +308,7 @@ hire a musician instead?
 GAME Japanese RPG philosophy
 AKA jRPG
 VAL philosophy console medieval topdown modalbattle turnbased squad fixed rpgequip rpgconsume rpgstats rpgquests anime xp=1 year=1982 played=2000
+BY country: Japan
 
 I associate jRPGs mostly with their combat style: the party and the enemies are displayed
 on the screen but the geometry does not matter; you can use menus to give commands

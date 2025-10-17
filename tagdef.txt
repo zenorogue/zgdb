@@ -509,7 +509,11 @@ TAG connections
 You can move between levels/screens in the game using connections such as stairways, portals, or doors. These connections are two-way.
 
 TAG nonlinear
-You can choose the order of solving levels. (Levels themselves being non-linear is not enough.)
+You can choose the order of solving levels. This is about non-linearity happening on the level of "run". Run-based games are not considered
+non-linear (just because of being run-based). Choice between "runs" in separate levels ({tag:picklevel}) does not count as non-linear.
+If you can inside things inside a specific level in whatever order but the sequence of levels
+is fixed, it is not non-linear (may be still fine if the game consists of a smal number of big, non-linear "chapters").
+Non-linearity is about picking the order, so if you can choose between A->B->D or A->C->D, it is not enough to be non-linear.
 
 TAG openworld
 In an open world game, the levels are, basically, huge. They are not small locations bounded by walls, you can spend lots of in-game time 
@@ -843,3 +847,9 @@ but I do not know about them.
 
 ABOUTBY Lucasfilm
 Known as LucasArts between 1990 and 2021.
+
+ABOUTBY country: Poland
+It seems that the piracy culture in 90s has made the Polish video game development culture different. For example, many prominent roguelike developers are from Poland.
+
+ABOUTBY country: Finland
+A surprisingly large amount of my favorite video games are from Finland.

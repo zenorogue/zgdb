@@ -3,6 +3,7 @@
 GAME Pac-Man
 AKA Pacman
 BY Namco
+BY country: Japan
 VAL year=1980 arcade realtime topdown spacebending abstract xp=0 collectathon fixed tiny lores endless
 I think I have played the arcade version somewhere, but I mostly played {Munch-It} (Amstrad CPC clone) and {CD-Man} (PC clone).
 
@@ -13,6 +14,7 @@ I do not think I have played the original arcade version. I mostly played a Palm
 
 GAME Space Invaders
 BY Taito
+BY country: Japan
 VAL year=1978 played=1987 sideview realtime shooter arcade cpc xp=2 scifi lores fixed seq endless mono blackboard
 
 A famous game where you have to kill all alien invaders; the invader sprite is sometimes used as a gaming symbol.
@@ -22,6 +24,7 @@ invaders was a good idea, and they moved very fast if there were just a few of t
 
 GAME Tetris
 BY Alexey Pajitnov
+BY country: Russia
 VAL year=1988 played=1992 cpc pc realtime sideview grid xp=3 abstract endless orthogrid randomized tiny difflevels shapegfx shapepuzzle
 One of the most famous games from the 80s, and deservedly so. I have first played a CPC version that was not official, I think.
 I have also played a classic PC version.
@@ -36,6 +39,7 @@ and deliver back to the planet safely. I remember playing (or watching?) the CPC
 GAME Donkey Kong
 BY Nintendo
 BY Shigeru Miyamoto
+BY country: Japan
 VAL arcade year=1981 xp=0 sideview realtime platformer notheme fixed seq lores endless
 Famous for being one of the first games in the platformer genre, and also introducing the Mario character.
 I have not played the original, but I have played a CPC clone called {Killer Gorilla}.
@@ -48,6 +52,7 @@ and some other clones (mostly of Arkanoid).
 
 GAME Qix
 BY Taito
+BY country: Japan
 VAL arcade year=1981 topdown realtime xp=0 abstract topdown realtime abstract pixelsim randomized seq endless shapegfx nonlogic
 The game that {Zolyx} and {Xonix} were clones of. (Although I see it had "slow draw" for double points, while Zolyx and Xonix did not, I think.)
 Very fun due to its unique rules.
@@ -68,6 +73,7 @@ I have not played this arcade classic, but I have played its clone {Killapede} o
 
 GAME Yie Are Kung Fu
 BY Konami
+BY country: Japan
 VAL year=1985 played=1986 cpc xp=1 realtime slasher eastern atarist sideview fixed seq=? lores
 A fighting game, I do not remember much.
 
@@ -112,6 +118,8 @@ One of games included with some Linux distro. I think it was a clone of earlier 
 # other
 
 GAME Chess
+BY country: Spain
+BY country: India
 VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased nonlogic fixed multiplayer tiny grid orthogrid diagrid gem=1
 I think Chess should be more talked about in video game circles. Sites such as chess.com have lots of members (100M). I meet lots of people in real life who
 are playing Chess on their mobile phones or computers. So it can be considered a video game. (Thus a gem score.)
@@ -216,11 +224,12 @@ it would be quite annoying to almost reach the end and then have to stop playing
 
 GAME Atic Atac
 BY Ultimate Play the Game
-VAL pc arcade medieval year=1983 played=2015 xp=1 topdown flick collectathon exp combat realtime randomized=? lores
+VAL pc arcade medieval year=1983 played=2015 xp=1 topdown flick collectathon exp combat realtime randomized=? lores nonlinear
 This was originally a game on ZX Spectrum; I have seen a claim of it being similar to {The Binding of Isaac}. It indeed has similar {Zelda}-style rooms, and some randomization, I think.
 
 GAME Angry Birds
 BY Rovio
+BY country: Finland
 VAL android year=2009 played=2012 xp=1 sideview physics turnbased vectorart animaltheme fixed seq hscroll ammolimit picklevel
 Once a huge hit, but somehow it appears to be mostly forgotten... Of course I have played it too, but never very seriously.
 It was mostly a clone of {Crush the Castle}.
@@ -230,12 +239,13 @@ VAL web year=2009 played=2010 xp=1 sideview platformer physics turnbased photore
 A flash game that {Angry Birds} was a clone of. I remember playing it. The idea of crushing castles was fun, although it got boring quickly.
 
 GAME 2048
+BY country: Italy
 VAL web grid orthogrid randomized turnbased abstract year=2014 played=2014 xp=2 topdown tiny ascii matching free
 Once a very popular free web game, with many clones replacing the original "powers of two" tiles with something else, and also games mixing 2048 with {Tetris}
 (you drop balls and two similar balls can combine into a larger ball). I have played it a bit, but mostly randomly, not trying to find a strategy to win. See also {Threes}.
 
 GAME Merlin's Revenge
-VAL web year=2004 played=2004 realtime rpgstats topdown exp combat fixed flick xp=3 medieval lores free
+VAL web year=2004 played=2004 realtime rpgstats topdown exp combat fixed flick xp=3 medieval lores free nonlinear=?
 A game that was somehow described as an "arcade roguelike" in the Polish roguelike usenet, probably as a joke. I do not remember much about it.
 
 GAME Threes
@@ -245,6 +255,7 @@ but then, 2048 is not that great either.
 
 GAME Bad Piggies
 BY Rovio
+BY country: Finland
 VAL web year=2012 played=2013 xp=1 sideview physics turnbased vectorart animaltheme fixed seq hscroll
 A game where you play as the antagonists from {Angry Birds}. The pigs do not use a slingshot but construct vehicles that ride into something to destroy it. Just like Angry Birds,
 stops being interesting quickly.
@@ -275,19 +286,22 @@ It made me realize that {Hydra Slayer} could be marketed as a "roguelike deckbui
 
 GAME Final Fantasy
 BY Square
-VAL console year=1992 played=2025 xp=1 topdown modalbattle fixed rpgclasses rpgstats rpgequip=? rpgconsume=? medieval anime turnbased exp combat
+BY country: Japan
+VAL console year=1992 played=2025 xp=1 topdown modalbattle fixed rpgclasses rpgstats rpgequip=? rpgconsume=? medieval anime turnbased exp combat nonlinear=?
 Why are the names of the games in this series so similar to each other (just numbered 1 to 16), should not the first one be "final"? I have tried one recently, but not very seriously,
 and I do not remember which one it was (I think it was Final Fantasy V).
 
 GAME Rogue Light
 BY Managore
+BY country: Australia
 VAL pc roguelite xp=4 year=2014 played=2016 sideview platformer metapower realtime medieval hscroll vscroll procgen randomized lores free exp ammolimit gem=1
 Just like the name suggests, Rogue Light is a good, free, metaprogression-focused platformer, where you are an archer explore a dark place, your primary light source being flaming arrows.
 It is obviously impossible to win the game with the initial power, but you earn money that lets you make your arrows stronger and more plentiful.
 There is metaprogression but no intraprogression, which is better than having both at once.
 
 GAME Factorio
-VAL pc xp=0 engineering pauseable=? hscroll vscroll grid orthogrid year=2016 scifi aliens topdown fixed=? lores manualsave=? crafting=?
+BY country: Czech
+VAL pc xp=0 engineering pauseable=? hscroll vscroll grid orthogrid year=2016 scifi aliens topdown fixed=? lores manualsave=? crafting=? nonlinear=?
 I have not played Factorio, but I have played some games inspired by it, such as {Mindustry} and {Shapez}.
 
 GAME Stray
@@ -308,7 +322,7 @@ The mechanics are not clear, I have no idea what "ATK amplification" is supposed
 GAME Colonization
 BY Sid Meier
 BY MicroProse
-VAL pc year=1994 played=1996 xp=3 history topdown turnbased exp combat xxxx procgen randomized grid diagrid economy vscroll hscroll lores
+VAL pc year=1994 played=1996 xp=3 history topdown turnbased exp combat xxxx procgen randomized grid diagrid economy vscroll hscroll lores nonlinear
 A sequel to {Civilization} of sorts. The gameplay is quite similar to Civilization, but you are only tasked with conquering the New World, originally as England, Spain, France
 or the Netherlands; the Old World exists only as a place you trade with. The game has a very strong American focus -- the goal is to become an independent nation
 (why not try being friendly with the old world instead?), instead of scientists, you have statesmen who provide bonuses by making the colonies politically stronger,
@@ -327,6 +341,7 @@ TAGCMT free
 The 7DRL version was free, not sure how free the mobile one is, but it says "ridiculous amount of free content".
 
 GAME Princess Maker
+BY country: Japan
 VAL year=1991 anime=? medieval=? xp=0 economy=? nonspatial=? turnbased=? randomized=? seq=?
 I have no idea what it is, but it has inspired {PrincessRL}.
 
@@ -388,7 +403,7 @@ I do not care about playing with random people, and otherwise, it mostly introdu
 of building and thus more fun. Yeah, I agree with that, altohough I prefer roguelikes less focused on builds.)
 
 GAME The Incredible Machine
-VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores fixed seq engineering weirdtheme
+VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores fixed seq engineering weirdtheme picklevel
 A game about building a machine from available ingredients that will achieve some effect. Some of the available elements are common
 (balloons, balls, slopes, etc.), while some are rather strange (various animals, such as cats which move when they see a mouse).
 It seemed very popular in my circles at the time, and it had some sequels which I have not played, but somehow I do not see neither
@@ -408,7 +423,7 @@ A game about creating pipelines out of random grid-based pipes. I do not remembe
 GAME Maniac Mansion
 BY Lucasfilm
 BY Ron Gilbert
-VAL pc year=1987 played=1993 turnbased riddles itemuse sideview moderntheme xp=3 lores fixed connections
+VAL pc year=1987 played=1993 turnbased riddles itemuse sideview moderntheme xp=3 lores fixed connections nonlinear return
 A predecessor to {Secret of Monkey Island}, fun for similar reasons, even if not as great. Contrary to most point-and-clicks it has some replayability,
 you can play various characters who can win in different ways.
 
@@ -420,12 +435,14 @@ If you do, it is great because it did it much before the usual "classics" such a
 If you do not, well, it belongs to an interesting genre that does not seem that popular anymore.
 
 GAME Bubble Bobble
-BY Firebird
+BY Taito
+BY country: Japan
 VAL amiga cpc year=1987 played=1991 sideview platformer seq shooter fixed xp=1 multiplayer weirdtheme realtime lores gem=2
 I mostly played the Amiga version, although I think I did play the Amstrad CPC one too. Very fun. Some powerups such as the "water" that could wash away 
 the enemies were interesting.
 
 GAME Wonder Boy in Monster Land
+BY country: Japan
 VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq gem=1
 Quite a fun game! I played it a lot. A sequence of big levels, you could find cash to upgrade your equipment, including better swords and some limited-use stuff such as bombs.
 Unfortunately I have been unable to play it on a emulator.
@@ -456,6 +473,7 @@ It is supposed to have a great story built around death loop, but I did not see 
 (of course actual roguelikes are not looped and may have great narratives like {Caves of Qud}, and {Baroque} did a death loop narrative in 1998).
 
 GAME Baroque
+BY country: Japan
 VAL console year=1998 played=2025 scifi roguelite fpp realtime idminigame exp combat randomized procgen unlocks=? metapower=? seq camscroll twistpixel xp=1
 This is a game building a narrative around a death loop -- as in, you play the game repeatedly, if you die, you return to the beginning.
 So the idea is quite similar to what is commonly attributed to {Hades}, although done already in 1998! Also, contrary to Hades, it has obvious similarities
@@ -474,22 +492,23 @@ generation (but locked predesigned rooms and randomized upgrades) and that run-b
 
 GAME Minecraft
 BY Notch
-VAL pc year=2009 xp=0 notheme survival crafting destructible true3 grid orthogrid realtime procgen randomized openworld fpp camscroll models simulationism ext manualsave secrets
+VAL pc year=2009 xp=0 notheme survival crafting destructible true3 grid orthogrid realtime procgen randomized openworld fpp camscroll models simulationism ext manualsave secrets nonlinear return
 I have not played actual Minecraft, only the opensource clone {Minetest}. This is clearly the most popular game inspired by roguelikes, and also it was quite inspirational how a
 single developer made lots of money with a game with rather poor graphics. Although modern Minecraft is no longer owned by Notch.
 
 GAME Luanti
 AKA Minetest
-VAL pc year=2010 played=2024 xp=2 notheme survival crafting destructible true3 realtime procgen randomized openworld fpp camscroll models simulationism ext free manualsave secrets
+VAL pc year=2010 played=2024 xp=2 notheme survival crafting destructible true3 realtime procgen randomized openworld fpp camscroll models simulationism ext free manualsave secrets nonlinear return
 An opensource clone of {Minecraft}, formerly called Minetest.
 
 GAME Ultima
 BY Richard Garriott
-VAL oldpc year=1980 played=2023 xp=1 notheme exp combat topdown realtime grid orthogrid=? fixed multiperspective hscroll vscroll camscroll lores vectorart=?
+VAL oldpc year=1980 played=2023 xp=1 notheme exp combat topdown realtime grid orthogrid=? fixed multiperspective hscroll vscroll camscroll lores vectorart=? nonlinear return
 I have not played games in this famous series. Only {Ring of Darkness} which was supposedly very similar to Ultima, and {FTA2} which was supposedly similar to Ultima VIII.
 
 GAME UnReal World
-VAL pc year=1992 xp=0 prehistoric exp topdown turnbased grid diagrid procgen randomized roguelike hscroll vscroll openworld midres photorealistic
+BY country: Finland
+VAL pc year=1992 xp=0 prehistoric exp topdown turnbased grid diagrid procgen randomized roguelike hscroll vscroll openworld midres photorealistic nonlinear=?
 I have not played games in this famous series. Only {Ring of Darkness} which was supposedly very similar to Ultima, and {FTA2} which was supposedly similar to Ultima VIII.
 
 GAME Oregon Trail
@@ -499,26 +518,30 @@ TAGCMT turnbased
 It has some real-time hunting, but this is not a big part of the game.
 
 GAME Flappy Bird
+BY country: Vietnam
 VAL android year=2013 xp=0 western nonspatial trail randomized realtime platformer autoscroll hscroll lores
 I think I have played this famous game at some point. But I have played more {SFCave}.
 
 GAME Neverball
+BY community
 VAL pc year=2003 xp=1 played=2007 abstract realtime platformer physics tpp fixed seq models shapegfx free
 An opensource game about rolling a ball.
 
 GAME Flare
+BY community
 VAL pc year=? xp=3 played=2015 free pc medieval realtime isometric hscroll vscroll xp=3 rpgequip rpgconsume rpgstats rpgquests photorealistic exp combat connections fixed
 A game/engine intending to be an open-source clone of {Diablo}, but as common with such open-source clones, I do not think there is much point to play that over the original.
 (Better to play opensource games that are much better than commercial games, such as roguelikes.) Contrary to Diablo the flagship campaign is fixed.
 
 GAME Dwarf Fortress
 AKA Slaves of Arnok Part II: Dwarf Fortess
-VAL pc year=2024 ea=2002 xp=0 free tolkien topdown army exp roguelike multigenre procgen randomized hscroll vscroll openworld ascii economy midres=?
+VAL pc year=2024 ea=2002 xp=0 free tolkien topdown army exp roguelike multigenre procgen randomized hscroll vscroll openworld ascii economy midres=? nonlinear return=?
 I have not played this game (more than a quick look). Seems like a game taking lots of time.
 TAGCMT multigenre
 This game has a "colony sim" mode (a city builder) and an "adventure" mode (which is roguelike), hence the multigenre status.
 
 GAME Fidel Dungeon Rescue
+BY country: Argentina
 VAL pc roguelike year=2017 xp=3 megaitch topdown combat turnbased grid orthogrid lores seq randomized logic animaltheme=2 played=2019
 This game is listed as "roguelite" in its Steam description, although it is a roguelike according to my definition -- although definitely a very non-standard one,
 and clearly one that would not fit some cultural expectations.
@@ -529,6 +552,7 @@ game that tests the boundaries of roguelikes.
 
 GAME Machinarium
 BY Amanita
+BY country: Czech
 VAL pc itemuse year=2009 played=2012 itemuse scifi timeless fixed connections hires epicfree topdown xp=3
 A well-known point-and-click adventure game about robots, although I do not remember much, other than its rather cool graphical style.
 
@@ -567,6 +591,7 @@ VAL pc spacebending exp logic timeless seq=? true3 fixed connections year=2018 p
 Quite a nice exploration of Escheresque portal spaces. After going through a few portals, you may end up in the same place, but the gravity will affect you in a different way.
 
 GAME Superhot
+BY country: Poland
 VAL pc year=2016 xp=1 played=2018 shooter dodger fpp pauseable moderntheme camscroll seq=? fixed=? uniquegfx epicfree
 I should probably comment on this game because the definition of {tag:roguelike} tag might remind people of Superhot.
 Unfortunately, we have tried playing Superhot but it did not work on our Linux computer. I managed to run it later, but I mostly only tested it to check that it works,
@@ -577,6 +602,7 @@ VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeles
 An educational game about philosophy and debates, supposedly in the style of Ace Attorney, but I know nothing about that. A very fun, free game.
 
 GAME Quantum Game with Photons
+BY country: Poland
 VAL web year=2016 played=2017 sciencegame logic grid orthogrid timeless timebending picklevel fixed vectorart xp=2 free gem=2 topdown notheme
 A puzzle game based on actual quantum mechanics. Very interesting. There was also a newer version with a different graphical style, although I prefer the original.
 

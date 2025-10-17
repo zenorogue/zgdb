@@ -20,11 +20,13 @@ I do not like the recently added "Roguelike mode" (the name is silly because it 
 
 GAME Unexplored
 BY Ludomotion
+BY country: Netherlands
 VAL pc medieval xp=4 roguelite year=2017 played=2018 hscroll vscroll topdown realtime vectorart exp combat procgen randomized multiweapon bossfights traps manualsave crafting secrets gem=3
 A great game! It is a real-time game, but it plays very much like a traditional roguelike, in the style of {Brogue}. The way it procedurally generates its quests (graph grammar-based system) is also quite amazing. Definitely worth to play!
 
 GAME Unexplored II
 BY Ludomotion
+BY country: Netherlands
 VAL pc medieval xp=2 played=2024 roguelite year=2024 roguelite hscroll vscroll rpgequip rpgconsume rpgquests rpgstats crafting realtime realtime procgen randomized arbi3 exp combat models traps gem=1
 The first observation is that this game is very different from {Unexplored}. Very different display, no longer focused on dungeons (but more of a open-world campaign spanning the lives of
 multiple adventurers), more elements reminding on P&P RPGs. Definitely a very ambitious project. I have played it a bit, and it was very interesting, although too "heavy" for me at that time. 
@@ -41,6 +43,7 @@ predesigned puzzles, so a {Minecraft}-like is a more promising direction than {M
 of course larger!)
 
 GAME Awaria
+BY country: Poland
 VAL pc scifi gothic female xp=3 year=2024 played=2024 topdown nonlogic realtime fixed seq hires free
 A free game, by the same dev as {Helltaker}. I did not find it very interesting.
 
@@ -69,6 +72,7 @@ VAL pc bacteria xp=1 roguelite year=2025 played=2025 turnbased grid roguelite un
 A sequel to {Genome Guardian} (similar theming and engine-building system) but based on turn-based tactics. Interesting, but there are lots of other games...
 
 GAME Chess for idiots
+BY country: Poland
 VAL pc abstract xp=1 year=2024 played=2025 fpp=? realtime=? exp=? fixed=? camscroll=? models=? free=?
 Some joke game.
 
@@ -88,6 +92,7 @@ A game marketed as a "souls-like deckbuilder", so it gets a bonus from me for av
 deck construction game. I have played the demo, hard to say much about how challenging it is (not much), but the general theme feels very good.
 
 GAME Demiurges
+BY country: Poland
 VAL pc medieval xp=1 year=2024 played=2024 enginebuilder turnbased grid roguelite lores diagrid hexgrid=? topdown exp combat army deckbuilder=? flick randomized=? modalbattle
 Advertised as a mix between {Heroes of Might and Magic III} and {Slay the Spire}. I like both of these, but Demiurges did not capture me.
 
@@ -119,6 +124,7 @@ The developer seems to be generally aware of roguelikes too. However, unfortunat
 Quite nice style though.
 
 GAME Skogdal
+BY country: Norway
 VAL pc moderntheme roguelite year=2025 played=2025 turnbased cardgame deckbuilder enginebuilder roguelite spireview xp=1 nonspatial procgen=? randomized seq modalbattle uniquegfx
 A spire-like engine-deckbuilder with a cool theme: life in a rustic Norwegian town. The theme and hand-drawn style is great, and the demo was nice to play.
 
@@ -128,11 +134,13 @@ One of games marketed as a {Scrabble} roguelike, so looked at it to see how the 
 Contrary to {Seuphorica} it is not really a scrabble game, though -- you do not create a crossword, just create words -- and also of course an engine-deckbuilder, not a roguelike.
 
 GAME The Abbey of Crime
+BY country: Spain
 VAL pc medieval xp=3 year=2016 played=2020 isometric hscroll vscroll realtime itemuse fixed lores
 This was one of the later games for Amstrad CPC, based on Umberto Eco's <it>The Name of The Rose</i>. Apparently a big hit in Spain. All of this makes it interesting game to try.
 I have played the (more playable) PC version, and finished it, but not sure it was that interesting.
 
 GAME Against the Storm
+BY country: Poland
 VAL pc medieval roguelite gem=-1 year=2023 played=2024 hscroll vscroll topdown roguelite itemlock unlocks metapower seq xp=2 pauseable nonlogic models oneofthree
 I have seen positive opinions about this game, that the roguelite elements added to it, so I thought I would enjoy it. But I do not feel this to be the case, I feel that I would rather play Settlers again, and it does not feel similar to playing a roguelike in any way. Roguelikes shine in how fast you can play them, you get viscerally fun tactics while controlling a single character and avoding all the micromanagement, but this is not the case here, the game has tons of micromanagement, and also it is slow, even at 3x speed. Similar to roguelikes it has randomly generated maps, which is cool although that is common in strategy games in general, and has some features reminiscent of games loosely inspired by roguelikes: randomly generated events (I guess that is a bit of {FTL}-style, it is cool but it does not feel as adventureous as in other games), randomly available buildings (which adds unnecessary complexity) and some metaprogression (which just makes it pointlessly grindy rather than fun).
 
@@ -236,6 +244,7 @@ As far as I can recall, the battle itself is resolved automatically, without any
 actually useful. Possibly this is fun if you invest the time to learn about all the systems, and if you like games like this, but I was not that interested (I got the game via some bundle).
 
 GAME Helltaker
+BY country: Poland
 VAL pc helltheme xp=3 year=2020 played=2020 turnbased roguelike grid logic orthogrid grid topdown socialsim fixed seq realtime hires free
 
 A free sokoban-like with some 'seduce demon ladies' theme and nice art. After the sokoban levels, the last scene is more of an arcade game.
@@ -292,6 +301,7 @@ A rather abstract video game where you explore something resembling brutalist ar
 
 GAME Nuclear Throne
 BY Vlambeer
+BY country: Netherlands
 VAL pc scifi xp=4 gem=1 roguelite year=2015 played=2016 procgen unlocks shooter topdown realtime dodger shooter hscroll vscroll seq rpgclasses oneofthree multiweapon lores randomized bossfights ammolimit
 Nuclear Throne seems somehow less famous than other games with roguelike elements from this era. I think this is sad, as it is actually quite close to roguelikes --
 it was fun to me for similar reasons that roguelikes are: the way the map is procedurally constructed resembles the roguelike classics very much, destructible terrain, 
@@ -316,11 +326,13 @@ I think the concept could be worked on further (more cool upgrades, like the sho
 
 GAME Princess Remedy in a World of Hurt
 BY Daniel Remar
+BY country: Sweden
 VAL pc female year=2016 played=2016 shooter=? topdown xp=3 realtime fixed modalbattle seq lores free
 A free game by the developer of {Iji}. Nice retro graphical adventure, but nothing special.
 
 GAME Princess Remedy in a Heap of Trouble
 BY Daniel Remar
+BY country: Sweden
 VAL pc female year=2016 played=2016 shooter=? topdown xp=3 realtime fixed modalbattle seq lores
 A sequel to {Princess Remedy in a World of Hurt}. Still nothing special.
 
@@ -390,6 +402,7 @@ TAGCMT unlocks
 Unlocks refer to the New Game+.
 
 GAME Trine
+BY country: Finland
 VAL pc medieval xp=3 gem=-1 year=2009 played=2024 sideview platformer hscroll vscroll squad realtime fixed multiplayer hires exp
 I got Trine because I wanted to play a game where you play multiple characters who cooperate (like {Lost Vikings} or less known and much more primitive but still cool and unique
 {Head over Heels} from 1987), and I have seen Trine mentioned in some thread about such games. I did not get what I wanted, the gameplay would be essentially the same if a single
@@ -445,7 +458,7 @@ The mechanics is weird: the magic bar and the health bar are essentially the sam
 We liked one boss near the end that was quite original (chess-based) but most of the game is rather standard. The upgrades are rather boring, the armor-switching mechanics does not add much.
 
 GAME Animal Well
-VAL pc animaltheme year=2024 played=2025 platformer flick ability riddles rulediscovery xp=4 sideview realtime fixed lores exp uniquegfx
+VAL pc animaltheme year=2024 played=2025 platformer flick ability riddles rulediscovery xp=4 sideview realtime fixed lores exp uniquegfx nonlinear
 This is a hit, and for good reasons. Beautiful animal-based design, interesting upgrades, and multiple layers of riddles. If you love riddles, you should love this, if not, you can stop at the first layer :)
 
 GAME Apotheon
@@ -481,6 +494,7 @@ There is one playable character, Bard, whom you can play to remove the rhythm as
 
 GAME Environmental Station Alpha
 BY Hempuli
+BY country: Finland
 VAL pc scifi year=2015 played=2024 platformer flick ability return nonlinear sideview lores xp=3 realtime bossfights fixed exp
 Given Hempuli's fame as an experimental game developer, I expected some experimental stuff, but I would say this is a rather typical metroidvania.
 
@@ -500,11 +514,13 @@ spends most time walking in a humanoid robot suit.
 
 GAME Hollow Knight
 BY Team Cherry
+BY country: Australia
 VAL pc animaltheme year=2017 played=2020 sideview platformer flick hscroll vscroll ability return sideview nonlinear soulcheck ghosts xp=4 realtime hires exp
 This is basically the center of the modern metroidvania genre, so everyone should try it.  Combat, exploration, art, story are all great.
 
 GAME Iconoclasts
 BY Joakim Sandberg
+BY country: Sweden
 VAL pc female year=2018 played=2024 sideview platformer flick hscroll vscroll ability return sideview nonlinear soulcheck=? xp=3 realtime hires exp bossfights
 A good metroidvania about a mechanic. The focus on mechanic-themed upgrades makes it quite original. I do not really understand the story.
 
@@ -532,8 +548,9 @@ and spells are cast by combining these elements (such as "fire-shield"). This sy
 but given "elemental combination" names. Still, the game is quite good, you cast quite a lot of different spells in it.
 
 GAME Noita
-VAL pc medieval roguelite year=2020 played=2023 destructible pixelsim hscroll vscroll oneofthree lores xp=4 sideview platformer realtime procgen randomized ext exp bossfights traps rulediscovery manualsave ammolimit gem=1
+VAL pc medieval roguelite year=2020 played=2023 destructible pixelsim hscroll vscroll oneofthree lores xp=4 sideview platformer realtime procgen randomized ext exp bossfights traps rulediscovery manualsave ammolimit gem=1 nonlinear
 BY Hempuli
+BY country: Finland
 So I have lots of appreciation for falling sand/real-time artillery games, roguelikes, "magic programming", and Finnish games. {Liero}, {IVAN}, things like that.
 In the mid-90s I have been working on a falling sand real-time artillery game myself ({Bum}), but unfortunately lost a bit of progress at some point (and switched to making roguelikes with complex magic systems).
 
@@ -726,6 +743,7 @@ We did not like this game. It is called "Cat Quest" but it does not really feel 
 puns.
 
 GAME Dandara
+BY country: Brazil
 VAL pc uniquetheme female year=2018 played=2022 ability nonlinear flick return xp=3 lores topdown platformer realtime fixed epicfree exp bossfights
 A metroidvania-ish game in which the typical platforming is replaced with a unique system where you jump between various platforms in top-down perspective -- the jump is possible if
 there is a line of clear sight. Originality is always welcome.
@@ -848,6 +866,7 @@ VAL pc planttheme year=2021 played=2024 topdown hscroll vscroll nonlinear return
 The turnip theme (and the whole game) was quite annoying.
 
 GAME Vampire Survivors
+BY country: Italy
 VAL pc gothic roguelite year=2022 played=2022 topdown hscroll vscroll enginebuilder bulletheaven xp=4 realtime randomized metapower unlocks picklevel itemlock twistpixel epicfree oneofthree
 One of the recent indie hits. It even has won some innovation award, which I do not agree with -- the gameplay feels quite similar to {Crimsonland}, and it is basically 
 a clone of {Magic Survival} which was, as far as I understand, a rather popular mobile game. It is rather nonsensically labelled roguelike, although I do not mind in this case --
@@ -864,6 +883,7 @@ earlier games in the series.
 GAME Baba is You
 AKA Baba Is You
 BY Hempuli
+BY country: Finland
 VAL pc abstract year=2019 played=2023 topdown turnbased grid logic nonlinear xp=2 orthogrid fixed lores megaitch
 One of the most famous recent thinky puzzle games. It is marketed as "a game where you manipulate the rules" which sounded annoyingly un-innovative -- changing the rules of the game is
 something that I enjoy a lot and many of my favorite games are doing in some way, from rule discovery/creation games I have read in the books about games I have read as a child,
@@ -902,6 +922,7 @@ A not interesting, slow game.
 
 # gog
 GAME Tower of Time
+BY country: Poland
 VAL pc medieval played=2020 year=2018 modalbattle pauseable rpgequip crafting squad xp=3 arbi3 exp combat fixed photorealistic models
 
 I did not like this game. I think the system of bringing only four heroes into the battle does not fit the general design of the game.
@@ -918,6 +939,7 @@ I have not played it when it was released, only much later. While I enjoyed both
 the fantasy-breaking "oil" resource, or combining knights and clerics into a single unit) felt bad, and the fun "dungeon" missions from Warcraft 1 were gone I think.
 
 GAME Teenagent
+BY country: Poland
 VAL pc moderntheme year=1995 played=2012 sideview riddles turnbased lores connections itemuse xp=3 fixed
 A rather well-known Polish point-and-click adventure game. I do not remember anything.
 
@@ -953,5 +975,6 @@ Great procedural generation, Diablo-style item affixes, and so on. A bit grindy 
 
 GAME Bloodstained: Ritual of the Night
 BY Koji Igarashi
+BY country: Japan
 VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip rpgconsume bossfights multiweapon xp=3 realtime fixed hires secrets=?
 This is a game made by Koji Igarashi as a spirital successor to {Castlevania: Symphony of the Night} (and other games in the Castlevania series he worked on). Very good.

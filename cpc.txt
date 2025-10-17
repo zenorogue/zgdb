@@ -53,6 +53,7 @@ A CPC version of the classic game, I think it is the most known from Nokia mobil
 
 GAME Planete Base
 BY Loriciel
+BY country: France
 VAL year=1984 played=1986 cpc realtime xp=3 lores notheme multiperspective fixed minigames collectathon sciencegame
 The first educational game I have played. This one is about positional number systems, you could exchange 3 fruits to 1 fruit of a higher tier, and thus learn
 the ternary number system. I do not think it was very interesting, though.
@@ -136,11 +137,13 @@ A platformer with simple levels, you just had to go from left to right, avoiding
 After 4 levels you played the same 4 levels again 3 times more, but with extra difficulty like missiles flying above you.
 
 GAME Macadam Bumper
+BY country: France
 VAL year=1985 played=1988 cpc xp=3 gem=1 sideview realtime physics platformer lores gambletheme fixed tiny leveleditor endless
 A pinball game. The great thing about it was that you could design your own pinball tables (and save them). 
 
 GAME Frogger
 BY Konami
+BY country: Japan
 VAL year=1981 played=1989 cpc xp=1 topdown realtime animaltheme=2 lores fixed=? tiny dodger endless
 A famous game, but I did not play it that much. (On CPC I think.)
 
@@ -387,6 +390,7 @@ Quite complex simulation, with stamina, items, and so on. See {Archrebel Tactics
 
 GAME Arkanoid
 BY Taito
+BY country: Japan
 VAL year=1987 played=1988 cpc realtime physics xp=3 gem=1 scifi lores seq sideview fixed
 A rather famous game, I think I wanted to play it more than I played it (I think the casette did not work well).
 You had to bounce a ball at a wall, you had to destroy the whole wall like that, sometimes you got special power-ups
@@ -513,6 +517,7 @@ The first first-person racing game I have played.
 
 GAME Eden Blues
 BY Loriciel
+BY country: France
 VAL year=1987 played=1990 cpc xp=2 realtime moderntheme lores arbi3 fixed flick=? nonlinear economy
 A game about escaping a prison, I do not remember much about it.
 
@@ -727,6 +732,7 @@ I do not remember much about this one.
 
 GAME Mermaid Madness
 BY Capcom
+BY country: Japan
 VAL cpc year=1986 played=1988 female aquatic flick sideview lores itemuse xp=2 nonlinear return fixed realtime
 A game where you play a mermaid, collecting items that unlock new parts of the map, like a lamp that make otherwise black parts visible. I do not remember much.
 # https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/m/index5.html
@@ -758,6 +764,7 @@ VAL cpc year=1985 played=2025 turnbased lores xp=2 gambletheme sideview seq rand
 A trivia game, with a nice animated walking character, some questions playing music.
 
 GAME The Vera Cruz Affair
+BY country: France
 VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed nonlogic seq
 Noticed this when checking out CPC games while making this review site. A murder mystery game made by an actual policeman, sounded interesting.
 But I have forgotten to read the instructions so I could not progress far. Seems it has some nasty pixel hunting at the beginning too.
@@ -779,6 +786,7 @@ I wanted to play something similar to a roguelike? It feels quite similar to {Ul
 that Ultima was not known in Europe, which also agrees with my experiences.
 
 GAME Sapiens
+BY country: France
 VAL cpc year=1986 played=1989 multiperspective gem=2 prehistoric xp=1 lores openworld survival fixed procgen economy realtime sciencegame
 While making this site, I remembered playing/seeing a game on Amstrad CPC where you were some kind of a caveman, and one of the things you could do was to create
 stone tools by hitting a piece of flint in correct locations... did not remember the name at first...so yeah, Sapiens was that.

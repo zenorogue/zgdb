@@ -16,6 +16,7 @@ so I cannot give xp=4 for it). I like Diablo more than {Diablo II}.
 
 GAME Iji
 BY Daniel Remar
+BY country: Sweden
 VAL year=2008 played=2009 free realtime platformer sideview hscroll vscroll return female scifi pc xp=4 gem=3 multiweapon fixed vectorart free bossfights ammolimit=? rulediscovery ability secrets
 In my opinion, this freeware platformer gem is best played if you do not know what to expect, so I will not explain why I love this game.
 I have downloaded it in the evening played it for the whole night, and then, wanted to play it again immediately.
@@ -42,7 +43,7 @@ games such as {Hollow Knight} so I still feel it deserves a gem point. It does h
 feel although it is quite linear (but sometimes you find cool things by returning to old places).
 
 GAME Jet Set Willy PC
-VAL year=1999 played=2000 free realtime sideview platformer pc xp=2 weirdtheme moderntheme fixed flick lores collectathon exp
+VAL year=1999 played=2000 free realtime sideview platformer pc xp=2 weirdtheme moderntheme fixed flick lores collectathon exp nonlinear
 A PC remake of {Jet Set Willy}, with multiple level sets. I have not played it as much as {Manic Miner PC}.
 
 GAME Llamatron
@@ -67,7 +68,7 @@ Also not at all similar to the first {Dune} game, which was a rather unique game
 
 GAME Stars!
 AKA Stars
-VAL year=1995 played=1995 pc turnbased xxxx xp=3 scifi gem=1 army procgen randomized hscroll vscroll shapegfx topdown multiplayer economy manualsave
+VAL year=1995 played=1995 pc turnbased xxxx xp=3 scifi gem=1 army procgen randomized hscroll vscroll shapegfx topdown multiplayer economy manualsave nonlinear
 Stars! is a scifi 4X game that probably should be remembered more. You design your own ships by choosing the components to install
 on hulls, very fun. A nice research system where you do not study specific technologies, but areas, for example to
 install more powerful Missile weapons, you need to study Weapons and Propulsion technology.
@@ -115,7 +116,7 @@ Yet another example game written in BASIC and distributed with MS-DOS, in the st
 It was quite fun to play multiplayer.
 
 GAME Transcendence
-VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave spaceopera
+VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave spaceopera return
 A space-opera topdown shooter with clear {Rogue} inspirations, such as randomized star systems and various kind of equipment requiring identification.
 Should be more well-known as an early game putting such things in something very different than a literal roguelike.
 
@@ -173,11 +174,11 @@ VAL year=1994 played=1993 pc sideview platformer realtime hscroll scifi vscroll 
 One of the early good platformers available on PC. It had a quite high variety of levels and things to do.
 
 GAME Fool's Errand
-VAL year=1987 played=2003 pc riddles logic nonlinear xp=3 uniquetheme topdown fixed lores timeless rulediscovery=?
+VAL year=1987 played=2003 pc riddles logic xp=3 uniquetheme topdown fixed lores timeless rulediscovery=? picklevel=?
 A kind of Tarot-themed riddle/puzzle game, I think I read about it on Home of the Underdogs. I do not remember much about it.
 
 GAME Son of the Empire
-VAL year=1993 played=1996 isometric gem=2 xp=4 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable
+VAL year=1993 played=1996 isometric gem=2 xp=4 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable nonlinear
 I think this should be more well-known because of being an isometric action RPG, well before {Diablo}. 
 You control a team of 4 characters, mostly going through dungeons, fighting monsters and collecting loot;
 also an overworld map where they could visit further dungeons and towns to sell/buy stuff, or fight armies.
@@ -196,11 +197,13 @@ that.
 
 GAME Prehistorik
 BY Titus
+BY country: France
 VAL year=1991 played=1994 atarist realtime platformer sideview prehistoric xp=2 fixed seq hscroll lores secrets=?
 A caveman-themed platformer that I remember playing with my friend on Atari ST. I played more {Prehistorik II}.
 
 GAME Prehistorik II
 BY Titus
+BY country: France
 VAL year=1993 played=1995 hscroll vscroll realtime platformer sideview prehistoric xp=3 fixed seq hscroll vscroll lores exp secrets gem=2
 A caveman-themed platformer, a sequel to {Prehistorik} with more sophisticated levels. Still fun!
 
@@ -221,6 +224,7 @@ A point-and-click adventure made of clay. I do not remember much.
 
 GAME Polanie
 VAL year=1996 played=2012 hscroll vscroll realtime xp=3 medieval army grid diagrid topdown fixed seq lores realtime exp combat
+BY country: Poland
 Basically a Polish clone of {Warcraft}.
 
 GAME Jill of the Jungle
@@ -246,7 +250,7 @@ GAME Commander Keen
 BY id Software
 BY John Romero
 BY John Carmack
-VAL year=1990 played=1991 platformer hscroll vscroll realtime sideview shareware pc scifi xp=3 overworld fixed lores manualsave=? ammolimit
+VAL year=1990 played=1991 platformer hscroll vscroll realtime sideview shareware pc scifi xp=3 overworld fixed lores manualsave=? ammolimit nonlinear
 One of shareware PC platformer classics. It is a start of a shareware trilogy
 (possibly I have tried the sequels later but I do not remember anything about them).
 It was the first CK game I have played, but somehow lost it later.
@@ -256,7 +260,7 @@ GAME Commander Keen IV
 BY id Software
 BY John Romero
 BY John Carmack
-VAL year=1991 played=1994 platformer hscroll vscroll realtime sideview shareware pc scifi gem=1 xp=3 overworld fixed lores exp manualsave=? secrets
+VAL year=1991 played=1994 platformer hscroll vscroll realtime sideview shareware pc scifi gem=1 xp=3 overworld fixed lores exp manualsave=? secrets nonlinear
 The first game in the second {Commander Keen} trilogy. I have played this one quite a lot.
 More interesting monsters and nicer graphics than in the original CK. 
 The famous Dopefish enemy.
@@ -404,19 +408,21 @@ A simple computer implementation of the classic boardgame {Risk} (with some modi
 ancient Greek theme. You just moved numbers between regions, fun, but nothing special.
 
 GAME Betrayal at Krondor
-VAL pc year=1993 played=1997 tolkien xp=3 fpp exp fixed seq openworld modalbattle photorealistic lores turnbased traps riddles
+VAL pc year=1993 played=1997 tolkien xp=3 fpp exp fixed seq openworld modalbattle photorealistic lores turnbased traps riddles nonlinear
 A rather interesting RPG, made in collaboration with the writer Raymond Feist. 3D open world, interesting to explore. Treasures found in chests protected by
 passwords. Turn-based grid-based battles, of course not nearly as good as in roguelikes. Used photos of actors for PCs and NPCs, which clashed with the
 simple 3D backgrounds a bit, so I did not like that aspect much.
 
 GAME Settlers II
 BY Blue Byte
+BY country: Germany
 VAL pc year=1993 played=1996 medieval xp=3 isometric army realtime lores hscroll vscroll seq economy fixed multiplayer
 An early city simulation game. Gather resources like wood, stones, and coal, construct buildings, produce military units and towers, fight enemy units,
 with a campaign, and an interesting option to play PvP on a single computer, each player using their own mouse.
 
 GAME Settlers III
 BY Blue Byte
+BY country: Germany
 VAL pc year=1998 played=1999 medieval army realtime economy models hscroll vscroll seq fixed xp=3 arbi3 manualsave=?
 An extended version of {Settlers II}. Less grid-based, nicer graphics, you could play as one of three nations, some cutscenes, ships. From the campaign,
 I mostly remember a scenario "capture a tower", that tower was quite near but it seemed difficult to capture, so I had an idea that the correct way to
@@ -440,13 +446,14 @@ yourself, only a very basic AI that did nothing of these things). You could play
 to play that simple game.
 
 GAME Crossfire
-VAL pc year=1993 played=1998 medieval roguelike xp=1 topdown exp grid diagrid fixed procgen randomized nonlinear hscroll vscroll lores multiplayer realtime traps=? secrets=?
+VAL pc year=1993 played=1998 medieval roguelike xp=1 topdown exp grid diagrid fixed procgen randomized nonlinear hscroll vscroll lores multiplayer realtime traps=? secrets=? nonlinear
 This game appeared in early roguelike lists, although it is not really a traditional one, having a real-time element, and not that focused on
 randomization. Could be played against other people. I think I was not very successful in it, and did not play much.
 
 GAME Albion
 BY Blue Byte
-VAL pc year=1995 played=1996 multiperspective medieval scifi xp=3 nonlinear exp modalbattle fixed overworld hscroll vscroll lores twistpixel turnbased traps manualsave ammolimit secrets traps gem=1
+BY country: Germany
+VAL pc year=1995 played=1996 multiperspective medieval scifi xp=3 nonlinear exp modalbattle fixed overworld hscroll vscroll lores twistpixel turnbased traps manualsave ammolimit secrets traps gem=1 nonlinear
 I got a demo of this game together with {Settlers II}. One interesting element of this RPG is its world, combining science-fiction elements
 with fantasy -- your spaceship crashes on an alien world working similar to medieval fantasy, although not with the typical 
 elves and dragons, but with aliens such as cat-like Iskai who could wield daggers in their tails. Very nice world-building and magic-versus-technology
@@ -457,7 +464,7 @@ probably moved in the meantime!
 
 GAME Faery Tale Adventure II
 AKA FTA2
-VAL pc year=1997 played=1997 isometric medieval xp=3 exp rpgstats rpgequip rpgconsume rpgquests fixed openworld lores realtime manualsave secrets gem=2
+VAL pc year=1997 played=1997 isometric medieval xp=3 exp rpgstats rpgequip rpgconsume rpgquests fixed openworld lores realtime manualsave secrets gem=2 nonlinear return
 An early isometric action RPG, from about the same time as {Diablo}, but different. Contrary to Diablo and {Son of the Empire}, it featured
 a beautiful open world which was quite interesting to explore, even if the game was clearly released in an unfinished state. 
 Also an interesting system of inventory that included "mental" inventory, containing
@@ -468,7 +475,8 @@ I have seen it compared to {Ultima} VIII, although I have not played this.
 GAME Legend of Zelda: the Awakening of Link
 BY Nintendo
 BY Shigeru Miyamoto
-VAL console year=1993 played=1999 medieval xp=3 topdown exp fixed flick return lores multiweapon realtime ability
+BY country: Japan
+VAL console year=1993 played=1999 medieval xp=3 topdown exp fixed flick return lores multiweapon realtime ability nonlinear
 I have first heard of Legend of Zelda in 1999 or so, after buying an ocarina and trying to ask the Internet "how to play an ocarina", and
 finding the tutorials for "Legend of Zelda: Ocarina of Time". So when I found a game named 'zelda' included with a gameboy emulator, 
 I checked it out to see what {Zelda} actually was. I found it to be a nice metroidvania-ish game -- ability-gated exploration, but mostly
@@ -477,7 +485,7 @@ the platformer levels in {HyperRogue}.
 
 GAME Exile III
 BY Jeff Vogel
-VAL pc year=1998 played=1999 shareware medieval topdown exp fixed overworld openworld vscroll hscroll xp=3 lores squad turnbased manualsave secrets gem=2
+VAL pc year=1998 played=1999 shareware medieval topdown exp fixed overworld openworld vscroll hscroll xp=3 lores squad turnbased manualsave secrets gem=2 nonlinear return
 I think I have found a demo of this game on a CD from a friend (together with some other games). A very good RPG with nice tactical system,
 with a bit of roguelike feel, but with six characters in your party, and action-point-based. One of the selling points was that the world would
 change if you acted too slowly -- the enemies would overrun the people -- although this acted mostly as a way to be careful about timing,
@@ -501,20 +509,21 @@ the Orcs won, which seemed weird, given that they were weaker.
 
 GAME Kajko i Kokosz
 VAL pc year=1995 played=1996 medieval timeless lores riddles xp=3 itemuse sideview flick fixed manualsave
+BY country: Poland
 A point-and-click game based on a popular Polish comic series (a bit similar in style to Asterix). Not that good, it had some design flaws:
 I believe it let you go without return to new places without having collected all the necessary things in the previous place; 
 there was some pixel hunting; and it had a power glove said to be usable only three times, but you actually use it more times. Nice to control two
 characters.
 
 GAME Elite
-VAL pc year=1984 played=1996 spaceopera scifi procgen fixed fpp xp=3 vectorart realtime shooter economy openworld rpgquests rpgequip manualsave
+VAL pc year=1984 played=1996 spaceopera scifi procgen fixed fpp xp=3 vectorart realtime shooter economy openworld rpgquests rpgequip manualsave nonlinear
 This game is famous as an early example of a huge procedurally generated world: 8 galaxies with 256 planets each. I have played the PC version,
 not the 1984 original, though. You trade goods, fly in space, and there is also a basic questline. 
 
 GAME Sid Meier's Pirates
 BY Sid Meier
 BY MicroProse
-VAL pc amiga year=1986 played=1995 pirate multigenre shooter slasher realtime economy xp=4 multiperspective topdown sideview randomized minigames vscroll hscroll nonlinear overworld openworld modalbattle endless ascii lores
+VAL pc amiga year=1986 played=1995 pirate multigenre shooter slasher realtime economy xp=4 multiperspective topdown sideview randomized minigames vscroll hscroll nonlinear overworld openworld modalbattle endless ascii lores nonlinear return
 I have played the Amiga version of Pirates, then the PC version, quite a lot. (The original was Commodore 64.)
 The gameplay was mostly the same, although the Amiga version had better graphics. An interesting implementation of sailing.
 It does have some similarity to {Sapiens} (a similar style of interface,
@@ -538,6 +547,7 @@ Just like {Secret of Monkey Island}, I remember watching my brother, and tried i
 
 GAME Ikachan
 BY Pixel
+BY country: Japan
 VAL pc year=2000 played=2005 aquatic hscroll vscroll xp=3 topdown exp lores realtime fixed free
 After playing {Cave Story}, I have learned that Pixel has previously made another freeware game, so tried it too. But it was not memorable,
 I do not remember any details about it (except that it was also some kind of short adventure).
@@ -573,6 +583,7 @@ A third-person adventure platformer, somewhat metroidvania-ish (you had to learn
 there was not much backtracking). Nothing special.
 
 GAME Fury3
+BY Microsoft
 VAL pc year=1995 played=2001 scifi xp=3 fpp shooter fixed vehicles seq models multiweapon realtime manualsave ammolimit
 A flight simulator game that was used as a showcase for Windows 95, I think?... With flying over the surface of 8 planets, also with some exploration of
 tunnels. I wonder what the geometry of the planets was there, they looked unbounded, although you generally do not explore them, just fly to the next
@@ -581,22 +592,25 @@ target marked on the map.
 GAME UFO: Enemy Unknown
 AKA XCOM
 BY Julian Gollop
-VAL pc year=1994 played=2005 scifi aliens squad xp=3 isometric turnbased economy shooter multiweapon seq procgen randomized lores destructible ammolimit
+VAL pc year=1994 played=2005 scifi aliens squad xp=3 isometric turnbased economy shooter multiweapon seq procgen randomized lores destructible ammolimit nonlinear
 Also known as X-COM: Ufo Defense. A well-known game that I played much later. 
 While {Rebelstar} made by the same developer was great, I did not like this one as much: the 3D graphics are not very nice,
 the ammo for my nuclear guns seemed to disappear surprisingly quickly (I think a mission used up the whole ammo pack even if I shot only once).
 
 GAME Deluxe Ski Jump II
+BY Finland
 VAL pc year=1999 played=2001 sports moderntheme platformer sideview realtime fixed hscroll vectorart multiplayer xp=1 free=?
 This game was extremely popular in Poland (Poland had a great ski-jumper Adam Małysz at that time, making lots of people interested in ski jumping).
 Not that interesting to me, though.
 
 GAME Liero
+BY Finland
 VAL pc year=1998 played=2000 animaltheme xp=4 sideview realtime platformer shooter multiweapon procgen randomized multiplayer hscroll vscroll picklevel lores destructible pixelsim gem=2
 This game was quite popular in my circles. A bit like {Worms} but in real-time, with lots of fun, non-realistic weapons.
 I have enjoyed it quite a lot, also created a simple level editor for it, we were playing on these levels.
 
 GAME Soldat
+BY country: Poland
 VAL pc year=2002 played=2003 military multiweapon xp=1 sideview platformer shooter fixed=? picklevel multiplayer models realtime free
 A multi-player 2D game, a bit like {Liero}, but with more focus on realistic weapons and no ninja-roping/digging IIRC. I have played it with friends,
 but Liero was much more fun.
@@ -607,6 +621,7 @@ Some grand prix management game, I do not remember much.
 (GRAND PRIX MANAGEMENT GAME (c) HOLE IN THE WALL 1989)
 
 GAME XEvil
+BY community
 VAL pc year=1994 played=2000 uniquetheme xp=2 endless sideview platformer realtime shooter rpgconsume multiweapon procgen randomized seq lores multiplayer free exp bossfights ammolimit=?
 A game I have found in Linux repos. Big 2D levels, multiple player characters, you could also use Swappers to become new characters (even bosses
 like demons) or Icons of Sin (or something) to gain upgrades, so while a Ninja was not originally able to fly, she could gain such an ability.
@@ -622,7 +637,7 @@ VAL pc year=1988 played=2003 xp=2 squad scifi topdown turnbased grid diagrid eco
 A game in the style of {Rebelstar}, by the same author. I have enjoyed the original more.
 
 GAME Master of Orion
-VAL pc year=1993 played=2003 scifi lores xp=1 turnbased economy xxxx procgen randomized multiplayer=? topdown tiny=?
+VAL pc year=1993 played=2003 scifi lores xp=1 turnbased economy xxxx procgen randomized multiplayer=? topdown tiny=? nonlinear
 I remember this game as something like Civilization but in space, but I have played it myself much later. I do not remember much about it.
 
 GAME Capture the Flag
@@ -632,7 +647,7 @@ TAGCMT combat
 Not real combat, more like friendly brawling, but I think it counts.
 
 GAME Litil Divil
-VAL amiga year=1994 played=2003 helltheme minigames xp=3 multiperspective tpp multigenre exp fixed seq lores semiturnbased gem=1
+VAL amiga year=1994 played=2003 helltheme minigames xp=3 multiperspective tpp multigenre exp fixed seq lores semiturnbased gem=1 nonlinear
 BY Gremlin Graphics
 We have been played this game on a highschool camp. A nice multigenre game, with a framing third-person dungeon-crawler-style exploration, and various minigames.
 Played it myself much later, too. Multi-genre games are interesting as usual.
@@ -680,16 +695,19 @@ some of them). Which would leave only platforming and some feeling of exploring 
 fun to play without a walkthrough.
 
 GAME Liquid Wars
+BY country: France
 VAL pc year=1995 played=2005 abstract xp=1 topdown army realtime fixed tiny shapegfx picklevel realtime nonlogic free
 Yet another free Linux game, a simple simulation of a war, with lots of units, each taking a pixel, so it felt like a liquid; you could tell where your units should
 go by using the cursor.
 
 GAME .kkrieger
+BY country: Germany
 VAL pc year=2004 played=2009 abstract xp=1 fpp shooter multiweapon models fixed camscroll realtime free ammolimit=?
 This game is famous for being a rather good-looking boomer shooter while the whole executable took only 100000 bytes. A huge achievement in compression that makes
 you wonder why video games today often take a few gigabytes. Although the gameplay was not that special.
 
 GAME Kajaani Kombat
+BY country: Finland
 VAL pc year=? played=2005 scifi defense shapepuzzle shooter tiny randomized topdown lores xp=1 realtime grid orthogrid free destructible
 An open-source remake of {Rampart} (and {Castle Combat}). Set in space, not in medieval era, so this made it a bit more interesting.
 Seems hard to find anymore.
@@ -716,6 +734,7 @@ Cool music, though.
 
 GAME Dance Dance Revolution
 BY Konami
+BY country: Japan
 VAL arcade year=1998 played=2005 moderntheme autoscroll vscroll musicgame picklevel shapegfx realtime xp=1 fixed topdown quickkey
 Another arcade game I have played on a visit to US. A video game that you would play with your legs, that is rare and fun (even if it is only
 remotely similar to actual dance).
@@ -736,7 +755,7 @@ It is sometimes compared to {Fire Emblem}, although I have not played that one.
 
 GAME Avernum III
 BY Jeff Vogel
-VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=?
+VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=? nonlinear return
 A remake of {Exile III}. Lots of things were more fun to me in the original, though: larger parties (6, not 4 characters), 
 a less streamlined NPC dialog system where you entered the word you wanted to talk about instead of menus, and a simple grid-based
 display, with lots of maps having cool secrets, and larger monsters taking 1x2, 2x1 or 2x2 squares (while in Avernum III they were
@@ -744,7 +763,7 @@ all the same size).
 
 GAME Blades of Avernum
 BY Jeff Vogel
-VAL pc year=2000 played=2006 medieval isometric exp combat fixed leveleditor vscroll hscroll xp=1 lores squad turnbased manualsave
+VAL pc year=2000 played=2006 medieval isometric exp combat fixed leveleditor vscroll hscroll xp=1 lores squad turnbased manualsave picklevel
 A game in the universe of {Avernum III} but focused on separate scenarios, possibly user-made levels, I think? I do not remember much.
 
 GAME Viking Child
@@ -761,7 +780,7 @@ AKA DROD
 AKA Deadly Rooms of Death
 AKA DROD: King Dugan's Dungeon
 BY Erik Hermansen
-VAL pc year=2002 played=2004 gem=3 xp=4 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores nonlinear free leveleditor
+VAL pc year=2002 played=2004 gem=3 xp=4 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores free leveleditor
 The first game in the DROD series, that has been released multiple times (as Webfoot DROD, Caravel DROD, and DROD: Architect's Edition) --
 I think I have played the AE version. My favorite puzzle game; at that time, I associated 'puzzle games' with very abstract mechanics,
 while DROD had quite fun dungeon-crawler-style gameplay and even a bit of story! 
@@ -769,19 +788,19 @@ while DROD had quite fun dungeon-crawler-style gameplay and even a bit of story!
 GAME Deadly Rooms of Death: Journey to Rooted Hold
 AKA DROD: Journey to Rooted Hold
 BY Erik Hermansen
-VAL pc year=2005 played=2005 xp=4 gem=3 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores nonlinear leveleditor secrets
+VAL pc year=2005 played=2005 xp=4 gem=3 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores leveleditor secrets
 A sequel to {Deadly Rooms of Death: King Dugan's Dungeon}. Still great.
 
 GAME Deadly Rooms of Death: The City Beneath
 AKA DROD: The City Beneath
 BY Erik Hermansen
-VAL pc year=2007 played=2007 xp=1 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores nonlinear leveleditor
+VAL pc year=2007 played=2007 xp=1 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores nonlinear=? leveleditor
 A third part of {DROD}. I have played the demo, it felt a bit different from the prequels, with more
 focus on RPG-ish elements such as exploring the city peacefully. I think I just did not feel like playing more DROD at that time.
 I think I have the full version of this (and sequels) on Steam, but never found a good time to play them...
 
 GAME Wonderquest
-VAL pc year=2006 played=2012 xp=2 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores nonlinear free
+VAL pc year=2006 played=2012 xp=2 medieval turnbased roguelike grid diagrid logic fixed flick slasher seq topdown lores free
 A game very much in the style of {DROD}. It has some differences, like featuring multiple characters having different abilities (archer, etc.),
 although you generally played only one at a time, switching between them by moving to specific spots. Also, in later levels, resources that
 you could collect and use for something. Unfortunately, later levels had 'snakes' with extremely complicated mechanics and I generally hated them,
@@ -793,22 +812,26 @@ I have played the demo. A good {DROD}-like!
 
 GAME Evil Islands
 AKA Evil Islands: Curse of the Lost Soul
-VAL pc year=2000 played=2005 xp=3 medieval pauseable engineering models rpgequip crafting squad rpgquests rpgconsume=? rpgstats arbi3 seq fixed
+BY country: Russia
+VAL pc year=2000 played=2005 xp=3 medieval pauseable engineering models rpgequip crafting squad rpgquests rpgconsume=? rpgstats arbi3 seq fixed nonlinear
 An action RPG recommended to me by a friend (who liked it for the necromancer player character appearing later), with some stealth focus, and
 constructing armor and spells out of components. I do not think it was that special.
 
 GAME Knytt
 BY Nifflas
-VAL pc year=2006 played=2007 xp=3 uniquetheme exp lores fixed flick sideview realtime free
+BY country: Sweden
+VAL pc year=2006 played=2007 xp=3 uniquetheme exp lores fixed flick sideview realtime free nonlinear=?
 A freeware indie platformer. I do not remember much about it other than it being generally peaceful.
 
 GAME Within a Deep Forest
 BY Nifflas
+BY country: Sweden
 VAL pc year=2006 played=2007 xp=3 uniquetheme sideview realtime platformer fixed flick seq ability lores free exp
 A metroidvania where you are playing as a ball, that could become one of eight balls with special powers. I do not remember much.
 
 GAME Chrono Trigger
 BY Square
+BY country: Japan
 VAL console year=1995 played=2005 xp=3 gem=-2 medieval scifi prehistoric rpgstats squad rpgequip rpgconsume bossfights topdown turnbased exp combat fixed overworld lores unlocks timebending
 As with most console games, this one was not popular around here; but I have noticed that lots of people enjoy RPGs, and particularly this one,
 supposedly the best. But I think it is overrated. Turn-based battles are boring compared to roguelikes. The story is good but if you want story,
@@ -820,7 +843,7 @@ Unlocks refer to New Game Plus.
 GAME Dune
 AKA Dune I
 BY Cryo Interactive
-VAL pc year=1992 played=2006 gem=2 xp=3 scifi multigenre army pauseable=? economy fixed=? openworld return photorealistic lores topdown
+VAL pc year=1992 played=2006 gem=2 xp=3 scifi multigenre army pauseable=? economy fixed=? openworld return photorealistic lores topdown nonlinear
 The RTS genre was famously started by the game called {Dune II}... so what about Dune I? Well, I think Dune I is worth playing too.
 It is a rather unique game, that feels like something between a strategy game and adventure. You capture territories and move your units between
 them, just like usual in strategy games. But you also play as a character (Paul Atreides) doing basic adventure stuff: contacting people, proceeding
@@ -834,12 +857,13 @@ One of Doom clones I have played. I do not think there was much special about it
 GAME Another World
 AKA Out of this World
 BY Eric Chahi
+BY France
 VAL pc year=1991 platformer played=1993 aliens scifi xp=3 sideview platformer realtime vectorart flick seq fixed exp
 An early cinematic platformer, with more focus on variety and adventure than other platformers -- its levels do feel quite different. It is a well-known game,
 and I think it is worth to play.
 
 GAME FlixMix
-BY Celeris
+# BY Celeris
 VAL pc year=1993 played=1993 abstract nonlogic realtime grid orthogrid xp=3 topdown randomized seq minigames shapegfx difflevels gem=2
 Basically a jigsaw puzzle, but the image is animated! In the mode I have been playing it in, you have limited time to solve the puzzles, and the puzzles become
 more and more complicated (more pieces and more moving elements). There 9 images, which were not realistic movies, but rather mathematically generated animations.
@@ -871,6 +895,7 @@ A clone of {Boulder Dash}. I do not have any strong opinion on which one is bett
 play both. (Boulder Dash has cool stuff like Amoeba which Supaplex does not, IIRC.)
 
 GAME Speedway'98
+BY country: Poland
 VAL pc year=1998 played=1998 sports shapegfx multiplayer physics realtime racing xp=1 topdown fixed tiny multiplayer free
 A simple hotseat multiplayer game controlled with only one key -- you are racing, if you do not press the key you go forward, if you do, you turn left. A bit like {SFCave}/{Flappy Bird}, I guess.
 (I thought I have played it in 1994?...)
@@ -881,24 +906,26 @@ A 3D adaptation of a popular 2D series. I do not think it benefits from being 3D
 is not present in 3D, or it was reduced.
 
 GAME Bumpy
+BY Loriciel
+BY France
 VAL year=1989 played=1994 abstract xp=2 platformer grid orthogrid sideview lores realtime fixed seq
 I played it at my friend's place, but I do not remember on which platform. Was quite cool, but we played it just once.
 
 GAME MegaTraveller
 AKA MegaTraveller 1: The Zhodani Conspiracy
-VAL year=1990 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp shooter fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera
+VAL year=1990 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp shooter fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera nonlinear return
 BY Paragon Software
 I got my hands on a collection of Paragon Software RPGs, not sure how. I have played them, but they were not very interesting.
 Mostly planetary exploration with a bit of space combat.
 
 GAME Space 1889
-VAL year=1990 played=1994 xp=3 scifi steam spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave
+VAL year=1990 played=1994 xp=3 scifi steam spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave nonlinear return
 BY Paragon Software
 This one has nice retrofuturistic theme -- explore various civilizations in the Solar System, meet famous people such as Thomas Edison or Jack the Ripper.
 But it is not really that interesting otherwise.
 
 GAME MegaTraveller II
-VAL year=1991 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera
+VAL year=1991 played=1994 xp=3 scifi aliens spaceopera topdown realtime exp combat fixed overworld hscroll vscroll lores rpgstats rpgconsume rpgquests rpgclasses manualsave spaceopera nonlinear return
 BY Paragon Software
 Another game in the {MegaTraveller} universe. The world is huge -- lots of planets to explore -- but also very empty. For example, most of the cities on the planets
 look the same, they are quite huge, repetitive blocks of squares, you can find some people to talk to or occassionally buildings to enter. Look for the artifacts of
@@ -938,6 +965,7 @@ VAL year=1997 played=2022 medieval xp=3 nonspatial realtime quickkey seq fixed u
 A classic game. TODO
 
 GAME Archrebel Tactics
+BY country: Portugal
 VAL year=2024 played=2024 scifi xp=2 topdown turnbased squad exp shooter fixed seq lores manualsave gem=2
 As a fan of {Rebelstar} I had to check out the demo. Has all the things that make {Rebelstar} great. Looking forward for the full version!
 
@@ -981,12 +1009,14 @@ Unfortunately the spherical geometry makes it a bit unintuitive -- tiles drop 'd
 GAME Hydorah
 VAL played=2024 year=2012 scifi xp=2 sideview autoscroll hscroll realtime shooter fixed seq lores free spaceopera
 BY Locomalito
+BY country: Spain
 A horizontal shmup. As usual in Locomalito games, it plays similar to the arcade classics -- in this case, you do not have to do it all in one run, but saves are limited.
 Good, but I have not finished it yet.
 
 GAME Curse of Issyos
 VAL played=2022 greek xp=5 year=2015 sideview platformer fixed seq lores realtime pc free
 BY Locomalito
+BY country: Spain
 A nice platformer based on Greek mythology.
 
 GAME Batbarian
@@ -996,11 +1026,15 @@ A very good metroidvania, you have a bat who can "shine" in one of the element (
 (not on the level of a puzzle game, but definitely more interesting than in typical metroidvanias). Should be more popular than it is.
 
 GAME oh-my-git
-VAL played=2021 year=2021 abstract xp=2 sciencegame nonspatial turnbased nonlogic fixed seq ascii free
+VAL played=2021 year=2021 abstract xp=2 sciencegame nonspatial turnbased nonlogic fixed seq ascii free timebending
+TODO write
 
 GAME Maldita Castilla
 VAL played=2023 year=2012 medieval sideview platformer fixed seq lores realtime pc xp=3 free bossfights
+BY Locomalito
+BY country: Spain
 [also played earlier]
+TODO write
 
 GAME Mindustry
 VAL year=2017 played=2023 scifi gem=2 army grid orthogrid engineering topdown xp=3 pauseable=? defense exp combat fixed seq lores ext free
@@ -1039,7 +1073,7 @@ It would qualify as a tableau builder I guess. I have played the first chapter o
 There are also battles against humans/AI, and some (quite hard) puzzles with specific setups.
 
 GAME Strange Adventure In Infinite Space
-VAL year=2009 scifi spaceopera played=2025 roguelite trail xp=1 topdown realtime modalbattle exp combat economy procgen randomized tiny midres multiweapon
+VAL year=2009 scifi spaceopera played=2025 roguelite trail xp=1 topdown realtime modalbattle exp combat economy procgen randomized tiny midres multiweapon nonlinear
 This roguelike-inspired game is somehow not talked about much, but it was an inspiration for {FTL}. It is free now. I have played it recently, but not as good as FTL or roguelikes.
 
 GAME Spore
@@ -1114,6 +1148,7 @@ Not sure what to write about this "super" version of {Metroid} (which has a more
 
 GAME Castlevania: Symphony of the Night
 BY Koji Igarashi
+BY country: Japan
 VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
 This game combines the gothic setting of the {Castlevania} series with the game structure taken from {Metroid}, setting the trend for the later games in the Castlevania series, 
 called "metroidvania" (as in, the part of the Castlevania series which is like Metroid), which later evolved into the name of the whole genre. Worth playing, at least to experience
@@ -1121,23 +1156,27 @@ many aspects that became parts of the gaming culture.
 
 GAME Castlevania: Aria of Sorrow
 BY Koji Igarashi
+BY country: Japan
 VAL year=2003 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
 This combines the "metroidvania" style of {Castlevania: Symphony of the Night} with the concept of "souls" that you get from defeated enemies and that give you powers. The soul system
 is interesting, although sometimes a bit grindy.
 
 GAME Castlevania: Dawn of Sorrow
 BY Koji Igarashi
+BY country: Japan
 VAL year=2005 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
 A sequel to {Castlevania: Aria of Sorrow}, rather similar in general.
 
 GAME Castlevania
+BY country: Japan
 VAL year=1986 played=2021 gothic sideview platformer flick hscroll vscroll multiweapon xp=3 realtime fixed lores exp
 The first game of the series, that is just a linear platformer, no non-linear exploration characterizing the later games in the series. The series became very famous, but I do not feel
 the original game was that good.
 
 GAME Europa Universalis II
 BY Paradox
-VAL year=2001 played=2005 history pauseable xp=2 topdown exp combat xxxx fixed vscroll hscroll openworld army economy grid arbigrid hires
+BY country: Sweden
+VAL year=2001 played=2005 history pauseable xp=2 topdown exp combat xxxx fixed vscroll hscroll openworld army economy grid arbigrid hires nonlinear
 A grand strategy game that attempts to recreate the history in the years 1419-1820, with actual historical people and events. Despite "Europa" in the name, the whole world is represented,
 so you can play, for example, as China as well.
 
@@ -1149,20 +1188,21 @@ I did not feel that such consequences were modelled well (it would be of course 
 I think a similar game where people and events are procedurally generated based on the specifics of the game world (although possibly loosely inspired by actual history) would be interesting.
 
 GAME Imperialism II
-VAL year=1999 played=2001 history turnbased modalbattle xp=3 topdown army exp combat economy procgen randomized hscroll vscroll grid hexgrid lores xxxx
+VAL year=1999 played=2001 history turnbased modalbattle xp=3 topdown army exp combat economy procgen randomized hscroll vscroll grid hexgrid lores xxxx nonlinear
 A strategy game about the European conquest of America. Good, but not much to talk about.
 
 GAME Star Control II
-VAL year=1992 xp=0 vehicles exp combat topdown modalbattle turnbased realtime fixed twistpixel spaceopera
+VAL year=1992 xp=0 vehicles exp combat topdown modalbattle turnbased realtime fixed twistpixel spaceopera nonlinear
 I have played {Ur-Quan Masters} which is mostly the same game, as far as I understand. 
 
 GAME Ur-Quan Masters
-VAL year=2002 played=2016 xp=3 vehicles exp shooter topdown modalbattle turnbased realtime fixed twistpixel spaceopera
+VAL year=2002 played=2016 xp=3 vehicles exp shooter topdown modalbattle turnbased realtime fixed twistpixel spaceopera nonlinear
 A open-source version of {Star Control II}. You fly an ancient spaceship in a galaxy that has been conquered by nasty aliens, and you are the only hope. 
 Fight enemy ships in real-time battles, as either your huge ship or one of the smaller ships you obtain from the other races that you successfully did diplomacy with.
 A very good, free game with lots of adventure.
 
 GAME Sokoban
+BY country: Japan
 VAL played=1994 xp=2 year=1981 moderntheme topdown turnbased logic fixed seq lores
 A game about pushing blocks that became a genre of its own. I think I played some version of actual Sokoban, at some point.
 I did not find classic puzzle games that cool, {Deadly Rooms of Death} that combined puzzles with roguelike-ish adventure was great.
@@ -1210,7 +1250,7 @@ There are many interpretations of the story, but the obvious one is that Tim is 
 as bad people actually do. Braid is a nice artistic take on this phenomenon, and a caution against making up your opinions about conflicts based on what only one side says.
 
 GAME Faery Tale Adventure I
-VAL year=1987 played=2025 xp=1 medieval topdown realtime exp combat rpgequip fixed openworld lores
+VAL year=1987 played=2025 xp=1 medieval topdown realtime exp combat rpgequip fixed openworld lores nonlinear return
 I liked {Faery Tale Adventure II} so I tried the prequel too, but it appeared that it was not as good as FTA2. Although it is clearly visible that it has something which in FTA2
 became the huge open world.
 
@@ -1221,6 +1261,7 @@ if you do it right, the gravity may be changed when you return to the original f
 
 GAME Kret
 VAL played=2025 year=1994 animaltheme=2 xp=3 sideview realtime shapepuzzle procgen randomized difflevels tiny lores free blackboard gem=1
+BY country: Poland
 A very old shareware game that feels a bit like reverse {Tetris}: tetromino-shaped pipes fall from above and want to crush our mole. But they eventually land on the floor and
 other pipes, and the mole can also just eat them if it approaches them from the correct direction. Still fun in 2025. Sometimes the pipes just disappear randomly, which is
 annoying if it causes the mole to be crushed because of the structural damage to the whole structure. The pipes are generated randomly, sometimes it is clear that the generator
@@ -1229,7 +1270,7 @@ infinitely produce new pipes when according to the obvious model that situation 
 if creating a better generator would be possible.
 
 GAME Meritous
-VAL played=2008 year=2007 medieval xp=3 topdown realtime exp combat procgen randomized hscroll vscroll nonlinear lores free mono=? bossfights
+VAL played=2008 year=2007 medieval xp=3 topdown realtime exp combat procgen randomized hscroll vscroll nonlinear lores free mono=? bossfights nonlinear
 A game that reminds me of {Ranarama}, although probably {Gauntlet} is the actual influence. It seems that the correct victory of the game requires exploring a big part of the world,
 which is huge?...
 
@@ -1296,6 +1337,7 @@ I technically played on iOS, but it would be silly to create a tag for just one 
 
 GAME Fire Emblem
 BY Nintendo
+BY country: Japan
 VAL year=1990 xp=0 medieval anime=? turnbased grid hexgrid army topdown fixed seq lores exp combat
 I have not played this, I have played {Battle for Wesnoth} which is supposedly similar.
 
@@ -1318,6 +1360,7 @@ they do not have 3D effects, higher resolution, or anything. The music has been 
 GAME Mario
 BY Nintendo
 BY Shigeru Miyamoto
+BY country: Japan
 VAL console year=1985 played=2000 sideview realtime platformer lores notheme fixed seq xp=1 exp secrets
 I have not played this series much. But somehow Nintendo pushes this game as something that should be known to everyone, while around here, Nintendo games basically did not exist.
 Early non-console platformers such as {Manic Miner}, {Jet Set Willy}, or even {Commander Keen} should be talked about more! (Even though Mario games were an inspiration for them.)
@@ -1326,6 +1369,7 @@ GAME Zelda
 AKA Legend of Zelda
 BY Nintendo
 BY Shigeru Miyamoto
+BY country: Japan
 VAL console year=1986 played=2024 xp=1 medieval topdown realtime exp combat fixed flick lores ability
 Another early game that is pushed by Nintendo as something that should be known to everyone, while there were lots of similar 8-bit games. For example, there is lots about how
 Zelda was the game that introduced saving, while it introducing saves on consoles, while computer games such as {Rogue} and {Chuckie Egg} had saves long before!

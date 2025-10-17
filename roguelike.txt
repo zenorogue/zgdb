@@ -13,6 +13,7 @@ GAME Linley's Dungeon Crawl
 VAL pc roguelike tolkien xp=4 gem=3 year=1995 played=2001 turnbased grid rpgequip rpgstats rpgconsume topdown hscroll vscroll nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii connections nonlinear hscroll vscroll economy free randomized bossfights manualsave ammolimit secrets traps
 AKA LDC
 BY Linley Henzell
+BY country: Australia
 This is one of the best roguelikes. It has evolved into {Dungeon Crawl Stone Soup}. Some changes that DCSS developers did are 
 criticized by the fans of the original. For example, LDC has a very good food system, which connects to other systems of the game
 (magic costs food, god powers cost food, some races need no food or different kinds of food, amulets may change your food needs, 
@@ -53,6 +54,7 @@ hacklikes did not replicate, like its approach to unexpected interactions (aka "
 GAME Ancient Domains of Mystery
 BY Thomas Biskup
 BY zenorogue
+BY country: Germany
 VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps gem=2
 AKA ADOM
 In the {GSNband} readme I have found some references to another roguelike called {ADOM}, and it looked interesting. {Valhalla} and
@@ -83,6 +85,7 @@ I have not played Zelazny Angband itself, but I have played a variant named {GSN
 
 GAME GSNband
 BY community
+BY country: Poland
 VAL pc roguelike tolkien year=1998 played=1998 xp=3 turnbased grid rpgequip rpgconsume rpgquests rpgstats topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld ext free randomized bossfights manualsave secrets traps
 This is the first game I played that was called roguelike. (I played {Ragnarok} before but I did not know it was a roguelike.)
 One of my classmates has found it on a CD attached to some magazine, containing many free games, and quite a lot of us got obsessed with it.
@@ -97,6 +100,7 @@ savescumming.
 
 GAME Doom, the Roguelike
 BY ChaosForge
+BY country: Poland
 VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=3 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized
 AKA DRL
 AKA DoomRL
@@ -126,6 +130,7 @@ The version I have played was AFAIK solodev, but I think people play the communi
 
 GAME Iter Vehemens ad Necem
 BY community
+BY country: Finland
 VAL pc roguelike medieval moderntheme xp=5 year=2001 played=2001 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll nonlinear procgen return destructible traps diagrid exp combat lores hscroll vscroll connections overworld nonlinear free randomized manualsave gem=2
 AKA IVAN
 A Finnish hacklike with some innovative features, such as a system of fluids which could cover equipment and gases,
@@ -188,18 +193,21 @@ levels of ripeness and 3 levels of concentration. I think I have won it with per
 game does not even enforce permadeath itself). Overall, an old roguelike with a unique theme.
 
 GAME Frozen Depths
+BY country: Finland
 VAL pc roguelike uniquetheme xp=5 year=2009 played=2010 turnbased grid rpgequip rpgconsume rpgstats topdown return procgen diagrid exp combat ascii connections free randomized traps=? idminigame=? manualsave=?
 A roguelike heavily focused on its theme of coldness. Food provides heat rather than nutrition, you have special wearables
 that make you lose less heat, powers drain heat, and so on. I have won one of the versions using a trick.
 As usual, nice to play a roguelike with a different theme. The coldness theme was an inspiration for the first land in {HyperRogue}.
 
 GAME Infra Arcana
+BY country: Sweden
 VAL pc roguelike lovecraftian xp=1 year=2011 played=2013 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp shooter ascii blackboard seq=? free randomized manualsave=?
 A roguelike with a Lovecraftian theme. It seems very difficult, I have not progressed far, so I have not much to say about it.
 
 GAME Diablo, the Roguelike
 AKA DiabloRL
 BY ChaosForge
+BY country: Poland
 VAL pc roguelike helltheme xp=2 year=2005 played=2005 7drl turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii connections=? free randomized
 Diablo moved closed towards its roguelike roots: ASCII graphics, turn-based, and so on. Interestingly, if I recall
 correctly, the mechanics are taken directly from Diablo. At the time when I played it it
@@ -235,6 +243,7 @@ A hacklike, basically {NetHack} in space. Probably better to play its extended v
 
 GAME PRIME
 BY community
+BY country: Poland
 VAL pc roguelike scifi gem=2 xp=4 year=2011 played=2011 turnbased grid rpgequip rpgconsume rpgstats topdown nonlinear procgen return rpgclasses idminigame diagrid exp combat ascii midres nonlinear connections free randomized traps=? manualsave
 Basically {NetHack} in space. As all hacklikes, this is a very fun game. Floppy disks replace scrolls, canisters replace potions,
 mutations, and so on.
@@ -246,6 +255,7 @@ This is a game in the style of {ADOM}. Abandoned in a rather early state, with n
 GAME Bone to be Wild: Summoning Gone Wrong
 VAL pc roguelike medieval year=2006 played=2006 7drl turnbased grid topdown procgen diagrid exp combat ascii seq xp=2 free randomized
 BY DarkGod
+BY country: France
 A 7DRL about collecting souls. I tried to win it, but the later levels seemed hard, I was not powerful enough.
 I remember a reference to {Metroid}, and disliking the use of a custom window instead of an actual DOS terminal.
 
@@ -273,6 +283,7 @@ I do not remember much about this roguelike.
 
 GAME MetroidRL
 BY Slashie
+BY country: Argentina
 VAL pc roguelike 7drl scifi xp=1 year=2006 played=2006 turnbased grid topdown procgen diagrid exp combat ascii hscroll vscroll free randomized
 I have played this before {Metroid} and did not find it interesting.
 
@@ -323,18 +334,21 @@ playing the game brings anything over reading about the main mechanics, but it w
 
 GAME Berserk!
 BY ChaosForge
+BY country: Poland
 VAL pc roguelike xp=1 7drl anime year=2006 played=2006 turnbased grid rpgconsume topdown procgen diagrid exp combat ascii multiweapon=? tiny=? eastern=? free randomized
 I remember it as an arena roguelike, I did not it particularly interesting. It is influenced by some manga that I have no experience with.
 
 GAME CastlevaniaRL: Prelude
 VAL pc roguelike gothic xp=1 year=2005 played=2005 turnbased grid topdown diagrid exp combat ascii multiweapon=? tiny=? randomized free
 BY Slashie
+BY country: Argentina
 A 7DRL influenced by the {Castlevania} series, which I did not play at the time. Not much to do, I remember it as an arena roguelike,
 you fought monsters until you died. Presumably {CastlevaniaRL} is a continuation of this.
 
 GAME CastlevaniaRL
 VAL pc roguelike gothic xp=0 year=2005 turnbased grid topdown procgen diagrid exp combat ascii lores multiweapon=? connections=? nonlinear=? free randomized idminigame=? bossfights=? traps=? manualsave=?
 BY Slashie
+BY country: Argentina
 I have never tried this, somehow it was not marketed much, even in the roguelike community. But it is fun how this obscure game was
 what the famous {Vampire Survivors} graphics were originally made for.
 
@@ -424,6 +438,7 @@ GAME Ananias
 AKA Kramora's Shadow
 VAL pc roguelike medieval year=2014 played=2015 turnbased grid rpgequip rpgconsume rpgstats topdown procgen diagrid exp combat ascii midres flick xp=1 free randomized
 BY Slashie
+BY country: Argentina
 I have tried it, but it did not capture me.
 
 GAME Broken Bottle
@@ -483,6 +498,7 @@ BY Darren Grey
 An early roguelike by Darren Grey, inspired by the "grues" of {ADOM} -- here, YOU are the grue, attacking adventurers from the shadows. Nice theme.
 
 GAME Guild
+BY country: New Zealand
 VAL pc roguelike medieval year=2008 played=2008 turnbased grid topdown squad procgen diagrid exp combat ascii seq=? xp=1 free randomized
 This was an attempt at a roguelike in which you control a party of characters. I do not remember much about it, though, it did not feel that good.
 
@@ -524,6 +540,7 @@ VAL web roguelike medieval year=2005 played=2005 turnbased grid rpgequip rpgcons
 A roguelike in Flash. Apparently Flash is not a good platform for roguelikes since it was very slow. It had some cool stuff but I do not remember much.
 
 GAME Xenocide
+BY country: Poland
 VAL pc roguelike scifi year=2002 played=2004 turnbased grid rpgequip rpgconsume rpgstats topdown procgen return rpgclasses=? destructible=? traps=? idminigame=? diagrid exp combat ascii connections=? xp=2 free randomized
 I have played this, but I do not think there was anything especially notable about it.
 
@@ -533,16 +550,19 @@ The notable thing about it is that it was actually a roguelike predating Rogue. 
 rogue-like movement and combat, and procedural generation. (It replaces permadeath with "brain scans" which can revive you for a permanent cost.) Worth to play if you want to try very old games. 
 
 GAME Ruins of Calaworm
+BY country: Germany
 VAL pc roguelike medieval lovecraftian xp=2 year=2023 played=2024 turnbased grid rpgequip topdown hscroll vscroll procgen return=? diagrid exp combat ascii=? connections=? xp=2
 A recent roguelike based on {Kalawaum}, which is said to be a German hit roguelike from the 90s (although it did not get known elsewhere). Hoping for a blogpost by the dev to learn more about it.
 I have played it a bit but not finished.
 
 GAME Kalawaum
+BY country: Germany
 VAL pc roguelike medieval lovecraftian xp=0 year=1992 turnbased grid rpgequip topdown procgen return=? diagrid exp combat lores connections=?
 I have not played it, but {Ruins of Calaworm} was based on it. As far as I understand Kalawaum was not procedurally generated.
 
 GAME Jupiter Hell
 BY ChaosForge
+BY country: Poland
 VAL pc roguelike scifi helltheme xp=1 year=2021 played=2022 isometric turnbased grid rpgequip rpgconsume rpgstats procgen rpgclasses=? destructible=? shooter exp photorealistic models seq orthogrid randomized
 A game based on {DoomRL}. I have played the demo. Unfortunately, instead of just moving DoomRL to a new universe
 and adding professional 3D graphics, it also replaced some mechanics that made DoomRL special (such as turn-based dodging
@@ -552,6 +572,7 @@ NotEye did it before Jupiter Hell). ({Jupiter Hell Classic} is more of a modern 
 
 GAME Jupiter Hell Classic
 BY ChaosForge
+BY country: Poland
 VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized gem=1
 JHC is a greatly improved version of {DRL}. 
 A total conversion, so not just DoomRL reskinned -- but that is great.
@@ -596,6 +617,7 @@ I do not remember mostly anything about this game.
 
 GAME SpelunkyRL
 BY Slashie
+BY country: Argentina
 VAL pc roguelike pyramids xp=1 year=2022 played=2022 turnbased grid topdown procgen return rpgclasses=? destructible=? traps idminigame=? diagrid exp combat ascii seq=? free randomized
 A 7DRL based on turning SpelunkyRL back into a roguelike, with ASCII display, turn-based grid, and all. An interesting idea to explore,
 although I was not interested enough to actually play more seriously.
@@ -603,6 +625,7 @@ although I was not interested enough to actually play more seriously.
 GAME Tales of Maj'Eyal
 VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized
 BY DarkGod
+BY country: France
 This is one of the most popular roguelikes, with a long history going back to a variant of {Angband}, called "Troubles of Middle Earth",
 later renamed to not annoy the Tolkien estate.
 Lots of races and classes. Some interaction between runs (some classes need unlocking,
@@ -705,6 +728,7 @@ A very weird experimental 7DRL, it tends to come up in discussions, so it is goo
 monster has a "dungeon" inside it, so you can come in, for example, to steal food to make it die from starvation.
 
 GAME Pawnbarian
+BY country: Poland
 VAL pc roguelike 7drl year=2019 played=2022 turnbased grid deckbuilder topdown procgen rpgclasses diagrid exp combat hires seq xp=3 notheme randomized
 I have played the commercial version of Pawnbarian, it was originally a 7DRL.
 I qualify it as roguelike, although it could be argued it is not (you cannot just press a key to

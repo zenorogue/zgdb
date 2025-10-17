@@ -32,7 +32,8 @@ generated.
 
 GAME blocking
 BY zenorogue
-VAL pc abstract played=1993 shapegfx topdown turnbased multiplayer shapepuzzle picklevel fixed
+BY country: Poland
+VAL pc abstract played=1993 shapegfx topdown turnbased multiplayer shapepuzzle picklevel fixed nonvideo
 A computer implementation of the paper-and-pencil game I have invented. I have 
 sent the rules of the paper-and-pencil game to the local newspaper column about
 paper-and-pencil games, and they actually printed it! It was quite fun to play
@@ -134,11 +135,13 @@ when '2D platformer' is replaced with first-person shooter? Then we would get a 
 
 GAME Hydra Slayer
 BY zenorogue
+BY country: Poland
 VAL pc greek year=2010 played=2010 turnbased exp nonlogic roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps
 My second biggest game, so everyone should play it!
 
 GAME HyperRogue
 BY zenorogue
+BY country: Poland
 VAL pc medieval year=2011 played=2011 turnbased multigenre exp slasher roguelike xp=5 topdown hscroll vscroll procgen randomized openworld ascii vectorart spacebending free leveleditor traps multiplayer endless=0.5
 My biggest game, so everyone should play it! I have written lots about its inspirations.
 
@@ -151,6 +154,7 @@ and stopped at that.
 
 GAME Seuphorica
 BY zenorogue
+BY country: Poland
 VAL pc year=2024 played=2024 xp=3 notheme wordgame grid orthogrid spacebending randomized hscroll vscroll picklevel turnbased ascii shapegfx topdown free
 A deckbuilder inspired by {Scrabble} and {Dominion}.
 
