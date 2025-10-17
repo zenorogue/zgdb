@@ -320,7 +320,7 @@ TAG quickkey
 Press the correct keys, in the time limit.
 
 TAG incremental
-Upgrades. TODO ?
+Games based on incremental upgrades, without much gameplay otherwise. Also called clickers or idle games.
 
 TAG combat
 Games with combat that is an important part of the game but is generic, that is, does not classify as anything more specific (e.g., "shooter" or "slasher" or "soulcombat"),
@@ -390,7 +390,7 @@ TAG matching
 Matching games.
 
 TAG bulletheaven
-TODO
+Reverse of bullet hell. You are attacked by lots of enemies, but you also automatically produce lots of bullets.
 
 TAG survival
 The game focuses on surviving in a harsh environment.

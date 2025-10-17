@@ -962,7 +962,7 @@ It is like {Antichamber} but 2D. Very nice.
 
 GAME Dragon's Lair
 VAL year=1997 played=2022 medieval xp=3 nonspatial realtime quickkey seq fixed uniquegfx traps
-A classic game. TODO
+A classic game, of a rather different kind -- more of a movie, but sometimes you have to press the correct key quickly.
 
 GAME Archrebel Tactics
 BY country: Portugal
@@ -970,8 +970,10 @@ VAL year=2024 played=2024 scifi xp=2 topdown turnbased squad exp shooter fixed s
 As a fan of {Rebelstar} I had to check out the demo. Has all the things that make {Rebelstar} great. Looking forward for the full version!
 
 GAME Crayon Physics Deluxe
+BY country: Finland
 VAL played=2012 abstract physics year=2009 xp=2 sideview realtime fixed seq vectorart simulationism
-An interesting game. TODO
+An interesting physics game, you create physical objects to solve puzzles by drawing them.
+IIRC it had some rewards for solving the puzzles elegantly, and the player decided themselves whether their solution was elegant, so that was quite interesting.
 
 GAME Crimsonland
 VAL year=2003 played=2024 aliens xp=2 topdown shooter realtime rpgstats randomized seq midres gem=1
@@ -1014,10 +1016,10 @@ A horizontal shmup. As usual in Locomalito games, it plays similar to the arcade
 Good, but I have not finished it yet.
 
 GAME Curse of Issyos
-VAL played=2022 greek xp=5 year=2015 sideview platformer fixed seq lores realtime pc free
+VAL played=2022 greek xp=5 year=2015 sideview platformer fixed seq lores realtime pc free gem=2
 BY Locomalito
 BY country: Spain
-A nice platformer based on Greek mythology.
+A nice retro platformer based on Greek mythology.
 
 GAME Batbarian
 AKA Batbarian: Testament of the Primordials 
@@ -1027,14 +1029,13 @@ A very good metroidvania, you have a bat who can "shine" in one of the element (
 
 GAME oh-my-git
 VAL played=2021 year=2021 abstract xp=2 sciencegame nonspatial turnbased nonlogic fixed seq ascii free timebending
-TODO write
+A game that can be used to learn Git.
 
 GAME Maldita Castilla
 VAL played=2023 year=2012 medieval sideview platformer fixed seq lores realtime pc xp=3 free bossfights
 BY Locomalito
 BY country: Spain
-[also played earlier]
-TODO write
+A good retro platformer. Also played earlier.
 
 GAME Mindustry
 VAL year=2017 played=2023 scifi gem=2 army grid orthogrid engineering topdown xp=3 pauseable=? defense exp combat fixed seq lores ext free
