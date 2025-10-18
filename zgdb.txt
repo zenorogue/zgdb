@@ -20,7 +20,13 @@ an extensive collection of detailed tags and an advanced search feature where yo
 as tags but are split into their individual components, so you can find, for example, turn-based platformers, non-randomized roguelikes, or metroidvania-ish
 games with a bit different features.
 
+To combat the cultural imperialism of the Anglosphere, games from other countries are highlighted. (Games from {by:country:Australia} are marked despite them
+being usually considered a part of the Anglosphere, and so are games by {by:country:Japan} despite big Japanese video game companies also being quite dominant in US.)
+
 My reviews gives facts about the games that I consider interesting. The {tag:gem} tag can be used to find games that I think are less popular or well-known than they should. 
+
+This is an <a href="https://github.com/zenorogue/zgdb">open source</a> project, so if you want to make a similar database for yourself,
+suggest improvements, fix inaccurate data, analyze the data, use the database to teach students about databases, or whatever, feel free to do so.
 
 Have fun!
 
