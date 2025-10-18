@@ -598,6 +598,29 @@ Ability gating: some areas are only accessible when you have required abilities,
 TAG oneofthree
 The character advancement in the game is commonly done in the "pick one of three upgrades" form. (Possibly not exactly three.)
 
+I am generally not a fan of this. The alternative is what RPGs (including literal {roguelike}s) typically do. Examples: {Path of Exile}, {Dungeon Crawl Stone Soup}, {Tales of Maj'Eyal},
+{Path of Achra}.
+
+You find items, and you have mostly no control at all over what you find.
+
+You can advance your skills, and you have full control on what skills you advance, from a large selection.
+
+You find shops, which give a choice between a number of "upgrades", how many you can pick depends on your $.
+
+There may be some "pick one of three" situations but they are rare.
+
+My comparison of the two alternatives:
+
+- RPG style is much more immersive. Random loot, shops, and improving skills are easy to understand. In an immersive game, it is usually hard to explain why would you pick one of three upgrades.
+
+- One-of-three is similar to gambling. You cannot pick the build you want, and you are forced to replay until you get what you want. It extends the playtime but does not enhance the fun.
+
+- Non-controlled upgrades force you to adapt to what you find, which some people consider fun. However, in good games with more control, you are also likely to play multiple times to try all the builds that you like.
+
+- It is easier for most new players to pick from three upgrades rather than from 100. Although maybe the game should start as "one of three" but then give more choice.
+
+It does make sense in a deckbuilder (which are generally not immersive anyway), but then, I still prefer picking between 17+ possible purchases in {Dominion}.
+
 TAG crafting
 You construct your own items from materials of some kind.
 
