@@ -366,7 +366,7 @@ TAG riddles
 A game focusing on discovering secrets based on clues. Compare {tag:logic}.
 
 TAG shapepuzzle
-Puzzle games about matching shapes.
+Puzzle games about matching shapes, from jigsaw puzzles to Tetris.
 
 TAG squad
 You control a limited number of units. Examples are: party-based RPGs, classic squad-based games such as XCOM.
@@ -377,8 +377,12 @@ You control an army. There is no limit on how many units you can have, or the li
 TAG xxxx
 Explore, Expand, Exploit, Exterminate. Games like {Civilization}.
 
-TAG nonlogic
-Temporary tag for puzzle/strategy-like games that do not qualify as any more specific kind.
+TAG boulderdash
+A tag for {Boulder Dash}-style games. A canonical example is games in which you push rocks
+so that they fall on enemies. It may be a topdown game too, like {HyperRogue} Bull Dash.
+If you kill enemies by surrounding them with pushable stuff, it counts too (like Amoeba in
+Boulder Dash).
+There are enough of these in the database to warrant a special tag rather than "other puzzle".
 
 TAG cardgame
 Card games.
@@ -387,7 +391,7 @@ TAG wordgame
 Word games.
 
 TAG matching
-Matching games.
+Matching games. Arrange stuff so that color (or whatever) matches. Match-three games are an obvious example, but there are some other too.
 
 TAG bulletheaven
 Reverse of bullet hell. You are attacked by lots of enemies, but you also automatically produce lots of bullets.
@@ -420,6 +424,18 @@ also related.
 
 TAG itemuse
 You collect items and use them in correct places. This is common in text adventure games and games inspired by them.
+
+TAG sciencegame
+In general, I make a distinction between "science games" and "educational games": the purpose of educational games is to teach something, while the purpose of a science game
+is to take a scientific concept and turn it into a fun game.
+
+Unfortunately, educational games are not well-regarded -- they often have a problem that there is no fun gameplay, or if there is somewhat fun gameplay, they
+fall into the "chocolate-covered broccoli" trope: the game would be better if all the educational content was removed and only the game remained. This does not
+happen in science games where education and fun are not separable. Of course, it still may happen that a game based on some sophisticated math concept may not turn out to be
+actually fun.
+
+In this database, no distinction is made -- I am not generally interested in playing edu-games, and the few that I did play are probably better to include with science games.
+There is also no distinction between science and other kinds of knowledge that could be applied here (e.g., technology or culture or trivia).
 
 GROUP structure
 These tags represent the structure of the game, as in, how the game changes while you play or replay it.
@@ -721,18 +737,6 @@ Games featuring a built-in level editor.
 
 TAG roguelite
 Games marketed as, or commonly referred as, roguelike/roguelite, but not actually a {tag:roguelike}. It is quite meaningless, it is included for statistical purposes. 
-
-TAG sciencegame
-In general, I make a distinction between "science games" and "educational games": the purpose of educational games is to teach something, while the purpose of a science game
-is to take a scientific concept and turn it into a fun game.
-
-Unfortunately, educational games are not well-regarded -- they often have a problem that there is no fun gameplay, or if there is somewhat fun gameplay, they
-fall into the "chocolate-covered broccoli" trope: the game would be better if all the educational content was removed and only the game remained. This does not
-happen in science games where education and fun are not separable. Of course, it still may happen that a game based on some sophisticated math concept may not turn out to be
-actually fun.
-
-In this database, no distinction is made -- I am not generally interested in playing edu-games, and the few that I did play are probably better to include with science games.
-There is also no distinction between science and other kinds of knowledge that could be applied here (e.g., technology or culture).
 
 TAG bossfights
 The game features good boss fights. Roguelike "uniques" count as bosses.

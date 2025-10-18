@@ -44,7 +44,7 @@ of course larger!)
 
 GAME Awaria
 BY country: Poland
-VAL pc scifi gothic female xp=3 year=2024 played=2024 topdown nonlogic realtime fixed seq hires free
+VAL pc scifi gothic female xp=3 year=2024 played=2024 topdown matching realtime fixed seq hires free
 A free game, by the same dev as {Helltaker}. I did not find it very interesting.
 
 GAME Balatro
@@ -68,7 +68,7 @@ VAL pc abstract xp=2 year=2023 played=2025 turnbased grid hexgrid orthogrid engi
 An interesting take on Minesweeper where you program rules to solve boards automatically.
 
 GAME Cell Command
-VAL pc bacteria xp=1 roguelite year=2025 played=2025 turnbased grid roguelite unlocks seq orthogrid topdown nonlogic lores
+VAL pc bacteria xp=1 roguelite year=2025 played=2025 turnbased grid roguelite unlocks seq orthogrid topdown squad lores
 A sequel to {Genome Guardian} (similar theming and engine-building system) but based on turn-based tactics. Interesting, but there are lots of other games...
 
 GAME Chess for idiots
@@ -141,7 +141,7 @@ I have played the (more playable) PC version, and finished it, but not sure it w
 
 GAME Against the Storm
 BY country: Poland
-VAL pc medieval roguelite gem=-1 year=2023 played=2024 hscroll vscroll topdown roguelite itemlock unlocks metapower seq xp=2 pauseable nonlogic models oneofthree
+VAL pc medieval roguelite gem=-1 year=2023 played=2024 hscroll vscroll topdown roguelite itemlock unlocks metapower seq xp=2 pauseable army models oneofthree
 I have seen positive opinions about this game, that the roguelite elements added to it, so I thought I would enjoy it. But I do not feel this to be the case, I feel that I would rather play Settlers again, and it does not feel similar to playing a roguelike in any way. Roguelikes shine in how fast you can play them, you get viscerally fun tactics while controlling a single character and avoding all the micromanagement, but this is not the case here, the game has tons of micromanagement, and also it is slow, even at 3x speed. Similar to roguelikes it has randomly generated maps, which is cool although that is common in strategy games in general, and has some features reminiscent of games loosely inspired by roguelikes: randomly generated events (I guess that is a bit of {FTL}-style, it is cool but it does not feel as adventureous as in other games), randomly available buildings (which adds unnecessary complexity) and some metaprogression (which just makes it pointlessly grindy rather than fun).
 
 GAME Alien Video Game Scientist

@@ -46,14 +46,14 @@ I have not played the original, but I have played a CPC clone called {Killer Gor
 
 GAME Breakout
 BY Atari Games
-VAL arcade year=1976 xp=0 physics realtime abstract fpp tiny randomized shapegfx nonlogic shapepuzzle difflevels endless
+VAL arcade year=1976 xp=0 physics realtime abstract fpp tiny randomized shapegfx shooter difflevels endless
 A well-known arcade game about destroying a wall of bricks with a ball. I have not played it, but I have played {Arkanoid} which was a cooler clone of it,
 and some other clones (mostly of Arkanoid).
 
 GAME Qix
 BY Taito
 BY country: Japan
-VAL arcade year=1981 topdown realtime xp=0 abstract topdown realtime abstract pixelsim randomized seq endless shapegfx nonlogic
+VAL arcade year=1981 topdown realtime xp=0 abstract topdown realtime abstract pixelsim randomized seq endless shapegfx dodger
 The game that {Zolyx} and {Xonix} were clones of. (Although I see it had "slow draw" for double points, while Zolyx and Xonix did not, I think.)
 Very fun due to its unique rules.
 
@@ -120,7 +120,7 @@ One of games included with some Linux distro. I think it was a clone of earlier 
 GAME Chess
 BY country: Spain
 BY country: India
-VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased nonlogic fixed multiplayer tiny grid orthogrid diagrid gem=1
+VAL nonvideo year=1475 played=1986 xp=3 abstract turnbased army fixed multiplayer tiny grid orthogrid diagrid gem=1
 I think Chess should be more talked about in video game circles. Sites such as chess.com have lots of members (100M). I meet lots of people in real life who
 are playing Chess on their mobile phones or computers. So it can be considered a video game. (Thus a gem score.)
 
@@ -139,7 +139,7 @@ VAL nonvideo year=1957 xp=0 abstract army multiplayer randomized turnbased tiny
 I do not think I have ever played this classic boardgame, but I have played computer versions such as {Atlantis}.
 
 GAME Hive
-VAL nonvideo year=2001 played=2010 animaltheme xp=1 nonlogic grid hexgrid turnbased turnbased fixed=? tiny multiplayer
+VAL nonvideo year=2001 played=2010 animaltheme xp=1 army grid hexgrid turnbased turnbased fixed=? tiny multiplayer
 I have played this once.
 
 GAME Magic: the Gathering
@@ -273,7 +273,7 @@ This is one of these games that does lots of marketing using fake gameplay video
 A bit addictive, in the negative meaning (that is, addictive but hollow). I just wanted to experience a bad game.
 
 GAME Forge of Empires
-VAL web year=2012 paytowin xp=2 played=2019 isometric history fixed seq grid orthogrid timegate economy nonlogic army hscroll vscroll minigames modalbattle models
+VAL web year=2012 paytowin xp=2 played=2019 isometric history fixed seq grid orthogrid timegate economy army hscroll vscroll minigames modalbattle models
 Another game that did lots of fake marketing. According to Wikipedia it got some "best strategy" and "best browser" game awards, which shows that these awards must be very bad -- it is
 clearly not a good game or a strategy game: maybe your strategy does matter a bit, but what matters more is entering the website at the correct times, or possibly paying money to prevent
 the grind. I did advance my civilization quite far, but it was all very hollow.
@@ -403,14 +403,14 @@ I do not care about playing with random people, and otherwise, it mostly introdu
 of building and thus more fun. Yeah, I agree with that, altohough I prefer roguelikes less focused on builds.)
 
 GAME The Incredible Machine
-VAL pc year=1993 played=1995 physics realtime autobattle sideview nonlogic xp=4 gem=2 lores fixed seq engineering weirdtheme picklevel
+VAL pc year=1993 played=1995 physics realtime autobattle sideview xp=4 gem=2 lores fixed seq engineering weirdtheme picklevel
 A game about building a machine from available ingredients that will achieve some effect. Some of the available elements are common
 (balloons, balls, slopes, etc.), while some are rather strange (various animals, such as cats which move when they see a mouse).
 It seemed very popular in my circles at the time, and it had some sequels which I have not played, but somehow I do not see neither
 TIM nor newer games of its kind discussed anymore.
 
 GAME E-Motion
-VAL pc year=1990 played=1993 realtime topdown nonlogic xp=4 gem=1 shapegfx abstract fixed seq
+VAL pc year=1990 played=1993 realtime topdown matching xp=4 gem=1 shapegfx abstract fixed seq
 A rather weird game, there are balls of three kinds, you can push them into other balls, two balls of the same color disappear,
 two balls of different colors create a 'baby' of different color that you can eat to restore some energy or let it grow into a big ball,
 balls explode when they live for too long time. You have to survive while balls need to disappear or explode. The time is very limited,
@@ -578,11 +578,11 @@ VAL pc topdown shapegfx spacebending logic timeless seq fixed year=2023 played=2
 A game like Sokoban but without a bit of spacebending -- you can zoom inside the boxes! The demo was very nice, although I am not that into puzzle games to play the full version.
 
 GAME World of Goo
-VAL pc isometric hires nonlogic realtime seq fixed sciencegame year=2008 played=2010 xp=3 engineering weirdtheme
+VAL pc isometric hires realtime seq fixed sciencegame year=2008 played=2010 xp=3 engineering weirdtheme
 One of early {indie} gems that is somehow not discussed much anymore. A very fun game, like {Bridge Builder} but more lighthearted.
 
 GAME Bridge Builder
-VAL pc isometric shapegfx nonlogic realtime seq fixed sciencegame year=2000 played=2006 xp=3 engineering free moderntheme
+VAL pc isometric shapegfx realtime seq fixed sciencegame year=2000 played=2006 xp=3 engineering free moderntheme
 A simple free game that was an inspiration for {World of Goo}. As the name suggests, you build bridges out of available components.
 The bridge should not break under the weight of cars trying to cross. There were some paid sequels but I have not played them.
 
@@ -598,7 +598,7 @@ Unfortunately, we have tried playing Superhot but it did not work on our Linux c
 so I cannot comment much on it. Anyway, I often see comparisons of roguelikes to Superhot, although to me, Superhot seems more "pauseable" than Rogue-style time control.
 
 GAME Socrates Jones: Pro Philosopher
-VAL pc moderntheme sciencegame nonlogic year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free gem=1
+VAL pc moderntheme sciencegame year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free gem=1
 An educational game about philosophy and debates, supposedly in the style of Ace Attorney, but I know nothing about that. A very fun, free game.
 
 GAME Quantum Game with Photons

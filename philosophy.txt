@@ -138,7 +138,7 @@ great.
 
 GAME strategy philosophy
 AKA strategy
-VAL nonvideo philosophy pc notheme history military topdown turnbased pauseable squad army xxxx nonlogic cardgame economy randomized procgen grid deckbuilder deckconstruction year=-2400 xp=3 played=1986
+VAL nonvideo philosophy pc notheme history military topdown turnbased pauseable squad army xxxx cardgame economy randomized procgen grid deckbuilder deckconstruction year=-2400 xp=3 played=1986
 
 Strategy video games, essentially, evolved from tabletop games.
 Mostly {Chess}, and thus, you control an army, but I do not consider this
@@ -193,7 +193,7 @@ must have been very at interpreting even slight hints as darkness. Generally the
 of darkness.)
 
 GAME thinky philosophy
-VAL nonvideo philosophy riddles cardgame wordgame matching nonlogic logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982 spacebending engineering played=1986
+VAL nonvideo philosophy riddles cardgame wordgame matching logic timeless fixed grid shapegfx rulediscovery xp=2 year=1982 spacebending engineering played=1986
 Games about solving problems. The name refers to the "thinky games" website and community,
 which is in turn an offshoot of Alan Hazelden's thinky puzzle discord started in 2018.
 This discord was somewhat difficult to find and yet apparently most of the names (big

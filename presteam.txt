@@ -208,7 +208,7 @@ VAL year=1993 played=1995 hscroll vscroll realtime platformer sideview prehistor
 A caveman-themed platformer, a sequel to {Prehistorik} with more sophisticated levels. Still fun!
 
 GAME Digger
-VAL year=1983 played=1991 sideview gem=2 destructible realtime shooter xp=2 fixed seq lores notheme traps
+VAL year=1983 played=1991 sideview gem=2 destructible realtime shooter xp=2 fixed seq lores notheme traps boulderdash
 One of the first PC games I have played. Very loosely similar to {Boulder Dash}, you explore a level
 filled with diggable terrain, with some gems to collect, and bags of gold to drop on enemies (and to
 collect gold if thrown from a height). Monsters become more powerful when two cross their paths, 
@@ -242,7 +242,7 @@ I do not remember mostly anything (other than Jill changing the color of her
 clothes, playing as a frog, and the 'jungle map' no longer working the same way).
 
 GAME UGH
-VAL year=1992 played=2003 realtime prehistoric xp=3 nonlogic topdown fixed seq lores multiplayer
+VAL year=1992 played=2003 realtime prehistoric xp=3 matching topdown fixed seq lores multiplayer
 A game where you work as a flying taxicab for cavemen. 
 I think I found it on Home of the Underdogs. Could be played with two players.
 
@@ -305,7 +305,7 @@ VAL year=1994 played=1997 realtime platformer hscroll vscroll shareware overworl
 Yet another shareware trilogy by Epic MegaGames. Not as interesting as {Jill of the Jungle}, much more generic.
 
 GAME Xonix
-VAL pc year=1984 xp=2 played=1994 pc topdown realtime xp=2 abstract shapegfx seq randomized realtime nonlogic
+VAL pc year=1984 xp=2 played=1994 pc topdown realtime xp=2 abstract shapegfx seq randomized realtime dodger
 I think I have played it at some point, but I played {Zolyx} first.
 
 GAME SkyRoads
@@ -319,7 +319,7 @@ A game simulating various olympic sports.
 
 GAME Lemmings
 BY DMA Design
-VAL pc year=1991 played=1992 gem=2 weirdtheme animaltheme hscroll destructible pixelsim xp=4 sideview nonlogic platformer fixed lores pauseable army traps
+VAL pc year=1991 played=1992 gem=2 weirdtheme animaltheme hscroll destructible pixelsim xp=4 sideview platformer fixed lores pauseable army traps
 One of games that were big at some point, but have basically perfected the concept, so they did not start new genres.
 A bunch of "lemmings" are going across the level, and you can give abilities to them so that they could reach the goal.
 I have played this quite a lot. I remember the password system to be quite weird, the password seemed to depend on the
@@ -327,12 +327,12 @@ number of lemmings saved in levels so far (but the game did not seem to react to
 
 GAME Christmas Lemmings
 BY DMA Design
-VAL pc year=1992 played=1994 weirdtheme animaltheme destructible pixelsim hscroll xp=3 sideview nonlogic platformer fixed lores pauseable army traps=?
+VAL pc year=1992 played=1994 weirdtheme animaltheme destructible pixelsim hscroll xp=3 sideview platformer fixed lores pauseable army traps=?
 {Lemmings} but with new levels and a Christmas theme.
 
 GAME Lemmings II: The Tribes
 BY DMA Design
-VAL pc year=1993 played=1994 weirdtheme animaltheme hscroll vscroll destructible pixelsim xp=4 sideview nonlogic platformer fixed lores nonlinear pauseable army traps=?
+VAL pc year=1993 played=1994 weirdtheme animaltheme hscroll vscroll destructible pixelsim xp=4 sideview platformer fixed lores nonlinear pauseable army traps=?
 A sequel to {Lemmings}. While in Lemmings we had mixed levels with graphics of various themes, 
 here we have 12 separate 'tribes', each with its own theme. There are lots of abilities, instead of just 10 from the
 original, and also the levels are larger. In each tribe, the number of lemmings you have equals the number of lemmings saved in the previous level,
@@ -341,7 +341,7 @@ decision -- if you solve a level poorly, you can continue with only one lemming,
 you will have to redo these levels anyway. Independent levels are better for such puzzles.
 
 GAME Lemmings 3D
-VAL pc year=1994 played=1995 weirdtheme animaltheme fpp gem=2 destructible xp=2 nonlogic fixed models seq pauseable army
+VAL pc year=1994 played=1995 weirdtheme animaltheme fpp gem=2 destructible xp=2 fixed models seq pauseable army
 Yet another sequel to {Lemmings} which is fully 3D. I enjoyed the demo but I have not proceeded to playing the full version.
 I think it should get more credit for being an early blocky 3D game with destructible terrain (much later popularized by Infiniminer and {Minecraft}).
 It is more in the style of original {Lemmings} than {Lemmings II: The Tribes}, with independent levels and a low number of abilities (only one
@@ -403,7 +403,7 @@ could not be disabled. The hex tactical map of HoMM3 has been replaced with squa
 not as cool. Heroes could fight in this one.
 
 GAME Atlantis
-VAL pc year=1990 played=1996 turnbased greek army topdown xp=4 randomized tiny difflevels vectorart multiplayer=? nonlogic grid arbigrid
+VAL pc year=1990 played=1996 turnbased greek army topdown xp=4 randomized tiny difflevels vectorart multiplayer=? grid arbigrid
 A simple computer implementation of the classic boardgame {Risk} (with some modification). Fixed graph map, extra armies for conquering the whole continents,
 ancient Greek theme. You just moved numbers between regions, fun, but nothing special.
 
@@ -554,14 +554,14 @@ I do not remember any details about it (except that it was also some kind of sho
 
 GAME Prince of Persia
 BY Jordan Mechner
-VAL pc year=1989 played=1990 arabian xp=4 flick sideview platformer slasher nonlogic fixed seq lores realtime traps secrets
+VAL pc year=1989 played=1990 arabian xp=4 flick sideview platformer slasher fixed seq lores realtime traps secrets
 I played it first during some winter camp. I could actually win the game (reach the Princess in 60 minutes).
 A very nice Persian theme, simple but good story, very memorable characters that later became important for me, interesting swordfighting, non-precision platforming.
 I think that, for most people today, Prince of Persia is the 3D sequels, but I was never interested in playing these.
 
 GAME Prince of Persia II
 BY Jordan Mechner
-VAL pc year=1994 played=2005 arabian xp=3 flick sideview platformer slasher nonlogic fixed seq lores realtime traps
+VAL pc year=1994 played=2005 arabian xp=3 flick sideview platformer slasher fixed seq lores realtime traps
 I watched a schoolmate play it close to its release date, but I played it myself much later.
 Very similar style to {Prince of Persia}, with more variety (while in the original all levels looked mostly the same);
 although not as memorable as the first one.
@@ -696,7 +696,7 @@ fun to play without a walkthrough.
 
 GAME Liquid Wars
 BY country: France
-VAL pc year=1995 played=2005 abstract xp=1 topdown army realtime fixed tiny shapegfx picklevel realtime nonlogic free
+VAL pc year=1995 played=2005 abstract xp=1 topdown army realtime fixed tiny shapegfx picklevel realtime free
 Yet another free Linux game, a simple simulation of a war, with lots of units, each taking a pixel, so it felt like a liquid; you could tell where your units should
 go by using the cursor.
 
@@ -771,7 +771,7 @@ VAL pc year=1991 played=1995 norse platformer sideview xp=2 realtime fixed seq h
 A clone of {Wonder Boy in Monster Land}, with very similar gameplay. Quite fun, I have not completed it, though.
 
 GAME Rocks'n'Diamonds
-VAL pc year=1995 played=2004 abstract xp=1 sideview grid orthogrid realtime nonlogic fixed hscroll vscroll picklevel lores free
+VAL pc year=1995 played=2004 abstract xp=1 sideview grid orthogrid realtime fixed hscroll vscroll picklevel lores free boulderdash
 An open-source clone of {Boulder Dash}. I believe it includes the levels from {Boulder Dash}, {Supaplex}, and some other games in this style.
 Not much point to play this particular clone, though.
 
@@ -864,7 +864,7 @@ and I think it is worth to play.
 
 GAME FlixMix
 # BY Celeris
-VAL pc year=1993 played=1993 abstract nonlogic realtime grid orthogrid xp=3 topdown randomized seq minigames shapegfx difflevels gem=2
+VAL pc year=1993 played=1993 abstract shapepuzzle realtime grid orthogrid xp=3 topdown randomized seq minigames shapegfx difflevels gem=2
 Basically a jigsaw puzzle, but the image is animated! In the mode I have been playing it in, you have limited time to solve the puzzles, and the puzzles become
 more and more complicated (more pieces and more moving elements). There 9 images, which were not realistic movies, but rather mathematically generated animations.
 I think it could still be fun to modern players, or maybe an updated game based on the same idea could be created. One problem was that a big part of my strategy was
@@ -890,7 +890,7 @@ VAL pc year=1990 played=1995 abstract cardgame topdown xp=1 turnbased randomized
 A game included with Windows 95. Should be called Klondike, not Solitaire. I think card solitaires are better played with actual cards, to be honest. (Not that I play them myself like that.)
 
 GAME Supaplex
-VAL pc year=1991 played=1991 abstract uniquetheme xp=3 sideview grid orthogrid realtime nonlogic fixed picklevel lores traps
+VAL pc year=1991 played=1991 abstract uniquetheme xp=3 sideview grid orthogrid realtime fixed picklevel lores traps boulderdash
 A clone of {Boulder Dash}. I do not have any strong opinion on which one is better -- one is newer, one is more classic. It would be good to play at least of them, and even better to
 play both. (Boulder Dash has cool stuff like Amoeba which Supaplex does not, IIRC.)
 
@@ -1028,7 +1028,7 @@ A very good metroidvania, you have a bat who can "shine" in one of the element (
 (not on the level of a puzzle game, but definitely more interesting than in typical metroidvanias). Should be more popular than it is.
 
 GAME oh-my-git
-VAL played=2021 year=2021 abstract xp=2 sciencegame nonspatial turnbased nonlogic fixed seq ascii free timebending
+VAL played=2021 year=2021 abstract xp=2 sciencegame nonspatial turnbased fixed seq ascii free timebending
 A game that can be used to learn Git.
 
 GAME Maldita Castilla
@@ -1317,7 +1317,7 @@ VAL year=2010 played=2012 xp=3 scifi aliens topdown realtime defense fixed seq h
 A tower defense game that was included in one of early Humble Bundles. It was quite good, although nothing special.
 
 GAME Osmos
-VAL year=2009 played=2012 shapegfx xp=3 bacteria topdown realtime nonlogic fixed seq
+VAL year=2009 played=2012 shapegfx xp=3 bacteria topdown realtime fixed seq collectathon
 Another game included in one of early Humble Bundles. A simple indie game, you are a circular blob, you can eat other circular blobs if they are smaller, getting bigger as a result. 
 Some blobs have (anti?-)gravity, so being close to them is dangerous if you are not big enough yet yourself. It was fun and rather unique, but I do not remember much.
 

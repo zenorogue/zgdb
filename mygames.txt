@@ -13,7 +13,7 @@ adequate by then.
 
 GAME Faces
 BY zenorogue
-VAL cpc abstract played=1991 ascii fixed sideview nonlogic realtime seq
+VAL cpc abstract played=1991 ascii fixed sideview matching realtime seq
 Amstrad CPC had a nice character set that included two faces (one happy,
 one unhappy). You could also define your own characters by using binary, so
 I defined quite a lot of faces and made a game about that. I think it was 
@@ -53,7 +53,7 @@ it differed from the original.
 
 GAME Animals
 BY zenorogue
-VAL pc played=1989 animaltheme ascii nonspatial turnbased nonlogic randomized tiny
+VAL pc played=1989 animaltheme ascii nonspatial turnbased randomized tiny sciencegame
 A very basic game, sometimes used as a way to learn programming (I mean, it was not my idea):
 the player thinks about some
 animal X, the computer has to guess it (by asking yes/no questions). Its questions are based
@@ -70,7 +70,7 @@ Just a clone of the popular TV show.
 
 GAME Ball
 BY zenorogue
-VAL pc abstract lores realtime nonlogic sideview fixed seq played=1995
+VAL pc abstract lores realtime sideview fixed seq played=1995 matching
 A game inspired by {Bumpy} (which I have played once at my friend's place and liked but never
 played again), Rube Goldberg machines, and maybe {E-Motion} a bit. You have a number of
 balls, rolling around a level, with some Rube-goldberg-style contraptions (such as rotating
@@ -100,7 +100,7 @@ and I did not care to rewrite it.
 
 GAME Eiteme
 BY zenorogue
-VAL palmos played=1999 abstract nonlogic topdown turnbased multiplayer fixed picklevel lores
+VAL palmos played=1999 abstract topdown turnbased multiplayer fixed picklevel lores matching
 My game for PalmOS, never released. Essentially Gomoku with some configurable variants (change the line length, change the 'line' shape, block tiles, add gravity, etc.).
 
 GAME Vapors of Insanity
@@ -113,7 +113,7 @@ the closest modern roguelike.
 
 GAME Untahris Playground
 BY zenorogue
-VAL pc abstract multigenre topdown sideview realtime shapepuzzle shooter platformer nonlogic fixed picklevel lores free xp=2 year=2006 played=2006
+VAL pc abstract multigenre topdown sideview realtime shapepuzzle shooter platformer fixed picklevel lores free xp=2 year=2006 played=2006
 Take a bunch of classic game designs ({Snake}, {Tetris}, {Xonix}, {Liero}, etc.) and let multiple players play on the same board. This game is available online, although
 nobody seems to 
 
@@ -136,7 +136,7 @@ when '2D platformer' is replaced with first-person shooter? Then we would get a 
 GAME Hydra Slayer
 BY zenorogue
 BY country: Poland
-VAL pc greek year=2010 played=2010 turnbased exp nonlogic roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps
+VAL pc greek year=2010 played=2010 turnbased exp engineering roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps enginebuilder rpgclasses rpgconsume
 My second biggest game, so everyone should play it!
 
 GAME HyperRogue
@@ -160,7 +160,7 @@ A deckbuilder inspired by {Scrabble} and {Dominion}.
 
 GAME Chicken XXV
 BY zenorogue
-VAL pc year=2025 played=2025 xp=4 medieval nonspatial timeless ascii mono roguelite rulediscovery seq randomized procgen nonlogic
+VAL pc year=2025 played=2025 xp=4 medieval nonspatial timeless ascii mono roguelite rulediscovery seq randomized procgen exp
 Some people say that roguelikes are defined by permadeath and lack of metaprogression, not taking Rogue's combat system into account, and also the fact that 
 early roguelikes essentially did not have permadeath, and learning non-systemic knowledge (that also made the game significantly easier in later runs) was a
 big thing in many early roguelikes. Chicken XXV is a parody of this: a text adventure based on knowledge metaprogression. There is a longer rant in-game.

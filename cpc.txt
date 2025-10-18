@@ -155,7 +155,7 @@ It was good (and simple?) enough for me to win it.
 
 GAME One Man and His Droid
 BY Mastertronic
-VAL year=1986 played=1989 cpc xp=3 gem=2 sideview realtime nonlogic scifi hscroll vscroll lores fixed passsave destructible
+VAL year=1986 played=1989 cpc xp=3 gem=2 sideview realtime matching scifi hscroll vscroll lores fixed passsave destructible
 One of my favorite games on CPC, Mastertronic did lots of great stuff. You controlled a robot with four powers, and
 had to lead creatures to their goal in the correct order. There were 20 levels, and on higher levels you could find passwords which you
 could enter to start from them.
@@ -165,7 +165,7 @@ VAL year=1984 played=1988 cpc xp=2 sideview realtime platformer lores notheme fi
 A game similar to {Manic Miner}, but not as good.
 
 GAME Time Man One
-VAL year=1984 played=1986 cpc xp=3 abstract lores sideview minigames turnbased randomized difflevels=? nonlogic sciencegame
+VAL year=1984 played=1986 cpc xp=3 abstract lores sideview minigames turnbased randomized difflevels=? sciencegame
 An educational game for children, you could learn to read a clock, nothing special.
 
 GAME Jet Set Willy
@@ -214,7 +214,7 @@ There were two opponents (knight-like and sumo-like), with two players one playe
 I have won it.
 
 GAME Rock Hopper
-VAL year=1985 played=1986 cpc xp=3 logic turnbased sideview grid destructible abstract lores orthogrid fixed seq
+VAL year=1985 played=1986 cpc xp=3 logic turnbased sideview grid destructible abstract lores orthogrid fixed seq boulderdash
 A puzzle game, a bit like {Boulder Dash} but turn-based.
 
 GAME Chuckie Egg II
@@ -288,7 +288,7 @@ Quite unique, one of my favorite games on CPC.
 
 GAME Boulder Dash
 BY Peter Liepa
-VAL year=1985 played=1987 cpc xp=3 gem=2 grid orthogrid realtime sideview hscroll vscroll destructible lores notheme fixed nonlogic collectathon traps
+VAL year=1985 played=1987 cpc xp=3 gem=2 grid orthogrid realtime sideview hscroll vscroll destructible lores notheme fixed collectathon traps boulderdash
 A rather well-remembered 8-bit game, a bit like a grid puzzle, but it was an action game where precise timing matters.
 Basically a genre that was perfected by the two games it had (Boulder Dash and {Supaplex}), so no more popular games were created in
 that genre. Quite fun to learn that Peter Liepa later got interested in hyperbolic tessellations.
@@ -296,7 +296,7 @@ If you have not tried it, definetely recommended, although I have played more {B
 
 GAME Boulder Dash III
 BY Peter Liepa
-VAL year=1986 played=1988 cpc xp=3 realtime grid nonlogic sideview scifi hscroll vscroll destructible lores fixed orthogrid seq collectathon traps
+VAL year=1986 played=1988 cpc xp=3 realtime grid sideview scifi hscroll vscroll destructible lores fixed orthogrid seq collectathon traps boulderdash
 Just like Boulder Dash but with a more sci-fi theme (only graphics were changed, I think there were no new items). I preferred it to the original {Boulder Dash}.
 
 GAME Karl's Treasure Hunt
@@ -397,7 +397,7 @@ PNG cpc-rebelstar Rebelstar screenshot
 GAME Arkanoid
 BY Taito
 BY country: Japan
-VAL year=1987 played=1988 cpc realtime physics xp=3 gem=1 scifi lores seq sideview fixed
+VAL year=1987 played=1988 cpc realtime physics xp=3 gem=1 scifi lores seq sideview fixed shooter
 A rather famous game, I think I wanted to play it more than I played it (I think the casette did not work well).
 You had to bounce a ball at a wall, you had to destroy the whole wall like that, sometimes you got special power-ups
 like glue or triple ball (as far as I know, this was a cool improvement over the original {Breakout}), 
@@ -419,7 +419,7 @@ Yet another isometric adventure.
 
 GAME Deflektor
 BY Vortex Software
-VAL year=1987 played=1992 cpc gem=2 realtime physics nonlogic grid xp=3 abstract lores diagrid topdown fixed seq blackboard
+VAL year=1987 played=1992 cpc gem=2 realtime physics shooter grid xp=3 abstract lores diagrid topdown fixed seq blackboard
 An action puzzle where you could control mirrors and you had to hit targets with a laser beam. Very fun.
 
 GAME Krakout
@@ -448,7 +448,7 @@ A game where you guided a flying robot through a maze. Not remember much.
 
 GAME Boulder Dash Construction Kit
 BY Peter Liepa
-VAL year=1986 played=1990 cpc realtime grid nonlogic sideview xp=3 gem=2 hscroll vscroll destructible lores leveleditor orthogrid notheme fixed traps
+VAL year=1986 played=1990 cpc realtime grid sideview xp=3 gem=2 hscroll vscroll destructible lores leveleditor orthogrid notheme fixed traps boulderdash
 A game where you could create your own {Boulder Dash} levels! How cool is that?!
 
 GAME Head over Heels
@@ -478,7 +478,7 @@ I do not remember much about this one, there was some huge lake and I did not kn
 
 GAME Mange Cailloux
 BY Loriciel
-VAL year=1987 played=1988 cpc realtime grid nonlogic xp=2 lores diagrid=? notheme topdown randomized=? seq
+VAL year=1987 played=1988 cpc realtime grid xp=2 lores diagrid=? notheme topdown randomized=? seq boulderdash
 I think it was a clone of an arcade game called Pango. Levels are filled with blocks that you could push to attack monsters.
 
 GAME Zub
@@ -510,7 +510,7 @@ I remember watching my brother play it; I have also tried a PC remake, but it wa
 
 GAME Splat!
 BY Amsoft
-VAL year=1985 played=1993 cpc realtime nonlogic xp=4 gem=1 topdown grid weirdtheme hscroll vscroll autoscroll lores orthogrid fixed traps
+VAL year=1985 played=1993 cpc realtime xp=4 gem=1 topdown grid weirdtheme hscroll vscroll autoscroll lores orthogrid fixed traps dodger
 A game where you controlled some spider-like creature. A rather large map, the view scrolls in two dimensions, so you could only see a small window.
 However, that scrolling was automatic, and you had to keep your spider-like creature inside the view, avoiding the maze-like obstacles.
 As far as I recall, the first seven levels progressed through the map in steps, while the eighth level was about going back to the start in a straight line.
@@ -591,7 +591,7 @@ VAL year=1986 played=1987 cpc realtime slasher xp=1 eastern lores sideview fixed
 A fighting game, I do not remember much about it.
 
 GAME Split Personalities
-VAL year=1986 played=1988 cpc xp=1 realtime nonlogic grid abstract lores orthogrid topdown randomized=? seq
+VAL year=1986 played=1988 cpc xp=1 realtime matching=? grid abstract lores orthogrid topdown randomized=? seq photorealistic
 I do not remember much about this game.
 
 GAME Don't Panic
@@ -667,7 +667,7 @@ VAL cpc year=1985 xp=1 played=1990 cpc topdown weirdtheme moderntheme lores exp=
 Some weird game about scouts. I did not know what "scout" means (it was about boy scouts, not reconaissance soldiers).
 
 GAME Arnhem
-VAL cpc year=1985 xp=0 cpc pc topdown turnbased military lores fixed hscroll vscroll army multiplayer=? nonlogic
+VAL cpc year=1985 xp=0 cpc pc topdown turnbased military lores fixed hscroll vscroll army multiplayer=?
 An early strategy game for CPC. I mostly looked at my brother or father playing it, and liked how the units were represented by small or large squares.
 
 GAME Spy vs Spy
@@ -675,13 +675,13 @@ VAL cpc year=1984 xp=1 played=1986 cpc notheme lores sideview realtime exp itemu
 A split-screen multiplayer video game. I am not sure whether I played it or just watched, it was not much anyway.
 
 GAME Zolyx
-VAL cpc year=1987 gem=1 xp=2 played=1988 cpc topdown realtime abstract pixelsim randomized seq endless shapegfx nonlogic
+VAL cpc year=1987 gem=1 xp=2 played=1988 cpc topdown realtime abstract pixelsim randomized seq endless shapegfx dodger
 A game with a large open area with some enemies, you had to go through that area without an enemy hitting you or your path, after crossing the line would become "solid"
 and any area without enemies would become a part of your score. Later such games got referred to as Xonix, so I thought Xonix was an original, but apparently the
 original was {Qix} and Zolyx and {Xonix} were clones of it.
 
 GAME Diamond Digger
-VAL pc year=1986 played=1987 sideview cpc xp=1 realtime logic destructible lores notheme spacebending fixed seq collectathon
+VAL pc year=1986 played=1987 sideview cpc xp=1 realtime destructible lores notheme spacebending fixed seq collectathon boulderdash
 A bit similar to {Boulder Dash} or {Rock Hopper}, in that you had to collect treasures and avoid falling rocks. In this game, the rocks would fall quite easily, so you would die
 if you were on the way of a rock falling downwards or rolling left or right (contrary to Boulder Dash where you could temporarily block such a rock with your character).
 However, one thing made it different: you had an ability to scroll a whole row left or right, and you had to use that to collect e.g. diamonds just below rocks. That made it a bit of
@@ -714,7 +714,7 @@ I do not remember much more than the nice graphics, and that you had to pump oxy
 # https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/p/index.html
 
 GAME Battle Ships
-VAL cpc year=1987 played=1988 military lores multiperspective topdown fpp grid orthogrid tiny randomized turnbased nonlogic xp=3 multiplayer=?
+VAL cpc year=1987 played=1988 military lores multiperspective topdown fpp grid orthogrid tiny randomized turnbased xp=3 multiplayer=? shooter shapepuzzle
 Basically a computer adaptation of a popular pencil-and-paper game about placing your ships on a grid and then guessing where your enemy put their ships.
 With some cool graphics, you would see actual cannonballs flying at the enemy ships (but somehow you would actually see these skips in these graphics, so
 couldn't you just aim at them instead of guessing?...)
@@ -768,12 +768,12 @@ VAL cpc weirdtheme lores year=1986 played=1990 xp=1 sideview exp fixed=? flick=?
 I do not remember much.
 
 GAME Trivial Pursuit
-VAL cpc year=1985 played=2025 turnbased lores xp=2 gambletheme sideview seq randomized multiplayer nonlogic
+VAL cpc year=1985 played=2025 turnbased lores xp=2 gambletheme sideview seq randomized multiplayer sciencegame
 A trivia game, with a nice animated walking character, some questions playing music.
 
 GAME The Vera Cruz Affair
 BY country: France
-VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed nonlogic seq
+VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed seq riddles
 Noticed this when checking out CPC games while making this review site. A murder mystery game made by an actual policeman, sounded interesting.
 But I have forgotten to read the instructions so I could not progress far. Seems it has some nasty pixel hunting at the beginning too.
 

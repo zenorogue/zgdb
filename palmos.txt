@@ -45,7 +45,7 @@ A videogame adaptation of a card game. Each player is dealt 13 cards, and you ge
 (As opposed to the usual Poker, 2 is the biggest, not the Ace -- the Ace is second biggest.)
 
 GAME Tablut
-VAL palmos year=1998 played=1999 xp=3 abstract shapegfx topdown turnbased nonlogic fixed tiny free mono
+VAL palmos year=1998 played=1999 xp=3 abstract shapegfx topdown turnbased army fixed tiny free mono
 A computer adaptation of an ancient Viking boardgame. This game is interesting because it was asymmetric (Black have to capture the White King, while the White King has to escape).
 It seems various versions of Tablut have slightly different rules; this one was quite easy to win as White, but you had to find a good strategy to win as Black.
 
@@ -59,12 +59,12 @@ VAL palmos riddles year=1984 played=2001 xp=3 scifi ascii connections nonspatial
 A famous interactive fiction game, based on a book that was popular in my circles (and not only there). I think it is a good suggestion for fans of the HGTTG book and interactive fiction games.
 
 GAME Magic Toyshop
-VAL palmos riddles year=1995 played=2001 xp=3 abstract ascii tiny minigames nonlogic riddles nonspatial turnbased fixed free mono rulediscovery
+VAL palmos riddles year=1995 played=2001 xp=3 abstract ascii tiny minigames logic riddles nonspatial turnbased fixed free mono rulediscovery
 An interactive fiction game that I found randomly (it was available on the PalmOS port of the z-engine). Based mostly on some puzzles of math kind. I liked it, although the reviews on an IF site
 complain about having unsolvable puzzles (if you do not know other IF games that were referenced in some puzzles).
 
 GAME Awele
-VAL palmos year=? played=2001 abstract xp=2 topdown nonlogic turnbased fixed tiny ascii free mono
+VAL palmos year=? played=2001 abstract xp=2 topdown army turnbased fixed tiny ascii free mono
 A PalmOS version of an ancient African board game. The game is rather abstract, I did not really care to understand the strategy.
 
 GAME FreeCell
@@ -72,7 +72,7 @@ VAL palmos year=? played=2001 abstract xp=1 cardgame topdown turnbased tiny rand
 A PalmOS version of a popular solitaire. Nothing special.
 
 GAME Arbitrage
-VAL palmos year=? played=2001 abstract xp=1 turnbased nonlogic=? topdown=? randomized=? tiny=? ascii=? free mono
+VAL palmos year=? played=2001 abstract xp=1 turnbased topdown=? randomized=? tiny=? ascii=? free mono economy
 A PalmOS version of a boardgame. I think it was quite cool.
 
 GAME ThreePeaks
@@ -84,5 +84,5 @@ VAL palmos played=2001 abstract year=? xp=1 cardgame topdown turnbased tiny rand
 A PalmOS version of a popular card game.
 
 GAME Ackwire
-VAL palmos year=? played=2001 abstract xp=1 turnbased nonlogic grid orthogrid topdown randomized tiny ascii=? free mono
+VAL palmos year=? played=2001 abstract xp=1 turnbased grid orthogrid topdown randomized tiny ascii=? free mono economy
 A PalmOS version of the game Acquire about developing hotel chains. I do not remember much.
