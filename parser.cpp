@@ -285,6 +285,8 @@ ld exp_parser::parse(int prio) {
       res = 0;
       for(auto v: tags_in_group[number]) res += g->values.count(v);
       }
+    else if(number == "images") res = g->pngs.size();
+    else if(number == "spoilers") res = g->spoilers.size();
     else if(number == "e") res = exp(1);
     else if(number == "inf") res = HUGE_VAL;
     else if(number == "p" || number == "pi") res = M_PI;

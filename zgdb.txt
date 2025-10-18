@@ -36,6 +36,8 @@ The search system is able to parse formulae. Here are some examples of things yo
 <li> <tt>title:Rogue</tt> in "filter" for games with <tt>Rogue</tt> in title
 <li> <tt>text:permadeath</tt> in "filter" for games with <tt>permadeath</tt> in text
 <li> <tt>roguelike and not turnbased</tt> in "filter" to list games tagged with <tt>roguelike</tt> but not with <tt>turnbased</tt>
+<li> <tt>images</tt> is the number of images, <tt>spoilers</tt> is the number of spoilers
+<li> <tt>platformer*2+return*5+nonlinear*4+sideview*2+gothic*0.5</tt> in "sorting", {metroidvania} elements with example weights
 <li> <tt>played-year</tt> in "sorting", to sort games by the approximate amount of time between release and when I tried them (if entered in "filter", it will list games for which this difference is positive)
 <li> <tt>linked(1)</tt> in "sorting" to sort games by the number of times they are linked to
 <li> <tt>links(turnbased)</tt> in "sorting" to sort games by the number of links to turn-based games
