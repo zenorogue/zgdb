@@ -536,7 +536,7 @@ VAL pc roguelike abstract year=2011 played=2011 7drl turnbased grid topdown rpge
 A roguelike taking some inspiration from Chess, not very interesting.
 
 GAME The Tombs
-VAL web roguelike medieval year=2005 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen diagrid=? exp combat vectorart seq=? xp=3 free
+VAL web roguelike medieval year=2005 played=2005 turnbased grid rpgequip rpgconsume rpgstats topdown hscroll vscroll procgen diagrid=? exp combat vectorart seq=? xp=3 free randomized
 A roguelike in Flash. Apparently Flash is not a good platform for roguelikes since it was very slow. It had some cool stuff but I do not remember much.
 
 GAME Xenocide

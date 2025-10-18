@@ -542,7 +542,7 @@ This game has a "colony sim" mode (a city builder) and an "adventure" mode (whic
 
 GAME Fidel Dungeon Rescue
 BY country: Argentina
-VAL pc roguelike year=2017 xp=3 megaitch topdown combat turnbased grid orthogrid lores seq randomized logic animaltheme=2 played=2019
+VAL pc roguelike year=2017 xp=3 megaitch topdown combat turnbased grid orthogrid lores seq randomized logic animaltheme=2 played=2019 procgen
 This game is listed as "roguelite" in its Steam description, although it is a roguelike according to my definition -- although definitely a very non-standard one,
 and clearly one that would not fit some cultural expectations.
 As you move, you leave your "dog leash" behind you, and you are allowed to "go backwards" to undo your moves, which makes it closer to puzzle standards, but

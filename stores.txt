@@ -187,7 +187,7 @@ VAL pc roguelite year=2023 played=2024 cardgame deckbuilder enginebuilder turnba
 Yet another spire-like engine-deckbuilder, called roguelike but does not even have randomized maps. I got it from a bundle, but it did not seem interesting.
 
 GAME Desktop Dungeons
-VAL pc medieval xp=3 roguelite year=2010 played=2010 procgen ddlike turnbased grid orthogrid xp=3 medieval topdown exp combat picklevel lores free=?
+VAL pc medieval xp=3 roguelite year=2010 played=2010 procgen ddlike turnbased grid orthogrid xp=3 medieval topdown exp combat picklevel lores free=? randomized
 This game is a link between literal roguelikes and deckbuilder roguelikes such as {Dream Quest}. While it still has a turn-based map, the turn-based tactics of roguelikes
 is no longer here -- the monsters does not move, so the game resolves to defeating the enemies in the correct order. Quite fun.
 

@@ -435,7 +435,7 @@ A game similar to {Settlers III}, I have played a demo of this, I did not feel a
 the units had to take breaks to eat from time to time, and it was good to have more varied food, as then, they ate less often.
 
 GAME Craft
-VAL pc year=1997 played=1998 medieval army realtime lores hscroll vscroll procgen xp=2 topdown multiplayer exp combat gem=1
+VAL pc year=1997 played=1998 medieval army realtime lores hscroll vscroll procgen xp=2 topdown multiplayer exp combat gem=1 randomized
 This game seems to be hard to find nowadays... blame the extremely unspecific name, I guess? It was an open source RTS game that could be found
 in Debian Linux software repositories in the 90s. It was a very simple RTS with a few units of usual kinds: peasants, swordmen, archers, and catapults.
 However it had some interesting features that were not in other RTS games of this time. You could put your units on ships, and then they would
