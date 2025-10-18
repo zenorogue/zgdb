@@ -2,7 +2,7 @@ all: zgdb.js
 
 zgdb.js: zgdb.cpp visutils.h zgdb.txt cpc.txt presteam.txt other.txt tagdef.txt roguelike.txt mygames.txt stores.txt philosophy.txt parser.cpp readdata.cpp
 	em++ -O2 -std=c++17 zgdb.cpp -o zgdb.js \
-          -s EXPORTED_FUNCTIONS="['_start', '_main_page', '_malloc', '_explain_tag', '_explain_group', '_explain_game', '_explain_by', '_find_games', '_on_find_change']" \
+          -s EXPORTED_FUNCTIONS="['_start', '_main_page', '_malloc', '_explain_tag', '_explain_group', '_explain_game', '_explain_by', '_find_games', '_on_find_change', '_on_make_link']" \
           -s EXPORTED_RUNTIME_METHODS='["FS","ccall","stringToNewUTF8"]' \
           --preload-file zgdb.txt \
           --preload-file cpc.txt \

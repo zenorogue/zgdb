@@ -194,6 +194,7 @@
       function explain_by(s) { Module.ccall('explain_by', 'null', ['string'], [s]) }
       function find_games() { Module.ccall('find_games', 'null', [], []) }
       function on_find_change(fltr, srt, col) { Module.ccall('on_find_change', 'null', ['string', 'string', 'string'], [fltr, srt, col]) }
+      function make_link(fltr, srt, col) { Module.ccall('on_make_link', 'null', ['string', 'string', 'string'], [fltr, srt, col]) }
       function help() { Module.ccall('help', 'null', [], []) }
       function main_page() { Module.ccall('main_page', 'null', [], []) }
       Module.postRun = [doit]

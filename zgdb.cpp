@@ -29,7 +29,7 @@ string showing_what;
 
 int changes;
 
-void do_main_page();
+void do_main_page(const string& fi, const string& so, const string& co);
 
 vector<string> parselog;
 
@@ -304,7 +304,7 @@ void do_explain_game(const string &s) {
   push_state_if_changed('g', s);
   }
 
-void do_main_page() {
+void do_main_page(const string& fi, const string& so, const string& co) {
   stringstream ss;
 
   ss << "<div style=\"float:left;width:100%\">\n";
@@ -314,11 +314,11 @@ void do_main_page() {
   out_desc(ss, about);
   ss << "<br/><br/>";
 
-  ss << "Filter:<br/><input id=\"filter\" size=100 type=text onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"><br/><br/>";
+  ss << "Filter:<br/><input value=\"" + fi + "\" id=\"filter\" size=100 type=text onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"><br/><br/>";
 
-  ss << "Sorting:<br/><input id=\"sorting\" size=100 type=text  onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"/><br/><br/>";
+  ss << "Sorting:<br/><input value=\"" + so + "\" id=\"sorting\" size=100 type=text  onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"/><br/><br/>";
 
-  ss << "Coloring:<br/><input id=\"coloring\" size=100 type=text  onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"/><br/><br/>";
+  ss << "Coloring:<br/><input value=\"" + co + "\" id=\"coloring\" size=100 type=text  onInput=\"on_find_change(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\"/><br/><br/>";
 
   add_button(ss, "find_games()", "list games!");
   ss << "<br/><br/>\n";
@@ -332,10 +332,6 @@ void do_main_page() {
   for(auto z: parselog) ss << z << "<br/>";
   add_buttons(ss);
   set_value("output", ss.str());
-  if(which != 'z') {
-    which = 'z';
-    push_state_empty(mainpart.c_str());
-    }
   }
 
 vector<game*> found;
@@ -371,6 +367,64 @@ void game_search(const string& filter, const string& sorting, const string& colo
   sort(found.begin(), found.end(), [] (game *a, game *b) { return tie(a->current_sort_value, a->current_color_value, a->current_random_value) > tie(b->current_sort_value, b->current_color_value, b->current_random_value); });
   }
 
+void display_search_results(const string& filter, const string& sorting, const string& color) {
+  game_search(filter, sorting, color);
+  stringstream ss;
+  ss << "<br/>" << find_log.str();
+  ss << "<br/>Number of games: " << found.size();
+  if(found.size()) {
+    ss << "<ul>";
+    map<ld, vector<game*>> games_graph;
+    for(auto g: found) games_graph[g->current_sort_value].emplace_back(g);
+    int maxcat = 0;
+    for(auto& [val, lst]: games_graph) {
+      ss << "<li><b>" << val << ":</b>";
+      int id = 0;
+      maxcat = max<int>(maxcat, lst.size());
+      for(auto g: lst) {
+        char col[20];
+        sprintf(col, "%06X", g->current_color_value);
+        if(id++) ss << ",";
+        ss << " <a onClick=\"explain_game('" << g->title << "')\"><font color=\"" << col << "\">" << g->title << "</font></a>";
+        }
+      ss << "</li>";
+      }
+    ss << "</ul>";
+
+    ss << "<center><table cellpadding=0 cellspacing=0>\n";
+    for(auto& [val, lst]: games_graph) {
+      ss << "<tr><td style=\"celling-top:0px;\">" << val << "&nbsp;</td>";
+      int sofar = 0;
+      double width = 1000, height = 16;
+      ss << "<td style=\"celling-top:0px;\"><svg style=\"border: 0px;\" width=\"" << width << "\" height=\"" << height << "\">";
+
+      map<unsigned, int> qty;
+      for(auto& g: lst) {
+        qty[-g->current_color_value]++;
+        }
+
+      for(auto p: qty) {
+        double left = sofar * width / maxcat;
+        sofar += p.second;
+        double right = sofar * width / maxcat;
+        ss << "<path d=\"M " << left << " 0 L " << left << " " << height << " L " << right << " " << height << " L " << right << " 0 Z\" ";
+        char col[20];
+        sprintf(col, "%06X", -p.first);
+        ss << "style=\"stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#" << col << ";fill-opacity:1\"/>";
+        }
+      ss << "</svg></td></tr>\n";
+      }
+
+    ss << "</table></center>";
+    ss << "<br/>";
+    }
+  ss << "<br/>";
+
+  ss << "<a onclick=\"make_link(document.getElementById('filter').value, document.getElementById('sorting').value, document.getElementById('coloring').value)\">create a link to this search</a>";
+
+  set_value("gamelist", ss.str());
+  }
+
 int init(bool _is_mobile) {
   is_mobile = _is_mobile;
   srand(time(NULL));
@@ -403,12 +457,21 @@ int init(bool _is_mobile) {
     free((void*) p);
     }
 
-  if(which == 'z') do_main_page();
+  if(which == 'z') do_main_page("", "", "");
   else if(which == 'g') do_explain_game(param);
   else if(which == 'b') do_explain_by(param);
   else if(which == 't') do_explain_tag(param);
   else if(which == 'x') do_explain_group(param);
-  else do_main_page();
+  else if(which == 'k') {
+    auto parser = param;
+    string fi, so, co;
+    if(parser.find("$") != string::npos) { fi = parser.substr(0, parser.find("$")); parser = parser.substr(parser.find("$") + 1); }
+    if(parser.find("$") != string::npos) { so = parser.substr(0, parser.find("$")); parser = parser.substr(parser.find("$") + 1); }
+    co = parser;
+    do_main_page(fi, so, co);
+    display_search_results(fi, so, co);
+    }
+  else do_main_page("", "", "");
 
   return 0;
   }
@@ -443,59 +506,12 @@ extern "C" {
   void explain_by(const char *s) { do_explain_by(s); }
 
   void on_find_change(const char *filter, const char *sorting, const char *color) {
-    game_search(filter, sorting, color);
-    stringstream ss;
-    ss << "<br/>" << find_log.str();
-    ss << "<br/>Number of games: " << found.size();
-    if(found.size()) {
-      ss << "<ul>";
-      map<ld, vector<game*>> games_graph;
-      for(auto g: found) games_graph[g->current_sort_value].emplace_back(g);
-      int maxcat = 0;
-      for(auto& [val, lst]: games_graph) {
-        ss << "<li><b>" << val << ":</b>";
-        int id = 0;
-        maxcat = max<int>(maxcat, lst.size());
-        for(auto g: lst) {
-          char col[20];
-          sprintf(col, "%06X", g->current_color_value);
-          if(id++) ss << ",";
-          ss << " <a onClick=\"explain_game('" << g->title << "')\"><font color=\"" << col << "\">" << g->title << "</font></a>";
-          }
-        ss << "</li>";
-        }
-      ss << "</ul>";
+    display_search_results(filter, sorting, color);
+    }
 
-      ss << "<center><table cellpadding=0 cellspacing=0>\n";
-      for(auto& [val, lst]: games_graph) {
-        ss << "<tr><td style=\"celling-top:0px;\">" << val << "&nbsp;</td>";
-        int sofar = 0;
-        double width = 1000, height = 16;
-        ss << "<td style=\"celling-top:0px;\"><svg style=\"border: 0px;\" width=\"" << width << "\" height=\"" << height << "\">";
-
-        map<unsigned, int> qty;
-        for(auto& g: lst) {
-          qty[-g->current_color_value]++;
-          }
-
-        for(auto p: qty) {
-          double left = sofar * width / maxcat;
-          sofar += p.second;
-          double right = sofar * width / maxcat;
-          ss << "<path d=\"M " << left << " 0 L " << left << " " << height << " L " << right << " " << height << " L " << right << " 0 Z\" ";
-          char col[20];
-          sprintf(col, "%06X", -p.first);
-          ss << "style=\"stroke:#000000;stroke-opacity:1;stroke-width:1px;fill:#" << col << ";fill-opacity:1\"/>";
-          }
-        ss << "</svg></td></tr>\n";
-        }
-
-      ss << "</table></center>";
-      ss << "<br/>";
-      }
-    ss << "<br/>";
-
-    set_value("gamelist", ss.str());
+  void on_make_link(const char *filter, const char *sorting, const char *color) {
+    string s; s += filter; s += "$"; s += sorting; s += "$"; s += color;
+    push_state_if_changed('k', s);
     }
 
   void find_games() {
@@ -509,5 +525,11 @@ extern "C" {
     set_value("output", ss.str());
     }
 
-  void main_page() { do_main_page(); }
+  void main_page() {
+    do_main_page("", "", "");
+    if(which != 'z') {
+      which = 'z';
+      push_state_empty(mainpart.c_str());
+      }
+    }
   }
