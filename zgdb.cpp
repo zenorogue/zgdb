@@ -1,9 +1,3 @@
-// to do:
-// - fix todos
-// - info about more by's?
-// - info about more philosophies
-// - provide permanent links for searches
-
 #include <iostream>
 #include <string>
 #include <vector>
