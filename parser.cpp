@@ -159,7 +159,12 @@ string exp_parser::next_token() {
   }
 
 bool textsearch(const string& haystack, const string& needle) {
-  return haystack.find(needle) != string::npos;
+  string actual_haystack = "";
+  for(auto c: haystack)
+    if(c >= 'a' && c <= 'z') actual_haystack += c;
+    else if(c >= 'A' && c <= 'Z') actual_haystack += (c + 'a' - 'A');
+
+  return actual_haystack.find(needle) != string::npos;
   }
 
 bool game_by(game *g, string s) {
