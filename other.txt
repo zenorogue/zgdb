@@ -578,11 +578,11 @@ VAL pc topdown shapegfx spacebending logic timeless seq fixed year=2023 played=2
 A game like Sokoban but without a bit of spacebending -- you can zoom inside the boxes! The demo was very nice, although I am not that into puzzle games to play the full version.
 
 GAME World of Goo
-VAL pc isometric hires realtime seq fixed sciencegame year=2008 played=2010 xp=3 engineering weirdtheme
+VAL pc isometric hires realtime seq fixed year=2008 played=2010 xp=3 engineering weirdtheme
 One of early {indie} gems that is somehow not discussed much anymore. A very fun game, like {Bridge Builder} but more lighthearted.
 
 GAME Bridge Builder
-VAL pc isometric shapegfx realtime seq fixed sciencegame year=2000 played=2006 xp=3 engineering free moderntheme
+VAL pc isometric shapegfx realtime seq fixed year=2000 played=2006 xp=3 engineering free moderntheme
 A simple free game that was an inspiration for {World of Goo}. As the name suggests, you build bridges out of available components.
 The bridge should not break under the weight of cars trying to cross. There were some paid sequels but I have not played them.
 
