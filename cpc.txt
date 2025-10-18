@@ -222,6 +222,7 @@ VAL year=1985 played=1988 cpc xp=4 realtime sideview platformer nonlinear lores 
 A proto-metroidvania with a huge map (120 levels) with platforming exploration, you had to collect items,
 to create a chocolate egg, then carry that egg outside. There were also useful items such as ladder,
 baskets or locks. I have played this quite a lot.
+PNG cpc-chuckieegg2 Chuckie Egg II screenshot
 
 GAME View to a Kill
 VAL year=1985 played=1989 cpc xp=2 realtime sideview platformer nonlinear moderntheme lores flick fixed itemuse exp
@@ -248,6 +249,7 @@ VAL year=1986 played=1988 cpc xp=3 realtime sideview platformer gem=2 nonlinear 
 That game was essentially a metroidvania. One unique thing was that you were a jumping pumpkin
 that could shoot and also collect items (like axes or shields) which let you explore more of the castle,
 so the movement was quite unique. It was fun to draw the map of the world to see a nice Halloween-style castle.
+PNG cpc-cauldron2 Cauldron II screenshot
 
 GAME Green Beret
 BY Konami
@@ -361,6 +363,7 @@ After winning you could enter the code to play again, but this time it was harde
 I have played it until I have finished the late levels (although there was some cheat, I do not remember whether I have used it).
 Great SID music by Rob Hubbard that years later I have found and put on my music player. (I have seen some claims that the music was written but not actually used in the game,
 which was clearly false, so maybe non-CPC versions did not include it?)
+PNG cpc-saboteur2 Saboteur II screenshot
 
 GAME Chimera
 BY Firebird
@@ -370,7 +373,9 @@ An isometric adventure, nothing special.
 GAME Impossible Mission
 BY Epyx
 VAL year=1986 played=1990 cpc realtime sideview platformer nonlinear randomized xp=3 gem=1 moderntheme lores flick exp
-An example of an early non-roguelike game inspired by Rogue -- it randomized the layout of its rooms. Apparently very popular back then, but mostly forgotten.
+An example of an early non-roguelike game inspired by {Rogue} -- it randomized the layout of its rooms. Apparently very popular back then, but mostly forgotten.
+PNG cpc-impossible Impossible Mission screenshot (1)
+PNG cpc-impossible-2 Impossible Mission screenshot (2)
 
 GAME Hero of the Golden Talisman
 BY Mastertronic
@@ -387,6 +392,7 @@ One of my favorite games on CPC. This later evolved into {XCOM} / UFO, made by t
 While Rebelstar was quite primitive compared to XCOM, being a single mission with basic AI, it had lots of its charm, like
 the 'shooting mode' where the enemies were replaced with circles and you had to hit these circles with a straight line.
 Quite complex simulation, with stamina, items, and so on. See {Archrebel Tactics} for a modern take, it seems very good.
+PNG cpc-rebelstar Rebelstar screenshot
 
 GAME Arkanoid
 BY Taito
@@ -451,6 +457,7 @@ VAL year=1987 played=1992 cpc realtime isometric platformer nonlinear xp=3 gem=2
 An isometric adventure. This one was especially notable because you controlled two characters
 with distinct powers; that was quite unique. You could also put Head over Heels to make them go
 together as a single entity.
+PNG cpc-hoh Head over Heels screenshot
 
 GAME Alien Highway
 BY Vortex Software
@@ -485,6 +492,7 @@ VAL year=1987 played=1992 cpc realtime topdown shooter xp=4 gem=3 medieval nonli
 A very cool and original game that I still play from time to time. You are a frog (or rather a wizard turned into a frog). You could cast spells, to do that you had to collect runes
 by battling wizards in a mental battle (in which you had to order the 'ranarama' letters to win), and then you need to use a collection of runes to cast a spell which gave
 you better offense/defense/special ability/power. I still play that from time to time. There is a remake from 2008 but I prefer the original.
+PNG cpc-ranarama Ranarama screenshot
 
 GAME R-Type
 VAL year=1988 played=1989 cpc realtime shooter xp=2 scifi hscroll autoscroll lores sideview fixed multiweapon=?
