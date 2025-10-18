@@ -125,6 +125,16 @@ void display(ostream& of, game *g) {
     }
   of << "<br/>";
 
+  of << "<br/>";
+  for(auto &ff: g->spoilers) {
+    of << "<b><font color=\"505050\">Spoiler: (select to view)</font></b><br/>";
+    of << "<span style=\"color: darkgray; background: darkgray;\">";
+    out_desc(of, ff);
+    of << "</span>";
+    of << "<br/><br/>";
+    }
+  of << "<br/>";
+
   for(auto &lby: g->linked_by) {
     of << "<b><font color=\"C0FFC0\">linked by <a onClick=\"explain_game('" << lby << "')\">" << lby << "</a></font></b><br/>";
     }

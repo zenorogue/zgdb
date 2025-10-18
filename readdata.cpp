@@ -16,6 +16,7 @@ struct game {
   set<string> links_to;
   set<string> linked_by;
   vector<string> other_titles;
+  vector<string> spoilers;
   };
 
 string about;
@@ -181,6 +182,11 @@ void parse(const string& fname) {
     else if(cap == "TAGCMT") {
       if(which_group[param] == "") plog(where() + " unknown tag/value for tagcomment: " + param);
       addto = &(g->tagcomments[param]);
+      }
+
+    else if(cap == "SPOILER") {
+      g->spoilers.emplace_back();
+      addto = &(g->spoilers.back());
       }
 
     else if(cap == "PNG") {
