@@ -592,10 +592,15 @@ Quite a nice exploration of Escheresque portal spaces. After going through a few
 
 GAME Superhot
 BY country: Poland
-VAL pc year=2016 xp=1 played=2018 shooter dodger fpp pauseable moderntheme camscroll seq=? fixed=? uniquegfx epicfree
-I should probably comment on this game because the definition of {tag:roguelike} tag might remind people of Superhot.
-Unfortunately, we have tried playing Superhot but it did not work on our Linux computer. I managed to run it later, but I mostly only tested it to check that it works,
-so I cannot comment much on it. Anyway, I often see comparisons of roguelikes to Superhot, although to me, Superhot seems more "pauseable" than Rogue-style time control.
+VAL pc year=2016 xp=3 played=2025 shooter dodger fpp realtime moderntheme camscroll seq=? fixed uniquegfx epicfree
+I technically played it first in 2018 or so, but then, we wanted to play together, but failed to run it on Linux -- I think I found a way to play it, but it took us
+until 2025 to actually play it.
+A first-person shooter somewhat similar to roguelikes in that you control the flow of time (however, not exactly -- contrary to what the game says, the time still flows,
+just very slowly, so that is a good excuse to not give it the {tag:turnbased}, {tag:pauseable}, or {tag:roguelike} tag). It is also similar to roguelikes in that its
+distinctive graphical style is designed for clarity. I do not like being shot from behind (this one is contrary to most roguelikes; {Time4Cat} which was an inspiration for
+Superhot was more similar). The construction is rather unique,
+with an in-game simulation of a very simple operating system with some bonus demo files, which is important for its rather interesting story.
+Strangely, it seems that the enemies' weapons are sometimes randomized, so it is not totally {tag:fixed}.
 
 GAME Socrates Jones: Pro Philosopher
 VAL pc moderntheme sciencegame year=2013 played=2016 nonspatial timeless seq fixed vectorart xp=4 free gem=1

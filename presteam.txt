@@ -1388,3 +1388,9 @@ to a typical {jRPG} where you have predefined characters, in TSE you are free to
 should pick a character for every role). Quite good, although I of course prefer more roguelike-ish combat.
 
 TAG onedim I think it deserves onedim because you explore levels from left to right, like in a sidescroller, and the order of placement of both parties in combat matters.
+
+GAME Time4Cat
+VAL web year=2009 xp=2 played=2025 dodger collectathon topdown tiny pauseable roguelike moderntheme animaltheme=2 randomized free midres
+A Flash (?) game in which you are a cat controlling the flow of time, and you collect food while evading pedestrians. It has some similarities to roguelikes
+(you control time, top-down perspective, maybe not Rogue-style procgen but randomized enemy patterns) but I do not know whether there was any inspiration. A nice cat theme.
+This game was an inspiration to {Superhot}.
