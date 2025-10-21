@@ -618,7 +618,7 @@ I do not remember mostly anything about this game.
 GAME SpelunkyRL
 BY Slashie
 BY country: Argentina
-VAL pc roguelike pyramids xp=1 year=2022 played=2022 turnbased grid topdown procgen return rpgclasses=? destructible=? traps idminigame=? diagrid exp combat ascii seq=? free randomized
+VAL web roguelike pyramids xp=1 year=2022 played=2022 turnbased grid topdown procgen return rpgclasses=? destructible=? traps idminigame=? diagrid exp combat ascii seq=? free randomized
 A 7DRL based on turning SpelunkyRL back into a roguelike, with ASCII display, turn-based grid, and all. An interesting idea to explore,
 although I was not interested enough to actually play more seriously.
 
@@ -723,7 +723,7 @@ I notice that the commercial version replaces the grid-based map with a graph --
 means that the remaining similarity to roguelikes is lost.
 
 GAME Inner Life
-VAL pc roguelike 7drl year=2019 played=2019 turnbased grid topdown nonlinear procgen diagrid=? exp combat lores connections animaltheme xp=2 free randomized
+VAL web roguelike 7drl year=2019 played=2019 turnbased grid topdown nonlinear procgen diagrid=? exp combat lores connections animaltheme xp=2 free randomized
 A very weird experimental 7DRL, it tends to come up in discussions, so it is good to remember how it was called. Every
 monster has a "dungeon" inside it, so you can come in, for example, to steal food to make it die from starvation.
 

@@ -155,12 +155,12 @@ and stopped at that.
 GAME Seuphorica
 BY zenorogue
 BY country: Poland
-VAL pc year=2024 played=2024 xp=3 notheme wordgame grid orthogrid spacebending randomized hscroll vscroll picklevel turnbased ascii shapegfx topdown free
+VAL pc web year=2024 played=2024 xp=3 notheme wordgame grid orthogrid spacebending randomized hscroll vscroll picklevel turnbased ascii shapegfx topdown free
 A deckbuilder inspired by {Scrabble} and {Dominion}.
 
 GAME Chicken XXV
 BY zenorogue
-VAL pc year=2025 played=2025 xp=4 medieval nonspatial timeless ascii mono roguelite rulediscovery seq randomized procgen exp
+VAL web year=2025 played=2025 xp=4 medieval nonspatial timeless ascii mono roguelite rulediscovery seq randomized procgen exp
 Some people say that roguelikes are defined by permadeath and lack of metaprogression, not taking Rogue's combat system into account, and also the fact that 
 early roguelikes essentially did not have permadeath, and learning non-systemic knowledge (that also made the game significantly easier in later runs) was a
 big thing in many early roguelikes. Chicken XXV is a parody of this: a text adventure based on knowledge metaprogression. There is a longer rant in-game.

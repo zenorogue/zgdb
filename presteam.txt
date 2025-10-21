@@ -1394,3 +1394,36 @@ VAL web year=2009 xp=2 played=2025 dodger collectathon topdown tiny pauseable ro
 A Flash (?) game in which you are a cat controlling the flow of time, and you collect food while evading pedestrians. It has some similarities to roguelikes
 (you control time, top-down perspective, maybe not Rogue-style procgen but randomized enemy patterns) but I do not know whether there was any inspiration. A nice cat theme.
 This game was an inspiration to {Superhot}.
+
+GAME Red
+A Flash game a bit reminiscent of {Missile Command}. This time your rockets do not explode, but they are balls, the approaching enemies are also balls, and
+you shoot them to bounce them off. Quite interesting.
+
+GAME Gun Run
+A Flash game I remember the most, although I mostly remember the graphical style (black silhouettes on sunset-like background) rather than the gameplay (which was mostly
+running in a straight line and shooting, as the name suggests).
+
+GAME Literaxx
+BY Poland
+BY maf
+
+It started as a {Scrabble} clone (with a somewhat different board) but then they changed the rules a bit. It was extremely popular in Poland. As a spinoff, they
+also created a Polish dictionary for word games that {Seuphorica} is using. I am not sure whether I have played myself, but I have watched a friend playing it,
+apparently the person he was playing against was in the same lab, and he was using an automated dictionary.
+
+GAME Pan
+BY Poland
+BY maf
+A very popular card game of Polish origin; there was an online version of Kurnik, which this entry mostly refers to. The number of states was small enough that
+it was easy to write a computer program playing it optimally; I have watched such a bot, commenting on the human opponents' errors (like, they were losing in 100 moves,
+but only 50 moves after a grave error!). I do not think I have actually played the online version, only the physical card one, and I did not like it.
+(It does not seem to appear on the English version of Kurnik.)
+
+GAME Kalambury
+BY Poland
+BY maf
+AKA Pictionary
+VAL year=2004 played=2000 xp=2
+One player tries to "draw" a secret word or phrase, and the other players try to guess it.
+This refers to the Kurnik version that seemed extremely popular in Poland. According to Wikipedia it was released in 2004, although maf did show something very similar to me in 2000,
+and also I have played the nonvideo version where you show the secret word by body movements earlier. (It does not seem to appear on the English version of Kurnik.)
