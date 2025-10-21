@@ -7,9 +7,17 @@ BY country: Japan
 VAL year=1980 arcade realtime topdown spacebending abstract xp=0 collectathon fixed tiny lores endless
 I think I have played the arcade version somewhere, but I mostly played {Munch-It} (Amstrad CPC clone) and {CD-Man} (PC clone).
 
+GAME Missile Command
+BY Atari Games
+VAL year=1980 played=2001 arcade realtime sideview shooter palmos scifi xp=2 randomized endless vectorart blackboard
+Yet another arcade classic, although probably less known than e.g. {Asteroids}. Enemy missiles approach your cities,
+you need to fight them with missiles of your own; enemy missiles exploding in the air may destroy other enemy missiles if
+they are closed enough. I mostly played a PalmOS version that I do not remember the name of.
+
 GAME Asteroids
 BY Atari Games
 VAL year=1979 played=2000 arcade realtime topdown shooter spacebending palmos scifi xp=2 randomized seq endless vectorart mono blackboard
+Everyone should know this famous spacebending arcade game.
 I do not think I have played the original arcade version. I mostly played a PalmOS version that I do not remember the name of.
 
 GAME Space Invaders
