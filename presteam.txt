@@ -1395,6 +1395,11 @@ A Flash (?) game in which you are a cat controlling the flow of time, and you co
 (you control time, top-down perspective, maybe not Rogue-style procgen but randomized enemy patterns) but I do not know whether there was any inspiration. A nice cat theme.
 This game was an inspiration to {Superhot}.
 
+GAME Crusher
+A shareware game, the most of it is randomized maps created out of square blocks, there are some enemies, you push the blocks to trap the enemies.
+The game is real-time but the grid movement is instant.
+There are also some special rooms in which you find special events for the storyline.
+
 GAME Red
 A Flash game a bit reminiscent of {Missile Command}. This time your rockets do not explode, but they are balls, the approaching enemies are also balls, and
 you shoot them to bounce them off. Quite interesting.
