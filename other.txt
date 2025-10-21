@@ -90,6 +90,12 @@ VAL atarist gothic year=1988 played=1993 realtime slasher platformer fixed flick
 Some kind of metroidvania-ish game about a guy who could transform into a monkey (?) or a bat.
 
 # console classics
+GAME Robots
+AKA Chase
+VAL year=1976 xp=3
+A very simple but fun roguelike (at least according to the definition here...), you move on a grid, there are some robots who try to capture you,
+but sometimes fall into each other. I think I have played not the original text console version, but a PalmOS version, not sure how it was named.
+
 GAME Battlestar
 VAL pc year=1979 played=2001 scifi riddles xp=2 nonspatial ascii timeless fixed connections free mono itemuse
 One of games included in the BSD games. A rather strange interactive fiction game with many sections (first on a spaceship, then on an island of some kind).
