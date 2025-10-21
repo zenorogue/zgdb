@@ -111,6 +111,34 @@ Originally started as a team project with some friends, but then, only I remaine
 Seamless open world. Complex simulation. Programmable magic. No working society (because I thought including that would be too much). Probably {Caves of Qud} would be
 the closest modern roguelike.
 
+GAME Zeno's Crossword
+BY zenorogue
+VAL gem=1 nonvideo year=1999 played=1999 xp=2
+
+The game is about creating crossword on a board drawn on a grid paper, for example, of size 8x8.
+It is very challenging, one aggresive game (on 8x8 board) took us about 4 hours.
+Contrary to {Scrabble} it actually produces good quality crosswords.
+
+A full crossword is an arrangement of letters and black tiles on the board, such that: (1) every grid square is filled, (2) every block of letters longer that 1 letter is a valid word,
+(optional 3) all the letters form a connected component, (optional 4) the words do not repeat.
+
+In a partial crossword, there are only letters and blank spots; (b) the blank spots can be filled to create a full crossword. (c) Also no block of letters is a valid word.
+
+Players place letters on board alternately. The situation on the board should always be a partial crossword. Breaking rule (c) costs 3 points (repeat the move). Passing costs 3 points. Passing floor(3/2n) times
+ends the game.
+
+If a player who is going to move (A) thinks that the rule (b) is broken, they can challenge the previous player (B). The challenger (A) repeatedly asks (B)
+"in your full crossword, what is on the board in position [...]?". Eventually, either A is convinced that the rules are not broken, or B is convinced that they indeed did break a rule.
+The winner gets 5 + (number of question) points, the loser loses the same number. If B loses the duel, they repeat the move, or challenge the previous player (C), but, in such a chain
+of broken (b) rules, 2+(number of questions) points are lost always by the same player B.
+
+GAME Poker Parody
+BY zenorogue
+VAL nonvideo year=2000 played=2002 xp=1
+A parody of {Poker}, possibly more interesting than the original, although (probably) it does not make sense to play for money. There is no fixed list of scored sets; there is a "dealer"
+and players, the players have to advertise their sets of cards, and the dealer decides who wins the given hand. Other rules are not very important, but the suggestion is: 6 cards per
+player, you can redraw any number of cards, 1-10 can be used as numbers or digits, other cards can be used as blind cards.
+
 GAME Untahris Playground
 BY zenorogue
 VAL pc abstract multigenre topdown sideview realtime shapepuzzle shooter platformer fixed picklevel lores free xp=2 year=2006 played=2006
