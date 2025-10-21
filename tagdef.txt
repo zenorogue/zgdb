@@ -365,6 +365,10 @@ on logic may be included too). They can include action elements (we have "realti
 TAG riddles
 A game focusing on discovering secrets based on clues. Compare {tag:logic}.
 
+TAG detective
+Games focused on solving criminal mysteries. This includes mainly {Mafia}-style social deduction games, there are also
+more or less serious computer simulations of detective's work, but I do not really play them.
+
 TAG shapepuzzle
 Puzzle games about matching shapes, from jigsaw puzzles to Tetris.
 

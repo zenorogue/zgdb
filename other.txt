@@ -281,6 +281,23 @@ A game like {Warthog}, but while in Warthog the rules are written down and clear
 known only to the author of the rule (the other players have to guess them by experimentation if they don't want to get penalty cards for breaking rules).
 I think Warthog is more logical and fun -- the rules can be more complex and chaotic.
 
+GAME Mafia
+AKA Werewolves
+BY country: Russia
+VAL nonvideo year=1986 detective xp=3 played=1995 moderntheme gothic
+A well-known social deduction game. Good for parties if you have enough people.
+I think I played it for the first time in 1995. But in 1998, in our circles, {Ktulu} pushed it out.
+Mafia is also known as Werewolves (the games are isomorphic except the modern/gothic theme), but it was always Mafia around there.
+
+GAME Ktulu
+AKA Cooloo
+BY country: Poland
+VAL nonvideo year=1986 detective xp=3 played=1995 gem=2 western
+A social deduction game in the style of {Mafia}. There are 3 (or more) fractions, Wild West theme, mostly everybody has a special role, you can duel other players,
+so much more interesting in general.
+It seems to be quite popular in my circles in Poland. Unfortunately I play it very rarely myself, it is hard to find that many people. You can find
+the English rules <a href="http://cooloo.wikidot.com/e:cooloo">here</a>.
+
 GAME Plants vs Zombies
 VAL android gothic planttheme year=2009 played=2015 realtime defense economy fixed seq topdown xp=3 lores
 I have played this famous game on a flight, it was installed on the on-flight entertainment system. Luckily it was exactly as long as the flight was;
@@ -682,3 +699,15 @@ A quite good puzzle game based on special relativity.
 GAME The Entropy Centre
 VAL pc year=2022 played=2022 logic timeless=? fixed fpp camscroll xp=1 timebending photorealistic models scifi
 A {Portal}-like game about some kind of time control, but I do not remember mostly anything from playing the demo.
+
+GAME Among Us
+VAL pc year=2018 xp=0 detective scifi
+An online social deduction game.
+Despite its extreme popularity, and being a fan of social deduction, I have not played it -- I do not think it makes sense to play against random people online,
+and people I know did not seem interested.
+
+I still have some comments. It was interesting how a not-so-new game suddenly became popular because of outside reasons (here, the COVID pandemic).
+It was also crazy how the Among Us fans seemed to criticize games inspired by it for being "clones". There was no good reason to assume right away that a
+social deduction game in a similar style would be a "clone" and not introduce new rules, and Among Us does not seem to be that original anyway, we had {Mafia} since the 80s,
+both on in-person parties and various online sites, and also some video games which I have not played. Anyway, I do not hear much about Among Us anymore, and nothing about
+games inspired by it.

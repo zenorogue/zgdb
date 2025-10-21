@@ -773,7 +773,7 @@ A trivia game, with a nice animated walking character, some questions playing mu
 
 GAME The Vera Cruz Affair
 BY country: France
-VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed seq riddles
+VAL cpc year=1985 played=2025 turnbased moderntheme photorealistic ascii xp=1 nonspatial fixed seq detective
 Noticed this when checking out CPC games while making this review site. A murder mystery game made by an actual policeman, sounded interesting.
 But I have forgotten to read the instructions so I could not progress far. Seems it has some nasty pixel hunting at the beginning too.
 
