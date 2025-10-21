@@ -131,6 +131,16 @@ One of games included with some Linux distro. I think it was a clone of earlier 
 
 # other
 
+GAME Eight-ball pool
+AKA Pool
+VAL nonvideo
+A well-known physics game, commonly found in bars and hotels. It is nice to spend a few days of vacation in a place that has free pool.
+It is mostly there because of simulations in the form of a video game.
+
+GAME Snooker
+VAL nonvideo
+Like {Pool} but more sophisticated and rarer.
+
 GAME Chess
 BY country: Spain
 BY country: India

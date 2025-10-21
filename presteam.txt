@@ -358,11 +358,11 @@ be mostly platformer-ish but also some other genres. Good variety and very fun.
 
 GAME Jimmy White's Snooker
 VAL pc year=1991 played=1995 physics fpp turnbased gambletheme shooter moderntheme xp=2 fixed shapegfx camscroll multiplayer=?
-A first-person simulation of Snooker, with some funny idle graphics.
+A first-person simulation of {Snooker}, with some funny idle graphics.
 
 GAME Rack'em
 VAL pc year=1988 played=1995 physics topdown turnbased gambletheme shooter moderntheme lores shapegfx xp=2 fixed minigames multiplayer=?
-A simulation of 8-Ball Pool, Snooker, and some other games. Sometimes your shot would miss (I think that was because of "beginner" and "pro"
+A simulation of {Eight-ball pool}, {Snooker}, and some other games. Sometimes your shot would miss (I think that was because of "beginner" and "pro"
 which were not difficulty levels but rather a selection of how skilled the simulated player is, but I could be wrong).
 
 GAME Scorched Earth

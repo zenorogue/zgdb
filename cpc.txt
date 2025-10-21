@@ -660,7 +660,7 @@ You have to collect items on a rollercoaster track, avoiding hazards by climbing
 GAME Alex Higgings World Pool
 BY Amsoft
 VAL cpc year=1985 xp=3 played=1988 cpc physics topdown turnbased gambletheme shooter moderntheme lores randomized tiny multiplayer
-Just a simple simulation of 8-ball Pool. Nice music.
+Just a simple simulation of {Eight-ball pool}. Nice music.
 
 GAME The Scout Steps Out
 VAL cpc year=1985 xp=1 played=1990 cpc topdown weirdtheme moderntheme lores exp=? fixed flick nonlinear realtime
