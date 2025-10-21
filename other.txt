@@ -128,11 +128,61 @@ Sometimes people want to play Chess with me, assuming that I am very good at it 
 
 (The queen has received its modern movement style around 1475 in Spain, so I give this as the year.)
 
+GAME Go
+AKA Igo
+AKA Baduk
+VAL year=-548 played=1993 gem=1 xp=2
+BY country:Japan
+An ancient boardgame. Probably not as popular outside of Japan as it should. It has a great handicap system to make players of different skill levels enjoy the game. Although
+it appears that expert Go players playing against noobs love to win by 5 points instead of crushing them.
+
+I have played some computer version in the 90s, and also an online implementation in 2015. I was fascinated by the fact that human players were significantly better than AI,
+and in 2015 I started playing it more seriously -- however, soon after that, new AIs actually started winning, and I got interested in other things, so
+I . Also, playing Go was quite tiring to me.
+
+I like Go proverbs such as "lose your first 100 games as soon as possible" (you won't be winning right away and you should focus your early on experimenting rather than winning).
+
+GAME Dots
+AKA Kropki
+BY Russia
+VAL year=1980? played=1995
+A game with some similarity to {Go} -- two players place dots on a piece of grid paper, you surround enemy dots with your dots. Contrary to Go,
+it is enough to surround the enemy dots (they cannot survive even if they have liberties), and the surrounding dots forms a permanent group
+that can be only captured as a whole. It was popular in Polish schools, although it seems to come from Russia.
+
+GAME Gomoku
+VAL year=1700 free
+BY country: Japan
+A game played on the {Go} board (15x15, 19x19 or infinite), but more similar to {Tic Tac Toe}, to win, you have to put 5 of your stones adjacent in a row.
+I have mostly played the pen-and-paper version, quite a good game for boring classes in school.
+
+GAME Tic Tac Toe
+VAL nonvideo year=-1200 free
+AKA Noughts and Crosses
+BY country: Egypt
+Not much to say about it, you probably know it, and should play {Gomoku} instead.
+
 GAME Poker
 AKA poker
-VAL nonvideo year=1800 played=1998 abstract cardgame multiplayer randomized turnbased xp=2 seq free
+VAL nonvideo year=1800 played=1998 abstract cardgame multiplayer randomized turnbased xp=2 seq free matching
 A well-known card game about randomness and high-stakes permanent consequences. I remember when my friends convinced me to play Poker for money with theme,
 and I won, but the game was quite messy and they did not want to calculate how much I won. So apparently Poker does not have permanent consequences, compared to a game like {Balatro}.
+
+GAME Reversi
+AKA Othello
+VAL nonvideo year=1883 played=1992 pc
+A well known game on a chessboard.
+Somewhat strangely, the shareware program I played against was deterministic, and there was a sequence of a few moves that you could use to win early, by capturing all the enemies.
+
+GAME Mahjong Solitaire
+VAL matching year=1981
+This solitaire using the {Mahjong} tiles appeared quite popular in 90s shareware games. Not much to say about it. I thought it was some classic Chinese solitaire, but according to
+Wikipedia it was invented as a computer game.
+
+GAME Mahjong
+BY country: China
+VAL year=1870
+TODO
 
 GAME Risk
 VAL nonvideo year=1957 xp=0 abstract army multiplayer randomized turnbased tiny

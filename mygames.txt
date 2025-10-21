@@ -101,7 +101,7 @@ and I did not care to rewrite it.
 GAME Eiteme
 BY zenorogue
 VAL palmos played=1999 abstract topdown turnbased multiplayer fixed picklevel lores matching
-My game for PalmOS, never released. Essentially Gomoku with some configurable variants (change the line length, change the 'line' shape, block tiles, add gravity, etc.).
+My game for PalmOS, never released. Essentially {Gomoku}/{Tic Tac Toe} with some configurable variants (change the line length, change the 'line' shape, block tiles, add gravity, etc.).
 
 GAME Vapors of Insanity
 BY zenorogue
