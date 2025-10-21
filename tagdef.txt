@@ -109,7 +109,18 @@ TAG nonvideo
 A game designed to be played without a computer (or similar device). That would include boardgames, card games, parlor games, sports.
 This review site is mostly about video games, but some non-video games are included
 as a reference, being relevant to the video game culture, or because of their videogame forms.
-(Nonvideo games are tagged {tag:free} if they use no specialized elements, standard decks of cards at most.)
+
+It seems that videogame and tabletop game communities do not interact as much as they should. Boardgame fans have lots of detailed terminology
+({deckbuilder}, {enginebuilder}, tableau builder, {deckconstruction}, etc.) while video gamers call all of that "roguelike deckbuilder",
+with no relation to {roguelike}s (other than randomness and being-about-winning which is common in boardgames) and not being a {tag:deckbuilder}.
+
+In this database I am complaining about the commercial bias of many video game media. In my (probably controversial) opinion,
+a similar bias exists in tabletop games too. I enjoyed coming to trips in the 90s with just a deck of card and a piece of paper,
+exploring hundreds of existing games that could be played with these simple items, letting the games evolve by introducing changes
+that potentially could become popular, and designing new ones. (Nonvideo games are tagged {tag:free} if they use no specialized elements,
+standard decks of cards at most.) Later, it seemed that these games were replaced with "modern" boardgames -- even though the games were
+typically more interesting than the classics, you had a big box with which you could play only one game, and not much room for inventing
+different rules...
 
 TAG philosophy
 This is not a specific game, but a game design philosophy. The format I use for describing games (associated tags, what I think about it,
