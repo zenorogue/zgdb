@@ -76,15 +76,6 @@ void out_desc(ostream& of, const string& s) {
     }
   }
 
-bool is_by(game* g, const string& s) {
-  for(auto& b: g->by) if(b == s) return true;
-  return false;
-  }
-
-bool comments_on(game* g, const string& s) {
-  return false;
-  }
-
 void display(ostream& of, game *g) {
   if(!is_mobile) {
     of << "<div style=\"float:left;width:100%\">\n";
@@ -124,6 +115,13 @@ void display(ostream& of, game *g) {
     of << "<br/><br/>";
     }
   of << "<br/>";
+
+  for(auto &[t, s]: g->tagcomments) {
+    of << "<b><font color=\"505050\">Tag comment:</font></b>";
+    of << "<a onClick=\"explain_tag('" << t << "')\">" << t << "</a> ";
+    out_desc(of, s);
+    of << "<br/><br/>";
+    }
 
   of << "<br/>";
   for(auto &ff: g->spoilers) {
@@ -261,8 +259,11 @@ void do_explain_tag(const string& s0) {
     auto g = game_by_name[t];
     ss << "<a onClick=\"explain_game('" << t << "')\">" << t << "</a>";
     if(g->values.count(s)) out_tag_value(ss, g, s);
-    ss << "</li>";
+
+    if(g->tagcomments.count(s)) { ss << " "; out_desc(ss, g->tagcomments[s]); }
+    ss << "<br/><br/>";
     }
+
   ss << "</ul>";
   ss << "</div></div>\n";
   ss << "<hr/>\n";

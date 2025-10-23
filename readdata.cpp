@@ -212,3 +212,12 @@ void parse(const string& fname) {
     }
   }
 
+bool is_by(game* g, const string& s) {
+  for(auto& b: g->by) if(b == s) return true;
+  return false;
+  }
+
+bool comments_on(game* g, const string& s) {
+  return g->tagcomments.count(s);
+  }
+
