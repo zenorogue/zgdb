@@ -916,10 +916,6 @@ GAME Luna
 VAL pc year=2017 played=2022 realtime xp=3 medieval=? arbi3=? exp=? fixed=? seq=? models=? megaitch
 I do not remember mostly anything about this game.
 
-GAME Kingdom Ka
-VAL pc year=2018 played=2022 sideview xp=1 notheme=? timeless=? exp=? fixed=? seq=? connections=? uniquegfx=? megaitch
-A not interesting, slow game.
-
 # gog
 GAME Tower of Time
 BY country: Poland
