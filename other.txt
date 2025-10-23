@@ -655,7 +655,7 @@ Unfortunately, based on the demo, I did not find the gameplay very interesting -
 GAME Monument Valley
 BY ustwo games
 VAL android isometric vectorart spacebending exp logic timeless seq fixed true3 year=2014 played=2018 xp=3 epicfree notheme
-A game based on impossible figures such as Penrose triangles (also commonly associated with Escher, although discovered earlier by Oscar Reutersv‰rd).
+A game based on impossible figures such as Penrose triangles (also commonly associated with Escher, although discovered earlier by Oscar Reutersv√§rd).
 The developers wanted to create a game in which every individual screenshot is beautiful, and it shows -- it is a beautiful exploration game.
 That is enough for my recommendation. However, do not expect good puzzles. The puzzles basically solve themselves.
 

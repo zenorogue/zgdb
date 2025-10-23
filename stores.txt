@@ -136,7 +136,7 @@ Contrary to {Seuphorica} it is not really a scrabble game, though -- you do not 
 GAME The Abbey of Crime
 BY country: Spain
 VAL pc medieval xp=3 year=2016 played=2020 isometric hscroll vscroll realtime itemuse fixed lores
-This was one of the later games for Amstrad CPC, based on Umberto Eco's <it>The Name of The Rose</i>. Apparently a big hit in Spain. All of this makes it interesting game to try.
+This was one of the later games for Amstrad CPC, based on Umberto Eco's <i>The Name of The Rose</i>. Apparently a big hit in Spain. All of this makes it interesting game to try.
 I have played the (more playable) PC version, and finished it, but not sure it was that interesting.
 
 GAME Against the Storm

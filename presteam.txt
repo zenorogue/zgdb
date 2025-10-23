@@ -1212,7 +1212,7 @@ GAME Miegakure
 VAL year=? xp=0 spacebending notheme fpp realtime logic=? sciencegame seq=? fixed=? models gem=-1
 A four-dimensional game that is in development since 2009, with lots of hype, although that hype has died down recently. As far as I understand, an early demo has been shown on some
 gaming festivals and got praised by some people who were very popular at that time, such as Jonathan Blow. But from the looks of it, the basic idea was about crossing
-the walls using the fourth dimension, which should be nothing new for people who read the classic novel <it>Flatland</i>. Basically a somewhat trivial consequence of something that
+the walls using the fourth dimension, which should be nothing new for people who read the classic novel <i>Flatland</i>. Basically a somewhat trivial consequence of something that
 looks like advanced mathematics. So I do not expect that the finished game would be actually good, but I would love to be proven wrong.
 It can be compared to {Hyperbolica} which I did not expect to be that a good game because it appeared to be care only about advanced math but not much about good gameplay
 (and the reviews support this view), as opposed to {4D Golf} or {4D Miner}, which looked like they had actual ideas for good games based on the concept of 4D, and seem to be well received.

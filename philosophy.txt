@@ -229,7 +229,7 @@ in some world, as in, if you wrote down your adventures, it would make a (somewh
 good book. It is a quite literal interpretation. Yes, this includes most games today,
 and that is fine. It was not that common in the 80s.
 
-In the past we had other views, for example, <i>The Book of Adventure Games</I> (Kim Shuette, 1984)
+In the past we had other views, for example, <i>The Book of Adventure Games</i> (Kim Shuette, 1984)
 divides adventures into two categories, "puzzle adventures" (text adventures of the
 time, and point-and-click adventures that evolved from them) and "fantasy adventures"
 (essentially what we call {CRPG} today). The name of the "text adventure" genre
