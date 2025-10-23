@@ -853,3 +853,8 @@ VAL pc roguelike year=2025 aquatic played=2025 turnbased grid rpgequip rpgstats 
 A roguelike in the style of {ADOM} but with an underwater theme.
 Many enemies are based on actual aquatic creatures. Quite a fun
 adventure.
+
+GAME Haque
+VAL pc roguelike year=2017 played=2020 pc xp=2 medieval turnbased grid rpgequip rpgconsume topdown procgen traps=? idminigame=? orthogrid=? exp combat lores seq randomized manualsave secrets=? traps=? blackboard
+A roguelike with glitch aeshtetics. It seemed impossible to turn off animations, which made the game feel slow to me (a bad thing, especially in a roguelike).
+Solid otherwise.
