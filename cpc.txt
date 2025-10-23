@@ -671,7 +671,7 @@ VAL cpc year=1985 xp=0 cpc pc topdown turnbased military lores fixed hscroll vsc
 An early strategy game for CPC. I mostly looked at my brother or father playing it, and liked how the units were represented by small or large squares.
 
 GAME Spy vs Spy
-VAL cpc year=1984 xp=1 played=1986 cpc notheme lores sideview realtime exp itemuse=? fixed connections=? multiplayer traps
+VAL cpc year=1985 xp=1 played=1986 cpc notheme lores sideview realtime exp itemuse=? fixed connections=? multiplayer traps
 A split-screen multiplayer video game. I am not sure whether I played it or just watched, it was not much anyway.
 
 GAME Zolyx
@@ -725,7 +725,7 @@ Some bullfighting game, not remember much about about it.
 
 GAME Dun Darach
 BY Gargoyle Games
-VAL cpc year=1985 played=1986 medieval lores xp=1 sideview realtime itemuse fixed connections
+VAL cpc year=1986 played=1986 medieval lores xp=1 sideview realtime itemuse fixed connections
 A game with a rather odd graphical style, you could see only a 2D slice of a 3D world (the street you were walking on), with
 some adventure elements, although I mostly remember only that there was a character named Pita.
 
@@ -806,5 +806,5 @@ really played this, but it looks like something that should be more well known. 
 but apparently there is a remake for modern systems <a href="https://www.myriad-online.com/en/products/sapiens.htm">here</a>.
 
 GAME Technician Ted
-VAL cpc year=1984 played=1986 cpc fpp xp=2 sideview realtime platformer lores moderntheme fixed flick collectathon=?
+VAL cpc year=1985 played=1986 cpc fpp xp=2 sideview realtime platformer lores moderntheme fixed flick collectathon=?
 I think I have tried it... basically a blatant clone of {Jet Set Willy}.
