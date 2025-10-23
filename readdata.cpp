@@ -171,7 +171,7 @@ void parse(const string& fname) {
       if(*addto != "") addto = &junk;
       }
 
-    else if(cap == "#") {}
+    else if(cap != "" && cap[0] == '#') {}
 
     else if(cap == "BY") {
       g->by.push_back(param);
