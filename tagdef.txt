@@ -481,7 +481,7 @@ TAG ghosts
 When you die, the game remembers where it happened, affecting the gameplay somehow (you find some XP/loot when you return to the same location, 
 a need to fight a 'ghost' when you return there, you are weakened until you return to collect a part of your essence, etc.)
 It covers one feature that is sometimes considered the defining feature of souls-likes, but it also covers the
-{tag:roguelike} 'bones' feature coming from NetHack.
+{tag:roguelike} 'bones' feature coming from {NetHack}.
 
 TAG soulcheck
 The game has checkpoints which restore your health, but also regenerate the enemies. Another defining feature of souls-likes, maybe?
@@ -877,7 +877,7 @@ SUGGEST multiweapon combat
 SUGGEST simulationism 1
 
 ABOUTBY zenorogue
-I do not consider ADOM "my" game, but I contributed to the development of the graphical version, so I mark it as a conflict of interest.
+I do not consider {ADOM} "my" game, but I contributed to the development of the graphical version, so I mark it as a conflict of interest.
 
 ABOUTBY community
 Community development means that the development of the game happens in a somewhat open environment. The canonical way of how this is done
@@ -891,7 +891,7 @@ ABOUTBY Lucasfilm
 Known as LucasArts between 1990 and 2021.
 
 ABOUTBY country: Poland
-It seems that the piracy culture in 90s has made the Polish video game development culture different. For example, many prominent roguelike developers are from Poland.
+It seems that the piracy culture in 90s has made the Polish video game development culture different. For example, many prominent {roguelike} developers are from Poland.
 
 ABOUTBY country: Finland
 A surprisingly large amount of my favorite video games are from Finland.
