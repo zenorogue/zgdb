@@ -403,6 +403,7 @@ could not be disabled. The hex tactical map of HoMM3 has been replaced with squa
 not as cool. Heroes could fight in this one.
 
 GAME Atlantis
+BY Soleau Software
 VAL pc year=1990 played=1996 turnbased greek army topdown xp=4 randomized tiny difflevels vectorart multiplayer=? grid arbigrid
 A simple computer implementation of the classic boardgame {Risk} (with some modification). Fixed graph map, extra armies for conquering the whole continents,
 ancient Greek theme. You just moved numbers between regions, fun, but nothing special.
@@ -1396,21 +1397,26 @@ A Flash (?) game in which you are a cat controlling the flow of time, and you co
 This game was an inspiration to {Superhot}.
 
 GAME Crusher
+BY Soleau Software
+VAL year=1991 played=1993 pc topdown lores boulderdash moderntheme randomized xp=4 realtime flick
 A shareware game, the most of it is randomized maps created out of square blocks, there are some enemies, you push the blocks to trap the enemies.
 The game is real-time but the grid movement is instant.
 There are also some special rooms in which you find special events for the storyline.
 
 GAME Red
+VAL year=2007 played=2007 web sideview shapegfx uniquegfx physics shooter dodger scifi randomized xp=3 realtime seq
 A Flash game a bit reminiscent of {Missile Command}. This time your rockets do not explode, but they are balls, the approaching enemies are also balls, and
 you shoot them to bounce them off. Quite interesting.
 
 GAME Gun Run
+VAL year=2007 played=2007 web sideview vectorart uniquegfx shooter hscroll autoscroll scifi randomized=? xp=3 realtime
 A Flash game I remember the most, although I mostly remember the graphical style (black silhouettes on sunset-like background) rather than the gameplay (which was mostly
 running in a straight line and shooting, as the name suggests).
 
 GAME Literaxx
 BY Poland
 BY maf
+VAL year=2002 xp=0 web nonvideo wordgame abstract topdown turnbased randomized tiny
 
 It started as a {Scrabble} clone (with a somewhat different board) but then they changed the rules a bit. It was extremely popular in Poland. As a spinoff, they
 also created a Polish dictionary for word games that {Seuphorica} is using. I am not sure whether I have played myself, but I have watched a friend playing it,
@@ -1419,6 +1425,7 @@ apparently the person he was playing against was in the same lab, and he was usi
 GAME Pan
 BY Poland
 BY maf
+VAL year=2001? xp=0 web nonvideo cardgame abstract topdown turnbased randomized tiny
 A very popular card game of Polish origin; there was an online version of Kurnik, which this entry mostly refers to. The number of states was small enough that
 it was easy to write a computer program playing it optimally; I have watched such a bot, commenting on the human opponents' errors (like, they were losing in 100 moves,
 but only 50 moves after a grave error!). I do not think I have actually played the online version, only the physical card one, and I did not like it.
@@ -1428,7 +1435,7 @@ GAME Kalambury
 BY Poland
 BY maf
 AKA Pictionary
-VAL year=2004 played=2000 xp=2
+VAL year=2004 played=2000 xp=2 web nonvideo wordgame abstract sideview realtime riddles engineering randomized tiny
 One player tries to "draw" a secret word or phrase, and the other players try to guess it.
 This refers to the Kurnik version that seemed extremely popular in Poland. According to Wikipedia it was released in 2004, although maf did show something very similar to me in 2000,
 and also I have played the nonvideo version where you show the secret word by body movements earlier. (It does not seem to appear on the English version of Kurnik.)

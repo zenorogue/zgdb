@@ -113,7 +113,7 @@ the closest modern roguelike.
 
 GAME Zeno's Crossword
 BY zenorogue
-VAL gem=1 nonvideo year=1999 played=1999 xp=2
+VAL gem=1 nonvideo year=1999 played=1999 xp=2 abstract turnbased wordgame fixed multiplayer tiny
 
 The game is about creating crossword on a board drawn on a grid paper, for example, of size 8x8.
 It is very challenging, one aggresive game (on 8x8 board) took us about 4 hours.
@@ -134,7 +134,7 @@ of broken (b) rules, 2+(number of questions) points are lost always by the same 
 
 GAME Poker Parody
 BY zenorogue
-VAL nonvideo year=2000 played=2002 xp=1
+VAL nonvideo year=2000 played=2002 xp=1 abstract turnbased engineering socialsim randomized seq endless multiplayer
 A parody of {Poker}, possibly more interesting than the original, although (probably) it does not make sense to play for money. There is no fixed list of scored sets; there is a "dealer"
 and players, the players have to advertise their sets of cards, and the dealer decides who wins the given hand. Other rules are not very important, but the suggestion is: 6 cards per
 player, you can redraw any number of cards, 1-10 can be used as numbers or digits, other cards can be used as blind cards.

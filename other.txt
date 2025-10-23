@@ -92,8 +92,8 @@ Some kind of metroidvania-ish game about a guy who could transform into a monkey
 # console classics
 GAME Robots
 AKA Chase
-VAL year=1976 xp=3
-A very simple but fun roguelike (at least according to the definition here...), you move on a grid, there are some robots who try to capture you,
+VAL year=1976 xp=3 scifi roguelike topdown ascii turnbased dodger randomized seq played=2000 pc palmos
+A very simple but fun roguelike (at least according to the definition here... you move like {Rogue} but not really like Rogue otherwise), you move on a grid, there are some robots who try to capture you,
 but sometimes fall into each other. I think I have played not the original text console version, but a PalmOS version, not sure how it was named.
 
 GAME Battlestar
@@ -133,12 +133,12 @@ One of games included with some Linux distro. I think it was a clone of earlier 
 
 GAME Eight-ball pool
 AKA Pool
-VAL nonvideo
+VAL nonvideo year=1900 xp=3 played=1998 shooter turnbased abstract collectathon fixed tiny
 A well-known physics game, commonly found in bars and hotels. It is nice to spend a few days of vacation in a place that has free pool.
 It is mostly there because of simulations in the form of a video game.
 
 GAME Snooker
-VAL nonvideo
+VAL nonvideo year=1875 xp=1 played=2006 shooter turnbased abstract collectathon fixed tiny
 Like {Pool} but more sophisticated and rarer.
 
 GAME Chess
@@ -155,8 +155,8 @@ Sometimes people want to play Chess with me, assuming that I am very good at it 
 GAME Go
 AKA Igo
 AKA Baduk
-VAL year=-548 played=1993 gem=1 xp=2
-BY country:Japan
+VAL nonvideo year=-548 played=1993 gem=1 xp=2 abstract turnbased army fixed tiny
+BY country: Japan
 An ancient boardgame. Probably not as popular outside of Japan as it should. It has a great handicap system to make players of different skill levels enjoy the game. Although
 it appears that expert Go players playing against noobs love to win by 5 points instead of crushing them.
 
@@ -169,19 +169,19 @@ I like Go proverbs such as "lose your first 100 games as soon as possible" (you 
 GAME Dots
 AKA Kropki
 BY Russia
-VAL year=1980? played=1995
+VAL nonvideo year=1980? played=1995 xp=2 abstract turnbased army fixed tiny
 A game with some similarity to {Go} -- two players place dots on a piece of grid paper, you surround enemy dots with your dots. Contrary to Go,
 it is enough to surround the enemy dots (they cannot survive even if they have liberties), and the surrounding dots forms a permanent group
 that can be only captured as a whole. It was popular in Polish schools, although it seems to come from Russia.
 
 GAME Gomoku
-VAL year=1700 free
+VAL nonvideo year=1700 free played=1993 xp=3 abstract turnbased matching fixed tiny
 BY country: Japan
 A game played on the {Go} board (15x15, 19x19 or infinite), but more similar to {Tic Tac Toe}, to win, you have to put 5 of your stones adjacent in a row.
 I have mostly played the pen-and-paper version, quite a good game for boring classes in school.
 
 GAME Tic Tac Toe
-VAL nonvideo year=-1200 free
+VAL nonvideo year=-1200 free played=1985 xp=5 abstract turnbased matching fixed tiny
 AKA Noughts and Crosses
 BY country: Egypt
 Not much to say about it, you probably know it, and should play {Gomoku} instead.
@@ -194,19 +194,20 @@ and I won, but the game was quite messy and they did not want to calculate how m
 
 GAME Reversi
 AKA Othello
-VAL nonvideo year=1883 played=1992 pc
+VAL nonvideo year=1883 played=1992 pc xp=4 abstract turnbased grid diagrid army fixed tiny
 A well known game on a chessboard.
 Somewhat strangely, the shareware program I played against was deterministic, and there was a sequence of a few moves that you could use to win early, by capturing all the enemies.
 
 GAME Mahjong Solitaire
-VAL matching year=1981
+VAL matching year=1981 played=1993 xp=2 eastern turnbased randomized tiny midres topdown
 This solitaire using the {Mahjong} tiles appeared quite popular in 90s shareware games. Not much to say about it. I thought it was some classic Chinese solitaire, but according to
 Wikipedia it was invented as a computer game.
 
 GAME Mahjong
 BY country: China
-VAL year=1870
-TODO
+VAL year=1870 played=2017 xp=1 eastern nonvideo turnbased randomized tiny matching uniquegfx
+I have played this but it did not seem that interesting, although it definitely looks nice. Anyway,
+a Mahjong set is a good gift from China, I have some sets, although I have not played them.
 
 GAME Risk
 VAL nonvideo year=1957 xp=0 abstract army multiplayer randomized turnbased tiny
@@ -294,19 +295,22 @@ I think Warthog is more logical and fun -- the rules can be more complex and cha
 GAME Mafia
 AKA Werewolves
 BY country: Russia
-VAL nonvideo year=1986 detective xp=3 played=1995 moderntheme gothic
+VAL nonvideo year=1986 detective xp=3 played=1995 moderntheme gothic turnbased randomized tiny multiplayer
 A well-known social deduction game. Good for parties if you have enough people.
 I think I played it for the first time in 1995. But in 1998, in our circles, {Ktulu} pushed it out.
 Mafia is also known as Werewolves (the games are isomorphic except the modern/gothic theme), but it was always Mafia around there.
+Interestingly the gothic variant has been invented by Zarf, a central person in the interactive fiction community.
 
 GAME Ktulu
 AKA Cooloo
 BY country: Poland
-VAL nonvideo year=1986 detective xp=3 played=1995 gem=2 western
+VAL nonvideo year=1986 detective xp=3 played=1995 gem=2 western turnbased randomized tiny multiplayer
 A social deduction game in the style of {Mafia}. There are 3 (or more) fractions, Wild West theme, mostly everybody has a special role, you can duel other players,
 so much more interesting in general.
 It seems to be quite popular in my circles in Poland. Unfortunately I play it very rarely myself, it is hard to find that many people. You can find
 the English rules <a href="http://cooloo.wikidot.com/e:cooloo">here</a>.
+TAGCMT free
+I have played it with a standard deck of cards, but more modern players seem to use special cards.
 
 GAME Plants vs Zombies
 VAL android gothic planttheme year=2009 played=2015 realtime defense economy fixed seq topdown xp=3 lores
@@ -711,7 +715,7 @@ VAL pc year=2022 played=2022 logic timeless=? fixed fpp camscroll xp=1 timebendi
 A {Portal}-like game about some kind of time control, but I do not remember mostly anything from playing the demo.
 
 GAME Among Us
-VAL pc year=2018 xp=0 detective scifi
+VAL pc year=2018 xp=0 detective scifi topdown semiturnbased randomized flick=? midres multiplayer
 An online social deduction game.
 Despite its extreme popularity, and being a fan of social deduction, I have not played it -- I do not think it makes sense to play against random people online,
 and people I know did not seem interested.
