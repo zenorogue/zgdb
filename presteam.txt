@@ -116,7 +116,7 @@ Yet another example game written in BASIC and distributed with MS-DOS, in the st
 It was quite fun to play multiplayer.
 
 GAME Transcendence
-VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave spaceopera return
+VAL year=1995 played=2008 scifi randomized hscroll vscroll nonlinear shooter realtime topdown xp=3 gem=1 aliens roguelite hires manualsave spaceopera return intrapower=?
 A space-opera topdown shooter with clear {Rogue} inspirations, such as randomized star systems and various kind of equipment requiring identification.
 Should be more well-known as an early game putting such things in something very different than a literal roguelike.
 
@@ -178,7 +178,7 @@ VAL year=1987 played=2003 pc riddles logic xp=3 uniquetheme topdown fixed lores 
 A kind of Tarot-themed riddle/puzzle game, I think I read about it on Home of the Underdogs. I do not remember much about it.
 
 GAME Son of the Empire
-VAL year=1993 played=1996 isometric gem=2 xp=4 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable nonlinear
+VAL year=1993 played=1996 isometric gem=2 xp=4 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable nonlinear intrapower
 I think this should be more well-known because of being an isometric action RPG, well before {Diablo}. 
 You control a team of 4 characters, mostly going through dungeons, fighting monsters and collecting loot;
 also an overworld map where they could visit further dungeons and towns to sell/buy stuff, or fight armies.
@@ -190,7 +190,7 @@ Otherwise than being an isometric action RPG, not very similar to Diablo, for ex
 are not randomized. This is a sequel to {Legend}.
 
 GAME Legend
-VAL year=1992 played=2016 isometric xp=3 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable
+VAL year=1992 played=2016 isometric xp=3 engineering medieval lores fixed flick overworld rpgstats rpgequip rpgconsume pauseable intrapower
 I have played a lot of its sequel, {Son of the Empire}, but I have eventually tried the original too.
 They are very similar, although Son of the Empire fixed a few minor flaws, so I would recommend
 that.
@@ -250,7 +250,7 @@ GAME Commander Keen
 BY id Software
 BY John Romero
 BY John Carmack
-VAL year=1990 played=1991 platformer hscroll vscroll realtime sideview shareware pc scifi xp=3 overworld fixed lores manualsave=? ammolimit nonlinear
+VAL year=1990 played=1991 platformer hscroll vscroll realtime sideview shareware pc scifi xp=3 overworld fixed lores manualsave=? ammolimit nonlinear intrapower
 One of shareware PC platformer classics. It is a start of a shareware trilogy
 (possibly I have tried the sequels later but I do not remember anything about them).
 It was the first CK game I have played, but somehow lost it later.
@@ -260,7 +260,7 @@ GAME Commander Keen IV
 BY id Software
 BY John Romero
 BY John Carmack
-VAL year=1991 played=1994 platformer hscroll vscroll realtime sideview shareware pc scifi gem=1 xp=3 overworld fixed lores exp manualsave=? secrets nonlinear
+VAL year=1991 played=1994 platformer hscroll vscroll realtime sideview shareware pc scifi gem=1 xp=3 overworld fixed lores exp manualsave=? secrets nonlinear intrapower
 The first game in the second {Commander Keen} trilogy. I have played this one quite a lot.
 More interesting monsters and nicer graphics than in the original CK. 
 The famous Dopefish enemy.
@@ -409,7 +409,7 @@ A simple computer implementation of the classic boardgame {Risk} (with some modi
 ancient Greek theme. You just moved numbers between regions, fun, but nothing special.
 
 GAME Betrayal at Krondor
-VAL pc year=1993 played=1997 tolkien xp=3 fpp exp fixed seq openworld modalbattle photorealistic lores turnbased traps riddles nonlinear
+VAL pc year=1993 played=1997 tolkien xp=3 fpp exp fixed seq openworld modalbattle photorealistic lores turnbased traps riddles nonlinear intrapower=?
 A rather interesting RPG, made in collaboration with the writer Raymond Feist. 3D open world, interesting to explore. Treasures found in chests protected by
 passwords. Turn-based grid-based battles, of course not nearly as good as in roguelikes. Used photos of actors for PCs and NPCs, which clashed with the
 simple 3D backgrounds a bit, so I did not like that aspect much.
@@ -447,14 +447,14 @@ yourself, only a very basic AI that did nothing of these things). You could play
 to play that simple game.
 
 GAME Crossfire
-VAL pc year=1993 played=1998 medieval roguelike xp=1 topdown exp grid diagrid fixed procgen randomized nonlinear hscroll vscroll lores multiplayer realtime traps=? secrets=? nonlinear
+VAL pc year=1993 played=1998 medieval roguelike xp=1 topdown exp grid diagrid fixed procgen randomized nonlinear hscroll vscroll lores multiplayer realtime traps=? secrets=? nonlinear intrapower
 This game appeared in early roguelike lists, although it is not really a traditional one, having a real-time element, and not that focused on
 randomization. Could be played against other people. I think I was not very successful in it, and did not play much.
 
 GAME Albion
 BY Blue Byte
 BY country: Germany
-VAL pc year=1995 played=1996 multiperspective medieval scifi xp=3 nonlinear exp modalbattle fixed overworld hscroll vscroll lores twistpixel turnbased traps manualsave ammolimit secrets traps gem=1 nonlinear
+VAL pc year=1995 played=1996 multiperspective medieval scifi xp=3 nonlinear exp modalbattle fixed overworld hscroll vscroll lores twistpixel turnbased traps manualsave ammolimit secrets traps gem=1 nonlinear intrapower
 I got a demo of this game together with {Settlers II}. One interesting element of this RPG is its world, combining science-fiction elements
 with fantasy -- your spaceship crashes on an alien world working similar to medieval fantasy, although not with the typical 
 elves and dragons, but with aliens such as cat-like Iskai who could wield daggers in their tails. Very nice world-building and magic-versus-technology
@@ -593,7 +593,7 @@ target marked on the map.
 GAME UFO: Enemy Unknown
 AKA XCOM
 BY Julian Gollop
-VAL pc year=1994 played=2005 scifi aliens squad xp=3 isometric turnbased economy shooter multiweapon seq procgen randomized lores destructible ammolimit nonlinear
+VAL pc year=1994 played=2005 scifi aliens squad xp=3 isometric turnbased economy shooter multiweapon seq procgen randomized lores destructible ammolimit nonlinear intrapower=?
 Also known as X-COM: Ufo Defense. A well-known game that I played much later. 
 While {Rebelstar} made by the same developer was great, I did not like this one as much: the 3D graphics are not very nice,
 the ammo for my nuclear guns seemed to disappear surprisingly quickly (I think a mission used up the whole ammo pack even if I shot only once).
@@ -672,7 +672,7 @@ hardware tricks to obtain these effects, so it might be hard to play under emula
 
 GAME Diablo II
 BY Blizzard
-VAL pc year=2000 played=2008 helltheme realtime isometric hscroll vscroll xp=3 rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer nonlinear return exp combat unlocks traps multiweapon
+VAL pc year=2000 played=2008 helltheme realtime isometric hscroll vscroll xp=3 rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer nonlinear return exp combat unlocks traps multiweapon intrapower
 BY Blizzard
 Most people like Diablo II more than {Diablo}. I do not agree, it felt very watered down, compared to rather quick gameplay of Diablo, or roguelikes, which
 were fast and fun all the time (even though Diablo II still had roguelike inspirations and some roguelike developers were clearly inspired by it). Quite 
@@ -681,7 +681,7 @@ TAGCMT unlocks
 Unlocks refer to how the higher difficulties work -- you can play the game again with an already leveled up character.
 
 GAME Diablo III
-VAL pc year=2008 helltheme realtime xp=0 rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer arbi3=? seq nonlinear exp combat
+VAL pc year=2008 helltheme realtime xp=0 rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer arbi3=? seq nonlinear exp combat intrapower
 BY Blizzard
 I have played only {Diablo} and {Diablo II}. The roguelike community was quite critical of Diablo III, so I did not expect it to be something that I would like.
 
@@ -756,7 +756,7 @@ It is sometimes compared to {Fire Emblem}, although I have not played that one.
 
 GAME Avernum III
 BY Jeff Vogel
-VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=? nonlinear return
+VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=? nonlinear return intrapower
 A remake of {Exile III}. Lots of things were more fun to me in the original, though: larger parties (6, not 4 characters), 
 a less streamlined NPC dialog system where you entered the word you wanted to talk about instead of menus, and a simple grid-based
 display, with lots of maps having cool secrets, and larger monsters taking 1x2, 2x1 or 2x2 squares (while in Avernum III they were
@@ -764,7 +764,7 @@ all the same size).
 
 GAME Blades of Avernum
 BY Jeff Vogel
-VAL pc year=2000 played=2006 medieval isometric exp combat fixed leveleditor vscroll hscroll xp=1 lores squad turnbased manualsave picklevel
+VAL pc year=2000 played=2006 medieval isometric exp combat fixed leveleditor vscroll hscroll xp=1 lores squad turnbased manualsave picklevel intrapower
 A game in the universe of {Avernum III} but focused on separate scenarios, possibly user-made levels, I think? I do not remember much.
 
 GAME Viking Child
@@ -1054,7 +1054,7 @@ VAL year=2009 played=2019 abstract spacebending shapegfx xp=2 topdown realtime=?
 A 2D game about walking through portals, with very simple graphics, I think it is mostly lines for the portals. I do not remember much, but it was good.
 
 GAME Shandalar
-VAL year=1997 played=2024 medieval xp=1 cardgame deckconstruction turnbased modalbattle topdown economy randomized=? overworld nonlinear hscroll vscroll rpgquests lores
+VAL year=1997 played=2024 medieval xp=1 cardgame deckconstruction turnbased modalbattle topdown economy randomized=? overworld nonlinear hscroll vscroll rpgquests lores intrapower
 Basically Magic: the Gathering with some fantasy story built around it. You fight enemies in MtG card battles, receiving or losing loot (cards?); also there are towns with quests and shops.
 It was quite hard to me, it seems to assume more experience in MtG than I have, or maybe the early fights are hard because your deck is not strong enough yet.
 
@@ -1151,7 +1151,7 @@ Not sure what to write about this "super" version of {Metroid} (which has a more
 GAME Castlevania: Symphony of the Night
 BY Koji Igarashi
 BY country: Japan
-VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
+VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp intrapower
 This game combines the gothic setting of the {Castlevania} series with the game structure taken from {Metroid}, setting the trend for the later games in the Castlevania series, 
 called "metroidvania" (as in, the part of the Castlevania series which is like Metroid), which later evolved into the name of the whole genre. Worth playing, at least to experience
 many aspects that became parts of the gaming culture.
@@ -1159,14 +1159,14 @@ many aspects that became parts of the gaming culture.
 GAME Castlevania: Aria of Sorrow
 BY Koji Igarashi
 BY country: Japan
-VAL year=2003 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
+VAL year=2003 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp intrapower
 This combines the "metroidvania" style of {Castlevania: Symphony of the Night} with the concept of "souls" that you get from defeated enemies and that give you powers. The soul system
 is interesting, although sometimes a bit grindy.
 
 GAME Castlevania: Dawn of Sorrow
 BY Koji Igarashi
 BY country: Japan
-VAL year=2005 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp
+VAL year=2005 played=2021 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip bossfights multiweapon xp=3 realtime fixed lores exp intrapower
 A sequel to {Castlevania: Aria of Sorrow}, rather similar in general.
 
 GAME Castlevania
@@ -1252,7 +1252,7 @@ There are many interpretations of the story, but the obvious one is that Tim is 
 as bad people actually do. Braid is a nice artistic take on this phenomenon, and a caution against making up your opinions about conflicts based on what only one side says.
 
 GAME Faery Tale Adventure I
-VAL year=1987 played=2025 xp=1 medieval topdown realtime exp combat rpgequip fixed openworld lores nonlinear return
+VAL year=1987 played=2025 xp=1 medieval topdown realtime exp combat rpgequip fixed openworld lores nonlinear return intrapower=?
 I liked {Faery Tale Adventure II} so I tried the prequel too, but it appeared that it was not as good as FTA2. Although it is clearly visible that it has something which in FTA2
 became the huge open world.
 

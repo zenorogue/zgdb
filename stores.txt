@@ -48,7 +48,7 @@ VAL pc scifi gothic female xp=3 year=2024 played=2024 topdown matching realtime 
 A free game, by the same dev as {Helltaker}. I did not find it very interesting.
 
 GAME Balatro
-VAL pc abstract gambletheme xp=1 roguelite year=2024 played=2024 deckbuilder enginebuilder turnbased cardgame roguelite nonspatial randomized seq lores bossfights
+VAL pc abstract gambletheme xp=1 roguelite year=2024 played=2024 deckbuilder enginebuilder turnbased cardgame roguelite nonspatial randomized seq lores bossfights econom=	
 I have played a demo when it was still available. I do not see a reason to try playing it more. On top of a non-roguelike being marketed as roguelike, 
 it is considered as a very addicting game, both by players and its marketing, which I consider a good reason to avoid it. Also credible people say that it is not that deep.
 
@@ -56,7 +56,7 @@ It was really confusing why games such as {Risk of Rain} or {Vampire Survivors} 
 (people just have no idea how to call engine builders, so they call them roguelikes because early video game engine builders have been loosely inspired by roguelikes). 
 
 GAME Ballardo
-VAL pc abstract gambletheme xp=1 roguelite year=2025 played=2025 enginebuilder turnbased physics roguelite topdown randomized seq lores=?
+VAL pc abstract gambletheme xp=1 roguelite year=2025 played=2025 enginebuilder turnbased physics roguelite topdown randomized seq lores=? economy
 A {Balatro}-like game but based on billiards. Tried the demo, not very interesting.
 
 GAME BallMan
@@ -82,12 +82,12 @@ A spire-like engine-deckbuilder, the innovation is that you place your cards on 
 I have played a demo, but did not feel as good as the best in the deckbuilder genre.
 
 GAME Deadeye Deepfake Simulacrum
-VAL pc scifi cyberspace xp=1 weirdtheme year=2022 played=2024 topdown rpgequip rpgstats seq vectorart=? realtime exp combat randomized=? blackboard
+VAL pc scifi cyberspace xp=1 weirdtheme year=2022 played=2024 topdown rpgequip rpgstats seq vectorart=? realtime exp combat randomized=? blackboard intrapower=?
 Some people call this roguelike, not sure why (it does not seem similar in any way). So I have played the demo to check it out. I still do not know, but definitely seems to be an
 interesting, unique game.
 
 GAME Death Howl
-VAL pc medieval xp=1 year=2025 played=2025 deckbuilder cardgame turnbased grid isometric diagrid fixed soulcheck seq lores
+VAL pc medieval xp=1 year=2025 played=2025 deckconstruction cardgame turnbased grid isometric diagrid fixed soulcheck seq lores intrapower economy
 A game marketed as a "souls-like deckbuilder", so it gets a bonus from me for avoiding the "roguelike deckbuilder" clickbait. It is not really a deckbuilder, though, but a
 deck construction game. I have played the demo, hard to say much about how challenging it is (not much), but the general theme feels very good.
 
@@ -204,7 +204,7 @@ a literal roguelike. It has a reputation of a very good game with very bad graph
 {Slay the Spire} and {Night of the Full Moon}, so it did not feel very fresh to me, but still, definitely one of the better deckbuilders I have tried.
 
 GAME Eschalon: Book I
-VAL pc medieval roguelike shareware xp=3 year=2009 played=2024 roguelike isometric turnbased hscroll vscroll fixed midres free=? combat
+VAL pc medieval roguelike shareware xp=3 year=2009 played=2024 roguelike isometric turnbased hscroll vscroll fixed midres free=? combat intrapower
 This is a free game now (the later parts of the series are not free, so it works more like a shareware trilogy). This non-procedurally-generated RPG qualifies as a roguelike by the definition used by this site -- the gameplay
 is like in Rogue, although if I recall correctly, there is actually a bit of weirdness: if you are fast, you can click on a tile 10 steps from you and move there, and, since you are fast, 
 most monsters will make less steps in that time; however, if you do 10 single-tile moves, the monsters will do 10 single-tile moves too. (So basically the monsters do not act when you do not
@@ -371,7 +371,7 @@ SPOILER
 It is an artistic take on narration in video games. What if you do not do what the narrator is saying that you do?
 
 GAME Starbound
-VAL pc scifi aliens year=2016 played=2017 platformer sideview hscroll vscroll destructible nonlinear xp=3 realtime procgen randomized lores multiplayer ext=? exp manualsave
+VAL pc scifi aliens year=2016 played=2017 platformer sideview hscroll vscroll destructible nonlinear xp=3 realtime procgen randomized lores multiplayer ext=? exp manualsave intrapower
 I have played this because I wanted to play something similar to {Terraria}, but different. If you have already played Terraria and want more, then I recommend this.
 But if you have not, I think Terraria is better designed -- I like how everything in Terraria happens in the same world (non-modality) compared to Starbound's
 missions happening in external worlds, fighting is less cool in Starbound (sometimes enemies stand in a way which makes it impossible to hurt me, sometimes I cannot hurt them --
@@ -415,7 +415,7 @@ An interesting combination of deckbuilder and digital CCG -- on the "digital CCG
 similar to how {Dominion} does it. I have played the demo.
 
 GAME The Witcher II
-VAL pc medieval xp=3 gem=-2 year=2012 played=2017 tpp rpgequip rpgconsume crafting rpgstats rpgquests bossfights realtime exp combat crafting fixed seq photorealistic models manualsave
+VAL pc medieval xp=3 gem=-2 year=2012 played=2017 tpp rpgequip rpgconsume crafting rpgstats rpgquests bossfights realtime exp combat crafting fixed seq photorealistic models manualsave intrapower=?
 I believe that games should be interactive, involve the player in the world, either by providing interesting gameplay challenges, or in some other way. The gameplay of Witcher 2 is boring, fighting enemies feels like nuisance and waste of time, rather than the fun part of the game (I have very high standards from playing roguelikes and other indie games). How the story develops depends on your choices, but I did not feel like making them myself, they felt more like scripted by the designers than my own (one of my favorite games is Iji, where, immediately after checking it out, I played it for the whole night until completed, and immediately wanted to play again, to fix the moral choices I felt really bad about). If the interactivity in the game is lacking, it is better to watch a movie or read a book, for example, the series of books by Andrzej Sapkowski that this game is based on, which I heavily recommend to everyone.
 
 Graphics are okay, but nothing to be crazy about. Overall, playing this game did not enrich me in any way, and I feel it was a waste of time.
@@ -462,7 +462,7 @@ VAL pc animaltheme year=2024 played=2025 platformer flick ability riddles ruledi
 This is a hit, and for good reasons. Beautiful animal-based design, interesting upgrades, and multiple layers of riddles. If you love riddles, you should love this, if not, you can stop at the first layer :)
 
 GAME Apotheon
-VAL pc greek gem=1 year=2015 played=2018 platformer hscroll vscroll rpgconsume rpgequip rpgstats=? nonlinear sideview uniquegfx xp=3 realtime fixed connections exp mono
+VAL pc greek gem=1 year=2015 played=2018 platformer hscroll vscroll rpgconsume rpgequip rpgstats=? nonlinear sideview uniquegfx xp=3 realtime fixed connections exp mono intrapower=?
 Always great to see a game using a different art style -- in this case, the Greek red vase painting style. A warning though: this game was very buggy
 (IIRC it would often crash when switching areas, or something like that).
 
@@ -592,7 +592,7 @@ It qualifies as a roguelike according to my definitions, although while in typic
 procedurally generated match-3 puzzle. There is also an element of socializing with the town people. For a roguelike veteran, it is unfortunately way too easy.
 
 GAME Stardew Valley
-VAL pc moderntheme year=2016 played=2019 realtime socialsim xp=3 lores topdown economy exp fixed vscroll hscroll connections nonlinear
+VAL pc moderntheme year=2016 played=2019 realtime socialsim xp=3 lores topdown economy exp fixed vscroll hscroll connections nonlinear intrapower
 I did not expect much from this game. Farming simulator? It sounds like a game full of grinding, and grinding is boring, something that should not appear in a well designed game.
 
 But it turns out that all the praise this game has received is deserved. Yes, it is kind of grindy, but at least it is clear about this, it does not pretend the grinding to be the challenge, as most RPGs do. Its mostly peaceful nature and charming world are very relaxing.
@@ -603,7 +603,7 @@ At the time when we have been playing it, there appeared to be some bugs: some r
 I do not know if it was fixed.
 
 GAME FATE
-VAL pc year=2005 played=2025 procgen otherlinear realtime rpgequip rpgconsume rpgstats rpgquests xp=3 medieval exp combat hscroll vscroll connections models randomized traps
+VAL pc year=2005 played=2025 procgen otherlinear realtime rpgequip rpgconsume rpgstats rpgquests xp=3 medieval exp combat hscroll vscroll connections models randomized traps intrapower
 A game similar to {Diablo}. I seem to recall the intro screen, so I think I might have looked at it closer to its release date. In 2025 I read an interview with the developers in which
 they mentioned its roguelike influences, and their plan to recreate the complexity of {NetHack} in an action game.
 
@@ -616,7 +616,7 @@ poweful armor for warriors because of not enough strength (and of course you won
 skills are a bit worse and your mage skills are basically useless. {Torchlight II} which I have played before it (made by the same people, I believe, or at least there are lots of similarities) is much better.
 
 GAME Ampersat
-VAL pc year=2025 played=2025 female roguelite topdown hscroll vscroll xp=3 realtime exp combat fixed ascii hires free
+VAL pc year=2025 played=2025 female roguelite topdown hscroll vscroll xp=3 realtime exp combat fixed ascii hires free intrapower=?
 For some time already I am of opinion that game developers should look into other roguelike elements rather than the two most common ones (procedural generation and permadeath), and Ampersat goes in this direction, taking the element of "creatures represented as letters". (Also I have played it for free, which also matches the classic roguelike ethos.) The strengths of this graphical style in my opinion are low cost and making the game feel like reading a book -- I do not think Ampersat uses these strengths, though, as the graphics are not consistent (only the player character and creatures use it, the rest is graphical, except the Well area). However, it tries doing its own unique things with it. (I had an idea of a thing that could be done with this style, though, and nice to see Ampersat does it. Won't tell you what, you need to play yourself.) The non-procgen action-RPG gameplay is simple but does not get boring, contrary to some procgen action RPGs.
 
 I like how the "New Game+" features permadeath (IMO permadeath often works better as an option for hardcore players who already know the game). The "well" levels do not seem to be actually procedurally generated (the layouts seem to be designed, only monsters and spawners are placed randomly). Sometimes you can find/spawn a secret chest and then die without collecting its contents, which is annoying. The letters are sometimes hard to recognize, because they are somewhat stylized (for example, the "e" gets an extra line, probably to symbolize elven ears, but it makes it look more like "a") and also rotated.
@@ -651,7 +651,7 @@ A rather typical {The Binding of Isaac}-like, with a theme that the enemies them
 
 GAME Evoland I
 BY Shiro Games
-VAL pc medieval year=2013 played=2023 multigenre rpgstats nonlinear xp=3 multiperspective turnbased=? realtime=? fixed lores midres hires epicfree
+VAL pc medieval year=2013 played=2023 multigenre rpgstats nonlinear xp=3 multiperspective turnbased=? realtime=? fixed lores midres hires epicfree intrapower=?
 A game that tries to simulate the evolution of adventure/RPG games -- as you progress in the game, more and more modern features are introduced.
 Definitely an interesting approach. Unfortunately it focuses mostly on the Japanese console-style games, such as {Legend of Zelda} and {Final Fantasy},
 which I am not a fan of. Does not really go into the Western RPGs, not speaking of roguelikes, except one level clearly inspired by {Diablo}.
@@ -659,7 +659,7 @@ which I am not a fan of. Does not really go into the Western RPGs, not speaking 
 
 GAME Evoland II
 BY Shiro Games
-VAL pc medieval multigenre rpgstats squad return nonlinear year=2015 played=2023 xp=3 multiperspective lores midres hires fixed realtime turnbased stealth epicfree bossfights timebending
+VAL pc medieval multigenre rpgstats squad return nonlinear year=2015 played=2023 xp=3 multiperspective lores midres hires fixed realtime turnbased stealth epicfree bossfights timebending intrapower=?
 This sequel is much better than {Evoland I}. While in E1 more modern features were introduced to match the player progress, E2 has a {Chrono Trigger}-style
 story based on time travel, and when you are in more modern times, the style of the game is more modern too. It is also a great example of a multi-genre
 game -- it includes parts that adhere to a wide choice of genres, all played by the same main characters and their special powers (platformer, fighting game,
@@ -702,7 +702,7 @@ TAGCMT oneofthree
 Refers to picking the hero you play next -- so a bit different than usual.
 
 GAME Salt and Sanctuary
-VAL pc medieval year=2016 played=2023 hscroll vscroll sideview platformer nonlinear=2 return ability soulcheck ghosts xp=3 realtime hires epicfree exp soulcombat bossfights
+VAL pc medieval year=2016 played=2023 hscroll vscroll sideview platformer nonlinear=2 return ability soulcheck ghosts xp=3 realtime hires epicfree exp soulcombat bossfights intrapower
 A good soulsvania. But not much to say about it.
 
 GAME Shapez
@@ -738,7 +738,7 @@ A good spacebending puzzle game where you can control the direction of gravity. 
 Escher himself.
 
 GAME Cat Quest
-VAL pc animaltheme year=2017 played=2023 topdown hscroll vscroll rpgstats xp=3 realtime exp combat rpgquests fixed models epicfree gem=-1
+VAL pc animaltheme year=2017 played=2023 topdown hscroll vscroll rpgstats xp=3 realtime exp combat rpgquests fixed models epicfree gem=-1 intrapower=?
 We did not like this game. It is called "Cat Quest" but it does not really feel like playing as a cat! Everyone feels more like humans dressed as cats, with lots of stupid cat-related
 puns.
 
@@ -751,11 +751,11 @@ TAGCMT platformer
 Close enough to a platformer.
 
 GAME Death's Gambit Afterlife
-VAL pc medieval year=2018 played=2024 ability nonlinear return flick hscroll vscroll sideview platformer ghosts soulcheck xp=4 realtime multiweapon lores epicfree=? exp soulcombat
+VAL pc medieval year=2018 played=2024 ability nonlinear return flick hscroll vscroll sideview platformer ghosts soulcheck xp=4 realtime multiweapon lores epicfree=? exp soulcombat intrapower
 A good soulsvania. With some permanent cost of dying (some endings will not be possible if you died too much), and with Death saying lots of cool things.
 
 GAME Fallout
-VAL pc scifi xp=1 year=1997 played=2007 isometric turnbased grid rpgstats rpgquests rpgequip=? rpgconsume=? diagrid exp combat fixed hscroll vscroll connections lores epicfree gem=-1
+VAL pc scifi xp=1 year=1997 played=2007 isometric turnbased grid rpgstats rpgquests rpgequip=? rpgconsume=? diagrid exp combat fixed hscroll vscroll connections lores epicfree gem=-1 intrapower
 This is one of the most famous Western RPG series. I have tried it, fought some battles (that were less fun than in a roguelike), and reached a town.
 There was a farmer there whom I was able to teach crop rotation. I found it very implausible that, just because of my high intelligence,
 I know about crop rotation, while a person who actually does that job and therefore should be an expert in it has never heard of it.
@@ -791,7 +791,7 @@ A game in the style of {Limbo}, by the same developers, a sequel of sorts: also 
 were more abstract.
 
 GAME Islets
-VAL pc medieval animaltheme year=2022 played=2024 platformer hscroll vscroll flick nonlinear ability return sideview xp=3 realtime bossfights rpgstats fixed hires epicfree exp
+VAL pc medieval animaltheme year=2022 played=2024 platformer hscroll vscroll flick nonlinear ability return sideview xp=3 realtime bossfights rpgstats fixed hires epicfree exp intrapower=?
 A small, fun metroidvania.
 
 GAME Jotun Valhalla Edition
@@ -804,7 +804,7 @@ Beautiful pixel art, one-dimensional exploration, tower defense elements, and th
 is even better.
 
 GAME Marvel Midnight Suns
-VAL pc superhero year=2022 played=2025 arbi3 cardgame turnbased seq squad deckconstruction socialsim xp=3 randomized models photorealistic epicfree
+VAL pc superhero year=2022 played=2025 arbi3 cardgame turnbased seq squad deckconstruction socialsim xp=3 randomized models photorealistic epicfree intrapower
 The game is sometimes described as a {XCOM} with superheroes, and sometimes as a "non-roguelike deckbuilder". It is definitely not a deckbuilder, just a digital CCG, you create
 a collection of more and more cards which lets your superheroes perform more and more powerful actions. Other than using cards, it does feel very much like XCOM, though, with
 some aspects directly taken from it (like a very similar economy). One important part is making friends with your team of superheroes, which involves learning what to say in
@@ -840,11 +840,14 @@ A kind of card battle game, I found nothing interesting about it.
 
 GAME Sundered Eldritch Edition
 AKA Sundered
-VAL pc lovecraftian female year=2017 played=2023 hscroll vscroll procgen return sideview platformer xp=3 realtime hires epicfree exp randomized bossfights ability gem=2
+VAL pc lovecraftian female year=2017 played=2023 hscroll vscroll procgen return sideview platformer xp=3 realtime hires epicfree exp randomized bossfights ability gem=2 intrapower
 A very good metroidvania. It includes the "roguelike" tag, but it is actually a rather standard metroidvania, only parts of the map you explore on the way to the bosses
 are somewhat randomized. I have seen many bad comments about this game, some people assume more roguelike elements and are not satisfied, while metroidvania fans are
 very annoyed by "roguelike elements" and disqualify the game altogether because of that low amount of randomness. I think it is a very good game despite that confusing
 marketing. It has some replayability, there are two main paths of upgrades your character could choose.
+
+TAGCMT I consider its power progression "intrapower", although you could also consider different excursions to be "runs" and call it metapower, but, as follows from the review,
+probably not a good way of looking at it.
 
 GAME The Talos Principle
 VAL pc scifi year=2014 played=2020 fpp logic xp=3 timeless fixed seq photorealistic models epicfree timebending
@@ -875,7 +878,7 @@ One not well known fact is that its graphics have been taken from a roguelike {C
 ridiculous metaprogression, but I did not feel it was a problem either -- there is enough variety between the different characters and maps to make the game rarely feel repetitive.
 
 GAME XCOM II
-VAL pc scifi aliens year=2016 played=2023 isometric hscroll vscroll seq procgen squad rpgstats rpgequip rpgconsume xp=3 turnbased exp shooter economy photorealistic models epicfree randomized
+VAL pc scifi aliens year=2016 played=2023 isometric hscroll vscroll seq procgen squad rpgstats rpgequip rpgconsume xp=3 turnbased exp shooter economy photorealistic models epicfree randomized intrapower=?
 This is a sequel to famous {XCOM} games, itself a sequel of {Rebelstar}, one of my favorite early games. A good game altogether, although I preferred the Action Point-based gameplay of the
 earlier games in the series.
 
@@ -965,12 +968,12 @@ A very good game, but it seems its developers' decision of marketing the game as
 The term made more sense in {Dream Quest}.
 
 GAME Terraria
-VAL pc year=2011 xp=4 played=2017 notheme survival crafting destructible realtime procgen randomized openworld sideview platformer hscroll vscroll midres simulationism exp ext bossfights traps multiplayer
+VAL pc year=2011 xp=4 played=2017 notheme survival crafting destructible realtime procgen randomized openworld sideview platformer hscroll vscroll midres simulationism exp ext bossfights traps multiplayer intrapower
 I could not find what games inspired it, but seems to be a mix between {Minecraft} and some {Diablo}-like. Anyway, one of the most popular games inspired by the {roguelike philosophy}.
 Great procedural generation, Diablo-style item affixes, and so on. A bit grindy sometimes, but very fun anyway.
 
 GAME Bloodstained: Ritual of the Night
 BY Koji Igarashi
 BY country: Japan
-VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip rpgconsume bossfights multiweapon xp=3 realtime fixed hires secrets=?
+VAL year=1997 played=2022 gothic sideview platformer flick hscroll vscroll ability return sideview nonlinear rpgstats rpgequip rpgconsume bossfights multiweapon xp=3 realtime fixed hires secrets=? intrapower
 This is a game made by Koji Igarashi as a spirital successor to {Castlevania: Symphony of the Night} (and other games in the Castlevania series he worked on). Very good.

@@ -471,11 +471,19 @@ TAG nopersist
 While you can reenter locations you have been to before, they will be regenerated.
 
 TAG unlocks
-After playing the game, you can play it again in new ways that were originally locked. Includes both
-the common feature in modern run-based games designed to make the players feel they achieved something, and 'new game plus'-style upgrades.
+After playing the game, you can play it again in new ways that were originally locked.
+Includes both
+the common feature in modern run-based games, and 'new game plus'-style upgrades.
+The discussion on the {roguelite philosophy} explains why {tag:metapower} is seen as a bad thing; unlocks are not as bad,
+but when overused, they also force the player to play the game in a way they find a waste of time to see all the content (for example,
+forced playing on "easy" mode for players who would prefer to play "hard" right away).
+Those new options may be easier than the original ones, making the game easier, but that does not count as {metapower} (due to subjectivity).
 
 TAG itemlock
 Playing the game unlocks new items in the future runs that could be found randomly.
+Feels different from {unlocks}, although qualitatively it is kind of similar. Those new items may be more powerful or less powerful
+than the original items, making the game, respectively, easier or harder. Even if they make the game easier, that does not count as {metapower},
+due to subjectivity.
 
 TAG ghosts
 When you die, the game remembers where it happened, affecting the gameplay somehow (you find some XP/loot when you return to the same location, 
@@ -489,12 +497,9 @@ The game has checkpoints which restore your health, but also regenerate the enem
 TAG metapower
 The game becomes significantly easier as you play it repeatedly, not because of your skill or knowledge, but because of some meta effect in the game.
 (I use "metapower" not "metaprogression" because metaprogression is less precise and may also refer to {tag:unlocks}, {tag:itemlock}, {tag:ghosts}
-and so on.) It is possible to use metapower for good reasons: to avoid bombarding new players with all the features of a complex game right away, and to
-provide a "character growth" arc for a game. There are some games with metapower that I like. Unfortunately, it has the same problem as forced
-permadeath: it forces players to replay a game, even if they no longer find it fun, to see all the content; and since fun is subjective, it is
-generally impossible to design metapower in a way satisfying to everyone. On top of that, metaprogression is often used a {dark} pattern: it is
-impossible (or virtually impossible) to win without metaprogression, or, alternatively, even if you win, it won't unlock the content, you have to
-win multiple times. Since there is no clear way to distinguish good and dark metapower, they use the same tag, although {newgameplus} is different.
+and so on.) A big part of the discussion regarding the {tag:intrapower} tag also applies to metapower; the discussion below is, in some sense,
+a restatement. Metapower may be good, but it tends to turn out bad; see the discussion of the {roguelite philosophy}.
+Since there is no clear way to distinguish good and {dark} metapower, they use the same tag.
 
 GROUP worldstructure
 Structure of the game world.
@@ -673,6 +678,34 @@ You can get quests from NPCs and complete them.
 
 TAG rpgclasses
 You can play as one of multiple classes (or an equivalent kind of choice: follow different gods, be of different races, be one of multiple ships, etc.)
+
+TAG intrapower
+It is possible to gain power by performing activities repeatedly. For example, killing monsters to gain XP in an RPG with unlimited monsters to fight,
+or collecting 100 pieces of iron ore to craft an iron sword (where those 100 pieces are obtained by doing the same thing 100 times). It does not
+count if the power gain is tightly limited to prevent repetitive play (for example, there is some clock resource such as food -- of course, this
+only works if that resource cannot be replenished by grinding). The prefix <i>intra</i> is the opposite of <i>meta</i>, where the power is gained
+between runs; {tag:metapower} is considered a different thing.
+
+This kind of gameplay may feel boring due to its repetitiveness -- if so, I refer to it as "grinding". Furthermore, in some games, grinding can be in
+fact necessary for progression. This tag is not supposed to refer only to "grinding" (which is a subjective classification since "boring" is subjective);
+if I am able to win the game after thoroughly exploring the map (and the map is not too large) but it is still possible to replay maps to gain more
+power, the "intrapower" tag is added, although such a game probably does not feel grindy to me.
+
+In the mastery gaming philosophy, grinding is criticized. Why reward performing boring activities repeatedly? Why not put a limit on the power that could
+be gained, so that the game will always be challenging? Why collecting just 1 piece of ore won't be enough? Why not just remove the grind, by granting the
+power immediately? Grinding may be considered especially bad in roguelikes played permadeath, where grinding feels especially bad if your character
+eventually dies despite all this "work". Anti-grind is an explicit
+part of the {Dungeon Crawl Stone Soup} design philosophy, which had huge influence on my game design (especially {HyperRogue}), as well as modern
+{roguelike} and {roguelite} design ({The Binding of Isaac} and its descendants probably take it from DCSS).
+
+However, from the perspective of {CRPG philosophy}, grinding is not necessarily that bad: you are simply role-playing a character who is preparing
+themselves for the challenges ahead. (Therefore, "removing" it is not a desirable option.) In roguelikes, it could be argued that power gain may
+be useful as a way to gain resources which you were lacking solely due to bad luck (necessary resources not being generated in the given run);
+you lose less time playing repetitively to gain these resources, than playing the whole game from the start and hoping for more luck the next time.
+Some people consider pre-DCSS or other roguelikes not adhering to the anti-grind philosophy to be better designed due to this.
+
+In strategy games it might be possible to get into a situation where you are much more powerful than your enemy, and instead of crushing the enemy
+right away, you could still gain more power; this is not considered grinding because it is not clear why you would do so.
 
 GROUP graphics
 

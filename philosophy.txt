@@ -26,8 +26,15 @@ it is essentially meaningless as a method of categorizing games -- mostly anythi
 played permadeath or not, as a player's choice; and furthermore, this philosophy is more
 generic to many {strategy} games, and even solitaires from XIXth century. (In early roguelike
 definitions it was not mentioned or more of a quality measure.)
-This philosophy
-has inspired the {roguelite philosophy}.
+This philosophy has inspired the {roguelite philosophy}, although later, that philosophy
+has diverged.
+
+Nevertheless, I think a game such as {Dungeon Crawl Stone Soup} does turn permadeath into something
+actually interesting (rather than just a "git gud" skill check) -- I mean, strategical resource
+management: you get a limited amount of resources and you need to use them correctly to
+minimize the probability of not surviving an encounter. Still, this is just a combination
+of having such resources ({rpgconsume}) and anti-grinding (no {intrapower}), done extremely
+well, rather than some new quality.
 
 There is also the philosophy of open-source community development -- people making fun
 games for themselves, and letting others to build on them -- that is otherwise
@@ -43,10 +50,22 @@ VAL philosophy pc notheme year=2008 ea=1986 xp=4 played=2008 gambletheme combat 
 The roguelite philosophy started as a combination of the mastery {roguelike philosophy} and the
 {arcade philosophy}: procedural generation of roguelikes, short runs of arcade games.
 While early roguelites such as {Spelunky} were philosophically similar to hardcore roguelikes,
-further on roguelites started encompassing more and more {dark} patterns: {tag:metapower},
-flashy gambling themes, gambling-style randomness, and so on. Procedural generation was replaced
-with {tag:enginebuilder} mechanics, which feels a bit similar in the way it makes every run
-different, but is technically a very different thing.
+further on roguelites started encompassing more and more {dark} patterns: {tag:metapower}
+and other forms of metaprogression, flashy gambling themes, gambling-style randomness, and so on.
+Procedural generation was replaced with {tag:enginebuilder} mechanics, which feels a bit similar
+in the way it makes every run different, but is technically a very different thing.
+
+There are some games with metaprogression that I like; it could be used to provide a "character growth" arc.
+Features such as {tag:unlocks} and {tag:itemlock} may be used to avoid overwhelming the player with
+content they would not understand immediately. Unfortunately, it has the same problem as
+forced permadeath: it forces players to replay a game, even if they no longer find it fun, to
+see all the content; and since fun is subjective, it is generally impossible to design metaprogression
+in a way satisfying to everyone. It is also commonly impossible (or virtually impossible) to win
+without metaprogression, or, alternatively, even if you win, it won't unlock the content, you have to
+win multiple times. Some players like metaprogression because it makes them feel
+they achieved something -- although the opponents of metaprogression counter this by noticing that
+the reward is not a real thing, only some in-game currency, and the game (or a cheat engine) could
+as well have given the "reward" right away and that would make it more fun.
 
 GAME metroidvania philosophy
 AKA metroidvania
