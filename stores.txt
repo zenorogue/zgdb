@@ -280,7 +280,8 @@ Probably the most well-known science game. I have tried it, but am not actually 
 
 GAME Kingdom Two Crowns
 VAL pc medieval xp=3 year=2018 played=2022 onedim procgen defense army hscroll realtime lores multiplayer randomized
-A game in the same style as {Kingdom New Lands}, but improved: more logical rules, can be played by two people.
+Beautiful pixel art, one-dimensional exploration, tower defense elements, and the system of make this game original, and very fun. Can be played by two people!
+This is better than the earlier game in the series, {Kingdom New Lands}.
 TAGCMT onedim
 The game feels very one-dimensional, so it deserves the onedim tag, although technically the archers shoot arrows upwards (to avoid walls) so the second dimension exists too.
 
@@ -800,8 +801,9 @@ A game where you mostly explore large maps, and fight bosses at the end of every
 
 GAME Kingdom New Lands
 VAL pc medieval year=2016 played=2020 onedim hscroll defense army xp=4 realtime randomized procgen economy lores
-Beautiful pixel art, one-dimensional exploration, tower defense elements, and the system of make this game original, and very fun. The next entry in the series, {Kingdom Two Crowns},
-is even better.
+A predecessor of {Kingdom Two Crowns}, with similar beautiful pixel art and original gameplay.
+You cannot really "win" against the Greed: some portals cannot be destroyed, and eventually, the winter comes and lasts forever;
+I do not like these aspects, better to play Kingdom Two Crowns, which has a more interesting structure, and you can eventually win.
 
 GAME Marvel Midnight Suns
 VAL pc superhero year=2022 played=2025 arbi3 cardgame turnbased seq squad deckconstruction socialsim xp=3 randomized models photorealistic epicfree intrapower
