@@ -262,7 +262,7 @@ have more personality (they all have unique skills and powers), and the arenas a
 
 GAME Invisible Inc
 BY Klei Entertainment
-VAL pc scifi xp=4 roguelite year=2015 played=2015 isometric hscroll vscroll turnbased seq rpgstats rpgconsume procgen models exp stealth randomized manualsave
+VAL pc scifi xp=4 roguelite year=2015 played=2015 isometric hscroll vscroll turnbased seq rpgstats rpgconsume procgen models exp stealth randomized manualsave difflevels
 
 A stealth-focused turn-based tactics game, a bit like {XCOM II} (the isometric graphics style and mission selection), with procedurally generated maps and
 intended to be played with permaconsequence, although on easier modes you have some options to revert your moves. 
@@ -632,7 +632,7 @@ TAGCMT cardgame
 Tagged with cardgame, although it is actually dice.
 
 GAME Celeste
-VAL pc female played=2022 year=2018 sideview platformer flick xp=2 realtime fixed lores exp epicfree gem=-1
+VAL pc female played=2022 year=2018 sideview platformer flick xp=2 realtime fixed lores exp epicfree gem=-1 difflevels
 A well-known precision platformer with some psychological themes. I did not find it fun.
 
 GAME Darkest Dungeon
@@ -725,12 +725,12 @@ VAL pc moderntheme year=2019 played=2020 topdown hscroll vscroll xp=3 hires real
 A rather well-known, non-combat-focused exploration game, where you are just hiking in the hills.
 
 GAME Bioshock
-VAL pc uniquetheme aquatic played=2024 year=2007 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree traps ammolimit
+VAL pc uniquetheme aquatic played=2024 year=2007 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree traps ammolimit difflevels
 A first-person shooter that feels a bit like a movie, with a nice story and original Art Deco level design. I see some people call it an immersive sim and some do not,
 no idea who is right, but I definitely see lots of similarities to {Deus Ex} (although I have not heard about immersive sims yet when playing Bioshock).
 
 GAME Bioshock II
-VAL pc uniquetheme aquatic played=2024 year=2016 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree bossfights traps ammolimit
+VAL pc uniquetheme aquatic played=2024 year=2016 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree bossfights traps ammolimit difflevels
 A good sequel to Bioshock. 
 
 GAME The Bridge

@@ -2,7 +2,7 @@
 
 GAME Diablo
 BY Blizzard
-VAL year=1997 played=2000 xp=3 pc helltheme realtime grid isometric hscroll vscroll xp=3 gem=1 diagrid rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer return nonlinear exp combat manualsave bossfights
+VAL year=1997 played=2000 xp=3 pc helltheme realtime grid isometric hscroll vscroll xp=3 gem=1 diagrid rpgequip rpgconsume rpgstats rpgquests bossfights photorealistic procgen randomized multiplayer return nonlinear exp combat manualsave bossfights difflevels
 
 Diablo is usually credited as an inventor of the ARPG genre, but it should be called Action Roguelike instead,
 as the first extremely successful game that was very similar to roguelikes (specifically {Angband}) but replaced
@@ -68,7 +68,7 @@ Also not at all similar to the first {Dune} game, which was a rather unique game
 
 GAME Stars!
 AKA Stars
-VAL year=1995 played=1995 pc turnbased xxxx xp=3 scifi gem=1 army procgen randomized hscroll vscroll shapegfx topdown multiplayer economy manualsave nonlinear
+VAL year=1995 played=1995 pc turnbased xxxx xp=3 scifi gem=1 army procgen randomized hscroll vscroll shapegfx topdown multiplayer economy manualsave nonlinear difflevels=?
 Stars! is a scifi 4X game that probably should be remembered more. You design your own ships by choosing the components to install
 on hulls, very fun. A nice research system where you do not study specific technologies, but areas, for example to
 install more powerful Missile weapons, you need to study Weapons and Propulsion technology.
@@ -143,7 +143,7 @@ A clone of {Arcade Volleyball} with nicer graphics. I preferred the original.
 GAME Civilization
 BY Sid Meier
 BY MicroProse
-VAL year=1991 played=1993 pc grid turnbased xxxx xp=4 hscroll vscroll history randomized nonlinear procgen hexgrid topdown lores economy army manualsave
+VAL year=1991 played=1993 pc grid turnbased xxxx xp=4 hscroll vscroll history randomized nonlinear procgen hexgrid topdown lores economy army manualsave difflevels
 This is of course a famous series of games that everybody should play. 
 The classic 4X game, I have played it quite a lot. Everyone knows it, so not much point to talk much about it.
 
@@ -373,7 +373,7 @@ destroyed; you could also buy fuel to move them. Lots of possible fun weapons, s
 Very configurable. (Technically shareware game, I have played only the free version, the differences in the paid version did not seem substantial.)
 
 GAME Heroes of Might and Magic II
-VAL pc year=1996 played=1998 turnbased grid medieval xp=2 diagrid hexgrid topdown fixed seq hscroll vscroll lores rpgstats multiplayer exp combat modalbattle manualsave leveleditor=?
+VAL pc year=1996 played=1998 turnbased grid medieval xp=2 diagrid hexgrid topdown fixed seq hscroll vscroll lores rpgstats multiplayer exp combat modalbattle manualsave leveleditor=? difflevels
 A good game, but {Heroes of Might and Magic III} was better. HoMM2 had a bit less fun design (you could only have 5 unit stacks in your army, 
 while your castles produced 6), less upgradeable units, less interesting artifacts, etc.
 
@@ -390,7 +390,7 @@ Similar to {Warlords} but better. It was clearly explained which units have whic
 Heroes could get experience to further increase their power. The units were quite fun, you could also buy an ability to produce new units in cities.
 
 GAME Heroes of Might and Magic III
-VAL pc year=1999 played=2000 turnbased grid gem=2 medieval xp=3 diagrid hexgrid topdown fixed seq hscroll vscroll lores models rpgstats multiplayer exp combat modalbattle manualsave leveleditor
+VAL pc year=1999 played=2000 turnbased grid gem=2 medieval xp=3 diagrid hexgrid topdown fixed seq hscroll vscroll lores models rpgstats multiplayer exp combat modalbattle manualsave leveleditor difflevels
 This game was a big hit in Poland, but seems rarely discussed eleswehere. A combination of strategy game (tactical hex grid battles, resource management
 via capturing mines and upgrading town structures) and some RPG/fantasy elements (exploration of a fantasy map, stats, spellcasting).
 The heroes act as commanders, they do not fit by themselves. Could be played hotseat (I played only cooperatively). Still has mods created.
@@ -524,7 +524,7 @@ not the 1984 original, though. You trade goods, fly in space, and there is also 
 GAME Sid Meier's Pirates
 BY Sid Meier
 BY MicroProse
-VAL pc amiga year=1986 played=1995 pirate multigenre shooter slasher realtime economy xp=4 multiperspective topdown sideview randomized minigames vscroll hscroll nonlinear overworld openworld modalbattle endless ascii lores nonlinear return
+VAL pc amiga year=1986 played=1995 pirate multigenre shooter slasher realtime economy xp=4 multiperspective topdown sideview randomized minigames vscroll hscroll nonlinear overworld openworld modalbattle endless ascii lores nonlinear return difflevels
 I have played the Amiga version of Pirates, then the PC version, quite a lot. (The original was Commodore 64.)
 The gameplay was mostly the same, although the Amiga version had better graphics. An interesting implementation of sailing.
 It does have some similarity to {Sapiens} (a similar style of interface,
@@ -745,7 +745,7 @@ VAL year=2006 played=2007 moderntheme xp=2 moderntheme autoscroll musicgame fpp 
 An open-source remake of {Guitar Hero}. Holding your keyboard like a guitar sounds fun, although I have not played it like that.
 
 GAME Battle for Wesnoth
-VAL year=2003 played=2005 medieval turnbased grid hexgrid army topdown fixed seq lores xp=3 exp combat free manualsave multiplayer gem=1
+VAL year=2003 played=2005 medieval turnbased grid hexgrid army topdown fixed seq lores xp=3 exp combat free manualsave multiplayer gem=1 difflevels
 A well-known open-source fantasy strategy game, with some RPG elements, such as heroes who have their stories and can sometimes use items,
 and XP-based advancement. It is sometimes compared to {Fire Emblem}, although I have not played that one.
 I think I have played all the official campaigns available. Although not very seriously -- I do not feel the
@@ -814,7 +814,7 @@ I have played the demo. A good {DROD}-like!
 GAME Evil Islands
 AKA Evil Islands: Curse of the Lost Soul
 BY country: Russia
-VAL pc year=2000 played=2005 xp=3 medieval pauseable engineering models rpgequip crafting squad rpgquests rpgconsume=? rpgstats arbi3 seq fixed nonlinear
+VAL pc year=2000 played=2005 xp=3 medieval pauseable engineering models rpgequip crafting squad rpgquests rpgconsume=? rpgstats arbi3 seq fixed nonlinear difflevels
 An action RPG recommended to me by a friend (who liked it for the necromancer player character appearing later), with some stealth focus, and
 constructing armor and spells out of components. I do not think it was that special.
 
@@ -999,7 +999,7 @@ infantry constructed out of individual soldiers is nice, and there are some movi
 
 GAME FTL
 BY Subset Games
-VAL year=2012 played=2013 scifi spaceopera xp=1 roguelite vehicles pauseable unlocks topdown exp combat squad vehicles randomized procgen trail lores seq epicfree manualsave
+VAL year=2012 played=2013 scifi spaceopera xp=1 roguelite vehicles pauseable unlocks topdown exp combat squad vehicles randomized procgen trail lores seq epicfree manualsave difflevels
 One of the best and most influential roguelike-likes, that popularized the system of travelling on a graph map and interacting with various events, later
 popularized further by {Slay the Spire} (although FTL took inspiration from {Strange Adventure In Infinite Space}, and this is closer to {Oregon Trail} than {Rogue}).
 A great game that somehow seems overshadowed by spire-likes.

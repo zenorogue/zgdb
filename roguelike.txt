@@ -102,7 +102,7 @@ savescumming.
 GAME Doom, the Roguelike
 BY ChaosForge
 BY country: Poland
-VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=3 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized
+VAL pc year=2005 played=2005 roguelike helltheme xp=4 gem=3 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp combat ascii lores multiweapon seq vscroll hscroll economy ext free randomized difflevels
 AKA DRL
 AKA DoomRL
 This game takes Doom and changes its genre to roguelike. I consider it a very important contribution to the history of video gaming,
@@ -602,7 +602,7 @@ A queer roguelike based on the concept of possession: the enemies you kill can b
 So, a small roguelike with lots of fun and original ideas, so worth to try.
 
 GAME Path of Achra
-VAL pc roguelike uniquetheme year=2024 played=2024 turnbased grid rpgequip rpgstats topdown procgen rpgclasses diagrid=? exp combat lores enginebuilder seq xp=4 randomized free=? oneofthree overworld gem=1
+VAL pc roguelike uniquetheme year=2024 played=2024 turnbased grid rpgequip rpgstats topdown procgen rpgclasses diagrid=? exp combat lores enginebuilder seq xp=4 randomized free=? oneofthree overworld gem=1 difflevels
 A great game pushing the roguelike genre in new directions. While still remaining a true roguelike. Quite universally loved.
 The industry have tried to hide roguelikes by shadow-releasing {Hades} II on the same day, or something.
 TAGCMT free
@@ -631,7 +631,7 @@ A 7DRL based on turning SpelunkyRL back into a roguelike, with ASCII display, tu
 although I was not interested enough to actually play more seriously.
 
 GAME Tales of Maj'Eyal
-VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized intrapower=?
+VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized intrapower=? difflevels
 BY DarkGod
 BY country: France
 This is one of the most popular roguelikes, with a long history going back to a variant of {Angband}, called "Troubles of Middle Earth",

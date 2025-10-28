@@ -483,7 +483,7 @@ I think it was a clone of an arcade game called Pango. Levels are filled with bl
 
 GAME Zub
 BY Mastertronic
-VAL year=1986 played=1988 cpc realtime sideview platformer xp=4 scifi weirdtheme hscroll vscroll lores fixed blackboard gem=2
+VAL year=1986 played=1988 cpc realtime sideview platformer xp=4 scifi weirdtheme hscroll vscroll lores fixed blackboard gem=2 difflevels
 An original game that I have played quite a lot. You had to use platforms to climb the sky, you had to move the platforms if they were not aligned correctly with the higher ones.
 Featured lots of weird text on the intro screen (and in other places). Cool music by David Whittaker.
 
@@ -714,7 +714,7 @@ I do not remember much more than the nice graphics, and that you had to pump oxy
 # https://ftpmirror.infania.net/sites/www.cpcgamereviews.com/p/index.html
 
 GAME Battle Ships
-VAL cpc year=1987 played=1988 military lores multiperspective topdown fpp grid orthogrid tiny randomized turnbased xp=3 multiplayer=? shooter shapepuzzle
+VAL cpc year=1987 played=1988 military lores multiperspective topdown fpp grid orthogrid tiny randomized turnbased xp=3 multiplayer=? shooter shapepuzzle difflevels=?
 Basically a computer adaptation of a popular pencil-and-paper game about placing your ships on a grid and then guessing where your enemy put their ships.
 With some cool graphics, you would see actual cannonballs flying at the enemy ships (but somehow you would actually see these skips in these graphics, so
 couldn't you just aim at them instead of guessing?...)

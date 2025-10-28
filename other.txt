@@ -155,7 +155,7 @@ Sometimes people want to play Chess with me, assuming that I am very good at it 
 GAME Go
 AKA Igo
 AKA Baduk
-VAL nonvideo year=-548 played=1993 gem=1 xp=2 abstract turnbased army fixed tiny
+VAL nonvideo year=-548 played=1993 gem=1 xp=2 abstract turnbased army fixed tiny difflevels
 BY country: Japan
 An ancient boardgame. Probably not as popular outside of Japan as it should. It has a great handicap system to make players of different skill levels enjoy the game. Although
 it appears that expert Go players playing against noobs love to win by 5 points instead of crushing them.
@@ -417,7 +417,7 @@ The mechanics are not clear, I have no idea what "ATK amplification" is supposed
 GAME Colonization
 BY Sid Meier
 BY MicroProse
-VAL pc year=1994 played=1996 xp=3 history topdown turnbased exp combat xxxx procgen randomized grid diagrid economy vscroll hscroll lores nonlinear
+VAL pc year=1994 played=1996 xp=3 history topdown turnbased exp combat xxxx procgen randomized grid diagrid economy vscroll hscroll lores nonlinear difflevels
 A sequel to {Civilization} of sorts. The gameplay is quite similar to Civilization, but you are only tasked with conquering the New World, originally as England, Spain, France
 or the Netherlands; the Old World exists only as a place you trade with. The game has a very strong American focus -- the goal is to become an independent nation
 (why not try being friendly with the old world instead?), instead of scientists, you have statesmen who provide bonuses by making the colonies politically stronger,
@@ -456,7 +456,7 @@ and that other game is now referred to as {LDC} or {DCSS}.
 # recent games
 
 GAME Tunic
-VAL pc year=2022 played=2025 xp=2 animaltheme isometric connections hscroll vscroll ability return nonlinear ghosts realtime exp combat models megaitch bossfights rulediscovery secrets riddles
+VAL pc year=2022 played=2025 xp=2 animaltheme isometric connections hscroll vscroll ability return nonlinear ghosts realtime exp combat models megaitch bossfights rulediscovery secrets riddles difflevels
 This is considered one of leading examples of the "metroidbrainia" genre. After playing it, I still do not feel that I understand the idea of this "genre". You still collect upgrades like in a
 typical metroidvania. You collect manual pages during the game, and these manual pages are filled with puzzles, and occassionally explain some combination of keys that is crucial to the
 progression. So, similar to {Animal Well}, to me, it is just a metroidvania with some secrets and riddles, rather than some new quality.

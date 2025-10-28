@@ -839,7 +839,24 @@ TAG passsave
 The game saves passwords.
 
 TAG difflevels
-The game has multiple difficulty levels.
+The game has multiple difficulty levels. As in, an optional feature that makes the game easier or harder (less enemy HP, etc.).
+
+Optional permadeath does not count because it is too cheap. This is not a criticism -- in a roguelike, optional permadeath is a
+great way to make the game harder for more hardcore players, and also accessibile for those who do not want to master the game;
+however, this tag is about more sophisticated takes on difficulty.
+
+This includes harder modes unlocked after playing the game (the canonical example is {Slay the Spire} ascension or {Larn} taxes),
+although I do not like this feature, because why not let me play the harder modes right away? (Although playing the game again
+as an advanced character fighting against more advanced monsters, like in {Diablo II}, is not considered a difficulty level.)
+
+It is likely that this tag is forgotten for many games -- it is generally something you pick at the start and do not change,
+so it is easy to forget. Difficulty options may be also hidden in setting menus.
+
+Difficulty options are a very good thing in general, although there is a problem that you do not know what the developer
+means by, say, the "normal" difficulty (it is good to let the player switch during the run, although not in all types of
+games it would make sense). It is also not clear whether a "harder" mode is actually good -- it might just force to grind more,
+for example. And whether it is actually harder -- if you get more XP and loot for destroying more difficult enemies, and
+therefore you are stronger, being harder is debatable.
 
 TAG multiweapon
 The game has a choice between multiple weapons which are significantly different.
