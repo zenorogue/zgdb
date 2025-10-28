@@ -382,7 +382,7 @@ It made me realize that {Hydra Slayer} could be marketed as a "roguelike deckbui
 GAME Final Fantasy
 BY Square
 BY country: Japan
-VAL console year=1992 played=2025 xp=1 topdown modalbattle fixed rpgclasses rpgstats rpgequip=? rpgconsume=? medieval anime turnbased exp combat nonlinear=?
+VAL console year=1992 played=2025 xp=1 topdown modalbattle fixed rpgclasses rpgstats rpgequip=? rpgconsume=? medieval anime turnbased exp combat nonlinear=? rpgquests=?
 Why are the names of the games in this series so similar to each other (just numbered 1 to 16), should not the first one be "final"? I have tried one recently, but not very seriously,
 and I do not remember which one it was (I think it was Final Fantasy V).
 
@@ -538,7 +538,7 @@ the enemies were interesting.
 
 GAME Wonder Boy in Monster Land
 BY country: Japan
-VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq gem=1
+VAL amiga year=1987 played=1991 sideview hscroll vscroll xp=4 medieval realtime exp combat fixed lores seq gem=1 multiweapon=0.5
 Quite a fun game! I played it a lot. A sequence of big levels, you could find cash to upgrade your equipment, including better swords and some limited-use stuff such as bombs.
 Unfortunately I have been unable to play it on a emulator.
 
@@ -577,7 +577,7 @@ not have the {tag:roguelike} system of controlling the flow of time, so I found 
 
 GAME The Binding of Isaac
 BY Edmund McMillen
-VAL pc year=2011 played=2012 gem=-2 xp=1 weirdtheme roguelite topdown realtime dodger combat randomized procgen idminigame unlocks itemlock seq bossfights modalbattle flick hires ext secrets
+VAL pc year=2011 played=2012 gem=-2 xp=1 weirdtheme roguelite topdown realtime dodger combat randomized procgen idminigame unlocks itemlock seq bossfights modalbattle flick hires ext secrets enginebuilder=0.5
 I played this game expecting something similar to a roguelike, but I did not get it. No procedurally generated maps, no strategically picking whether or where you fight --
 instead, rooms which lock their doors in combat. No items like in a normal RPG -- instead, arcade-ish upgrades. And, to mention the obvious, the gameplay is more like
 {Zelda} than {Rogue}. So I found it a very bad game.

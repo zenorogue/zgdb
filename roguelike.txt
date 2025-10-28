@@ -1,5 +1,5 @@
 GAME Rogue
-VAL roguelike year=1980 played=2000 gem=2 palmos pc xp=2 medieval turnbased grid rpgequip rpgconsume topdown procgen traps idminigame diagrid mainframe exp combat ascii lores seq free randomized ammolimit manualsave secrets traps
+VAL roguelike year=1980 played=2000 gem=2 palmos pc xp=2 medieval turnbased grid rpgequip rpgconsume topdown procgen traps idminigame diagrid mainframe exp combat ascii lores seq free randomized ammolimit manualsave secrets traps economy
 
 I have played the PalmOS version of Rogue.
 
@@ -55,7 +55,7 @@ GAME Ancient Domains of Mystery
 BY Thomas Biskup
 BY zenorogue
 BY country: Germany
-VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps gem=2 intrapower
+VAL xp=5 pc roguelike tolkien year=1994 played=1999 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld nonlinear procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii hires nonlinear connections overworld ext free randomized manualsave rulediscovery secrets traps gem=2 intrapower multiweapon=0.5
 AKA ADOM
 In the {GSNband} readme I have found some references to another roguelike called {ADOM}, and it looked interesting. {Valhalla} and
 {GSNband} had graphical tiles, while ADOM had only the ASCII display; it took me some time to bring myself to play that, and then
@@ -81,13 +81,13 @@ Has a reputation of being grindy.
 
 GAME ZAngband
 BY community
-VAL pc xp=0 roguelike tolkien year=1994 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld ext free randomized bossfights manualsave secrets traps intrapower
+VAL pc xp=0 roguelike tolkien year=1994 turnbased grid rpgequip rpgconsume rpgstats rpgquests topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld free randomized bossfights manualsave secrets traps intrapower ext
 I have not played Zelazny Angband itself, but I have played a variant named {GSNband}.
 
 GAME GSNband
 BY community
 BY country: Poland
-VAL pc roguelike tolkien year=1998 played=1998 xp=3 turnbased grid rpgequip rpgconsume rpgquests rpgstats topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld ext free randomized bossfights manualsave secrets traps intrapower
+VAL pc roguelike tolkien year=1998 played=1998 xp=3 turnbased grid rpgequip rpgconsume rpgquests rpgstats topdown hscroll vscroll overworld procgen nopersist rpgclasses destructible traps idminigame diagrid exp combat ascii midres hscroll vscroll connections overworld free randomized bossfights manualsave secrets traps intrapower
 This is the first game I played that was called roguelike. (I played {Ragnarok} before but I did not know it was a roguelike.)
 One of my classmates has found it on a CD attached to some magazine, containing many free games, and quite a lot of us got obsessed with it.
 
@@ -122,7 +122,7 @@ A famous figure in the roguelike circles. He created {POWDER}, regularly created
 
 GAME Brogue
 BY community
-VAL pc roguelike medieval xp=4 year=2009 played=2009 turnbased grid rpgequip rpgconsume rpgstats topdown return procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii blackboard multiweapon connections ext free randomized traps
+VAL pc roguelike medieval xp=4 year=2009 played=2009 turnbased grid rpgequip rpgconsume rpgstats topdown return procgen return rpgclasses destructible traps idminigame diagrid exp combat ascii blackboard multiweapon connections ext free randomized traps economy
 Brogue is one of the most popular games in the roguelike community, and it is considered one of the most similar to Rogue.
 However, I think that this similarity is a bit overrated: there are still substantial improvements and differences. In Rogue
 you only descend, in Brogue you can go up and down; Brogue is highly focused on using enchantment scrolls to create your
@@ -581,7 +581,7 @@ NotEye did it before Jupiter Hell). ({Jupiter Hell Classic} is more of a modern 
 GAME Jupiter Hell Classic
 BY ChaosForge
 BY country: Poland
-VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized gem=1
+VAL pc roguelike scifi helltheme xp=2 year=2025 played=2025 turnbased grid rpgequip rpgconsume rpgstats topdown procgen rpgclasses destructible diagrid shooter exp lores multiweapon seq randomized gem=1 manualsave
 JHC is a greatly improved version of {DRL}. 
 A total conversion, so not just DoomRL reskinned -- but that is great.
 
@@ -631,7 +631,7 @@ A 7DRL based on turning SpelunkyRL back into a roguelike, with ASCII display, tu
 although I was not interested enough to actually play more seriously.
 
 GAME Tales of Maj'Eyal
-VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized intrapower=? difflevels
+VAL pc roguelike medieval xp=2 year=1998 played=2010 turnbased grid rpgequip rpgstats topdown hscroll vscroll procgen return rpgclasses destructible=? diagrid exp combat ascii hires connections overworld free randomized intrapower=? difflevels rpgquests
 BY DarkGod
 BY country: France
 This is one of the most popular roguelikes, with a long history going back to a variant of {Angband}, called "Troubles of Middle Earth",
@@ -857,7 +857,7 @@ This is one of the most popular roguelikes, although I have not tried
 it myself. The focus on being a machine reminds me of {Dungeoneers}.
 
 GAME Crablike
-VAL pc roguelike year=2025 aquatic played=2025 turnbased grid rpgequip rpgstats rpgconsume topdown nonlinear return procgen return rpgclasses traps idminigame diagrid exp combat ascii overworld connections xp=3 economy free randomized oneofthree secrets traps
+VAL pc roguelike year=2025 aquatic played=2025 turnbased grid rpgequip rpgstats rpgconsume topdown nonlinear return procgen return rpgclasses traps idminigame diagrid exp combat ascii overworld connections xp=3 economy free randomized oneofthree secrets traps rpgquests
 A roguelike in the style of {ADOM} but with an underwater theme.
 Many enemies are based on actual aquatic creatures. Quite a fun
 adventure.

@@ -17,20 +17,21 @@ NUMTAG xp
 How much do I consider myself to have mastered the game. The scale is: 0 = not played at all (but it had to be here because it is related to games I have played, or I still have
 an opinion on it), 1 = tried out but did not progress far, 2 = significant progress, 3 = completed the game but not in a satisfactory way, 4 = satisfactory
 OR completionist win, 5 = satisfactory AND completionist win. I am a roguelike fan, so the standard for a "satisfactory" win is respecting
-permadeath (no matter how much the game tries to convince me that permadeath was intended), not using cheats, not using walkthroughs or online hints, etc.
+permadeath (no matter whether the game tries to convince me that permadeath was intended), not using cheats, not using walkthroughs or online hints, etc.
 
 GROUP metadata
 Information about development such as time and platforms. Platform is mostly what I played it on, but if I have played multiple ports, 
 or I associate the game with another platform than what I played them on, I would list multiple.
 
 NUMTAG year
-When the game got its official 'full' release. For 'release-early-release-often' games, such as many roguelikes, it is usually just the year of the first public release.
+When the game got its official 'full' release. For 'release-early-release-often' games, such as many {roguelike}s, it is usually just the year of the first public release.
 
 NUMTAG ea
-When did it became available to play for anyone who wants.
+Sometimes games become available to play for anyone who wants, but they are not "fully" released yet. In this case, the original year is given here.
 
 TAG ext
 Means that the game gets substantial updates after its release. In most cases, such games still get updates.
+This is common in rogueish games of various kinds ({roguelike}s, {roguelite}s, {Minecraft}-likes and {Diablo}-likes), all of them benefit from the variety added.
 
 TAG arcade
 These games are usually remembered as arcade games from early 80s. Arcades were not popular in my time and place, so I have likely played
@@ -70,7 +71,7 @@ TAG mainframe
 A game originally designed for mainframe computers.
 
 TAG web
-A game playable from a website.
+A game playable from a website. They can be probably played on any modern device which can browse websites.
 
 TAG free
 It is fine for the player to experience the game and not pay the author in any way.
@@ -96,7 +97,7 @@ A movement from the 90s where the author encouraged freely distributing the game
 information, and expected the players to buy the game if they liked it.
 
 The tag refers only to the common kind of shareware game, where a substantial part of the experience was available for free, but also
-a substantial part of the experience was not. (If most was available for free, the {tag:free} tag was used instead; I do not think there
+a substantial part of the experience was not. (If all or almost all was available for free, the {tag:free} tag was used instead; I do not think there
 is much point to apply a broader interpretation here.) A common example of that
 was the "Apogee method" started with {Kroz} and probably most famously used in the {Commander Keen} series, where the game was designed as
 a trilogy where the first game was free, and the rest was available for purchase only. Famous companies using this shareware system became
@@ -106,7 +107,7 @@ it is common in the games I play. Newer games following this principle might als
 longer commonly called shareware.
 
 TAG nonvideo
-A game designed to be played without a computer (or similar device). That would include boardgames, card games, parlor games, sports.
+A game designed to be played without a computer (or similar device). That would include boardgames, card games, party games, sports.
 This review site is mostly about video games, but some non-video games are included
 as a reference, being relevant to the video game culture, or because of their videogame forms.
 
@@ -135,7 +136,8 @@ TAG epicfree
 The game was free on the Epic store at some point.
 
 TAG megaitch
-The game was available in one of Itch charity megabundles.
+The game was available in one of Itch charity megabundles, so if you have been buying these bundles, you are likely to have it.
+This tag is probably missing from many games.
 
 GROUP theme
 These tags describe the setting of the game.
@@ -202,7 +204,7 @@ TAG prehistoric
 Cavemen.
 
 TAG steam
-Steam technology.
+Steam technology, or similar. Steampunk, dieselpunk, etc.
 
 TAG military
 Games with (20th century) military themes: guns, tanks, helicopters, airplanes, battleships, etc.
@@ -229,7 +231,10 @@ TAG notheme
 No specific theme. Not abstract enough for {tag:abstract}, not weird enough for {tag:weirdtheme}.
 
 TAG female
-Female protagonist.
+Female protagonist. This means games with protagonists who are specifically female; RPGs in which you
+can pick the gender of your character (and that choice possibly having some minor impact on the gameplay)
+do not qualify. As usual with Nintendo games, {Metroid} gets too much fame for this, there were many other
+early games.
 
 TAG vehicles
 You are playing as some sort of vehicle: pirate ship, mecha, starship, car, etc.
@@ -241,7 +246,8 @@ TAG uniquetheme
 Catch-all for weird themes.
 
 TAG sports
-The game simulates some kind of real sport (or possibly a fantasy sport that is similar to real sports). Chess, billiards, and {tag:racing} do not usually count.
+The game simulates some kind of real sport (or possibly a fantasy sport that is similar in style to real sports).
+Chess, billiards, and {tag:racing} do not usually count.
 
 GROUP perspective
 These tags specify what perspective is used by the game. Note that {tag:nonvideo} or {tag:nonspatial} games have no perspective.
@@ -257,7 +263,7 @@ TAG sideview
 Both dimensions, and the distinction between them, need to be important for the gameplay (otherwise it might be {tag:nonspatial} or {tag:onedim}.
 
 TAG onedim
-An one-dimensional game has only one dimension that is important for the gameplay. It should be indeed important.
+An one-dimensional game has only one dimension that is important for the gameplay. It should be indeed important, otherwise it would be {tag:nonspatial}.
 
 TAG isometric
 "Up/down" in the game world is mapped to "up/down" on the screen, but the world is three-dimensional, and a cube looks like a (left-right) symmetric hexagon.
@@ -314,21 +320,31 @@ Technically roguelike, as defined above, is a subgenre of "turn-based". Unfortun
 (since it is impossible for ALL players to control time); some game developers try to make "multiplayer roguelikes" which, for this reason, are real-time --
 these are tagged as roguelike too (except {Diablo} which is too much action). I could also accept a "timeless roguelike" if it was a game clearly inspired by roguelikes.
 
+TAG timebending
+This means that the time in the game does not work as usual, for example, by using time loops, time travel, quantum mechanics, or something like that.
+Trivial cases such as games with save feature or undo feature do not count as timebending.
+
 GROUP focus
-What kind of gameplay does the game focus on.
+What kind of gameplay does the game focus on. Generally, focus must be something that the game's identity is based on. If you can play a stealthy character using a bow
+in an RPG, this does not make it a {tag:stealth} {tag:shooter} if you can also play as a tank. A game having two logic puzzles does not deserve the {tag:logic} tag. And so on.
+Although in games that are explicitly multigenre I attempt to list all the focus tags of all genres used.
 
 TAG multigenre
 Various scenes in the game belong to different genres. This could mean: the overworld has serious gameplay that is different from the gameplay of specific missions;
 has significant sections of genre different than the main (more than mini-game level, such as hacking or fishing mini-games); ...
 
 TAG exp
-Games having meaningful focus on exploration.
+Games having meaningful focus on exploration. Exploring means that you do not know the whole world immediately. Typically, the game displays only the part of the
+world close to you, and you have to explore to see the rest. Alternatively, the whole level fits on the screen, but only the parts you have seen are mapped
+(like in {Rogue}). Exploration should have some kind of non-linear aspect to it. If the game is a sequence of 20 levels and you do not see level 10 while you are
+still in level 9, that is not exploration.
 
 TAG collectathon
 Games about collecting stuff. In a typical collectathon, stuff has no meaning, yet they give meaning to the game: you need to collect them.
+So metroidvanias where you collect upgrades do not count (they do have meaning). {Rogue} does not either (the Amulet of Yendor has no meaning, but it is only a single thing).
 
 TAG quickkey
-Press the correct keys, in the time limit.
+Press the correct keys, in the time limit. Rhythm games are a typical example.
 
 TAG incremental
 Games based on incremental upgrades, without much gameplay otherwise. Also called clickers or idle games.
@@ -342,7 +358,8 @@ TAG platformer
 Game about jumping, or some other limited way of moving higher. That definition includes pinballs, I am fine with that.
 
 TAG soulcombat
-Combat similar to the <i>Souls</i> series.
+Combat similar to the <i>Souls</i> series. I have not played this series but I have played multiple games with combat that was, as far as I understand,
+heavily inspired by it. It is specific enough to warrant a separate tag from the mundane {tag:combat}.
 
 TAG shooter
 All kinds of games primarily focused on shooting. The challenge is about aiming your shoots well.
@@ -355,17 +372,17 @@ Includes both real-time games (beat'em up) and turn-based tactics (melee-focused
 Antonymous to {tag:shooter}.
 
 TAG stealth
-Games with stealth focus.
+Games focusing on stealth. It is definitely a popular trend, although it does not seem I have played many of them.
 
 TAG dodger
-Games focusing on evading enemy attacks. Bullet hell.
+Games focusing on evading enemy attacks. Bullet hell, but not only.
 
 TAG physics
 A game where mechanics are important. While technically most games with the {tag:platformer} tag could be considered physics games
 because of somewhat realistic gravity simulation, we mean something deeper here.
 
 TAG racing
-A game focused on reaching the goal as fast as possible.
+Games focusing on reaching the goal as fast as possible.
 
 TAG logic
 Games focused on solving logic puzzles. Logic puzzles should be well-defined (discovering
@@ -388,9 +405,14 @@ You control a limited number of units. Examples are: party-based RPGs, classic s
  
 TAG army
 You control an army. There is no limit on how many units you can have, or the limit is very high.
+An army is defined by having lots of individual units, so some games considered "army" could be surprising,
+for example, {Go}, {Lemmings}, or {Liquid War}.
 
 TAG xxxx
 Explore, Expand, Exploit, Exterminate. Games like {Civilization}.
+While there are tags in this database with meanings very similar to the four words used in the name of the genre
+({exp}, {army}, {combat}, {economy}...), it does not seem to actually be enough:
+there are games in the database which have all of them but do not feel like 4X.
 
 TAG boulderdash
 A tag for {Boulder Dash}-style games. A canonical example is games in which you push rocks
@@ -400,25 +422,28 @@ Boulder Dash).
 There are enough of these in the database to warrant a special tag rather than "other puzzle".
 
 TAG cardgame
-Card games.
+Card games. Typically, low focus on immersion, high focus on card-game-like mechanics. Dice count too.
 
 TAG wordgame
-Word games.
+Word games. Having memorized the dictionary helps.
 
 TAG matching
-Matching games. Arrange stuff so that color (or whatever) matches. Match-three games are an obvious example, but there are some other too.
+Matching games. Arrange stuff so that color (or whatever) matches. Match-three games are an obvious example, but there are many other,
+more interesting examples.
 
 TAG bulletheaven
 Reverse of bullet hell. You are attacked by lots of enemies, but you also automatically produce lots of bullets.
 
 TAG survival
-The game focuses on surviving in a harsh environment.
+The game focuses on surviving in a harsh environment. You usually need to build a shelter, keep yourself warm, defend from hostile wildlife/aliens/zombies,
+craft tools, etc. Do not confuse with {Vampire Survivors} and similar games.
 
 TAG autobattle
 The combat plays by itself, you only manage it on very high level.
 
 TAG defense
-Strategy games where you defend something.
+Strategy games where you mostly defend something. Very close to "tower defense", although more classic RTS games which include an important component
+of building static defenses are included too (they were an inspiration for pure "tower defense" games anyway).
 
 TAG economy
 The game focuses on resource management (collecting gold and buying stuff, etc.) 
@@ -431,7 +456,10 @@ I am not attracted to this kind of games, because it is more fun to program actu
 competitive programming is more fun, for example, you can choose which programming language to use (instead of using some restricted
 fantasy programming language). The tag is also used for games with "programmable" magic systems -- essentially, if magic spells are more
 constructed out of components rather than cast from a predesigned list, it is sufficient for the "engineering" tag. Factory games
-({Factorio}-likes) are also included here.
+({Factorio}-likes) are also included here, as well as games in which the players design their own rules.
+
+Despite these very different meanings, it seems there is no point to split it into separate tags. Even though I am a fan of many of
+these concepts, there are not that many games in the database.
 
 There are some similar tags, such as {tag:simulationism} (which may also allow combining simple components to construct complex machines
 but it is not what the game is really about), and synergies in {tag:deckbuilder}, {tag:enginebuilder} or {tag:deckconstruction} games are
@@ -456,7 +484,7 @@ GROUP structure
 These tags represent the structure of the game, as in, how the game changes while you play or replay it.
 
 TAG fixed
-The world is mostly fixed. Randomized enemy attack patterns or randomized loots do not count.
+The world is mostly fixed. This is not strict: minor randomness (e.g., randomized enemy attack patterns or randomized loot) do not count.
 
 TAG procgen
 Procedural generation: the game uses sophisticated algorithms to generate its content. Sometimes used as a buzzword instead of {tag:randomized};
@@ -468,7 +496,7 @@ TAG randomized
 These games feature significant randomization. When you play it again, it will not be the same.
 
 TAG nopersist
-While you can reenter locations you have been to before, they will be regenerated.
+While you can reenter locations you have been to before, they will be regenerated. Meeting new enemies in already cleared maps is not enough.
 
 TAG unlocks
 After playing the game, you can play it again in new ways that were originally locked.
@@ -516,7 +544,7 @@ It includes both the case when the scenarios are fully separate, and when there 
 The separation here means that you cannot return to an earlier scenario/level (or you can, but there is no good reason to do so). 
 
 TAG picklevel
-There are multiple levels that are mostly independent.
+There are multiple levels that are mostly independent. Usually there is a bit of non-linearity, you do not have to solve the levels in a strict order.
 
 TAG minigames
 The game is a collection of minigames.
@@ -525,8 +553,8 @@ TAG vscroll
 Levels are higher than the screen and scrolling vertically as you play them (rather than being constructed out of separate screens). It does not matter whether the scrolling happens automatically or as a result of player movement.
 
 TAG hscroll
-Like vscroll but horizontal or diagonal. These are two different tags because many sources separate them (and they are different for sideview games), 
-and also so both can be used at once.
+Like vscroll but horizontal or diagonal. {tag:hscroll} and {tag:vscroll}
+are two different tags because many sources separate them (and they are different for sideview games), and also so both can be used at once.
 
 TAG camscroll
 You can move the camera mostly freely.
@@ -553,23 +581,24 @@ Non-linearity is about picking the order, so if you can choose between A->B->D o
 
 TAG openworld
 In an open world game, the levels are, basically, huge. They are not small locations bounded by walls, you can spend lots of in-game time 
-exploring the before you reach the end of the world (or possibly there is, realistically, no end). Ideally, the game should not switch
+exploring the world before you reach the end (or possibly there is, realistically, no end). Ideally, the game should not switch
 to another mode when travelling (you experience the open world on your own scale), but if it does switch to a travelling mode and the
-world while travelling still feels huge, that counts too.
+world while travelling still feels huge, that counts too. Compare {tag:overworld}, which is a different thing.
 
 TAG overworld
-The game features an "overworld" that you can travel and go into specific locations.
+The game features an "overworld" that you can travel through and go into specific locations.
 The overworld should feel like a part of the game (i.e., not just a menu you pick a location from), although it is fine
-if it features no actual gameplay. Compare {tag:openworld}.
+if it features no actual gameplay. Compare {tag:openworld}, which is a different thing.
 
 TAG return
-You can return to older areas later in the game. And there is point to do so -- abilities or knowledge gained in newer areas allow you
-to do new things. Sometimes considered one of defining properties of a metroidvania. This tag also typically appears in roguelikes which allow 
+You can return to older areas later in the game. And there is a point to do so -- abilities or knowledge gained in newer areas allow you
+to do new things. Sometimes considered one of defining properties of a {metroidvania}. This tag also typically appears in {roguelike}s which allow 
 you to return to earlier levels, for example, you may decide to avoid fighting an enemy for now and return later. It also appears in
 linear games when later levels reveal knowledge that can be used in earlier levels.
 
 TAG multicampaign
-Multiple campaigns.
+While {seq} games have "campaigns" (sequences of levels), in these games you furthermore play multiple campaigns. It does not matter whether these campaigns
+are also played sequentially on a {tag:picklevel} basis.
 
 TAG modalbattle
 There is a clear separation between exploration and combat. This includes classic jRPGs (you meet enemies and the actual map is not relevant for the battle)
@@ -580,7 +609,8 @@ TAG endless
 The game does not ever tell you that you won. Or (for 0.5 points) it does, but you can play further.
 
 GROUP geometry
-These tags are mostly for strategy games, and games with strategy elements.
+Most games have geometry, but not all of them have interesting geometry.
+Many of these tags are mostly for strategy games, and games with strategy elements.
 
 TAG grid
 Grid- or graph-based games. That means that the position of game objects is discrete, so for example, typical platformers with levels constructed out of square
@@ -588,7 +618,7 @@ tiles do not count. The grid should be on the same order of magnitude as the gam
 with shots going in pixel-perfect Euclidean straight lines, such as in {Rebelstar}, it is still fine (and cool), even if it goes against the discrete nature a bit.
 
 TAG nonspatial
-The game does not feature any kind of (two-or-more-dimensional) spatial gamepla. Common in menu-based or card games.
+The game does not feature any kind of spatial gameplay. Common in menu-based or card games.
 
 TAG orthogrid
 The mechanics do not allow to move through grid corners. A canonical example is horizontal and vertical movement only on a square grid.
@@ -598,13 +628,22 @@ The mechanics allows to move through grid corners. A canonical example is eight-
 (In Chess both 'orthogrid' and 'diagrid' would be used because different pieces move differently.)
 
 TAG hexgrid
-The grid used does not have corners. A canonical example is the hex grid.
+The grid used does not have corners. A canonical example is the hex grid, but there are other possibilities.
 
 TAG arbigrid
 Irregular grids. More graphs than grid, actually.
 
 TAG true3
-Truly three-dimensional game.
+Truly three-dimensional games. I have a rather high standard here. The gameplay itself needs to be three-dimensional. Displaying the world in first-person
+perspective (like in {Wolfenstein 3D} is not sufficient. Featuring a dungeon with multiple separate levels is not sufficient.
+
+TAG spacebending
+This means that the space in the game does not work as usual, for example, by using portals, perspective tricks, or non-Euclidean geometry.
+Trivial cases such as grid-based games or "buildings bigger on the inside" do not count as spacebending.
+
+TAG trail
+Trail games. The game is constructed as an adventure on which you visit separate locations, typically without possibility to return.
+A canonical example is {Oregon Trail}. The evolution of this genre includes {FTL} and {Slay the Spire}.
 
 GROUP rpg
 
@@ -614,7 +653,7 @@ appearing in games not commonly referred to as RPGs, such as deckbuilding or abi
 TAG deckbuilder
 You have a 'deck' of 'cards' you draw from, and the core focus of the game is to improve that deck, by adding new synergizing cards. 
 It does not have to be a literal deck of cards, but it is important that you randomly draw objects available every turn.
-Deckbuilders are distinct from <i>deck construction</i> games: in deck construction games you have a collection of cards (that possibly
+Deckbuilders are distinct from {tag:deckconstruction} games: in deck construction games you have a collection of cards (that possibly
 also grows) and you pick which cards to use for a specific mission (commonly, you can sell cards for resources), 
 while in deckbuilders, building the deck is done repeatedly, and you always use your whole deck (commonly, you pay resources to get
 rid of cards, as otherwise they just slow you down by being drawn instead of good cards). We also include "bagbuilders" while they are technically a bit different.
@@ -623,13 +662,16 @@ TAG enginebuilder
 A generalization of deckbuilder. Also about upgrades and synergies, also heavily focused on that so it is done repeatedly,
 but you do not draw them from a deck. While all deckbuilders are enginebuilders, this tag means non-deck engine building
 (for example, both deckbuilder and enginebuilder means that the game features both deck and non-deck engine building).
-Sometimes mistakenly called {tag:roguelike}.
+There are also games highly focused on synergizing upgrades, but not really in a strategic way -- you mostly just pick what you find.
+It would be a stretch to call them engine builders (I would rather call them synergy builders) but they may get 0.5 points.
+Sometimes mistakenly called {roguelike}.
 
 TAG deckconstruction
 You have a collection of cards (that possibly grows as the game progresses) and you pick which cards you are going to use for a battle.
 
 TAG ability
 Ability gating: some areas are only accessible when you have required abilities, and these unlocks are more interesting than simple keys.
+Commonly considered a defining trait of a {metroidvania}.
 
 TAG oneofthree
 The character advancement in the game is commonly done in the "pick one of three upgrades" form. (Possibly not exactly three.)
@@ -661,14 +703,14 @@ TAG crafting
 You construct your own items from materials of some kind.
 
 TAG rpgequip
-You can wear equipment. The difference between equipment and typical upgrades is that equipment takes "slots" and you cannot, for example,
+You can wear equipment. The difference between equipment and more mundane upgrades is that equipment takes "slots" and you cannot, for example,
 wear two helmets simultaneously.
 
 TAG rpgconsume
 You can have consumables in your inventory, such as magical potions. Consumable means that they disappear after use. 
-The amount of "slots" must be high (so e.g. three "potion slots" is not enough).
-Consumables which refill at checkpoints, such as in some souls-likes, do not count.
-This is considered an {tag:economy} when the resource management is tight.
+The amount of "slots" should be high; a game such as {Slay the Spire} which usually has only three "potion slots" gets only half the score.
+Consumables which refill at checkpoints, common in {soulslike}s, do not count.
+This is considered an {tag:economy} when the resource management is tight (and not just grindy).
 
 TAG rpgstats
 There are numerical values that you can increase during the game: primary stats, skills, etc.
@@ -758,14 +800,6 @@ The style of drawn on blackboard. ASCII games are not included.
 GROUP other
 These tags represent things that do not match the other categories.
 
-TAG spacebending
-This means that the space in the game does not work as usual, for example, by using portals, perspective tricks, or non-Euclidean geometry.
-Trivial cases such as grid-based games or "buildings bigger on the inside" do not count as spacebending.
-
-TAG timebending
-This means that the time in the game does not work as usual, for example, by using time loops, time travel, quantum mechanics, or something like that.
-portals, perspective tricks, or non-Euclidean geometry. Trivial cases such as games with save feature or undo feature do not count as timebending.
-
 TAG pixelsim
 Games where the world is meaningfully simulated up to precision of single pixels. In most of these games, the pixels would be {tag:destructible}. 
 {Noita} is a modern pixelsim game, older ones include {Lemmings} and artillery-ish games such as {Scorched Earth}, {Worms} or {Liero}.
@@ -815,7 +849,7 @@ TAG spireview
 Games featuring the system introduced in Slay the Spire: they use sideview battle screens, and your fighting success (damage, etc.) depends on some kind of mini-game.
 
 TAG broughlike
-A subgenre of roguelike.
+A subgenre of roguelike. A game in the style of Michael Brough's games. Small levels, zugzwang, glitchy art, etc.
 
 TAG simulationism
 Challenges in the game do not have one "intended" solution and can be solved in significantly different ways; the game simulates multiple
@@ -833,10 +867,11 @@ TAG socialsim
 Some kind of friendship simulation.
 
 TAG manualsave
-The game saves manually.
+You can save the game at any point (not only at specific checkpoints).
 
 TAG passsave
-The game saves passwords.
+The game shows passwords to the user, which can be entered to proceed to later parts of the game immediately. Not sure why
+early games used such a system, even on PC where creating actual saves would not be a problem.
 
 TAG difflevels
 The game has multiple difficulty levels. As in, an optional feature that makes the game easier or harder (less enemy HP, etc.).
@@ -859,18 +894,18 @@ for example. And whether it is actually harder -- if you get more XP and loot fo
 therefore you are stronger, being harder is debatable.
 
 TAG multiweapon
-The game has a choice between multiple weapons which are significantly different.
-An RPG with a choice between melee weapon, missile weapon and magic does not count (even with different shapes of magic).
+The game has a choice between multiple weapons which are significantly different. For example, in a platformer, weapons
+might have short or long range, or go in different directions; in a shooter, we might have bullet guns, shotguns, and rocket launchers; etc.
+An RPG with a choice between melee weapon, missile weapon and magic does not count,
+it must focus more on the attacks having different geometries. (If the magic comes in different geometries, or
+the shaping is there only for very limited "subweapons", it gets 0.5 points.)
 
 TAG multiplayer
 The game supports multiplayer. The support needs to be non-trivial: more interesting than "two players can play the same game and compare scores" or
-"two players can cooperate controlling the character".
+"two players can cooperate controlling the character, for example, one controls the mouse to aim at stuff and the other moves the character".
 
 TAG musicgame
-Music is important, in some way.
-
-TAG trail
-Trail games.
+Music is important, in some way. Mostly rhythm games.
 
 TAG ammolimit
 Games with limited ammo for your weapons. So you have to aim your weapons well, change them instead of always picking the best weapon, and so on.

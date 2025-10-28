@@ -141,7 +141,7 @@ I have played the (more playable) PC version, and finished it, but not sure it w
 
 GAME Against the Storm
 BY country: Poland
-VAL pc medieval roguelite gem=-1 year=2023 played=2024 hscroll vscroll topdown roguelite itemlock unlocks metapower seq xp=2 pauseable army models oneofthree
+VAL pc medieval roguelite gem=-1 year=2023 played=2024 hscroll vscroll topdown roguelite itemlock unlocks metapower seq xp=2 pauseable army models oneofthree economy
 I have seen positive opinions about this game, that the roguelite elements added to it, so I thought I would enjoy it. But I do not feel this to be the case, I feel that I would rather play Settlers again, and it does not feel similar to playing a roguelike in any way. Roguelikes shine in how fast you can play them, you get viscerally fun tactics while controlling a single character and avoding all the micromanagement, but this is not the case here, the game has tons of micromanagement, and also it is slow, even at 3x speed. Similar to roguelikes it has randomly generated maps, which is cool although that is common in strategy games in general, and has some features reminiscent of games loosely inspired by roguelikes: randomly generated events (I guess that is a bit of {FTL}-style, it is cool but it does not feel as adventureous as in other games), randomly available buildings (which adds unnecessary complexity) and some metaprogression (which just makes it pointlessly grindy rather than fun).
 
 GAME Alien Video Game Scientist
@@ -236,7 +236,7 @@ This is a very nice arcade shooter/engine-builder. I like how there are multiple
 At first I thought it was some sort of an educational game -- this is not the case, the genome/microbe thing is just a theme. However, the theme is definitely fun and makes the game much more unique than typical fantasy/sci-fi games.
 
 GAME Gratuitous Space Battles
-VAL pc scifi xp=1 year=2009 played=2010 shooter autobattle army topdown timeless fixed=? seq=? models=?
+VAL pc scifi xp=1 year=2009 played=2010 shooter autobattle army topdown timeless fixed=? seq=? models=? economy
 
 I have not played this game much. It appears extremely complex: there are lots of spaceship parts, you construct your ships out of these parts, and lead a fleet of these ships to fight the enemy.
 As far as I can recall, the battle itself is resolved automatically, without any further control from you. After starting the game, I was immediately drowned by too many possibilities
@@ -279,14 +279,14 @@ VAL pc scifi xp=1 year=2015 played=2021 physics sciencegame realtime tpp fixed=?
 Probably the most well-known science game. I have tried it, but am not actually that interested in rocket science.
 
 GAME Kingdom Two Crowns
-VAL pc medieval xp=3 year=2018 played=2022 onedim procgen defense army hscroll realtime lores multiplayer randomized
+VAL pc medieval xp=3 year=2018 played=2022 onedim procgen defense army hscroll realtime lores multiplayer randomized economy
 Beautiful pixel art, one-dimensional exploration, tower defense elements, and the system of make this game original, and very fun. Can be played by two people!
 This is better than the earlier game in the series, {Kingdom New Lands}.
 TAGCMT onedim
 The game feels very one-dimensional, so it deserves the onedim tag, although technically the archers shoot arrows upwards (to avoid walls) so the second dimension exists too.
 
 GAME Loria
-VAL pc medieval xp=3 year=2018 played=2019 grid topdown hscroll vscroll realtime army diagrid exp combat fixed lores=? free
+VAL pc medieval xp=3 year=2018 played=2019 grid topdown hscroll vscroll realtime army diagrid exp combat fixed lores=? free economy
 This is an RTS in the tradition of {Warcraft}, somewhere between {Warcraft II} and {Starcraft} (there are prominently featured heroes). A solid free game if you want to play more games in
 the classic style, but with not much originality.
 
@@ -353,7 +353,7 @@ Having said that, after learning to live with the annoying parts of the game, th
 demolishing a city, one where you become a pawn in the mental board game, or one with the bull raging in the street. Still, I think these nice parts are not enough to recommend the game.
 
 GAME Risk of Rain
-VAL pc scifi gem=-1 roguelite year=2013 played=2015 platformer sideview hscroll vscroll unlocks itemlock xp=4 realtime lores randomized multiplayer exp
+VAL pc scifi gem=-1 roguelite year=2013 played=2015 platformer sideview hscroll vscroll unlocks itemlock xp=4 realtime lores randomized multiplayer exp enginebuilder=0.5
 
 The game is said to incorporate roguelike elements, but I believe it is quite weak in this regard. The levels have some procedurally generated parts, but these are very predictable -- 
 for example, the second level could be a Sky Meadow or Damp Caverns, I think there are several variants of each map, and possibly some details are chosen randomly, but generally,
@@ -643,7 +643,7 @@ roguelike has inspired it -- it is both very different from Rogue and very diffe
 a comic book than in a video game. I did not enjoy it.
 
 GAME Defense Grid
-VAL pc scifi played=2021 year=2008 defense otherlinear army xp=3 realtime fixed camscroll seq models epicfree
+VAL pc scifi played=2021 year=2008 defense otherlinear army xp=3 realtime fixed camscroll seq models epicfree economy
 A tower defense game. Good, but nothing special.
 
 GAME Enter the Gungeon
@@ -725,12 +725,12 @@ VAL pc moderntheme year=2019 played=2020 topdown hscroll vscroll xp=3 hires real
 A rather well-known, non-combat-focused exploration game, where you are just hiking in the hills.
 
 GAME Bioshock
-VAL pc uniquetheme aquatic played=2024 year=2007 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree traps ammolimit difflevels
+VAL pc uniquetheme aquatic played=2024 year=2007 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree traps ammolimit difflevels steam
 A first-person shooter that feels a bit like a movie, with a nice story and original Art Deco level design. I see some people call it an immersive sim and some do not,
 no idea who is right, but I definitely see lots of similarities to {Deus Ex} (although I have not heard about immersive sims yet when playing Bioshock).
 
 GAME Bioshock II
-VAL pc uniquetheme aquatic played=2024 year=2016 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree bossfights traps ammolimit difflevels
+VAL pc uniquetheme aquatic played=2024 year=2016 fpp shooter simulationism rpgstats xp=3 realtime multiweapon fixed seq camscroll models photorealistic epicfree bossfights traps ammolimit difflevels steam
 A good sequel to Bioshock. 
 
 GAME The Bridge
@@ -800,7 +800,7 @@ VAL pc norse year=2015 played=2023 hscroll vscroll xp=3 bossfights arbi3 realtim
 A game where you mostly explore large maps, and fight bosses at the end of every section.
 
 GAME Kingdom New Lands
-VAL pc medieval year=2016 played=2020 onedim hscroll defense army xp=4 realtime randomized procgen economy lores
+VAL pc medieval year=2016 played=2020 onedim hscroll defense army xp=4 realtime randomized procgen economy lores economy
 A predecessor of {Kingdom Two Crowns}, with similar beautiful pixel art and original gameplay.
 You cannot really "win" against the Greed: some portals cannot be destroyed, and eventually, the winter comes and lasts forever;
 I do not like these aspects, better to play Kingdom Two Crowns, which has a more interesting structure, and you can eventually win.
@@ -873,7 +873,7 @@ The turnip theme (and the whole game) was quite annoying.
 
 GAME Vampire Survivors
 BY country: Italy
-VAL pc gothic roguelite year=2022 played=2022 topdown hscroll vscroll enginebuilder bulletheaven xp=4 realtime randomized metapower unlocks picklevel itemlock twistpixel epicfree oneofthree
+VAL pc gothic roguelite year=2022 played=2022 topdown hscroll vscroll enginebuilder bulletheaven xp=4 realtime randomized metapower unlocks picklevel itemlock twistpixel epicfree oneofthree ext
 One of the recent indie hits. It even has won some innovation award, which I do not agree with -- the gameplay feels quite similar to {Crimsonland}, and it is basically 
 a clone of {Magic Survival} which was, as far as I understand, a rather popular mobile game. It is rather nonsensically labelled roguelike, although I do not mind in this case --
 I consider it a parody, just like the name "vampire survivors" (the game contains no vampires actually). (Worse about its hundred of clones which also call themselves roguelike...)
@@ -936,7 +936,7 @@ The combat became repetitive from some point, it was difficult to understand wha
 Boring items.                                                                                                                                                                                              -  
 
 GAME Warcraft II
-VAL pc medieval played=2019 year=1995 realtime grid topdown army xp=3 diagrid exp combat fixed seq hscroll vscroll lores
+VAL pc medieval played=2019 year=1995 realtime grid topdown army xp=3 diagrid exp combat fixed seq hscroll vscroll lores economy
 I have not played it when it was released, only much later. While I enjoyed both the original {Warcraft} and {Starcraft} very much, Warcraft II just felt not as good. The changes (such as
 the fantasy-breaking "oil" resource, or combining knights and clerics into a single unit) felt bad, and the fun "dungeon" missions from Warcraft 1 were gone I think.
 
@@ -954,7 +954,7 @@ VAL console year=2011 played=2013 topdown hscroll vscroll shooter spacebending x
 An exclusive for the Pandora gaming console, where you shoot stuff on something like a sphere. Quite good.
 
 GAME Bloons TD6
-VAL pc year=2018 played=2025 topdown defense army hires xp=2 animaltheme realtime fixed metapower unlocks picklevel paytowin gem=-1
+VAL pc year=2018 played=2025 topdown defense army hires xp=2 animaltheme realtime fixed metapower unlocks picklevel paytowin gem=-1 economy
 This is apparently a very popular tower defense game, so I tried it to experience a good tower defense. The design is bad. There is metaprogression: you need to unlock upgrades
 for your towers by gaining experience in them; some special powers; and some consumables. There are also some things that can be bought with real money. Lots of towers available right
 of the beginning, not allowing the player to familiarize themselves. Why not the classic linear structure where I beat levels in a sequence, and these levels smoothly introduce the
@@ -966,7 +966,7 @@ VAL pc year=2019 played=2025 roguelite topdown rpgequip seq xp=1 moderntheme rea
 I have tried playing it once and I did not find it interesting.
 
 GAME Slay the Spire
-VAL pc notheme roguelite year=2017 played=2019 deckbuilder enginebuilder unlocks itemlock spireview xp=4 hires nonspatial turnbased cardgame seq rpgclasses difflevels oneofthree
+VAL pc notheme roguelite year=2017 played=2019 deckbuilder enginebuilder unlocks itemlock spireview xp=4 hires nonspatial turnbased cardgame seq rpgclasses difflevels oneofthree rpgconsume=0.5
 A very good game, but it seems its developers' decision of marketing the game as "roguelike deckbuilder" heavily contributed to misunderstanding of both genres. Maybe it should
 The term made more sense in {Dream Quest}.
 

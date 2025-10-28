@@ -128,8 +128,8 @@ One of the first games I remember playing. A bit like {Digger}. Unfortunately th
 
 GAME Alien 8
 BY Ultimate Play the Game
-VAL year=1985 played=1987 cpc xp=2 isometric realtime platformer scifi nonlinear lores fixed
-I have played this isometric adventure platformer quite a lot, although not without much success, and not as much as {Sweevo's World}. true3
+VAL year=1985 played=1987 cpc xp=2 isometric realtime platformer scifi nonlinear lores fixed true3
+I have played this isometric adventure platformer quite a lot, although not without much success, and not as much as {Sweevo's World}.
 
 GAME Punchy
 VAL year=1984 played=1988 cpc xp=2 sideview realtime platformer lores notheme fixed seq

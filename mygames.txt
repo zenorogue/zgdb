@@ -164,13 +164,13 @@ when '2D platformer' is replaced with first-person shooter? Then we would get a 
 GAME Hydra Slayer
 BY zenorogue
 BY country: Poland
-VAL pc greek year=2010 played=2010 turnbased exp sciencegame roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps enginebuilder rpgclasses rpgconsume
+VAL pc greek year=2010 played=2010 turnbased exp sciencegame roguelike xp=5 topdown procgen randomized seq ascii midres spacebending free traps enginebuilder rpgclasses rpgconsume economy
 My second biggest game, so everyone should play it!
 
 GAME HyperRogue
 BY zenorogue
 BY country: Poland
-VAL pc medieval year=2011 played=2011 turnbased multigenre exp slasher roguelike xp=5 topdown hscroll vscroll procgen randomized openworld ascii vectorart spacebending free leveleditor traps multiplayer endless=0.5
+VAL pc medieval year=2011 played=2011 turnbased multigenre exp slasher roguelike xp=5 topdown hscroll vscroll procgen randomized openworld ascii vectorart spacebending free leveleditor traps multiplayer endless=0.5 ext
 My biggest game, so everyone should play it! I have written lots about its inspirations.
 
 GAME HD

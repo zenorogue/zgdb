@@ -62,7 +62,7 @@ sticking your weapons into the enemies, but by swinging them so that it had lots
 
 GAME Dune II
 BY Westwood Studios
-VAL year=1992 played=2000 pc topdown xp=3 scifi realtime army seq fixed lores economy multicampaign manualsave
+VAL year=1992 played=2000 pc topdown xp=3 scifi realtime army seq fixed lores economy multicampaign manualsave defense
 A well-known game that started the modern RTS genre. I have played it after playing {Warcraft} (and I liked Warcraft more).
 Also not at all similar to the first {Dune} game, which was a rather unique game.
 
@@ -100,7 +100,7 @@ had too much blood for me.
 
 GAME Worms
 BY Team17
-VAL year=1995 gem=-1 semiturnbased hscroll vscroll shooter physics animaltheme weirdtheme sideview pc military platformer xp=0 procgen=? lores pixelsim destructible multiplayer multiweapon randomized=? ammolimit
+VAL year=1995 gem=-1 semiturnbased hscroll vscroll shooter physics animaltheme weirdtheme sideview pc military platformer xp=0 procgen=? lores pixelsim destructible multiplayer multiweapon randomized=? ammolimit squad
 My friends have played this game a lot in school. I did not like it, I found it inferior to the classic shareware game
 {Scorched Earth} in similar style (tanks made more sense...), and the game {Bum} I have been designing at that time on my own.
 
@@ -127,7 +127,7 @@ A very interesting way to create unique games!
 
 GAME Worms II
 BY Team17
-VAL year=1997 played=2001 semiturnbased hscroll vscroll shooter physics animaltheme weirdtheme sideview pc military platformer seq xp=3 pixelsim destructible lores procgen=? randomized=? multiweapon ammolimit
+VAL year=1997 played=2001 semiturnbased hscroll vscroll shooter physics animaltheme weirdtheme sideview pc military platformer seq xp=3 pixelsim destructible lores procgen=? randomized=? multiweapon ammolimit squad
 A sequel to {Worms} that I enjoyed more than {Worms}, but still not as much as the real-time {Liero}.
 
 GAME Arcade Volleyball
@@ -486,7 +486,7 @@ the platformer levels in {HyperRogue}.
 
 GAME Exile III
 BY Jeff Vogel
-VAL pc year=1998 played=1999 shareware medieval topdown exp fixed overworld openworld vscroll hscroll xp=3 lores squad turnbased manualsave secrets gem=2 nonlinear return
+VAL pc year=1998 played=1999 shareware medieval topdown exp fixed overworld openworld vscroll hscroll xp=3 lores squad turnbased manualsave secrets gem=2 nonlinear return multiweapon=0.5
 I think I have found a demo of this game on a CD from a friend (together with some other games). A very good RPG with nice tactical system,
 with a bit of roguelike feel, but with six characters in your party, and action-point-based. One of the selling points was that the world would
 change if you acted too slowly -- the enemies would overrun the people -- although this acted mostly as a way to be careful about timing,
@@ -745,7 +745,7 @@ VAL year=2006 played=2007 moderntheme xp=2 moderntheme autoscroll musicgame fpp 
 An open-source remake of {Guitar Hero}. Holding your keyboard like a guitar sounds fun, although I have not played it like that.
 
 GAME Battle for Wesnoth
-VAL year=2003 played=2005 medieval turnbased grid hexgrid army topdown fixed seq lores xp=3 exp combat free manualsave multiplayer gem=1 difflevels
+VAL year=2003 played=2005 medieval turnbased grid hexgrid army topdown fixed seq lores xp=3 exp combat free manualsave multiplayer gem=1 difflevels economy
 A well-known open-source fantasy strategy game, with some RPG elements, such as heroes who have their stories and can sometimes use items,
 and XP-based advancement. It is sometimes compared to {Fire Emblem}, although I have not played that one.
 I think I have played all the official campaigns available. Although not very seriously -- I do not feel the
@@ -756,7 +756,7 @@ It is sometimes compared to {Fire Emblem}, although I have not played that one.
 
 GAME Avernum III
 BY Jeff Vogel
-VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=? nonlinear return intrapower
+VAL pc year=2000 played=2005 medieval shareware isometric exp combat fixed overworld openworld vscroll hscroll xp=2 lores squad turnbased manualsave secrets=? nonlinear return intrapower multiweapon=0.5
 A remake of {Exile III}. Lots of things were more fun to me in the original, though: larger parties (6, not 4 characters), 
 a less streamlined NPC dialog system where you entered the word you wanted to talk about instead of menus, and a simple grid-based
 display, with lots of maps having cool secrets, and larger monsters taking 1x2, 2x1 or 2x2 squares (while in Avernum III they were
@@ -768,7 +768,7 @@ VAL pc year=2000 played=2006 medieval isometric exp combat fixed leveleditor vsc
 A game in the universe of {Avernum III} but focused on separate scenarios, possibly user-made levels, I think? I do not remember much.
 
 GAME Viking Child
-VAL pc year=1991 played=1995 norse platformer sideview xp=2 realtime fixed seq hscroll vscroll lores exp
+VAL pc year=1991 played=1995 norse platformer sideview xp=2 realtime fixed seq hscroll vscroll lores exp multiweapon=0.5
 A clone of {Wonder Boy in Monster Land}, with very similar gameplay. Quite fun, I have not completed it, though.
 
 GAME Rocks'n'Diamonds
@@ -902,7 +902,7 @@ A simple hotseat multiplayer game controlled with only one key -- you are racing
 (I thought I have played it in 1994?...)
 
 GAME Worms 3D
-VAL pc year=2003 played=2003 animaltheme military semiturnbased platformer shooter squad tpp fixed=? procgen=? randomized=? seq models xp=3 ammolimit
+VAL pc year=2003 played=2003 animaltheme military semiturnbased platformer shooter squad tpp fixed=? procgen=? randomized=? seq models xp=3 ammolimit squad
 A 3D adaptation of a popular 2D series. I do not think it benefits from being 3D, though -- if I recall correctly, terrain destruction (which was a big part of fun in the 2D artillery games)
 is not present in 3D, or it was reduced.
 
@@ -945,7 +945,7 @@ A kind of adventure/survival game where you are a trapper in America, you can hu
 I do not remember much, and hard to find any information about this game.
 
 GAME This Means War!
-VAL year=1995 played=1997 military xp=3 isometric realtime army exp combat fixed seq lores
+VAL year=1995 played=1997 military xp=3 isometric realtime army exp combat fixed seq lores economy
 BY MicroProse
 A rather standard RTS game, I would say, with some story about a virus destroying the civilization on Earth, and you are using soldiers and tanks and planes to unite it under your banner,
 about 50 missions in various regions of Earth? I remember mostly units getting experience for killing enemies, but I do not think it mattered that much. Nothing really notable.
@@ -993,7 +993,7 @@ Yet another game taking {Doom} and changing it to another genre, like {DoomRL} o
 More of a proof of concept, it did not seem to be developed further.
 
 GAME Dune 2000
-VAL year=2000 played=2024 scifi pc topdown xp=3 scifi realtime army seq fixed lores economy manualsave
+VAL year=2000 played=2024 scifi pc topdown xp=3 scifi realtime army seq fixed lores economy manualsave defense
 A remake of {Dune II}. I prefer {Dune II} though -- the larger concrete slabs and buildings are ugly. Although the missions are a bit more interesting,
 infantry constructed out of individual soldiers is nice, and there are some movies.
 
@@ -1039,7 +1039,7 @@ BY country: Spain
 A good retro platformer. Also played earlier.
 
 GAME Mindustry
-VAL year=2017 played=2023 scifi gem=2 army grid orthogrid engineering topdown xp=3 pauseable=? defense exp combat fixed seq lores ext free
+VAL year=2017 played=2023 scifi gem=2 army grid orthogrid engineering topdown xp=3 pauseable=? defense exp combat fixed seq lores ext free economy
 An interesting combination of RTS/Tower Defense and {Factorio}-like gameplay. Resources (such as ammo for turrets) do not appear in the buildings automatically, but have to be moved in
 with conveyor belts! Definitely more interesting than a standard RTS.
 
@@ -1297,7 +1297,7 @@ the main mechanics is basically copy-paste a prism-shaped region from one spot t
 
 GAME Warcraft III
 BY Blizzard
-VAL year=2002 played=2004 xp=3 realtime tolkien arbi3 exp combat army fixed seq models photorealistic multicampaign manualsave gem=-1
+VAL year=2002 played=2004 xp=3 realtime tolkien arbi3 exp combat army fixed seq models photorealistic multicampaign manualsave gem=-1 economy
 The 3D graphics made the game feel less fun than {Warcraft} or {Starcraft}. I guess it became a standard later in similar games,
 but Warcraft III was the first I tried. I did not like the story that much either.
 
