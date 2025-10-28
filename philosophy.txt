@@ -33,7 +33,7 @@ Nevertheless, I think a game such as {Dungeon Crawl Stone Soup} does turn permad
 actually interesting (rather than just a "git gud" skill check) -- I mean, strategical resource
 management: you get a limited amount of resources and you need to use them correctly to
 minimize the probability of not surviving an encounter. Still, this is just a combination
-of having such resources ({rpgconsume}) and anti-grinding (no {intrapower}), done extremely
+of having such resources ({tag:rpgconsume}) and anti-grinding (no {tag:intrapower}), done extremely
 well, rather than some new quality.
 
 There is also the philosophy of open-source community development -- people making fun
