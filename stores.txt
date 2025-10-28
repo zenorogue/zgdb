@@ -48,7 +48,7 @@ VAL pc scifi gothic female xp=3 year=2024 played=2024 topdown matching realtime 
 A free game, by the same dev as {Helltaker}. I did not find it very interesting.
 
 GAME Balatro
-VAL pc abstract gambletheme xp=1 roguelite year=2024 played=2024 deckbuilder enginebuilder turnbased cardgame roguelite nonspatial randomized seq lores bossfights econom=	
+VAL pc abstract gambletheme xp=1 roguelite year=2024 played=2024 deckbuilder enginebuilder turnbased cardgame roguelite nonspatial randomized seq lores bossfights economy
 I have played a demo when it was still available. I do not see a reason to try playing it more. On top of a non-roguelike being marketed as roguelike, 
 it is considered as a very addicting game, both by players and its marketing, which I consider a good reason to avoid it. Also credible people say that it is not that deep.
 
