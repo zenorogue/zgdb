@@ -848,7 +848,8 @@ are somewhat randomized. I have seen many bad comments about this game, some peo
 very annoyed by "roguelike elements" and disqualify the game altogether because of that low amount of randomness. I think it is a very good game despite that confusing
 marketing. It has some replayability, there are two main paths of upgrades your character could choose.
 
-TAGCMT I consider its power progression "intrapower", although you could also consider different excursions to be "runs" and call it metapower, but, as follows from the review,
+TAGCMT intrapower
+I consider its power progression "intrapower", although you could also consider different excursions to be "runs" and call it metapower, but, as follows from the review,
 probably not a good way of looking at it.
 
 GAME The Talos Principle
