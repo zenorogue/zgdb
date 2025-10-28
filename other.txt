@@ -637,6 +637,7 @@ This game has a "colony sim" mode (a city builder) and an "adventure" mode (whic
 
 GAME Fidel Dungeon Rescue
 BY country: Argentina
+BY Daniel Bergmui
 VAL pc roguelike year=2017 xp=3 megaitch topdown combat turnbased grid orthogrid lores seq randomized logic animaltheme=2 played=2019 procgen
 This game is listed as "roguelite" in its Steam description, although it is a roguelike according to my definition -- although definitely a very non-standard one,
 and clearly one that would not fit some cultural expectations.
@@ -725,3 +726,19 @@ It was also crazy how the Among Us fans seemed to criticize games inspired by it
 social deduction game in a similar style would be a "clone" and not introduce new rules, and Among Us does not seem to be that original anyway, we had {Mafia} since the 80s,
 both on in-person parties and various online sites, and also some video games which I have not played. Anyway, I do not hear much about Among Us anymore, and nothing about
 games inspired by it.
+
+GAME Innards
+VAL pc year=2025 xp=2 spacebending realtime exp combat topdown hscroll vscroll fixed free hires
+A game in development on the hyperbolic plane. I find it quite interesting because it has some similarities to {HyperRogue} (single-character exploration of the hyperbolic plane)
+but the design is very different.
+
+GAME Dragonsweeper
+BY country: Argentina
+BY Daniel Bergmui
+VAL roguelite year=2025 played=2025 turnbased medieval topdown grid diagrid xp=4 randomized tiny lores logic free traps ddlike exp combat
+A mix between Minesweeper and a {Desktop Dungeon}-like dungeon crawler. Free and worth to play.
+
+GAME Electro-Mechnician
+VAL roguelike turnbased scifi fixed year=2025 played=2025 topdown grid diagrid seq lores free combat
+A simple but fun game with very puzzle-roguelike gameplay (feels closer to a typical roguelike than a puzzle game like {DROD}) but not procedurally generated.
+
