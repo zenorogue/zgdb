@@ -8,7 +8,6 @@
  evince printout.pdf
  cd ..
  (as usual with Latex, might be useful to run multiple times to get all the references right */
-*/
  
 #include <string>
 #include <vector>
