@@ -37,10 +37,21 @@ zgdb.zip: index.html zgdb.js zgdb.wasm zeno.css zgdb.data
 
 zip-itch/zgdb.js: zgdb.cpp visutils.h zgdb.txt zgdb.data
 	mkdir -p zip-itch
-	em++ -DITCH -O2 -std=c++11 zgdb.cpp -o zip-itch/zgdb.js \
-          -s EXPORTED_FUNCTIONS="['_start', '_answer', '_next', '_results', '_back', '_back_to', '_help','_malloc', '_details', '_do_import', '_resetquiz', '_suggestions', '_on_keydown', '_compare', '_aggregate']" \
-          -s EXTRA_EXPORTED_RUNTIME_METHODS='["FS","ccall"]' \
-          --preload-file zgdb.txt --preload-file answers.txt
+	em++ -DITCH -O2 -std=c++17 zgdb.cpp -o zip-itch/zgdb.js \
+          -s EXPORTED_FUNCTIONS="['_start', '_main_page', '_malloc', '_explain_tag', '_explain_group', '_explain_game', '_explain_by', '_find_games', '_on_find_change', '_on_make_link']" \
+          -s EXPORTED_RUNTIME_METHODS='["FS","ccall","stringToNewUTF8"]' \
+          --preload-file zgdb.txt \
+          --preload-file cpc.txt \
+          --preload-file presteam.txt \
+          --preload-file other.txt \
+          --preload-file tagdef.txt \
+          --preload-file roguelike.txt \
+          --preload-file mygames.txt \
+          --preload-file stores.txt \
+          --preload-file philosophy.txt \
+          -fwasm-exceptions
+	cp -r pngs zip-itch/
+	cp -r index.html zeno.css zip-itch/
 
 # need to manually edit index.html for now, and to copy PNGs if changed
 zgdb-itch.zip: zip-itch/zgdb.js
