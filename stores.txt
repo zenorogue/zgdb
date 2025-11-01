@@ -549,7 +549,7 @@ and spells are cast by combining these elements (such as "fire-shield"). This sy
 but given "elemental combination" names. Still, the game is quite good, you cast quite a lot of different spells in it.
 
 GAME Noita
-VAL pc medieval roguelite year=2020 played=2023 destructible pixelsim hscroll vscroll oneofthree lores xp=4 sideview platformer realtime procgen randomized ext exp bossfights traps rulediscovery manualsave ammolimit gem=1 nonlinear
+VAL pc medieval roguelite year=2020 played=2023 destructible pixelsim hscroll vscroll oneofthree lores xp=4 sideview platformer realtime procgen randomized ext exp bossfights traps rulediscovery manualsave ammolimit gem=1 nonlinear revdate=2025.1001
 BY Hempuli
 BY country: Finland
 So I have lots of appreciation for falling sand/real-time artillery games, roguelikes, "magic programming", and Finnish games. {Liero}, {IVAN}, things like that.
@@ -559,13 +559,25 @@ Noita combines all of these, so when I have heard about it, I knew right away th
 
 The game is indeed amazing -- other than the "falling sand" aspect, the system of building wands is also very interesting. And it feels closer to roguelikes in the traditional sense than most games commonly called roguelikes (arcade games with short runs). 
 
-But my concerns about long play time turned out to be valid too. Modern roguelikes tend to feature "anti-grind" design, the best described in the Dungeon Crawl Stone Soup design philosophy: the optimal way to play the game should be also the most fun. It seems Noita seems to take more from the older, more grindy designs. Also some aspects of the design make it harder to improvize/experiment, while experimentation is one of the best thing about Noita (and also roguelikes in general).
+But my concerns about long play time turned out to be valid too. Modern roguelikes tend to feature "anti-grind" design, the best described in the {Dungeon Crawl Stone Soup} design philosophy: the optimal way to play the game should be also the most fun.
+(See also {tag:intrapower}.)
+It seems Noita seems to take more from the older, more grindy designs. Also some aspects of the design make it harder to improvize/experiment, while experimentation is one of the best thing about Noita (and also roguelikes in general).
 
 Luckily, there are mods addressing most of my concerns.
 
-* larger inventory -- I hate limited inventories in general, and in Noita it is exceptionally small (just 4 wands, 4 items, and not too many spells), so you either avoid experimentation or spend extra time to get to your stash.
-* disable permadeath -- Noita has runs taking few hours, and there are ways to suddenly lose even if you are very powerful. Permadeath is great for experts who know what they are doing, but for more experimental/casual play it might be fun to turn it off.
-* select starting perks -- Tinker Everywhere for easier experimentation, etc.
+<ul>
+<li> <b>Larger inventory.</b>
+I hate limited inventories in general (unless they are exceptionally well done, like in {DoomRL}, but that is rare).
+In Noita it is exceptionally small (just 4 wands, 4 items, and not too many spells), so you either avoid experimentation or spend extra time to get to your stash.</li>
+<li> <b>Disable permadeath.</b>
+Noita has runs taking few hours, and there are ways to suddenly lose even if you are very powerful.
+Permadeath is great for experts who know what they are doing, but for more experimental/casual play it might be fun to turn it off.
+I think permadeath was a bad choice for this game; it seems to be a result of overfocus on permadeath in the {roguelike} spaces.
+Disabling permadeath, together with some aspects that Noita already has, would bring it closer to {Terraria}; note that Terraria is also a branch of the roguelike family
+that is ultimately much more popular than permadeath games.</li>
+<li> <b>Select starting perks.</b> Tinker Everywhere for easier experimentation, etc. See also the {tag:oneofthree} tag for a longer discussion of why "pick one of three
+random upgrades" is less fun than the alternative techniques used in traditional roguelikes and RPGs.</li>
+</ul>
 
 GAME Ori and the Blind Forest
 BY Moon Studios

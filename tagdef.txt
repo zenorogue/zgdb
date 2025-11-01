@@ -19,6 +19,9 @@ an opinion on it), 1 = tried out but did not progress far, 2 = significant progr
 OR completionist win, 5 = satisfactory AND completionist win. I am a roguelike fan, so the standard for a "satisfactory" win is respecting
 permadeath (no matter whether the game tries to convince me that permadeath was intended), not using cheats, not using walkthroughs or online hints, etc.
 
+NUMTAG revdate
+Reviews that have been added/updated after the first public release of ZGDb. This tag is useful to find such reviews.
+
 GROUP metadata
 Information about development such as time and platforms. Platform is mostly what I played it on, but if I have played multiple ports, 
 or I associate the game with another platform than what I played them on, I would list multiple.
@@ -738,7 +741,8 @@ be gained, so that the game will always be challenging? Why collecting just 1 pi
 power immediately? Grinding may be considered especially bad in roguelikes played permadeath, where grinding feels especially bad if your character
 eventually dies despite all this "work". Anti-grind is an explicit
 part of the {Dungeon Crawl Stone Soup} design philosophy, which had huge influence on my game design (especially {HyperRogue}), as well as modern
-{roguelike} and {roguelite} design ({The Binding of Isaac} and its descendants probably take it from DCSS).
+{roguelike} and {roguelite} design ({The Binding of Isaac} and its descendants probably take it from DCSS), although newer roguelites reintroduce
+grind by focusing on {tag:metapower} and other forms of metaprogression instead.
 
 However, from the perspective of {CRPG philosophy}, grinding is not necessarily that bad: you are simply role-playing a character who is preparing
 themselves for the challenges ahead. (Therefore, "removing" it is not a desirable option.) In roguelikes, it could be argued that power gain may
